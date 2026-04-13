@@ -38,7 +38,7 @@ Output filenames are ASCII-only: accented characters are stripped (e.g. `Crème_
 
 ## Automation
 
-This repository includes a GitHub Actions workflow that runs the scraper on the **15th of every month** and commits the updated files automatically.
+This repository includes a GitHub Actions workflow that runs the scraper on the **15th of every month at 9:00 AM UTC** and commits the updated files automatically.
 
 You can also trigger it manually from the Actions tab → `Monthly RNM Scrape` → `Run workflow`.
 

@@ -2,8 +2,8 @@ name: Monthly RNM Scrape
 
 on:
   schedule:
-    # Runs at 08:00 UTC on the 15th of every month
-    - cron: "0 8 15 * *"
+    # Runs at 09:00 UTC on the 15th of every month
+    - cron: "0 9 15 * *"
   workflow_dispatch:
 
 permissions:
