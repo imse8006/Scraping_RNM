@@ -6,8 +6,8 @@ Scrapes monthly average price data from [RNM FranceAgriMer](https://rnm.franceag
 
 | Part | Source | Products | Output folder |
 |------|--------|----------|---------------|
-| 1 | 4 category pages (Fruits & Légumes, Pêche & Aquaculture, Beurre Oeuf Fromage, Viande) | ~300 | `output/produits/` |
-| 2 | [Restauration collective page](https://rnm.franceagrimer.fr/rnm/panier_restau_co.shtml) — Rungis markets only | 15 | `output/rungis/` |
+| 1 | 4 category pages (Fruits & Légumes, Pêche & Aquaculture, Beurre Oeuf Fromage, Viande) | ~300 | `output/RNM General/` |
+| 2 | [Restauration collective page](https://rnm.franceagrimer.fr/rnm/panier_restau_co.shtml) — Rungis markets only | 15 | `output/RNM Frozen/` |
 
 For each product, the script fetches the **12-month history** then downloads the **monthly averages** spreadsheet.
 

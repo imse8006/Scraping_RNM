@@ -321,8 +321,8 @@ def main():
 
     workers = args.workers
 
-    products_dir = os.path.join(args.output, "produits")
-    rungis_dir = os.path.join(args.output, "rungis")
+    products_dir = os.path.join(args.output, "RNM General")
+    rungis_dir = os.path.join(args.output, "RNM Frozen")
     os.makedirs(products_dir, exist_ok=True)
     os.makedirs(rungis_dir, exist_ok=True)
 
