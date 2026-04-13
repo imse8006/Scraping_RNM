@@ -1,0 +1,1014 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Citron - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Marché de producteurs"
+C;X2;Y5;K"Marché de Perpignan carreau : fruits et légumes"
+C;X3;Y5;K"CITRON Roussillon"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K2.50
+C;X6;Y5;K""
+C;X7;Y5;K""
+C;X8;Y5;K""
+C;X9;Y5;K""
+C;X10;Y5;K""
+C;X11;Y5;K""
+C;X12;Y5;K""
+C;X13;Y5;K""
+C;X14;Y5;K""
+C;X15;Y5;K""
+C;X16;Y5;K""
+C;X1;Y6;K"Import"
+C;X2;Y6;K"France : fruits et légumes bio - import"
+C;X3;Y6;K"CITRON Fino Espagne biologique cat.I"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K1.30
+C;X6;Y6;K""
+C;X7;Y6;K""
+C;X8;Y6;K""
+C;X9;Y6;K""
+C;X10;Y6;K""
+C;X11;Y6;K""
+C;X12;Y6;K""
+C;X13;Y6;K1.93
+C;X14;Y6;K""
+C;X15;Y6;K1.70
+C;X16;Y6;K1.72
+C;X1;Y7;K"Import"
+C;X2;Y7;K"France : fruits et légumes bio - import"
+C;X3;Y7;K"CITRON Primofiore Espagne biologique cat.I"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K""
+C;X6;Y7;K""
+C;X7;Y7;K""
+C;X8;Y7;K""
+C;X9;Y7;K""
+C;X10;Y7;K3.02
+C;X11;Y7;K2.38
+C;X12;Y7;K1.93
+C;X13;Y7;K1.61
+C;X14;Y7;K1.66
+C;X15;Y7;K1.65
+C;X16;Y7;K""
+C;X1;Y8;K"Import"
+C;X2;Y8;K"France : fruits et légumes bio - import"
+C;X3;Y8;K"CITRON Verdelli Espagne biologique 4(58-67mm)"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K""
+C;X6;Y8;K""
+C;X7;Y8;K""
+C;X8;Y8;K2.58
+C;X9;Y8;K2.58
+C;X10;Y8;K2.37
+C;X11;Y8;K2.02
+C;X12;Y8;K""
+C;X13;Y8;K""
+C;X14;Y8;K""
+C;X15;Y8;K""
+C;X16;Y8;K""
+C;X1;Y9;K"Import"
+C;X2;Y9;K"France : fruits et légumes bio - import"
+C;X3;Y9;K"CITRON Verna Espagne biologique cat.I"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K1.60
+C;X6;Y9;K1.60
+C;X7;Y9;K1.88
+C;X8;Y9;K2.08
+C;X9;Y9;K1.50
+C;X10;Y9;K""
+C;X11;Y9;K""
+C;X12;Y9;K""
+C;X13;Y9;K""
+C;X14;Y9;K""
+C;X15;Y9;K""
+C;X16;Y9;K""
+C;X1;Y10;K"Import"
+C;X2;Y10;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y10;K"CITRON Argentine cat.I 3-4 colis 6-7kg"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K""
+C;X6;Y10;K""
+C;X7;Y10;K""
+C;X8;Y10;K2.35
+C;X9;Y10;K2.47
+C;X10;Y10;K""
+C;X11;Y10;K""
+C;X12;Y10;K""
+C;X13;Y10;K""
+C;X14;Y10;K""
+C;X15;Y10;K""
+C;X16;Y10;K""
+C;X1;Y11;K"Import"
+C;X2;Y11;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y11;K"CITRON Primofiore Espagne cat.I 4(58-67mm)"
+C;X4;Y11;K"euro HT le kg"
+C;X5;Y11;K1.05
+C;X6;Y11;K""
+C;X7;Y11;K""
+C;X8;Y11;K""
+C;X9;Y11;K""
+C;X10;Y11;K""
+C;X11;Y11;K1.35
+C;X12;Y11;K1.32
+C;X13;Y11;K1.21
+C;X14;Y11;K1.35
+C;X15;Y11;K1.25
+C;X16;Y11;K1.32
+C;X1;Y12;K"Import"
+C;X2;Y12;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y12;K"CITRON Primofiore Espagne cat.I 5(53-62mm)"
+C;X4;Y12;K"euro HT le kg"
+C;X5;Y12;K1.00
+C;X6;Y12;K""
+C;X7;Y12;K""
+C;X8;Y12;K""
+C;X9;Y12;K""
+C;X10;Y12;K""
+C;X11;Y12;K1.15
+C;X12;Y12;K1.23
+C;X13;Y12;K1.13
+C;X14;Y12;K1.06
+C;X15;Y12;K1.12
+C;X16;Y12;K1.22
+C;X1;Y13;K"Import"
+C;X2;Y13;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y13;K"CITRON Primofiore haut de gamme Espagne cat.I 4(58-67mm)"
+C;X4;Y13;K"euro HT le kg"
+C;X5;Y13;K1.25
+C;X6;Y13;K""
+C;X7;Y13;K""
+C;X8;Y13;K""
+C;X9;Y13;K""
+C;X10;Y13;K""
+C;X11;Y13;K1.84
+C;X12;Y13;K1.71
+C;X13;Y13;K1.60
+C;X14;Y13;K1.65
+C;X15;Y13;K1.57
+C;X16;Y13;K1.59
+C;X1;Y14;K"Import"
+C;X2;Y14;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y14;K"CITRON Primofiore haut de gamme Espagne cat.I 5(53-62mm)"
+C;X4;Y14;K"euro HT le kg"
+C;X5;Y14;K""
+C;X6;Y14;K""
+C;X7;Y14;K""
+C;X8;Y14;K""
+C;X9;Y14;K""
+C;X10;Y14;K""
+C;X11;Y14;K1.70
+C;X12;Y14;K1.43
+C;X13;Y14;K1.29
+C;X14;Y14;K1.35
+C;X15;Y14;K1.37
+C;X16;Y14;K1.44
+C;X1;Y15;K"Import"
+C;X2;Y15;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y15;K"CITRON Verna Espagne cat.I 4(58-67mm)"
+C;X4;Y15;K"euro HT le kg"
+C;X5;Y15;K1.52
+C;X6;Y15;K1.47
+C;X7;Y15;K1.41
+C;X8;Y15;K1.42
+C;X9;Y15;K""
+C;X10;Y15;K""
+C;X11;Y15;K""
+C;X12;Y15;K""
+C;X13;Y15;K""
+C;X14;Y15;K""
+C;X15;Y15;K""
+C;X16;Y15;K""
+C;X1;Y16;K"Import"
+C;X2;Y16;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y16;K"CITRON Verna Espagne cat.I 5(53-62mm)"
+C;X4;Y16;K"euro HT le kg"
+C;X5;Y16;K1.44
+C;X6;Y16;K1.33
+C;X7;Y16;K1.35
+C;X8;Y16;K""
+C;X9;Y16;K""
+C;X10;Y16;K""
+C;X11;Y16;K""
+C;X12;Y16;K""
+C;X13;Y16;K""
+C;X14;Y16;K""
+C;X15;Y16;K""
+C;X16;Y16;K""
+C;X1;Y17;K"Import"
+C;X2;Y17;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y17;K"CITRON Verna haut de gamme Espagne cat.I 4(58-67mm)"
+C;X4;Y17;K"euro HT le kg"
+C;X5;Y17;K1.76
+C;X6;Y17;K1.74
+C;X7;Y17;K1.75
+C;X8;Y17;K1.79
+C;X9;Y17;K""
+C;X10;Y17;K""
+C;X11;Y17;K""
+C;X12;Y17;K""
+C;X13;Y17;K""
+C;X14;Y17;K""
+C;X15;Y17;K""
+C;X16;Y17;K""
+C;X1;Y18;K"Grossistes"
+C;X2;Y18;K"France : fruits et légumes bio - grossistes"
+C;X3;Y18;K"CITRON France biologique"
+C;X4;Y18;K"euro HT le kg"
+C;X5;Y18;K""
+C;X6;Y18;K""
+C;X7;Y18;K""
+C;X8;Y18;K""
+C;X9;Y18;K""
+C;X10;Y18;K""
+C;X11;Y18;K""
+C;X12;Y18;K""
+C;X13;Y18;K""
+C;X14;Y18;K4.78
+C;X15;Y18;K4.75
+C;X16;Y18;K4.70
+C;X1;Y19;K"Grossistes"
+C;X2;Y19;K"France : fruits et légumes bio - grossistes"
+C;X3;Y19;K"CITRON U.E. biologique"
+C;X4;Y19;K"euro HT le kg"
+C;X5;Y19;K1.78
+C;X6;Y19;K1.94
+C;X7;Y19;K2.19
+C;X8;Y19;K2.68
+C;X9;Y19;K2.92
+C;X10;Y19;K3.26
+C;X11;Y19;K2.98
+C;X12;Y19;K2.58
+C;X13;Y19;K2.25
+C;X14;Y19;K2.24
+C;X15;Y19;K2.19
+C;X16;Y19;K2.17
+C;X1;Y20;K"Grossistes"
+C;X2;Y20;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y20;K"CITRON Espagne cat.I 4(58-67mm)"
+C;X4;Y20;K"euro HT le kg"
+C;X5;Y20;K1.91
+C;X6;Y20;K2.26
+C;X7;Y20;K2.30
+C;X8;Y20;K2.45
+C;X9;Y20;K2.45
+C;X10;Y20;K2.50
+C;X11;Y20;K2.40
+C;X12;Y20;K2.08
+C;X13;Y20;K2.09
+C;X14;Y20;K2.12
+C;X15;Y20;K1.99
+C;X16;Y20;K2.12
+C;X1;Y21;K"Grossistes"
+C;X2;Y21;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y21;K"CITRON Import cat.I"
+C;X4;Y21;K"euro HT le kg"
+C;X5;Y21;K""
+C;X6;Y21;K""
+C;X7;Y21;K2.08
+C;X8;Y21;K2.08
+C;X9;Y21;K2.42
+C;X10;Y21;K2.70
+C;X11;Y21;K2.23
+C;X12;Y21;K""
+C;X13;Y21;K""
+C;X14;Y21;K""
+C;X15;Y21;K""
+C;X16;Y21;K""
+C;X1;Y22;K"Grossistes"
+C;X2;Y22;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y22;K"CITRON Afrique du sud cat.I 4(58-67mm) colis 6kg"
+C;X4;Y22;K"euro HT le kg"
+C;X5;Y22;K""
+C;X6;Y22;K""
+C;X7;Y22;K2.16
+C;X8;Y22;K2.44
+C;X9;Y22;K2.58
+C;X10;Y22;K2.38
+C;X11;Y22;K""
+C;X12;Y22;K""
+C;X13;Y22;K""
+C;X14;Y22;K""
+C;X15;Y22;K""
+C;X16;Y22;K""
+C;X1;Y23;K"Grossistes"
+C;X2;Y23;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y23;K"CITRON Afrique du sud cat.I colis de 113"
+C;X4;Y23;K"euro HT le kg"
+C;X5;Y23;K""
+C;X6;Y23;K1.98
+C;X7;Y23;K1.81
+C;X8;Y23;K2.13
+C;X9;Y23;K2.33
+C;X10;Y23;K2.13
+C;X11;Y23;K""
+C;X12;Y23;K""
+C;X13;Y23;K""
+C;X14;Y23;K""
+C;X15;Y23;K""
+C;X16;Y23;K""
+C;X1;Y24;K"Grossistes"
+C;X2;Y24;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y24;K"CITRON Afrique du sud cat.I colis de 138"
+C;X4;Y24;K"euro HT le kg"
+C;X5;Y24;K""
+C;X6;Y24;K""
+C;X7;Y24;K1.52
+C;X8;Y24;K2.06
+C;X9;Y24;K2.36
+C;X10;Y24;K2.00
+C;X11;Y24;K""
+C;X12;Y24;K""
+C;X13;Y24;K""
+C;X14;Y24;K""
+C;X15;Y24;K""
+C;X16;Y24;K""
+C;X1;Y25;K"Grossistes"
+C;X2;Y25;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y25;K"CITRON Argentine cat.I 4(58-67mm) colis 15kg"
+C;X4;Y25;K"euro HT le kg"
+C;X5;Y25;K""
+C;X6;Y25;K""
+C;X7;Y25;K""
+C;X8;Y25;K2.30
+C;X9;Y25;K2.29
+C;X10;Y25;K1.91
+C;X11;Y25;K""
+C;X12;Y25;K""
+C;X13;Y25;K""
+C;X14;Y25;K""
+C;X15;Y25;K""
+C;X16;Y25;K""
+C;X1;Y26;K"Grossistes"
+C;X2;Y26;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y26;K"CITRON Argentine cat.I 4(58-67mm) colis 6kg"
+C;X4;Y26;K"euro HT le kg"
+C;X5;Y26;K""
+C;X6;Y26;K""
+C;X7;Y26;K2.09
+C;X8;Y26;K2.43
+C;X9;Y26;K2.57
+C;X10;Y26;K2.19
+C;X11;Y26;K""
+C;X12;Y26;K""
+C;X13;Y26;K""
+C;X14;Y26;K""
+C;X15;Y26;K""
+C;X16;Y26;K""
+C;X1;Y27;K"Grossistes"
+C;X2;Y27;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y27;K"CITRON Espagne cat.I 4(58-67mm)"
+C;X4;Y27;K"euro HT le kg"
+C;X5;Y27;K1.52
+C;X6;Y27;K""
+C;X7;Y27;K""
+C;X8;Y27;K""
+C;X9;Y27;K""
+C;X10;Y27;K2.17
+C;X11;Y27;K2.18
+C;X12;Y27;K1.89
+C;X13;Y27;K1.78
+C;X14;Y27;K1.78
+C;X15;Y27;K1.73
+C;X16;Y27;K1.85
+C;X1;Y28;K"Grossistes"
+C;X2;Y28;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y28;K"CITRON Espagne cat.I 5(53-62mm)"
+C;X4;Y28;K"euro HT le kg"
+C;X5;Y28;K1.13
+C;X6;Y28;K""
+C;X7;Y28;K""
+C;X8;Y28;K""
+C;X9;Y28;K""
+C;X10;Y28;K""
+C;X11;Y28;K1.98
+C;X12;Y28;K1.69
+C;X13;Y28;K1.52
+C;X14;Y28;K1.50
+C;X15;Y28;K1.53
+C;X16;Y28;K1.58
+C;X1;Y29;K"Grossistes"
+C;X2;Y29;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y29;K"CITRON Espagne non traité cat.I 4(58-67mm)"
+C;X4;Y29;K"euro HT le kg"
+C;X5;Y29;K1.60
+C;X6;Y29;K""
+C;X7;Y29;K""
+C;X8;Y29;K""
+C;X9;Y29;K""
+C;X10;Y29;K""
+C;X11;Y29;K""
+C;X12;Y29;K""
+C;X13;Y29;K""
+C;X14;Y29;K""
+C;X15;Y29;K""
+C;X16;Y29;K""
+C;X1;Y30;K"Grossistes"
+C;X2;Y30;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y30;K"CITRON Verna Espagne cat.I 4(58-67mm)"
+C;X4;Y30;K"euro HT le kg"
+C;X5;Y30;K1.72
+C;X6;Y30;K1.90
+C;X7;Y30;K1.90
+C;X8;Y30;K1.77
+C;X9;Y30;K""
+C;X10;Y30;K""
+C;X11;Y30;K""
+C;X12;Y30;K""
+C;X13;Y30;K""
+C;X14;Y30;K""
+C;X15;Y30;K""
+C;X16;Y30;K""
+C;X1;Y31;K"Grossistes"
+C;X2;Y31;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y31;K"CITRON Verna Espagne cat.I 5(53-62mm)"
+C;X4;Y31;K"euro HT le kg"
+C;X5;Y31;K1.50
+C;X6;Y31;K1.50
+C;X7;Y31;K1.46
+C;X8;Y31;K1.50
+C;X9;Y31;K""
+C;X10;Y31;K""
+C;X11;Y31;K""
+C;X12;Y31;K""
+C;X13;Y31;K""
+C;X14;Y31;K""
+C;X15;Y31;K""
+C;X16;Y31;K""
+C;X1;Y32;K"Grossistes"
+C;X2;Y32;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y32;K"CITRON Espagne cat.I 4(58-67mm)"
+C;X4;Y32;K"euro HT le kg"
+C;X5;Y32;K1.89
+C;X6;Y32;K2.15
+C;X7;Y32;K2.29
+C;X8;Y32;K""
+C;X9;Y32;K""
+C;X10;Y32;K""
+C;X11;Y32;K2.57
+C;X12;Y32;K2.41
+C;X13;Y32;K2.23
+C;X14;Y32;K2.24
+C;X15;Y32;K2.12
+C;X16;Y32;K2.11
+C;X1;Y33;K"Grossistes"
+C;X2;Y33;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y33;K"CITRON jaune Import cat.I 4(58-67mm) colis 6kg"
+C;X4;Y33;K"euro HT le kg"
+C;X5;Y33;K""
+C;X6;Y33;K""
+C;X7;Y33;K""
+C;X8;Y33;K2.43
+C;X9;Y33;K2.83
+C;X10;Y33;K2.81
+C;X11;Y33;K2.49
+C;X12;Y33;K2.45
+C;X13;Y33;K""
+C;X14;Y33;K""
+C;X15;Y33;K""
+C;X16;Y33;K""
+C;X1;Y34;K"Grossistes"
+C;X2;Y34;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y34;K"CITRON vert Import cat.I"
+C;X4;Y34;K"euro HT le kg"
+C;X5;Y34;K2.96
+C;X6;Y34;K2.81
+C;X7;Y34;K2.89
+C;X8;Y34;K3.42
+C;X9;Y34;K3.36
+C;X10;Y34;K2.96
+C;X11;Y34;K2.83
+C;X12;Y34;K2.91
+C;X13;Y34;K2.93
+C;X14;Y34;K3.39
+C;X15;Y34;K3.98
+C;X16;Y34;K4.15
+C;X1;Y35;K"Grossistes"
+C;X2;Y35;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y35;K"CITRON Argentine cat.I 4(58-67mm)"
+C;X4;Y35;K"euro HT le kg"
+C;X5;Y35;K""
+C;X6;Y35;K""
+C;X7;Y35;K2.60
+C;X8;Y35;K2.61
+C;X9;Y35;K2.72
+C;X10;Y35;K2.49
+C;X11;Y35;K2.15
+C;X12;Y35;K""
+C;X13;Y35;K""
+C;X14;Y35;K""
+C;X15;Y35;K""
+C;X16;Y35;K""
+C;X1;Y36;K"Grossistes"
+C;X2;Y36;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y36;K"CITRON Espagne cat.I 4(58-67mm)"
+C;X4;Y36;K"euro HT le kg"
+C;X5;Y36;K1.83
+C;X6;Y36;K2.15
+C;X7;Y36;K2.20
+C;X8;Y36;K2.03
+C;X9;Y36;K2.50
+C;X10;Y36;K2.40
+C;X11;Y36;K2.47
+C;X12;Y36;K2.22
+C;X13;Y36;K2.07
+C;X14;Y36;K2.05
+C;X15;Y36;K2.03
+C;X16;Y36;K2.11
+C;X1;Y37;K"Grossistes"
+C;X2;Y37;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y37;K"CITRON jaune Afrique du sud cat.I tout-calibre caisse"
+C;X4;Y37;K"euro HT le kg"
+C;X5;Y37;K""
+C;X6;Y37;K""
+C;X7;Y37;K""
+C;X8;Y37;K2.75
+C;X9;Y37;K2.83
+C;X10;Y37;K2.74
+C;X11;Y37;K2.50
+C;X12;Y37;K""
+C;X13;Y37;K""
+C;X14;Y37;K""
+C;X15;Y37;K""
+C;X16;Y37;K""
+C;X1;Y38;K"Grossistes"
+C;X2;Y38;K"MIN de Marseille : fruits et légumes"
+C;X3;Y38;K"CITRON Afrique du sud cat.I 4(58-67mm) colis 6kg"
+C;X4;Y38;K"euro HT le kg"
+C;X5;Y38;K""
+C;X6;Y38;K""
+C;X7;Y38;K""
+C;X8;Y38;K""
+C;X9;Y38;K2.55
+C;X10;Y38;K2.40
+C;X11;Y38;K2.00
+C;X12;Y38;K""
+C;X13;Y38;K""
+C;X14;Y38;K""
+C;X15;Y38;K""
+C;X16;Y38;K""
+C;X1;Y39;K"Grossistes"
+C;X2;Y39;K"MIN de Marseille : fruits et légumes"
+C;X3;Y39;K"CITRON Argentine cat.I 4(58-67mm) colis 15kg"
+C;X4;Y39;K"euro HT le kg"
+C;X5;Y39;K""
+C;X6;Y39;K""
+C;X7;Y39;K""
+C;X8;Y39;K2.12
+C;X9;Y39;K2.47
+C;X10;Y39;K1.88
+C;X11;Y39;K""
+C;X12;Y39;K""
+C;X13;Y39;K""
+C;X14;Y39;K""
+C;X15;Y39;K""
+C;X16;Y39;K""
+C;X1;Y40;K"Grossistes"
+C;X2;Y40;K"MIN de Marseille : fruits et légumes"
+C;X3;Y40;K"CITRON Argentine cat.I 4(58-67mm) colis 6kg"
+C;X4;Y40;K"euro HT le kg"
+C;X5;Y40;K""
+C;X6;Y40;K""
+C;X7;Y40;K1.93
+C;X8;Y40;K""
+C;X9;Y40;K""
+C;X10;Y40;K""
+C;X11;Y40;K""
+C;X12;Y40;K""
+C;X13;Y40;K""
+C;X14;Y40;K""
+C;X15;Y40;K""
+C;X16;Y40;K""
+C;X1;Y41;K"Grossistes"
+C;X2;Y41;K"MIN de Marseille : fruits et légumes"
+C;X3;Y41;K"CITRON Espagne cat.I 4(58-67mm)"
+C;X4;Y41;K"euro HT le kg"
+C;X5;Y41;K1.59
+C;X6;Y41;K1.82
+C;X7;Y41;K1.81
+C;X8;Y41;K1.79
+C;X9;Y41;K""
+C;X10;Y41;K1.80
+C;X11;Y41;K1.88
+C;X12;Y41;K1.80
+C;X13;Y41;K1.77
+C;X14;Y41;K1.70
+C;X15;Y41;K1.67
+C;X16;Y41;K1.76
+C;X1;Y42;K"Grossistes"
+C;X2;Y42;K"MIN de Nantes : fruits et légumes"
+C;X3;Y42;K"CITRON Argentine cat.I 4(58-67mm)"
+C;X4;Y42;K"euro HT le kg"
+C;X5;Y42;K""
+C;X6;Y42;K""
+C;X7;Y42;K""
+C;X8;Y42;K2.70
+C;X9;Y42;K2.70
+C;X10;Y42;K2.70
+C;X11;Y42;K""
+C;X12;Y42;K""
+C;X13;Y42;K""
+C;X14;Y42;K""
+C;X15;Y42;K""
+C;X16;Y42;K""
+C;X1;Y43;K"Grossistes"
+C;X2;Y43;K"MIN de Nantes : fruits et légumes"
+C;X3;Y43;K"CITRON Espagne cat.I 4(58-67mm)"
+C;X4;Y43;K"euro HT le kg"
+C;X5;Y43;K2.02
+C;X6;Y43;K2.23
+C;X7;Y43;K2.31
+C;X8;Y43;K2.52
+C;X9;Y43;K""
+C;X10;Y43;K2.00
+C;X11;Y43;K2.49
+C;X12;Y43;K2.28
+C;X13;Y43;K2.28
+C;X14;Y43;K2.34
+C;X15;Y43;K2.35
+C;X16;Y43;K2.20
+C;X1;Y44;K"Grossistes"
+C;X2;Y44;K"MIN de Nantes : fruits et légumes"
+C;X3;Y44;K"CITRON Espagne cat.I 5(53-62mm)"
+C;X4;Y44;K"euro HT le kg"
+C;X5;Y44;K1.44
+C;X6;Y44;K1.40
+C;X7;Y44;K""
+C;X8;Y44;K""
+C;X9;Y44;K""
+C;X10;Y44;K""
+C;X11;Y44;K""
+C;X12;Y44;K""
+C;X13;Y44;K""
+C;X14;Y44;K""
+C;X15;Y44;K""
+C;X16;Y44;K""
+C;X1;Y45;K"Grossistes"
+C;X2;Y45;K"MIN de Nantes : fruits et légumes"
+C;X3;Y45;K"CITRON RSA cat.I 4(58-67mm)"
+C;X4;Y45;K"euro HT le kg"
+C;X5;Y45;K""
+C;X6;Y45;K""
+C;X7;Y45;K2.60
+C;X8;Y45;K2.86
+C;X9;Y45;K2.96
+C;X10;Y45;K2.90
+C;X11;Y45;K2.90
+C;X12;Y45;K""
+C;X13;Y45;K""
+C;X14;Y45;K""
+C;X15;Y45;K""
+C;X16;Y45;K""
+C;X1;Y46;K"Grossistes"
+C;X2;Y46;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y46;K"CITRON France biologique"
+C;X4;Y46;K"euro HT le kg"
+C;X5;Y46;K""
+C;X6;Y46;K""
+C;X7;Y46;K""
+C;X8;Y46;K""
+C;X9;Y46;K""
+C;X10;Y46;K""
+C;X11;Y46;K""
+C;X12;Y46;K""
+C;X13;Y46;K""
+C;X14;Y46;K4.80
+C;X15;Y46;K5.00
+C;X16;Y46;K4.88
+C;X1;Y47;K"Grossistes"
+C;X2;Y47;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y47;K"CITRON U.E. biologique"
+C;X4;Y47;K"euro HT le kg"
+C;X5;Y47;K1.76
+C;X6;Y47;K2.01
+C;X7;Y47;K2.22
+C;X8;Y47;K2.64
+C;X9;Y47;K2.86
+C;X10;Y47;K3.21
+C;X11;Y47;K3.00
+C;X12;Y47;K2.50
+C;X13;Y47;K2.27
+C;X14;Y47;K2.28
+C;X15;Y47;K2.33
+C;X16;Y47;K2.21
+C;X1;Y48;K"Grossistes"
+C;X2;Y48;K"MIN de Nice : fruits et légumes"
+C;X3;Y48;K"CITRON jaune Import cat.I 4(58-67mm) cagette"
+C;X4;Y48;K"euro HT le kg"
+C;X5;Y48;K""
+C;X6;Y48;K""
+C;X7;Y48;K""
+C;X8;Y48;K2.51
+C;X9;Y48;K2.75
+C;X10;Y48;K2.95
+C;X11;Y48;K2.55
+C;X12;Y48;K""
+C;X13;Y48;K""
+C;X14;Y48;K""
+C;X15;Y48;K""
+C;X16;Y48;K""
+C;X1;Y49;K"Grossistes"
+C;X2;Y49;K"MIN de Nice : fruits et légumes"
+C;X3;Y49;K"CITRON jaune U.E. cat.I 4(58-67mm) cagette"
+C;X4;Y49;K"euro HT le kg"
+C;X5;Y49;K1.91
+C;X6;Y49;K2.08
+C;X7;Y49;K2.25
+C;X8;Y49;K""
+C;X9;Y49;K""
+C;X10;Y49;K""
+C;X11;Y49;K2.76
+C;X12;Y49;K2.48
+C;X13;Y49;K2.37
+C;X14;Y49;K2.10
+C;X15;Y49;K2.15
+C;X16;Y49;K2.21
+C;X1;Y50;K"Grossistes"
+C;X2;Y50;K"MIN de Rungis : fruits et légumes"
+C;X3;Y50;K"CITRON Afrique du sud cat.I 3(63-72mm)"
+C;X4;Y50;K"euro HT le kg"
+C;X5;Y50;K""
+C;X6;Y50;K""
+C;X7;Y50;K2.00
+C;X8;Y50;K2.20
+C;X9;Y50;K2.48
+C;X10;Y50;K2.32
+C;X11;Y50;K2.37
+C;X12;Y50;K""
+C;X13;Y50;K""
+C;X14;Y50;K""
+C;X15;Y50;K""
+C;X16;Y50;K""
+C;X1;Y51;K"Grossistes"
+C;X2;Y51;K"MIN de Rungis : fruits et légumes"
+C;X3;Y51;K"CITRON Argentine cat.I 3(63-72mm)"
+C;X4;Y51;K"euro HT le kg"
+C;X5;Y51;K""
+C;X6;Y51;K""
+C;X7;Y51;K""
+C;X8;Y51;K2.62
+C;X9;Y51;K2.44
+C;X10;Y51;K2.40
+C;X11;Y51;K""
+C;X12;Y51;K""
+C;X13;Y51;K""
+C;X14;Y51;K""
+C;X15;Y51;K""
+C;X16;Y51;K""
+C;X1;Y52;K"Grossistes"
+C;X2;Y52;K"MIN de Rungis : fruits et légumes"
+C;X3;Y52;K"CITRON Espagne cat.I 4(58-67mm)"
+C;X4;Y52;K"euro HT le kg"
+C;X5;Y52;K1.80
+C;X6;Y52;K1.80
+C;X7;Y52;K""
+C;X8;Y52;K""
+C;X9;Y52;K""
+C;X10;Y52;K2.10
+C;X11;Y52;K2.23
+C;X12;Y52;K1.99
+C;X13;Y52;K1.76
+C;X14;Y52;K1.80
+C;X15;Y52;K1.73
+C;X16;Y52;K1.80
+C;X1;Y53;K"Grossistes"
+C;X2;Y53;K"MIN de Rungis : fruits et légumes"
+C;X3;Y53;K"CITRON Espagne extra 4(58-67mm)"
+C;X4;Y53;K"euro HT le kg"
+C;X5;Y53;K2.20
+C;X6;Y53;K2.20
+C;X7;Y53;K""
+C;X8;Y53;K""
+C;X9;Y53;K""
+C;X10;Y53;K""
+C;X11;Y53;K2.40
+C;X12;Y53;K2.28
+C;X13;Y53;K2.18
+C;X14;Y53;K2.22
+C;X15;Y53;K2.21
+C;X16;Y53;K2.33
+C;X1;Y54;K"Grossistes"
+C;X2;Y54;K"MIN de Rungis : fruits et légumes"
+C;X3;Y54;K"CITRON Verna Espagne cat.I 4(58-67mm)"
+C;X4;Y54;K"euro HT le kg"
+C;X5;Y54;K2.00
+C;X6;Y54;K2.00
+C;X7;Y54;K2.00
+C;X8;Y54;K""
+C;X9;Y54;K""
+C;X10;Y54;K""
+C;X11;Y54;K""
+C;X12;Y54;K""
+C;X13;Y54;K""
+C;X14;Y54;K""
+C;X15;Y54;K""
+C;X16;Y54;K""
+C;X1;Y55;K"Grossistes"
+C;X2;Y55;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y55;K"CITRON France biologique"
+C;X4;Y55;K"euro HT le kg"
+C;X5;Y55;K""
+C;X6;Y55;K""
+C;X7;Y55;K""
+C;X8;Y55;K""
+C;X9;Y55;K""
+C;X10;Y55;K""
+C;X11;Y55;K""
+C;X12;Y55;K""
+C;X13;Y55;K""
+C;X14;Y55;K4.61
+C;X15;Y55;K4.54
+C;X16;Y55;K4.31
+C;X1;Y56;K"Grossistes"
+C;X2;Y56;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y56;K"CITRON U.E. biologique"
+C;X4;Y56;K"euro HT le kg"
+C;X5;Y56;K1.57
+C;X6;Y56;K1.68
+C;X7;Y56;K1.99
+C;X8;Y56;K2.42
+C;X9;Y56;K2.61
+C;X10;Y56;K3.00
+C;X11;Y56;K2.77
+C;X12;Y56;K2.34
+C;X13;Y56;K2.01
+C;X14;Y56;K2.00
+C;X15;Y56;K1.96
+C;X16;Y56;K1.85
+C;X1;Y57;K"Grossistes"
+C;X2;Y57;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y57;K"CITRON Afrique du sud cat.I"
+C;X4;Y57;K"euro HT le kg"
+C;X5;Y57;K""
+C;X6;Y57;K""
+C;X7;Y57;K""
+C;X8;Y57;K2.80
+C;X9;Y57;K2.74
+C;X10;Y57;K2.58
+C;X11;Y57;K2.48
+C;X12;Y57;K2.05
+C;X13;Y57;K""
+C;X14;Y57;K""
+C;X15;Y57;K""
+C;X16;Y57;K""
+C;X1;Y58;K"Grossistes"
+C;X2;Y58;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y58;K"CITRON Espagne cat.I 4(58-67mm)"
+C;X4;Y58;K"euro HT le kg"
+C;X5;Y58;K1.72
+C;X6;Y58;K2.10
+C;X7;Y58;K2.11
+C;X8;Y58;K2.34
+C;X9;Y58;K""
+C;X10;Y58;K1.90
+C;X11;Y58;K2.14
+C;X12;Y58;K2.03
+C;X13;Y58;K2.16
+C;X14;Y58;K2.04
+C;X15;Y58;K2.08
+C;X16;Y58;K2.10
+C;X1;Y59;K"Grossistes"
+C;X2;Y59;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y59;K"CITRON vert Import cat.I"
+C;X4;Y59;K"euro HT le kg"
+C;X5;Y59;K3.31
+C;X6;Y59;K3.40
+C;X7;Y59;K3.42
+C;X8;Y59;K3.38
+C;X9;Y59;K3.39
+C;X10;Y59;K3.04
+C;X11;Y59;K3.21
+C;X12;Y59;K3.36
+C;X13;Y59;K3.23
+C;X14;Y59;K4.06
+C;X15;Y59;K4.34
+C;X16;Y59;K3.81
+C;X1;Y60;K"Grossistes"
+C;X2;Y60;K"MIN de Strasbourg : fruits et légumes bio"
+C;X3;Y60;K"CITRON U.E. biologique"
+C;X4;Y60;K"euro HT le kg"
+C;X5;Y60;K1.82
+C;X6;Y60;K2.00
+C;X7;Y60;K2.25
+C;X8;Y60;K2.50
+C;X9;Y60;K2.73
+C;X10;Y60;K2.95
+C;X11;Y60;K2.81
+C;X12;Y60;K2.57
+C;X13;Y60;K2.23
+C;X14;Y60;K2.36
+C;X15;Y60;K2.30
+C;X16;Y60;K2.34
+C;X1;Y61;K"Grossistes"
+C;X2;Y61;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y61;K"CITRON Afrique du sud cat.I 4(58-67mm)"
+C;X4;Y61;K"euro HT le kg"
+C;X5;Y61;K""
+C;X6;Y61;K""
+C;X7;Y61;K""
+C;X8;Y61;K2.29
+C;X9;Y61;K2.41
+C;X10;Y61;K2.40
+C;X11;Y61;K""
+C;X12;Y61;K""
+C;X13;Y61;K""
+C;X14;Y61;K""
+C;X15;Y61;K""
+C;X16;Y61;K""
+C;X1;Y62;K"Grossistes"
+C;X2;Y62;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y62;K"CITRON Espagne cat.I 4(58-67mm)"
+C;X4;Y62;K"euro HT le kg"
+C;X5;Y62;K1.54
+C;X6;Y62;K1.76
+C;X7;Y62;K1.83
+C;X8;Y62;K""
+C;X9;Y62;K""
+C;X10;Y62;K""
+C;X11;Y62;K1.92
+C;X12;Y62;K1.96
+C;X13;Y62;K1.69
+C;X14;Y62;K1.61
+C;X15;Y62;K1.75
+C;X16;Y62;K1.65
+C;X1;Y63;K"Grossistes"
+C;X2;Y63;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y63;K"CITRON Espagne non traité cat.I 4(58-67mm)"
+C;X4;Y63;K"euro HT le kg"
+C;X5;Y63;K1.83
+C;X6;Y63;K1.88
+C;X7;Y63;K1.98
+C;X8;Y63;K1.90
+C;X9;Y63;K""
+C;X10;Y63;K""
+C;X11;Y63;K2.65
+C;X12;Y63;K2.25
+C;X13;Y63;K1.82
+C;X14;Y63;K1.82
+C;X15;Y63;K1.80
+C;X16;Y63;K1.90
+C;X1;Y64;K"Détail"
+C;X2;Y64;K"Fruits France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y64;K"CITRON U.E. biologique"
+C;X4;Y64;K"euro TTC le kg"
+C;X5;Y64;K2.83
+C;X6;Y64;K2.88
+C;X7;Y64;K3.15
+C;X8;Y64;K3.52
+C;X9;Y64;K3.83
+C;X10;Y64;K4.05
+C;X11;Y64;K4.19
+C;X12;Y64;K3.88
+C;X13;Y64;K3.51
+C;X14;Y64;K3.46
+C;X15;Y64;K3.19
+C;X16;Y64;K3.25
+F;SM6;X1;Y67
+C;K"Source : RNM.FranceAgriMer.fr"
+E

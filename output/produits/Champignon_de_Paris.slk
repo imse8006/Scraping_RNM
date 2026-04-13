@@ -1,0 +1,358 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Champignon de Paris - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Grossistes"
+C;X2;Y5;K"France : fruits et légumes bio - grossistes"
+C;X3;Y5;K"CHAMPIGNON DE PARIS France biologique"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K8.13
+C;X6;Y5;K8.16
+C;X7;Y5;K8.14
+C;X8;Y5;K8.17
+C;X9;Y5;K8.19
+C;X10;Y5;K8.16
+C;X11;Y5;K8.08
+C;X12;Y5;K8.08
+C;X13;Y5;K8.07
+C;X14;Y5;K8.10
+C;X15;Y5;K8.08
+C;X16;Y5;K8.08
+C;X1;Y6;K"Grossistes"
+C;X2;Y6;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y6;K"CHAMPIGNON DE PARIS Pays-Bas pied coupé cat.I plateau"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K3.18
+C;X6;Y6;K3.14
+C;X7;Y6;K3.12
+C;X8;Y6;K3.20
+C;X9;Y6;K3.15
+C;X10;Y6;K3.19
+C;X11;Y6;K3.16
+C;X12;Y6;K3.03
+C;X13;Y6;K3.17
+C;X14;Y6;K3.19
+C;X15;Y6;K3.13
+C;X16;Y6;K3.15
+C;X1;Y7;K"Grossistes"
+C;X2;Y7;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y7;K"CHAMPIGNON DE PARIS Pologne pied coupé cat.I plateau"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K2.95
+C;X6;Y7;K2.90
+C;X7;Y7;K2.90
+C;X8;Y7;K2.90
+C;X9;Y7;K2.90
+C;X10;Y7;K2.90
+C;X11;Y7;K2.89
+C;X12;Y7;K2.90
+C;X13;Y7;K2.92
+C;X14;Y7;K2.90
+C;X15;Y7;K2.90
+C;X16;Y7;K2.92
+C;X1;Y8;K"Grossistes"
+C;X2;Y8;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y8;K"CHAMPIGNON DE PARIS Europe de l'est cat.I gros plateau 2kg"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K3.64
+C;X6;Y8;K3.59
+C;X7;Y8;K3.59
+C;X8;Y8;K3.63
+C;X9;Y8;K3.69
+C;X10;Y8;K3.70
+C;X11;Y8;K3.70
+C;X12;Y8;K3.74
+C;X13;Y8;K3.68
+C;X14;Y8;K3.74
+C;X15;Y8;K3.76
+C;X16;Y8;K3.71
+C;X1;Y9;K"Grossistes"
+C;X2;Y9;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y9;K"CHAMPIGNON DE PARIS France cat.I moyen panier 3kg"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K""
+C;X6;Y9;K""
+C;X7;Y9;K""
+C;X8;Y9;K""
+C;X9;Y9;K""
+C;X10;Y9;K""
+C;X11;Y9;K4.30
+C;X12;Y9;K4.38
+C;X13;Y9;K4.30
+C;X14;Y9;K4.43
+C;X15;Y9;K""
+C;X16;Y9;K""
+C;X1;Y10;K"Grossistes"
+C;X2;Y10;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y10;K"CHAMPIGNON DE PARIS France gros plateau"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K3.75
+C;X6;Y10;K3.78
+C;X7;Y10;K3.90
+C;X8;Y10;K3.90
+C;X9;Y10;K3.90
+C;X10;Y10;K3.90
+C;X11;Y10;K3.90
+C;X12;Y10;K3.90
+C;X13;Y10;K3.90
+C;X14;Y10;K3.90
+C;X15;Y10;K3.90
+C;X16;Y10;K3.90
+C;X1;Y11;K"Grossistes"
+C;X2;Y11;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y11;K"CHAMPIGNON DE PARIS France pied coupé cat.I plateau"
+C;X4;Y11;K"euro HT le kg"
+C;X5;Y11;K3.75
+C;X6;Y11;K3.78
+C;X7;Y11;K3.90
+C;X8;Y11;K3.90
+C;X9;Y11;K3.90
+C;X10;Y11;K3.90
+C;X11;Y11;K3.90
+C;X12;Y11;K3.90
+C;X13;Y11;K3.90
+C;X14;Y11;K3.90
+C;X15;Y11;K3.90
+C;X16;Y11;K3.90
+C;X1;Y12;K"Grossistes"
+C;X2;Y12;K"MIN de Marseille : fruits et légumes"
+C;X3;Y12;K"CHAMPIGNON DE PARIS Import cat.I gros"
+C;X4;Y12;K"euro HT le kg"
+C;X5;Y12;K3.14
+C;X6;Y12;K3.20
+C;X7;Y12;K3.20
+C;X8;Y12;K3.20
+C;X9;Y12;K3.19
+C;X10;Y12;K3.20
+C;X11;Y12;K3.20
+C;X12;Y12;K3.20
+C;X13;Y12;K3.20
+C;X14;Y12;K3.20
+C;X15;Y12;K3.20
+C;X16;Y12;K3.20
+C;X1;Y13;K"Grossistes"
+C;X2;Y13;K"MIN de Nantes : fruits et légumes"
+C;X3;Y13;K"CHAMPIGNON DE PARIS France pied coupé extra plateau"
+C;X4;Y13;K"euro HT le kg"
+C;X5;Y13;K4.20
+C;X6;Y13;K4.20
+C;X7;Y13;K4.20
+C;X8;Y13;K4.20
+C;X9;Y13;K4.17
+C;X10;Y13;K4.00
+C;X11;Y13;K3.96
+C;X12;Y13;K4.00
+C;X13;Y13;K4.10
+C;X14;Y13;K4.20
+C;X15;Y13;K4.00
+C;X16;Y13;K3.95
+C;X1;Y14;K"Grossistes"
+C;X2;Y14;K"MIN de Nantes : fruits et légumes"
+C;X3;Y14;K"CHAMPIGNON DE PARIS Pologne pied coupé cat.I plateau"
+C;X4;Y14;K"euro HT le kg"
+C;X5;Y14;K3.20
+C;X6;Y14;K3.20
+C;X7;Y14;K3.20
+C;X8;Y14;K3.20
+C;X9;Y14;K3.20
+C;X10;Y14;K3.20
+C;X11;Y14;K3.20
+C;X12;Y14;K3.16
+C;X13;Y14;K3.12
+C;X14;Y14;K3.17
+C;X15;Y14;K3.10
+C;X16;Y14;K3.11
+C;X1;Y15;K"Grossistes"
+C;X2;Y15;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y15;K"CHAMPIGNON DE PARIS France biologique"
+C;X4;Y15;K"euro HT le kg"
+C;X5;Y15;K8.34
+C;X6;Y15;K8.33
+C;X7;Y15;K8.30
+C;X8;Y15;K8.37
+C;X9;Y15;K8.38
+C;X10;Y15;K8.28
+C;X11;Y15;K8.15
+C;X12;Y15;K7.98
+C;X13;Y15;K8.05
+C;X14;Y15;K8.14
+C;X15;Y15;K8.05
+C;X16;Y15;K8.06
+C;X1;Y16;K"Grossistes"
+C;X2;Y16;K"MIN de Nice : fruits et légumes"
+C;X3;Y16;K"CHAMPIGNON DE PARIS U.E. pied coupé cat.I gros panier 3kg"
+C;X4;Y16;K"euro HT le kg"
+C;X5;Y16;K3.55
+C;X6;Y16;K3.55
+C;X7;Y16;K3.55
+C;X8;Y16;K3.55
+C;X9;Y16;K3.55
+C;X10;Y16;K3.55
+C;X11;Y16;K3.55
+C;X12;Y16;K3.55
+C;X13;Y16;K3.55
+C;X14;Y16;K3.55
+C;X15;Y16;K3.55
+C;X16;Y16;K3.55
+C;X1;Y17;K"Grossistes"
+C;X2;Y17;K"MIN de Nice : fruits et légumes"
+C;X3;Y17;K"CHAMPIGNON DE PARIS U.E. pied coupé cat.I moyen panier 3kg"
+C;X4;Y17;K"euro HT le kg"
+C;X5;Y17;K3.35
+C;X6;Y17;K3.35
+C;X7;Y17;K3.35
+C;X8;Y17;K3.35
+C;X9;Y17;K3.35
+C;X10;Y17;K3.35
+C;X11;Y17;K3.35
+C;X12;Y17;K3.35
+C;X13;Y17;K3.35
+C;X14;Y17;K3.35
+C;X15;Y17;K3.35
+C;X16;Y17;K3.35
+C;X1;Y18;K"Grossistes"
+C;X2;Y18;K"MIN de Rungis : fruits et légumes"
+C;X3;Y18;K"CHAMPIGNON DE PARIS France pied entier cat.I plateau"
+C;X4;Y18;K"euro HT le kg"
+C;X5;Y18;K3.60
+C;X6;Y18;K3.60
+C;X7;Y18;K3.60
+C;X8;Y18;K3.60
+C;X9;Y18;K3.60
+C;X10;Y18;K3.65
+C;X11;Y18;K3.71
+C;X12;Y18;K3.52
+C;X13;Y18;K3.89
+C;X14;Y18;K3.90
+C;X15;Y18;K3.90
+C;X16;Y18;K3.81
+C;X1;Y19;K"Grossistes"
+C;X2;Y19;K"MIN de Rungis : fruits et légumes"
+C;X3;Y19;K"CHAMPIGNON DE PARIS Pologne pied coupé cat.I plateau"
+C;X4;Y19;K"euro HT le kg"
+C;X5;Y19;K3.00
+C;X6;Y19;K3.00
+C;X7;Y19;K3.00
+C;X8;Y19;K3.00
+C;X9;Y19;K2.93
+C;X10;Y19;K3.29
+C;X11;Y19;K3.30
+C;X12;Y19;K3.30
+C;X13;Y19;K2.83
+C;X14;Y19;K2.80
+C;X15;Y19;K2.89
+C;X16;Y19;K3.25
+C;X1;Y20;K"Grossistes"
+C;X2;Y20;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y20;K"CHAMPIGNON DE PARIS France biologique"
+C;X4;Y20;K"euro HT le kg"
+C;X5;Y20;K7.87
+C;X6;Y20;K7.90
+C;X7;Y20;K7.88
+C;X8;Y20;K7.91
+C;X9;Y20;K7.93
+C;X10;Y20;K7.91
+C;X11;Y20;K7.82
+C;X12;Y20;K7.88
+C;X13;Y20;K7.97
+C;X14;Y20;K7.97
+C;X15;Y20;K7.97
+C;X16;Y20;K7.90
+C;X1;Y21;K"Grossistes"
+C;X2;Y21;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y21;K"CHAMPIGNON DE PARIS Pologne cat.I"
+C;X4;Y21;K"euro HT le kg"
+C;X5;Y21;K3.53
+C;X6;Y21;K3.50
+C;X7;Y21;K3.48
+C;X8;Y21;K3.45
+C;X9;Y21;K3.45
+C;X10;Y21;K3.45
+C;X11;Y21;K3.45
+C;X12;Y21;K3.45
+C;X13;Y21;K3.45
+C;X14;Y21;K3.45
+C;X15;Y21;K3.45
+C;X16;Y21;K3.45
+C;X1;Y22;K"Grossistes"
+C;X2;Y22;K"MIN de Strasbourg : fruits et légumes bio"
+C;X3;Y22;K"CHAMPIGNON DE PARIS France biologique"
+C;X4;Y22;K"euro HT le kg"
+C;X5;Y22;K""
+C;X6;Y22;K""
+C;X7;Y22;K7.89
+C;X8;Y22;K""
+C;X9;Y22;K""
+C;X10;Y22;K""
+C;X11;Y22;K""
+C;X12;Y22;K""
+C;X13;Y22;K""
+C;X14;Y22;K""
+C;X15;Y22;K""
+C;X16;Y22;K""
+C;X1;Y23;K"Détail"
+C;X2;Y23;K"Légumes France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y23;K"CHAMPIGNON DE PARIS France biologique"
+C;X4;Y23;K"euro TTC le kg"
+C;X5;Y23;K12.52
+C;X6;Y23;K12.56
+C;X7;Y23;K12.66
+C;X8;Y23;K12.71
+C;X9;Y23;K12.80
+C;X10;Y23;K12.52
+C;X11;Y23;K12.58
+C;X12;Y23;K12.59
+C;X13;Y23;K12.45
+C;X14;Y23;K12.69
+C;X15;Y23;K12.76
+C;X16;Y23;K12.74
+F;SM6;X1;Y26
+C;K"Source : RNM.FranceAgriMer.fr"
+E

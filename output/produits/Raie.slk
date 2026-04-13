@@ -1,0 +1,118 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Raie - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Grossistes"
+C;X2;Y5;K"MIN de Rungis : marée"
+C;X3;Y5;K"RAIE (aile) avec peau grosse France"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K8.25
+C;X6;Y5;K9.23
+C;X7;Y5;K9.45
+C;X8;Y5;K7.45
+C;X9;Y5;K7.68
+C;X10;Y5;K9.66
+C;X11;Y5;K9.59
+C;X12;Y5;K9.07
+C;X13;Y5;K10.36
+C;X14;Y5;K10.90
+C;X15;Y5;K13.70
+C;X16;Y5;K12.55
+C;X1;Y6;K"Grossistes"
+C;X2;Y6;K"MIN de Rungis : marée"
+C;X3;Y6;K"RAIE (aile) avec peau moyenne Import"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K7.47
+C;X6;Y6;K7.36
+C;X7;Y6;K7.06
+C;X8;Y6;K5.61
+C;X9;Y6;K6.30
+C;X10;Y6;K7.58
+C;X11;Y6;K8.15
+C;X12;Y6;K8.00
+C;X13;Y6;K9.36
+C;X14;Y6;K10.00
+C;X15;Y6;K11.20
+C;X16;Y6;K10.86
+C;X1;Y7;K"Grossistes"
+C;X2;Y7;K"MIN de Rungis : marée"
+C;X3;Y7;K"RAIE (aile) pelée grosse France"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K8.49
+C;X6;Y7;K8.23
+C;X7;Y7;K8.16
+C;X8;Y7;K7.33
+C;X9;Y7;K7.49
+C;X10;Y7;K8.99
+C;X11;Y7;K9.11
+C;X12;Y7;K8.72
+C;X13;Y7;K10.27
+C;X14;Y7;K10.24
+C;X15;Y7;K12.85
+C;X16;Y7;K10.86
+C;X1;Y8;K"Grossistes"
+C;X2;Y8;K"MIN de Rungis : marée"
+C;X3;Y8;K"RAIE (aile) pelée moyenne Import"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K7.49
+C;X6;Y8;K7.30
+C;X7;Y8;K6.90
+C;X8;Y8;K5.45
+C;X9;Y8;K5.96
+C;X10;Y8;K7.02
+C;X11;Y8;K7.65
+C;X12;Y8;K7.50
+C;X13;Y8;K8.52
+C;X14;Y8;K8.62
+C;X15;Y8;K10.95
+C;X16;Y8;K9.83
+F;SM6;X1;Y11
+C;K"Source : RNM.FranceAgriMer.fr"
+E

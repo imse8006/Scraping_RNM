@@ -1,0 +1,1046 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Framboise - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Marché de producteurs"
+C;X2;Y5;K"Marché de Lyon-Corbas carreau : fruits et légumes"
+C;X3;Y5;K"FRAMBOISE Rhône-Alpes barq.125g"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K20.00
+C;X6;Y5;K19.73
+C;X7;Y5;K17.60
+C;X8;Y5;K15.52
+C;X9;Y5;K17.00
+C;X10;Y5;K16.35
+C;X11;Y5;K16.27
+C;X12;Y5;K19.31
+C;X13;Y5;K20.00
+C;X14;Y5;K""
+C;X15;Y5;K""
+C;X16;Y5;K""
+C;X1;Y6;K"Marché de producteurs"
+C;X2;Y6;K"Marché de Lyon-Corbas carreau : fruits et légumes"
+C;X3;Y6;K"FRAMBOISE Rhône-Alpes barq.250g"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K14.00
+C;X6;Y6;K13.98
+C;X7;Y6;K13.47
+C;X8;Y6;K13.04
+C;X9;Y6;K13.65
+C;X10;Y6;K13.22
+C;X11;Y6;K13.42
+C;X12;Y6;K14.00
+C;X13;Y6;K14.00
+C;X14;Y6;K""
+C;X15;Y6;K""
+C;X16;Y6;K""
+C;X1;Y7;K"Marché de producteurs"
+C;X2;Y7;K"Marché de Perpignan carreau : fruits et légumes"
+C;X3;Y7;K"FRAMBOISE Roussillon"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K""
+C;X6;Y7;K""
+C;X7;Y7;K20.00
+C;X8;Y7;K20.00
+C;X9;Y7;K20.00
+C;X10;Y7;K20.00
+C;X11;Y7;K20.00
+C;X12;Y7;K20.00
+C;X13;Y7;K20.00
+C;X14;Y7;K20.00
+C;X15;Y7;K""
+C;X16;Y7;K""
+C;X1;Y8;K"Expédition"
+C;X2;Y8;K"Bassin Auvergne Rhône-Alpes : framboise, prune"
+C;X3;Y8;K"FRAMBOISE Rhône-Alpes barq.125g"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K""
+C;X6;Y8;K15.20
+C;X7;Y8;K14.05
+C;X8;Y8;K13.11
+C;X9;Y8;K13.93
+C;X10;Y8;K15.44
+C;X11;Y8;K15.75
+C;X12;Y8;K""
+C;X13;Y8;K""
+C;X14;Y8;K""
+C;X15;Y8;K""
+C;X16;Y8;K""
+C;X1;Y9;K"Expédition"
+C;X2;Y9;K"Bassin Grand Est : fruits et légumes"
+C;X3;Y9;K"FRAMBOISE Grand-Est barq.125g"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K""
+C;X6;Y9;K""
+C;X7;Y9;K13.24
+C;X8;Y9;K12.82
+C;X9;Y9;K""
+C;X10;Y9;K""
+C;X11;Y9;K""
+C;X12;Y9;K""
+C;X13;Y9;K""
+C;X14;Y9;K""
+C;X15;Y9;K""
+C;X16;Y9;K""
+C;X1;Y10;K"Expédition"
+C;X2;Y10;K"Bassin Sud-Ouest : framboise"
+C;X3;Y10;K"FRAMBOISE gros fruits Sud-Ouest sous-abri barq.125g"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K""
+C;X6;Y10;K14.00
+C;X7;Y10;K13.40
+C;X8;Y10;K14.32
+C;X9;Y10;K16.40
+C;X10;Y10;K18.00
+C;X11;Y10;K16.20
+C;X12;Y10;K""
+C;X13;Y10;K""
+C;X14;Y10;K""
+C;X15;Y10;K""
+C;X16;Y10;K""
+C;X1;Y11;K"Expédition"
+C;X2;Y11;K"Bassin Sud-Ouest : framboise"
+C;X3;Y11;K"FRAMBOISE standard Sud-Ouest sous-abri barq.125g"
+C;X4;Y11;K"euro HT le kg"
+C;X5;Y11;K""
+C;X6;Y11;K""
+C;X7;Y11;K12.70
+C;X8;Y11;K13.20
+C;X9;Y11;K13.50
+C;X10;Y11;K15.20
+C;X11;Y11;K14.60
+C;X12;Y11;K""
+C;X13;Y11;K""
+C;X14;Y11;K""
+C;X15;Y11;K""
+C;X16;Y11;K""
+C;X1;Y12;K"Import"
+C;X2;Y12;K"France : fruits et légumes bio - import"
+C;X3;Y12;K"FRAMBOISE Espagne biologique barq.125g"
+C;X4;Y12;K"euro HT le kg"
+C;X5;Y12;K17.19
+C;X6;Y12;K14.68
+C;X7;Y12;K13.90
+C;X8;Y12;K""
+C;X9;Y12;K""
+C;X10;Y12;K18.00
+C;X11;Y12;K""
+C;X12;Y12;K17.25
+C;X13;Y12;K18.93
+C;X14;Y12;K""
+C;X15;Y12;K20.00
+C;X16;Y12;K20.20
+C;X1;Y13;K"Import"
+C;X2;Y13;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y13;K"FRAMBOISE Espagne cat.I barq.125g"
+C;X4;Y13;K"euro HT le kg"
+C;X5;Y13;K9.45
+C;X6;Y13;K""
+C;X7;Y13;K""
+C;X8;Y13;K""
+C;X9;Y13;K""
+C;X10;Y13;K""
+C;X11;Y13;K10.90
+C;X12;Y13;K12.26
+C;X13;Y13;K10.33
+C;X14;Y13;K""
+C;X15;Y13;K16.33
+C;X16;Y13;K""
+C;X1;Y14;K"Import"
+C;X2;Y14;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y14;K"FRAMBOISE Maroc cat.I barq.250g"
+C;X4;Y14;K"euro HT le kg"
+C;X5;Y14;K""
+C;X6;Y14;K""
+C;X7;Y14;K""
+C;X8;Y14;K""
+C;X9;Y14;K""
+C;X10;Y14;K""
+C;X11;Y14;K""
+C;X12;Y14;K13.20
+C;X13;Y14;K""
+C;X14;Y14;K""
+C;X15;Y14;K""
+C;X16;Y14;K""
+C;X1;Y15;K"Grossistes"
+C;X2;Y15;K"France : fruits et légumes bio - grossistes"
+C;X3;Y15;K"FRAMBOISE France biologique barq.125g"
+C;X4;Y15;K"euro HT le kg"
+C;X5;Y15;K""
+C;X6;Y15;K27.08
+C;X7;Y15;K27.98
+C;X8;Y15;K26.18
+C;X9;Y15;K25.03
+C;X10;Y15;K23.14
+C;X11;Y15;K""
+C;X12;Y15;K""
+C;X13;Y15;K""
+C;X14;Y15;K""
+C;X15;Y15;K""
+C;X16;Y15;K""
+C;X1;Y16;K"Grossistes"
+C;X2;Y16;K"France : fruits et légumes bio - grossistes"
+C;X3;Y16;K"FRAMBOISE U.E. biologique barq.125g"
+C;X4;Y16;K"euro HT le kg"
+C;X5;Y16;K21.33
+C;X6;Y16;K18.88
+C;X7;Y16;K18.71
+C;X8;Y16;K16.70
+C;X9;Y16;K""
+C;X10;Y16;K""
+C;X11;Y16;K""
+C;X12;Y16;K""
+C;X13;Y16;K""
+C;X14;Y16;K""
+C;X15;Y16;K""
+C;X16;Y16;K25.25
+C;X1;Y17;K"Grossistes"
+C;X2;Y17;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y17;K"FRAMBOISE France barq.125g"
+C;X4;Y17;K"euro HT le kg"
+C;X5;Y17;K""
+C;X6;Y17;K21.20
+C;X7;Y17;K19.04
+C;X8;Y17;K18.65
+C;X9;Y17;K18.50
+C;X10;Y17;K""
+C;X11;Y17;K21.60
+C;X12;Y17;K""
+C;X13;Y17;K""
+C;X14;Y17;K""
+C;X15;Y17;K""
+C;X16;Y17;K""
+C;X1;Y18;K"Grossistes"
+C;X2;Y18;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y18;K"FRAMBOISE Import barq.125g"
+C;X4;Y18;K"euro HT le kg"
+C;X5;Y18;K23.00
+C;X6;Y18;K""
+C;X7;Y18;K""
+C;X8;Y18;K""
+C;X9;Y18;K""
+C;X10;Y18;K""
+C;X11;Y18;K""
+C;X12;Y18;K""
+C;X13;Y18;K15.75
+C;X14;Y18;K20.04
+C;X15;Y18;K24.12
+C;X16;Y18;K28.50
+C;X1;Y19;K"Grossistes"
+C;X2;Y19;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y19;K"FRAMBOISE U.E. barq.125g"
+C;X4;Y19;K"euro HT le kg"
+C;X5;Y19;K15.90
+C;X6;Y19;K15.24
+C;X7;Y19;K14.00
+C;X8;Y19;K13.00
+C;X9;Y19;K18.80
+C;X10;Y19;K23.33
+C;X11;Y19;K18.20
+C;X12;Y19;K20.44
+C;X13;Y19;K17.00
+C;X14;Y19;K""
+C;X15;Y19;K""
+C;X16;Y19;K28.87
+C;X1;Y20;K"Grossistes"
+C;X2;Y20;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y20;K"FRAMBOISE Belgique barq.125g"
+C;X4;Y20;K"euro HT le kg"
+C;X5;Y20;K""
+C;X6;Y20;K""
+C;X7;Y20;K""
+C;X8;Y20;K""
+C;X9;Y20;K14.53
+C;X10;Y20;K""
+C;X11;Y20;K""
+C;X12;Y20;K""
+C;X13;Y20;K""
+C;X14;Y20;K""
+C;X15;Y20;K""
+C;X16;Y20;K""
+C;X1;Y21;K"Grossistes"
+C;X2;Y21;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y21;K"FRAMBOISE Espagne barq.125g fermée"
+C;X4;Y21;K"euro HT le kg"
+C;X5;Y21;K12.34
+C;X6;Y21;K9.31
+C;X7;Y21;K""
+C;X8;Y21;K""
+C;X9;Y21;K""
+C;X10;Y21;K17.07
+C;X11;Y21;K14.40
+C;X12;Y21;K""
+C;X13;Y21;K""
+C;X14;Y21;K""
+C;X15;Y21;K""
+C;X16;Y21;K15.20
+C;X1;Y22;K"Grossistes"
+C;X2;Y22;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y22;K"FRAMBOISE Espagne barq.125g ouverte"
+C;X4;Y22;K"euro HT le kg"
+C;X5;Y22;K15.05
+C;X6;Y22;K11.71
+C;X7;Y22;K""
+C;X8;Y22;K""
+C;X9;Y22;K""
+C;X10;Y22;K""
+C;X11;Y22;K""
+C;X12;Y22;K""
+C;X13;Y22;K""
+C;X14;Y22;K""
+C;X15;Y22;K""
+C;X16;Y22;K23.00
+C;X1;Y23;K"Grossistes"
+C;X2;Y23;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y23;K"FRAMBOISE France barq.125g"
+C;X4;Y23;K"euro HT le kg"
+C;X5;Y23;K""
+C;X6;Y23;K17.60
+C;X7;Y23;K16.24
+C;X8;Y23;K15.92
+C;X9;Y23;K18.24
+C;X10;Y23;K22.96
+C;X11;Y23;K""
+C;X12;Y23;K""
+C;X13;Y23;K""
+C;X14;Y23;K""
+C;X15;Y23;K""
+C;X16;Y23;K""
+C;X1;Y24;K"Grossistes"
+C;X2;Y24;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y24;K"FRAMBOISE France barq.125g fermée"
+C;X4;Y24;K"euro HT le kg"
+C;X5;Y24;K""
+C;X6;Y24;K""
+C;X7;Y24;K""
+C;X8;Y24;K14.40
+C;X9;Y24;K15.60
+C;X10;Y24;K""
+C;X11;Y24;K""
+C;X12;Y24;K""
+C;X13;Y24;K""
+C;X14;Y24;K""
+C;X15;Y24;K""
+C;X16;Y24;K""
+C;X1;Y25;K"Grossistes"
+C;X2;Y25;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y25;K"FRAMBOISE France barq.125g ouverte"
+C;X4;Y25;K"euro HT le kg"
+C;X5;Y25;K""
+C;X6;Y25;K""
+C;X7;Y25;K""
+C;X8;Y25;K17.20
+C;X9;Y25;K18.60
+C;X10;Y25;K""
+C;X11;Y25;K""
+C;X12;Y25;K""
+C;X13;Y25;K""
+C;X14;Y25;K""
+C;X15;Y25;K""
+C;X16;Y25;K""
+C;X1;Y26;K"Grossistes"
+C;X2;Y26;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y26;K"FRAMBOISE Maroc barq.125g"
+C;X4;Y26;K"euro HT le kg"
+C;X5;Y26;K12.27
+C;X6;Y26;K10.03
+C;X7;Y26;K""
+C;X8;Y26;K""
+C;X9;Y26;K""
+C;X10;Y26;K18.20
+C;X11;Y26;K13.35
+C;X12;Y26;K15.24
+C;X13;Y26;K12.76
+C;X14;Y26;K14.40
+C;X15;Y26;K19.64
+C;X16;Y26;K22.47
+C;X1;Y27;K"Grossistes"
+C;X2;Y27;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y27;K"FRAMBOISE Portugal barq.125g"
+C;X4;Y27;K"euro HT le kg"
+C;X5;Y27;K13.88
+C;X6;Y27;K11.83
+C;X7;Y27;K12.90
+C;X8;Y27;K11.16
+C;X9;Y27;K14.28
+C;X10;Y27;K20.07
+C;X11;Y27;K14.96
+C;X12;Y27;K16.46
+C;X13;Y27;K13.64
+C;X14;Y27;K16.00
+C;X15;Y27;K""
+C;X16;Y27;K""
+C;X1;Y28;K"Grossistes"
+C;X2;Y28;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y28;K"FRAMBOISE Espagne barq.125g"
+C;X4;Y28;K"euro HT les 125g"
+C;X5;Y28;K""
+C;X6;Y28;K2.08
+C;X7;Y28;K2.04
+C;X8;Y28;K2.40
+C;X9;Y28;K""
+C;X10;Y28;K""
+C;X11;Y28;K""
+C;X12;Y28;K""
+C;X13;Y28;K""
+C;X14;Y28;K""
+C;X15;Y28;K""
+C;X16;Y28;K""
+C;X1;Y29;K"Grossistes"
+C;X2;Y29;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y29;K"FRAMBOISE France barq.125g"
+C;X4;Y29;K"euro HT les 125g"
+C;X5;Y29;K""
+C;X6;Y29;K2.73
+C;X7;Y29;K2.74
+C;X8;Y29;K2.80
+C;X9;Y29;K2.79
+C;X10;Y29;K2.90
+C;X11;Y29;K""
+C;X12;Y29;K""
+C;X13;Y29;K""
+C;X14;Y29;K""
+C;X15;Y29;K""
+C;X16;Y29;K""
+C;X1;Y30;K"Grossistes"
+C;X2;Y30;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y30;K"FRAMBOISE standard Import barq.125g"
+C;X4;Y30;K"euro HT les 125g"
+C;X5;Y30;K2.83
+C;X6;Y30;K2.35
+C;X7;Y30;K""
+C;X8;Y30;K""
+C;X9;Y30;K""
+C;X10;Y30;K3.35
+C;X11;Y30;K3.15
+C;X12;Y30;K2.86
+C;X13;Y30;K3.03
+C;X14;Y30;K2.85
+C;X15;Y30;K3.41
+C;X16;Y30;K3.60
+C;X1;Y31;K"Grossistes"
+C;X2;Y31;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y31;K"FRAMBOISE France barq.125g"
+C;X4;Y31;K"euro HT le kg"
+C;X5;Y31;K""
+C;X6;Y31;K20.40
+C;X7;Y31;K18.65
+C;X8;Y31;K18.09
+C;X9;Y31;K19.66
+C;X10;Y31;K21.73
+C;X11;Y31;K20.89
+C;X12;Y31;K20.63
+C;X13;Y31;K21.60
+C;X14;Y31;K""
+C;X15;Y31;K""
+C;X16;Y31;K""
+C;X1;Y32;K"Grossistes"
+C;X2;Y32;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y32;K"FRAMBOISE standard Import barq.125g"
+C;X4;Y32;K"euro HT le kg"
+C;X5;Y32;K18.00
+C;X6;Y32;K""
+C;X7;Y32;K""
+C;X8;Y32;K""
+C;X9;Y32;K""
+C;X10;Y32;K""
+C;X11;Y32;K""
+C;X12;Y32;K""
+C;X13;Y32;K""
+C;X14;Y32;K""
+C;X15;Y32;K""
+C;X16;Y32;K""
+C;X1;Y33;K"Grossistes"
+C;X2;Y33;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y33;K"FRAMBOISE U.E. barq.125g"
+C;X4;Y33;K"euro HT les 125g"
+C;X5;Y33;K""
+C;X6;Y33;K""
+C;X7;Y33;K""
+C;X8;Y33;K""
+C;X9;Y33;K""
+C;X10;Y33;K""
+C;X11;Y33;K""
+C;X12;Y33;K""
+C;X13;Y33;K""
+C;X14;Y33;K""
+C;X15;Y33;K3.33
+C;X16;Y33;K3.49
+C;X1;Y34;K"Grossistes"
+C;X2;Y34;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y34;K"FRAMBOISE U.E. barq.125g"
+C;X4;Y34;K"euro HT le kg"
+C;X5;Y34;K22.13
+C;X6;Y34;K17.00
+C;X7;Y34;K12.80
+C;X8;Y34;K""
+C;X9;Y34;K""
+C;X10;Y34;K""
+C;X11;Y34;K20.40
+C;X12;Y34;K""
+C;X13;Y34;K""
+C;X14;Y34;K""
+C;X15;Y34;K""
+C;X16;Y34;K""
+C;X1;Y35;K"Grossistes"
+C;X2;Y35;K"MIN de Marseille : fruits et légumes"
+C;X3;Y35;K"FRAMBOISE France barq.125g"
+C;X4;Y35;K"euro HT le kg"
+C;X5;Y35;K""
+C;X6;Y35;K""
+C;X7;Y35;K19.09
+C;X8;Y35;K17.60
+C;X9;Y35;K""
+C;X10;Y35;K""
+C;X11;Y35;K""
+C;X12;Y35;K""
+C;X13;Y35;K""
+C;X14;Y35;K""
+C;X15;Y35;K""
+C;X16;Y35;K""
+C;X1;Y36;K"Grossistes"
+C;X2;Y36;K"MIN de Marseille : fruits et légumes"
+C;X3;Y36;K"FRAMBOISE Maroc barq.125g"
+C;X4;Y36;K"euro HT le kg"
+C;X5;Y36;K""
+C;X6;Y36;K""
+C;X7;Y36;K""
+C;X8;Y36;K""
+C;X9;Y36;K""
+C;X10;Y36;K""
+C;X11;Y36;K""
+C;X12;Y36;K""
+C;X13;Y36;K19.50
+C;X14;Y36;K16.80
+C;X15;Y36;K""
+C;X16;Y36;K""
+C;X1;Y37;K"Grossistes"
+C;X2;Y37;K"MIN de Marseille : fruits et légumes"
+C;X3;Y37;K"FRAMBOISE standard U.E. barq.125g"
+C;X4;Y37;K"euro HT le kg"
+C;X5;Y37;K18.18
+C;X6;Y37;K14.97
+C;X7;Y37;K15.90
+C;X8;Y37;K15.44
+C;X9;Y37;K17.65
+C;X10;Y37;K21.89
+C;X11;Y37;K19.49
+C;X12;Y37;K19.60
+C;X13;Y37;K20.00
+C;X14;Y37;K20.35
+C;X15;Y37;K23.20
+C;X16;Y37;K25.42
+C;X1;Y38;K"Grossistes"
+C;X2;Y38;K"MIN de Nantes : fruits et légumes"
+C;X3;Y38;K"FRAMBOISE Espagne barq.125g"
+C;X4;Y38;K"euro HT le kg"
+C;X5;Y38;K20.29
+C;X6;Y38;K15.51
+C;X7;Y38;K16.42
+C;X8;Y38;K15.16
+C;X9;Y38;K""
+C;X10;Y38;K""
+C;X11;Y38;K16.00
+C;X12;Y38;K22.51
+C;X13;Y38;K20.32
+C;X14;Y38;K21.35
+C;X15;Y38;K25.10
+C;X16;Y38;K28.22
+C;X1;Y39;K"Grossistes"
+C;X2;Y39;K"MIN de Nantes : fruits et légumes"
+C;X3;Y39;K"FRAMBOISE France barq.125g"
+C;X4;Y39;K"euro HT le kg"
+C;X5;Y39;K""
+C;X6;Y39;K22.00
+C;X7;Y39;K21.62
+C;X8;Y39;K19.64
+C;X9;Y39;K18.86
+C;X10;Y39;K23.29
+C;X11;Y39;K""
+C;X12;Y39;K""
+C;X13;Y39;K""
+C;X14;Y39;K""
+C;X15;Y39;K""
+C;X16;Y39;K40.00
+C;X1;Y40;K"Grossistes"
+C;X2;Y40;K"MIN de Nantes : fruits et légumes"
+C;X3;Y40;K"FRAMBOISE Maroc barq.125g"
+C;X4;Y40;K"euro HT le kg"
+C;X5;Y40;K26.00
+C;X6;Y40;K""
+C;X7;Y40;K""
+C;X8;Y40;K""
+C;X9;Y40;K""
+C;X10;Y40;K""
+C;X11;Y40;K""
+C;X12;Y40;K22.40
+C;X13;Y40;K19.29
+C;X14;Y40;K20.00
+C;X15;Y40;K24.80
+C;X16;Y40;K27.48
+C;X1;Y41;K"Grossistes"
+C;X2;Y41;K"MIN de Nantes : fruits et légumes"
+C;X3;Y41;K"FRAMBOISE Portugal barq.125g"
+C;X4;Y41;K"euro HT le kg"
+C;X5;Y41;K16.00
+C;X6;Y41;K15.60
+C;X7;Y41;K16.42
+C;X8;Y41;K15.16
+C;X9;Y41;K20.00
+C;X10;Y41;K22.02
+C;X11;Y41;K20.44
+C;X12;Y41;K20.84
+C;X13;Y41;K20.23
+C;X14;Y41;K16.00
+C;X15;Y41;K""
+C;X16;Y41;K""
+C;X1;Y42;K"Grossistes"
+C;X2;Y42;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y42;K"FRAMBOISE France biologique barq.125g"
+C;X4;Y42;K"euro HT le kg"
+C;X5;Y42;K""
+C;X6;Y42;K28.61
+C;X7;Y42;K28.69
+C;X8;Y42;K26.38
+C;X9;Y42;K25.96
+C;X10;Y42;K""
+C;X11;Y42;K""
+C;X12;Y42;K""
+C;X13;Y42;K""
+C;X14;Y42;K""
+C;X15;Y42;K""
+C;X16;Y42;K""
+C;X1;Y43;K"Grossistes"
+C;X2;Y43;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y43;K"FRAMBOISE U.E. biologique barq.125g"
+C;X4;Y43;K"euro HT le kg"
+C;X5;Y43;K22.76
+C;X6;Y43;K19.81
+C;X7;Y43;K19.14
+C;X8;Y43;K""
+C;X9;Y43;K""
+C;X10;Y43;K""
+C;X11;Y43;K""
+C;X12;Y43;K""
+C;X13;Y43;K""
+C;X14;Y43;K""
+C;X15;Y43;K""
+C;X16;Y43;K""
+C;X1;Y44;K"Grossistes"
+C;X2;Y44;K"MIN de Nice : fruits et légumes"
+C;X3;Y44;K"FRAMBOISE standard France barq.125g"
+C;X4;Y44;K"euro HT le kg"
+C;X5;Y44;K""
+C;X6;Y44;K21.50
+C;X7;Y44;K22.57
+C;X8;Y44;K22.85
+C;X9;Y44;K24.80
+C;X10;Y44;K25.33
+C;X11;Y44;K""
+C;X12;Y44;K""
+C;X13;Y44;K""
+C;X14;Y44;K""
+C;X15;Y44;K""
+C;X16;Y44;K""
+C;X1;Y45;K"Grossistes"
+C;X2;Y45;K"MIN de Nice : fruits et légumes"
+C;X3;Y45;K"FRAMBOISE standard Import barq.125g"
+C;X4;Y45;K"euro HT les 125g"
+C;X5;Y45;K""
+C;X6;Y45;K""
+C;X7;Y45;K""
+C;X8;Y45;K""
+C;X9;Y45;K""
+C;X10;Y45;K""
+C;X11;Y45;K""
+C;X12;Y45;K""
+C;X13;Y45;K""
+C;X14;Y45;K""
+C;X15;Y45;K3.35
+C;X16;Y45;K3.55
+C;X1;Y46;K"Grossistes"
+C;X2;Y46;K"MIN de Nice : fruits et légumes"
+C;X3;Y46;K"FRAMBOISE standard Import barq.125g"
+C;X4;Y46;K"euro HT le kg"
+C;X5;Y46;K21.76
+C;X6;Y46;K17.26
+C;X7;Y46;K17.41
+C;X8;Y46;K18.57
+C;X9;Y46;K20.80
+C;X10;Y46;K22.90
+C;X11;Y46;K22.63
+C;X12;Y46;K21.12
+C;X13;Y46;K22.27
+C;X14;Y46;K23.61
+C;X15;Y46;K25.30
+C;X16;Y46;K""
+C;X1;Y47;K"Grossistes"
+C;X2;Y47;K"MIN de Rungis : fruits et légumes"
+C;X3;Y47;K"FRAMBOISE Belgique barq.150g"
+C;X4;Y47;K"euro HT le kg"
+C;X5;Y47;K""
+C;X6;Y47;K""
+C;X7;Y47;K15.52
+C;X8;Y47;K14.00
+C;X9;Y47;K16.34
+C;X10;Y47;K17.60
+C;X11;Y47;K17.16
+C;X12;Y47;K16.00
+C;X13;Y47;K""
+C;X14;Y47;K""
+C;X15;Y47;K""
+C;X16;Y47;K""
+C;X1;Y48;K"Grossistes"
+C;X2;Y48;K"MIN de Rungis : fruits et légumes"
+C;X3;Y48;K"FRAMBOISE Espagne barq.125g"
+C;X4;Y48;K"euro HT le kg"
+C;X5;Y48;K""
+C;X6;Y48;K""
+C;X7;Y48;K""
+C;X8;Y48;K""
+C;X9;Y48;K""
+C;X10;Y48;K""
+C;X11;Y48;K""
+C;X12;Y48;K18.56
+C;X13;Y48;K15.77
+C;X14;Y48;K18.68
+C;X15;Y48;K23.88
+C;X16;Y48;K24.71
+C;X1;Y49;K"Grossistes"
+C;X2;Y49;K"MIN de Rungis : fruits et légumes"
+C;X3;Y49;K"FRAMBOISE Espagne barq.125g ouverte"
+C;X4;Y49;K"euro HT le kg"
+C;X5;Y49;K16.20
+C;X6;Y49;K""
+C;X7;Y49;K""
+C;X8;Y49;K""
+C;X9;Y49;K""
+C;X10;Y49;K""
+C;X11;Y49;K""
+C;X12;Y49;K""
+C;X13;Y49;K""
+C;X14;Y49;K""
+C;X15;Y49;K""
+C;X16;Y49;K""
+C;X1;Y50;K"Grossistes"
+C;X2;Y50;K"MIN de Rungis : fruits et légumes"
+C;X3;Y50;K"FRAMBOISE France barq.125g ouverte"
+C;X4;Y50;K"euro HT le kg"
+C;X5;Y50;K18.78
+C;X6;Y50;K20.76
+C;X7;Y50;K18.92
+C;X8;Y50;K16.33
+C;X9;Y50;K17.64
+C;X10;Y50;K21.71
+C;X11;Y50;K20.28
+C;X12;Y50;K21.76
+C;X13;Y50;K""
+C;X14;Y50;K""
+C;X15;Y50;K""
+C;X16;Y50;K""
+C;X1;Y51;K"Grossistes"
+C;X2;Y51;K"MIN de Rungis : fruits et légumes"
+C;X3;Y51;K"FRAMBOISE Maroc barq.125g"
+C;X4;Y51;K"euro HT le kg"
+C;X5;Y51;K""
+C;X6;Y51;K""
+C;X7;Y51;K""
+C;X8;Y51;K""
+C;X9;Y51;K""
+C;X10;Y51;K""
+C;X11;Y51;K9.79
+C;X12;Y51;K16.29
+C;X13;Y51;K15.89
+C;X14;Y51;K17.70
+C;X15;Y51;K23.52
+C;X16;Y51;K25.05
+C;X1;Y52;K"Grossistes"
+C;X2;Y52;K"MIN de Rungis : fruits et légumes"
+C;X3;Y52;K"FRAMBOISE Maroc barq.125g fermée"
+C;X4;Y52;K"euro HT le kg"
+C;X5;Y52;K13.33
+C;X6;Y52;K9.80
+C;X7;Y52;K""
+C;X8;Y52;K""
+C;X9;Y52;K""
+C;X10;Y52;K""
+C;X11;Y52;K""
+C;X12;Y52;K""
+C;X13;Y52;K""
+C;X14;Y52;K""
+C;X15;Y52;K""
+C;X16;Y52;K""
+C;X1;Y53;K"Grossistes"
+C;X2;Y53;K"MIN de Rungis : fruits et légumes"
+C;X3;Y53;K"FRAMBOISE Maroc barq.125g ouverte"
+C;X4;Y53;K"euro HT le kg"
+C;X5;Y53;K16.30
+C;X6;Y53;K13.30
+C;X7;Y53;K""
+C;X8;Y53;K""
+C;X9;Y53;K""
+C;X10;Y53;K""
+C;X11;Y53;K""
+C;X12;Y53;K""
+C;X13;Y53;K""
+C;X14;Y53;K""
+C;X15;Y53;K""
+C;X16;Y53;K""
+C;X1;Y54;K"Grossistes"
+C;X2;Y54;K"MIN de Rungis : fruits et légumes"
+C;X3;Y54;K"FRAMBOISE Portugal barq.125g"
+C;X4;Y54;K"euro HT le kg"
+C;X5;Y54;K""
+C;X6;Y54;K""
+C;X7;Y54;K""
+C;X8;Y54;K""
+C;X9;Y54;K""
+C;X10;Y54;K21.16
+C;X11;Y54;K16.47
+C;X12;Y54;K19.37
+C;X13;Y54;K16.58
+C;X14;Y54;K18.48
+C;X15;Y54;K23.52
+C;X16;Y54;K26.22
+C;X1;Y55;K"Grossistes"
+C;X2;Y55;K"MIN de Rungis : fruits et légumes"
+C;X3;Y55;K"FRAMBOISE Portugal barq.125g fermée"
+C;X4;Y55;K"euro HT le kg"
+C;X5;Y55;K13.64
+C;X6;Y55;K12.63
+C;X7;Y55;K11.04
+C;X8;Y55;K12.21
+C;X9;Y55;K""
+C;X10;Y55;K""
+C;X11;Y55;K""
+C;X12;Y55;K""
+C;X13;Y55;K""
+C;X14;Y55;K""
+C;X15;Y55;K""
+C;X16;Y55;K""
+C;X1;Y56;K"Grossistes"
+C;X2;Y56;K"MIN de Rungis : fruits et légumes"
+C;X3;Y56;K"FRAMBOISE Portugal barq.125g ouverte"
+C;X4;Y56;K"euro HT le kg"
+C;X5;Y56;K16.44
+C;X6;Y56;K14.99
+C;X7;Y56;K14.24
+C;X8;Y56;K13.37
+C;X9;Y56;K""
+C;X10;Y56;K""
+C;X11;Y56;K""
+C;X12;Y56;K""
+C;X13;Y56;K""
+C;X14;Y56;K""
+C;X15;Y56;K""
+C;X16;Y56;K""
+C;X1;Y57;K"Grossistes"
+C;X2;Y57;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y57;K"FRAMBOISE France biologique barq.125g"
+C;X4;Y57;K"euro HT le kg"
+C;X5;Y57;K""
+C;X6;Y57;K24.65
+C;X7;Y57;K27.16
+C;X8;Y57;K25.56
+C;X9;Y57;K23.14
+C;X10;Y57;K22.92
+C;X11;Y57;K""
+C;X12;Y57;K""
+C;X13;Y57;K""
+C;X14;Y57;K""
+C;X15;Y57;K""
+C;X16;Y57;K""
+C;X1;Y58;K"Grossistes"
+C;X2;Y58;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y58;K"FRAMBOISE U.E. biologique barq.125g"
+C;X4;Y58;K"euro HT le kg"
+C;X5;Y58;K21.25
+C;X6;Y58;K18.85
+C;X7;Y58;K19.23
+C;X8;Y58;K17.02
+C;X9;Y58;K""
+C;X10;Y58;K""
+C;X11;Y58;K""
+C;X12;Y58;K""
+C;X13;Y58;K""
+C;X14;Y58;K""
+C;X15;Y58;K""
+C;X16;Y58;K24.93
+C;X1;Y59;K"Grossistes"
+C;X2;Y59;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y59;K"FRAMBOISE France barq.125g"
+C;X4;Y59;K"euro HT le kg"
+C;X5;Y59;K""
+C;X6;Y59;K23.20
+C;X7;Y59;K21.70
+C;X8;Y59;K19.00
+C;X9;Y59;K""
+C;X10;Y59;K""
+C;X11;Y59;K""
+C;X12;Y59;K""
+C;X13;Y59;K""
+C;X14;Y59;K""
+C;X15;Y59;K""
+C;X16;Y59;K""
+C;X1;Y60;K"Grossistes"
+C;X2;Y60;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y60;K"FRAMBOISE Maroc barq.125g"
+C;X4;Y60;K"euro HT le kg"
+C;X5;Y60;K22.60
+C;X6;Y60;K""
+C;X7;Y60;K""
+C;X8;Y60;K""
+C;X9;Y60;K""
+C;X10;Y60;K""
+C;X11;Y60;K""
+C;X12;Y60;K""
+C;X13;Y60;K16.03
+C;X14;Y60;K""
+C;X15;Y60;K30.20
+C;X16;Y60;K31.54
+C;X1;Y61;K"Grossistes"
+C;X2;Y61;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y61;K"FRAMBOISE U.E. barq.125g"
+C;X4;Y61;K"euro HT le kg"
+C;X5;Y61;K18.29
+C;X6;Y61;K15.17
+C;X7;Y61;K17.65
+C;X8;Y61;K20.00
+C;X9;Y61;K26.80
+C;X10;Y61;K25.59
+C;X11;Y61;K24.83
+C;X12;Y61;K20.78
+C;X13;Y61;K25.00
+C;X14;Y61;K""
+C;X15;Y61;K""
+C;X16;Y61;K""
+C;X1;Y62;K"Grossistes"
+C;X2;Y62;K"MIN de Strasbourg : fruits et légumes bio"
+C;X3;Y62;K"FRAMBOISE France biologique barq.125g"
+C;X4;Y62;K"euro HT le kg"
+C;X5;Y62;K""
+C;X6;Y62;K""
+C;X7;Y62;K""
+C;X8;Y62;K27.31
+C;X9;Y62;K""
+C;X10;Y62;K""
+C;X11;Y62;K""
+C;X12;Y62;K""
+C;X13;Y62;K""
+C;X14;Y62;K""
+C;X15;Y62;K""
+C;X16;Y62;K""
+C;X1;Y63;K"Détail"
+C;X2;Y63;K"Fruits France DETAIL GMS"
+C;X3;Y63;K"FRAMBOISE France barq.125g"
+C;X4;Y63;K"euro TTC le kg"
+C;X5;Y63;K""
+C;X6;Y63;K26.23
+C;X7;Y63;K23.03
+C;X8;Y63;K21.15
+C;X9;Y63;K22.07
+C;X10;Y63;K23.82
+C;X11;Y63;K26.47
+C;X12;Y63;K""
+C;X13;Y63;K""
+C;X14;Y63;K""
+C;X15;Y63;K""
+C;X16;Y63;K""
+C;X1;Y64;K"Détail"
+C;X2;Y64;K"Fruits France DETAIL GMS"
+C;X3;Y64;K"FRAMBOISE hors Fr. barq.125g"
+C;X4;Y64;K"euro TTC le kg"
+C;X5;Y64;K""
+C;X6;Y64;K18.30
+C;X7;Y64;K19.10
+C;X8;Y64;K19.39
+C;X9;Y64;K19.98
+C;X10;Y64;K22.84
+C;X11;Y64;K23.81
+C;X12;Y64;K""
+C;X13;Y64;K""
+C;X14;Y64;K""
+C;X15;Y64;K""
+C;X16;Y64;K""
+C;X1;Y65;K"Détail"
+C;X2;Y65;K"Fruits France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y65;K"FRAMBOISE France biologique barq.125g"
+C;X4;Y65;K"euro TTC le kg"
+C;X5;Y65;K""
+C;X6;Y65;K42.05
+C;X7;Y65;K36.83
+C;X8;Y65;K36.46
+C;X9;Y65;K38.02
+C;X10;Y65;K37.67
+C;X11;Y65;K""
+C;X12;Y65;K""
+C;X13;Y65;K""
+C;X14;Y65;K""
+C;X15;Y65;K""
+C;X16;Y65;K""
+C;X1;Y66;K"Détail"
+C;X2;Y66;K"Fruits France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y66;K"FRAMBOISE U.E. biologique barq.125g"
+C;X4;Y66;K"euro TTC le kg"
+C;X5;Y66;K30.86
+C;X6;Y66;K28.47
+C;X7;Y66;K30.89
+C;X8;Y66;K""
+C;X9;Y66;K""
+C;X10;Y66;K""
+C;X11;Y66;K""
+C;X12;Y66;K""
+C;X13;Y66;K""
+C;X14;Y66;K""
+C;X15;Y66;K""
+C;X16;Y66;K""
+F;SM6;X1;Y69
+C;K"Source : RNM.FranceAgriMer.fr"
+E

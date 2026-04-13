@@ -1,0 +1,150 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Beurre - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Grossistes"
+C;X2;Y5;K"Indicateurs produits laitiers et œufs - restauration collective"
+C;X3;Y5;K"BEURRE 82% MG micro pain 10g"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K16.74
+C;X6;Y5;K16.74
+C;X7;Y5;K16.93
+C;X8;Y5;K16.93
+C;X9;Y5;K16.93
+C;X10;Y5;K16.93
+C;X11;Y5;K16.73
+C;X12;Y5;K16.93
+C;X13;Y5;K16.93
+C;X14;Y5;K17.07
+C;X15;Y5;K17.04
+C;X16;Y5;K17.04
+C;X1;Y6;K"Grossistes"
+C;X2;Y6;K"Indicateurs produits laitiers et œufs - restauration collective"
+C;X3;Y6;K"BEURRE doux 82% MG plaquette 250g"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K16.25
+C;X6;Y6;K16.28
+C;X7;Y6;K16.31
+C;X8;Y6;K16.27
+C;X9;Y6;K16.27
+C;X10;Y6;K16.07
+C;X11;Y6;K15.82
+C;X12;Y6;K15.73
+C;X13;Y6;K14.87
+C;X14;Y6;K14.28
+C;X15;Y6;K13.78
+C;X16;Y6;K13.77
+C;X1;Y7;K"Grossistes"
+C;X2;Y7;K"Indicateurs produits laitiers et œufs - restauration collective"
+C;X3;Y7;K"BEURRE doux biologique plaquette 250g"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K20.84
+C;X6;Y7;K20.84
+C;X7;Y7;K20.84
+C;X8;Y7;K20.84
+C;X9;Y7;K20.84
+C;X10;Y7;K20.84
+C;X11;Y7;K20.84
+C;X12;Y7;K20.73
+C;X13;Y7;K20.70
+C;X14;Y7;K20.74
+C;X15;Y7;K20.84
+C;X16;Y7;K20.74
+C;X1;Y8;K"Grossistes"
+C;X2;Y8;K"Indicateurs produits laitiers et œufs - restauration collective"
+C;X3;Y8;K"BEURRE léger 41% MG 1kg"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K12.27
+C;X6;Y8;K12.27
+C;X7;Y8;K12.27
+C;X8;Y8;K12.27
+C;X9;Y8;K12.27
+C;X10;Y8;K12.27
+C;X11;Y8;K11.68
+C;X12;Y8;K12.27
+C;X13;Y8;K12.27
+C;X14;Y8;K12.39
+C;X15;Y8;K12.36
+C;X16;Y8;K12.36
+C;X1;Y9;K"Grossistes"
+C;X2;Y9;K"MIN de Rungis : beurre, fromage (mensuel)"
+C;X3;Y9;K"BEURRE pasteurisé"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K8.10
+C;X6;Y9;K8.10
+C;X7;Y9;K8.10
+C;X8;Y9;K8.10
+C;X9;Y9;K8.10
+C;X10;Y9;K7.60
+C;X11;Y9;K6.80
+C;X12;Y9;K6.60
+C;X13;Y9;K6.60
+C;X14;Y9;K5.80
+C;X15;Y9;K5.50
+C;X16;Y9;K5.50
+C;X1;Y10;K"Grossistes"
+C;X2;Y10;K"MIN de Rungis : beurre, fromage (mensuel)"
+C;X3;Y10;K"BEURRE pasteurisé plaquette 250g"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K9.00
+C;X6;Y10;K9.00
+C;X7;Y10;K9.00
+C;X8;Y10;K9.00
+C;X9;Y10;K9.00
+C;X10;Y10;K8.50
+C;X11;Y10;K7.70
+C;X12;Y10;K7.40
+C;X13;Y10;K7.40
+C;X14;Y10;K6.60
+C;X15;Y10;K6.30
+C;X16;Y10;K6.30
+F;SM6;X1;Y13
+C;K"Source : RNM.FranceAgriMer.fr"
+E

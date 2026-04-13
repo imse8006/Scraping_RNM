@@ -1,0 +1,2870 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Pomme de terre - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Marché de producteurs"
+C;X2;Y5;K"Marché de Lyon-Corbas carreau : fruits et légumes"
+C;X3;Y5;K"POMME DE TERRE Agata Rhône-Alpes cat.I sac 10kg"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K""
+C;X6;Y5;K""
+C;X7;Y5;K0.74
+C;X8;Y5;K0.61
+C;X9;Y5;K0.53
+C;X10;Y5;K0.49
+C;X11;Y5;K0.50
+C;X12;Y5;K0.50
+C;X13;Y5;K0.49
+C;X14;Y5;K0.48
+C;X15;Y5;K""
+C;X16;Y5;K""
+C;X1;Y6;K"Marché de producteurs"
+C;X2;Y6;K"Marché de Lyon-Corbas carreau : fruits et légumes"
+C;X3;Y6;K"POMME DE TERRE CHAIR FERME Linzer délicatess Rhône-Alpes lavée cat.I 17-35mm"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K8.78
+C;X6;Y6;K5.89
+C;X7;Y6;K3.56
+C;X8;Y6;K3.00
+C;X9;Y6;K2.00
+C;X10;Y6;K""
+C;X11;Y6;K""
+C;X12;Y6;K""
+C;X13;Y6;K""
+C;X14;Y6;K""
+C;X15;Y6;K""
+C;X16;Y6;K""
+C;X1;Y7;K"Marché de producteurs"
+C;X2;Y7;K"Marché de Lyon-Corbas carreau : fruits et légumes"
+C;X3;Y7;K"POMME DE TERRE Linzer délicatess Rhône-Alpes cat.I +35mm"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K7.00
+C;X6;Y7;K4.28
+C;X7;Y7;K2.35
+C;X8;Y7;K1.70
+C;X9;Y7;K1.00
+C;X10;Y7;K""
+C;X11;Y7;K""
+C;X12;Y7;K""
+C;X13;Y7;K""
+C;X14;Y7;K""
+C;X15;Y7;K""
+C;X16;Y7;K""
+C;X1;Y8;K"Marché de producteurs"
+C;X2;Y8;K"Marché de Perpignan carreau : fruits et légumes"
+C;X3;Y8;K"POMME DE TERRE Béa Roussillon"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K3.12
+C;X6;Y8;K2.00
+C;X7;Y8;K1.90
+C;X8;Y8;K1.27
+C;X9;Y8;K1.20
+C;X10;Y8;K1.20
+C;X11;Y8;K1.20
+C;X12;Y8;K1.20
+C;X13;Y8;K""
+C;X14;Y8;K""
+C;X15;Y8;K""
+C;X16;Y8;K3.00
+C;X1;Y9;K"Marché de producteurs"
+C;X2;Y9;K"Marché de Perpignan carreau : fruits et légumes"
+C;X3;Y9;K"POMME DE TERRE Béa Roussillon grenaille"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K3.60
+C;X6;Y9;K2.50
+C;X7;Y9;K2.50
+C;X8;Y9;K1.89
+C;X9;Y9;K1.80
+C;X10;Y9;K1.80
+C;X11;Y9;K1.80
+C;X12;Y9;K1.80
+C;X13;Y9;K""
+C;X14;Y9;K""
+C;X15;Y9;K""
+C;X16;Y9;K4.00
+C;X1;Y10;K"Marché de producteurs"
+C;X2;Y10;K"Marché de Perpignan carreau : fruits et légumes"
+C;X3;Y10;K"POMME DE TERRE Celtiane Roussillon"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K""
+C;X6;Y10;K""
+C;X7;Y10;K1.80
+C;X8;Y10;K1.31
+C;X9;Y10;K1.30
+C;X10;Y10;K1.30
+C;X11;Y10;K1.30
+C;X12;Y10;K1.30
+C;X13;Y10;K""
+C;X14;Y10;K""
+C;X15;Y10;K""
+C;X16;Y10;K""
+C;X1;Y11;K"Marché de producteurs"
+C;X2;Y11;K"Marché de Perpignan carreau : fruits et légumes"
+C;X3;Y11;K"POMME DE TERRE Monalisa Roussillon"
+C;X4;Y11;K"euro HT le kg"
+C;X5;Y11;K""
+C;X6;Y11;K""
+C;X7;Y11;K1.20
+C;X8;Y11;K1.20
+C;X9;Y11;K1.20
+C;X10;Y11;K1.16
+C;X11;Y11;K1.12
+C;X12;Y11;K1.00
+C;X13;Y11;K1.00
+C;X14;Y11;K1.00
+C;X15;Y11;K1.00
+C;X16;Y11;K1.00
+C;X1;Y12;K"Marché de producteurs"
+C;X2;Y12;K"MIN d'Agen carreau : fruits et légumes"
+C;X3;Y12;K"POMME DE TERRE CHAIR FERME Sud-Ouest lavée cat.I cagette"
+C;X4;Y12;K"euro HT le kg"
+C;X5;Y12;K0.80
+C;X6;Y12;K""
+C;X7;Y12;K1.75
+C;X8;Y12;K1.23
+C;X9;Y12;K""
+C;X10;Y12;K1.20
+C;X11;Y12;K1.20
+C;X12;Y12;K1.10
+C;X13;Y12;K1.10
+C;X14;Y12;K1.20
+C;X15;Y12;K""
+C;X16;Y12;K""
+C;X1;Y13;K"Expédition"
+C;X2;Y13;K"Bassin Bretagne : fruits et légumes bio"
+C;X3;Y13;K"POMME DE TERRE de conservation Bretagne biologique"
+C;X4;Y13;K"euro HT le kg"
+C;X5;Y13;K1.29
+C;X6;Y13;K1.28
+C;X7;Y13;K1.28
+C;X8;Y13;K""
+C;X9;Y13;K1.20
+C;X10;Y13;K1.20
+C;X11;Y13;K1.12
+C;X12;Y13;K1.05
+C;X13;Y13;K1.03
+C;X14;Y13;K1.02
+C;X15;Y13;K1.00
+C;X16;Y13;K0.97
+C;X1;Y14;K"Expédition"
+C;X2;Y14;K"Bassin Bretagne : fruits et légumes bio"
+C;X3;Y14;K"POMME DE TERRE primeur Bretagne biologique"
+C;X4;Y14;K"euro HT le kg"
+C;X5;Y14;K4.20
+C;X6;Y14;K2.93
+C;X7;Y14;K1.77
+C;X8;Y14;K1.36
+C;X9;Y14;K1.20
+C;X10;Y14;K""
+C;X11;Y14;K""
+C;X12;Y14;K""
+C;X13;Y14;K""
+C;X14;Y14;K""
+C;X15;Y14;K""
+C;X16;Y14;K4.50
+C;X1;Y15;K"Expédition"
+C;X2;Y15;K"Bassin Centre-Ouest : fruits et légumes bio"
+C;X3;Y15;K"POMME DE TERRE Centre-Ouest biologique"
+C;X4;Y15;K"euro HT le kg"
+C;X5;Y15;K1.29
+C;X6;Y15;K1.30
+C;X7;Y15;K1.29
+C;X8;Y15;K1.19
+C;X9;Y15;K1.18
+C;X10;Y15;K1.16
+C;X11;Y15;K1.08
+C;X12;Y15;K1.00
+C;X13;Y15;K0.97
+C;X14;Y15;K0.96
+C;X15;Y15;K0.94
+C;X16;Y15;K0.99
+C;X1;Y16;K"Expédition"
+C;X2;Y16;K"Bassin Centre-Ouest : fruits et légumes bio"
+C;X3;Y16;K"POMME DE TERRE de conservation Centre-Ouest biologique filet"
+C;X4;Y16;K"euro HT le kg"
+C;X5;Y16;K1.36
+C;X6;Y16;K1.34
+C;X7;Y16;K1.35
+C;X8;Y16;K1.25
+C;X9;Y16;K1.27
+C;X10;Y16;K1.28
+C;X11;Y16;K""
+C;X12;Y16;K""
+C;X13;Y16;K1.09
+C;X14;Y16;K1.15
+C;X15;Y16;K""
+C;X16;Y16;K1.34
+C;X1;Y17;K"Expédition"
+C;X2;Y17;K"Bassin Grand Est : fruits et légumes"
+C;X3;Y17;K"POMME DE TERRE CHAIR FERME chair jaune "Nouvelle récolte" Alsace lavée cat.I 35-55mm filet 2,5kg"
+C;X4;Y17;K"euro HT le kg"
+C;X5;Y17;K""
+C;X6;Y17;K""
+C;X7;Y17;K""
+C;X8;Y17;K""
+C;X9;Y17;K0.82
+C;X10;Y17;K""
+C;X11;Y17;K""
+C;X12;Y17;K""
+C;X13;Y17;K""
+C;X14;Y17;K""
+C;X15;Y17;K""
+C;X16;Y17;K""
+C;X1;Y18;K"Expédition"
+C;X2;Y18;K"Bassin Grand Est : fruits et légumes"
+C;X3;Y18;K"POMME DE TERRE CHAIR FERME Charlotte de conservation Alsace lavée cat.I 35-55mm filet 2,5kg consommation"
+C;X4;Y18;K"euro HT le kg"
+C;X5;Y18;K0.82
+C;X6;Y18;K""
+C;X7;Y18;K""
+C;X8;Y18;K""
+C;X9;Y18;K0.80
+C;X10;Y18;K0.78
+C;X11;Y18;K0.73
+C;X12;Y18;K0.63
+C;X13;Y18;K0.61
+C;X14;Y18;K0.66
+C;X15;Y18;K0.76
+C;X16;Y18;K0.74
+C;X1;Y19;K"Expédition"
+C;X2;Y19;K"Bassin Grand Est : fruits et légumes"
+C;X3;Y19;K"POMME DE TERRE CHAIR FERME div.var.cons Alsace lavée cat.I 35-55mm filet 2,5kg consommation"
+C;X4;Y19;K"euro HT le kg"
+C;X5;Y19;K0.81
+C;X6;Y19;K""
+C;X7;Y19;K""
+C;X8;Y19;K""
+C;X9;Y19;K0.79
+C;X10;Y19;K0.69
+C;X11;Y19;K0.68
+C;X12;Y19;K0.61
+C;X13;Y19;K0.60
+C;X14;Y19;K0.61
+C;X15;Y19;K0.65
+C;X16;Y19;K0.57
+C;X1;Y20;K"Expédition"
+C;X2;Y20;K"Bassin Grand Est : fruits et légumes"
+C;X3;Y20;K"POMME DE TERRE CHAIR FERME épiderme rouge div.var.cons Alsace lavée cat.I 35-55mm filet 2,5kg consommation"
+C;X4;Y20;K"euro HT le kg"
+C;X5;Y20;K0.84
+C;X6;Y20;K""
+C;X7;Y20;K""
+C;X8;Y20;K""
+C;X9;Y20;K0.71
+C;X10;Y20;K0.71
+C;X11;Y20;K0.70
+C;X12;Y20;K0.68
+C;X13;Y20;K0.67
+C;X14;Y20;K0.68
+C;X15;Y20;K0.67
+C;X16;Y20;K0.65
+C;X1;Y21;K"Expédition"
+C;X2;Y21;K"Bassin Grand Est : fruits et légumes"
+C;X3;Y21;K"POMME DE TERRE CHAIR NORMALE div.var.cons Alsace lavée cat.I 35-55mm filet 10kg consommation"
+C;X4;Y21;K"euro HT le kg"
+C;X5;Y21;K0.58
+C;X6;Y21;K""
+C;X7;Y21;K""
+C;X8;Y21;K""
+C;X9;Y21;K0.39
+C;X10;Y21;K0.39
+C;X11;Y21;K0.38
+C;X12;Y21;K0.35
+C;X13;Y21;K0.34
+C;X14;Y21;K0.36
+C;X15;Y21;K0.39
+C;X16;Y21;K0.34
+C;X1;Y22;K"Expédition"
+C;X2;Y22;K"Bassin Grand Est : fruits et légumes"
+C;X3;Y22;K"POMME DE TERRE CHAIR NORMALE div.var.cons Alsace lavée cat.I 35-55mm filet 2,5kg consommation"
+C;X4;Y22;K"euro HT le kg"
+C;X5;Y22;K0.76
+C;X6;Y22;K""
+C;X7;Y22;K""
+C;X8;Y22;K""
+C;X9;Y22;K0.61
+C;X10;Y22;K0.59
+C;X11;Y22;K0.60
+C;X12;Y22;K0.60
+C;X13;Y22;K0.60
+C;X14;Y22;K0.54
+C;X15;Y22;K0.57
+C;X16;Y22;K0.59
+C;X1;Y23;K"Expédition"
+C;X2;Y23;K"Bassin Grand Est : fruits et légumes"
+C;X3;Y23;K"POMME DE TERRE CHAIR NORMALE div.var.cons Alsace lavée cat.I 35-55mm filet 5kg consommation"
+C;X4;Y23;K"euro HT le kg"
+C;X5;Y23;K0.53
+C;X6;Y23;K""
+C;X7;Y23;K""
+C;X8;Y23;K""
+C;X9;Y23;K0.50
+C;X10;Y23;K0.46
+C;X11;Y23;K0.41
+C;X12;Y23;K0.42
+C;X13;Y23;K0.42
+C;X14;Y23;K0.41
+C;X15;Y23;K0.40
+C;X16;Y23;K0.37
+C;X1;Y24;K"Expédition"
+C;X2;Y24;K"Bassin Grand Est : fruits et légumes"
+C;X3;Y24;K"POMME DE TERRE CHAIR NORMALE div.var.cons "Nouvelle récolte" Alsace lavée cat.I 35-55mm filet 2,5kg consommation"
+C;X4;Y24;K"euro HT le kg"
+C;X5;Y24;K""
+C;X6;Y24;K""
+C;X7;Y24;K""
+C;X8;Y24;K0.71
+C;X9;Y24;K0.67
+C;X10;Y24;K""
+C;X11;Y24;K""
+C;X12;Y24;K""
+C;X13;Y24;K""
+C;X14;Y24;K""
+C;X15;Y24;K""
+C;X16;Y24;K""
+C;X1;Y25;K"Expédition"
+C;X2;Y25;K"Bassin Grand Est : fruits et légumes"
+C;X3;Y25;K"POMME DE TERRE CHAIR NORMALE div.var.cons "Nouvelle récolte" Alsace lavée cat.I 35-55mm filet 5kg consommation"
+C;X4;Y25;K"euro HT le kg"
+C;X5;Y25;K""
+C;X6;Y25;K""
+C;X7;Y25;K""
+C;X8;Y25;K0.62
+C;X9;Y25;K0.54
+C;X10;Y25;K""
+C;X11;Y25;K""
+C;X12;Y25;K""
+C;X13;Y25;K""
+C;X14;Y25;K""
+C;X15;Y25;K""
+C;X16;Y25;K""
+C;X1;Y26;K"Expédition"
+C;X2;Y26;K"France : fruits et légumes bio - expédition"
+C;X3;Y26;K"POMME DE TERRE de conservation France biologique"
+C;X4;Y26;K"euro HT le kg"
+C;X5;Y26;K1.28
+C;X6;Y26;K1.30
+C;X7;Y26;K1.33
+C;X8;Y26;K1.31
+C;X9;Y26;K1.17
+C;X10;Y26;K1.19
+C;X11;Y26;K1.07
+C;X12;Y26;K1.04
+C;X13;Y26;K1.00
+C;X14;Y26;K0.98
+C;X15;Y26;K0.99
+C;X16;Y26;K0.94
+C;X1;Y27;K"Expédition"
+C;X2;Y27;K"France : fruits et légumes bio - expédition"
+C;X3;Y27;K"POMME DE TERRE primeur France biologique"
+C;X4;Y27;K"euro HT le kg"
+C;X5;Y27;K4.18
+C;X6;Y27;K2.87
+C;X7;Y27;K1.84
+C;X8;Y27;K1.43
+C;X9;Y27;K1.22
+C;X10;Y27;K""
+C;X11;Y27;K""
+C;X12;Y27;K""
+C;X13;Y27;K""
+C;X14;Y27;K""
+C;X15;Y27;K""
+C;X16;Y27;K5.36
+C;X1;Y28;K"Expédition"
+C;X2;Y28;K"France : pomme de terre"
+C;X3;Y28;K"POMME DE TERRE CHAIR FERME peau jaune France lavée cat.I +35mm carton 12,5kg"
+C;X4;Y28;K"euro HT la tonne"
+C;X5;Y28;K805.00
+C;X6;Y28;K800.00
+C;X7;Y28;K785.00
+C;X8;Y28;K""
+C;X9;Y28;K""
+C;X10;Y28;K664.29
+C;X11;Y28;K660.00
+C;X12;Y28;K654.29
+C;X13;Y28;K650.00
+C;X14;Y28;K650.00
+C;X15;Y28;K640.00
+C;X16;Y28;K617.50
+C;X1;Y29;K"Expédition"
+C;X2;Y29;K"France : pomme de terre"
+C;X3;Y29;K"POMME DE TERRE CHAIR FERME peau jaune France lavée cat.I +35mm filet 2,5kg"
+C;X4;Y29;K"euro HT la tonne"
+C;X5;Y29;K754.29
+C;X6;Y29;K738.00
+C;X7;Y29;K710.46
+C;X8;Y29;K""
+C;X9;Y29;K""
+C;X10;Y29;K661.00
+C;X11;Y29;K624.00
+C;X12;Y29;K624.29
+C;X13;Y29;K612.50
+C;X14;Y29;K610.00
+C;X15;Y29;K605.00
+C;X16;Y29;K595.00
+C;X1;Y30;K"Expédition"
+C;X2;Y30;K"France : pomme de terre"
+C;X3;Y30;K"POMME DE TERRE CHAIR FERME peau rouge France lavée cat.I +35mm carton 12,5kg"
+C;X4;Y30;K"euro HT la tonne"
+C;X5;Y30;K804.29
+C;X6;Y30;K800.00
+C;X7;Y30;K785.00
+C;X8;Y30;K""
+C;X9;Y30;K""
+C;X10;Y30;K670.00
+C;X11;Y30;K684.00
+C;X12;Y30;K680.00
+C;X13;Y30;K650.00
+C;X14;Y30;K650.00
+C;X15;Y30;K650.00
+C;X16;Y30;K637.50
+C;X1;Y31;K"Expédition"
+C;X2;Y31;K"France : pomme de terre"
+C;X3;Y31;K"POMME DE TERRE CHAIR FERME peau rouge France lavée cat.I +35mm filet 2,5kg"
+C;X4;Y31;K"euro HT la tonne"
+C;X5;Y31;K745.71
+C;X6;Y31;K718.00
+C;X7;Y31;K693.64
+C;X8;Y31;K""
+C;X9;Y31;K""
+C;X10;Y31;K652.00
+C;X11;Y31;K626.00
+C;X12;Y31;K630.00
+C;X13;Y31;K630.00
+C;X14;Y31;K620.00
+C;X15;Y31;K615.00
+C;X16;Y31;K595.00
+C;X1;Y32;K"Expédition"
+C;X2;Y32;K"France : pomme de terre"
+C;X3;Y32;K"POMME DE TERRE div.var.cons France lavée cat.I 40-70mm filet 10kg consommation"
+C;X4;Y32;K"euro HT la tonne"
+C;X5;Y32;K418.57
+C;X6;Y32;K410.00
+C;X7;Y32;K400.91
+C;X8;Y32;K""
+C;X9;Y32;K""
+C;X10;Y32;K306.67
+C;X11;Y32;K293.00
+C;X12;Y32;K288.57
+C;X13;Y32;K281.25
+C;X14;Y32;K290.00
+C;X15;Y32;K277.50
+C;X16;Y32;K262.50
+C;X1;Y33;K"Expédition"
+C;X2;Y33;K"France : pomme de terre"
+C;X3;Y33;K"POMME DE TERRE div.var.cons France lavée cat.I 40-70mm filet 5kg consommation"
+C;X4;Y33;K"euro HT la tonne"
+C;X5;Y33;K428.57
+C;X6;Y33;K420.00
+C;X7;Y33;K410.91
+C;X8;Y33;K""
+C;X9;Y33;K""
+C;X10;Y33;K316.67
+C;X11;Y33;K303.00
+C;X12;Y33;K298.57
+C;X13;Y33;K291.25
+C;X14;Y33;K300.00
+C;X15;Y33;K287.50
+C;X16;Y33;K272.50
+C;X1;Y34;K"Expédition"
+C;X2;Y34;K"France : pomme de terre"
+C;X3;Y34;K"POMME DE TERRE div.var.cons France lavée cat.I 50-75mm filet 10kg consommation"
+C;X4;Y34;K"euro HT la tonne"
+C;X5;Y34;K437.14
+C;X6;Y34;K427.00
+C;X7;Y34;K409.09
+C;X8;Y34;K""
+C;X9;Y34;K""
+C;X10;Y34;K320.00
+C;X11;Y34;K303.00
+C;X12;Y34;K298.57
+C;X13;Y34;K300.00
+C;X14;Y34;K300.00
+C;X15;Y34;K287.50
+C;X16;Y34;K272.50
+C;X1;Y35;K"Expédition"
+C;X2;Y35;K"France : pomme de terre"
+C;X3;Y35;K"POMME DE TERRE div.var.cons France lavée cat.I 50-75mm filet 5kg consommation"
+C;X4;Y35;K"euro HT la tonne"
+C;X5;Y35;K447.14
+C;X6;Y35;K437.00
+C;X7;Y35;K419.09
+C;X8;Y35;K""
+C;X9;Y35;K""
+C;X10;Y35;K330.00
+C;X11;Y35;K313.00
+C;X12;Y35;K308.57
+C;X13;Y35;K310.00
+C;X14;Y35;K310.00
+C;X15;Y35;K297.50
+C;X16;Y35;K282.50
+C;X1;Y36;K"Expédition"
+C;X2;Y36;K"France : pomme de terre"
+C;X3;Y36;K"POMME DE TERRE div.var.cons France non lavée cat.II 40-70mm filet 10kg"
+C;X4;Y36;K"euro HT la tonne"
+C;X5;Y36;K310.00
+C;X6;Y36;K310.00
+C;X7;Y36;K310.00
+C;X8;Y36;K""
+C;X9;Y36;K""
+C;X10;Y36;K175.00
+C;X11;Y36;K180.00
+C;X12;Y36;K170.00
+C;X13;Y36;K165.00
+C;X14;Y36;K170.00
+C;X15;Y36;K170.00
+C;X16;Y36;K170.00
+C;X1;Y37;K"Expédition"
+C;X2;Y37;K"France : pomme de terre"
+C;X3;Y37;K"POMME DE TERRE div.var.cons France non lavée cat.II 40-70mm filet 25kg"
+C;X4;Y37;K"euro HT la tonne"
+C;X5;Y37;K300.00
+C;X6;Y37;K300.00
+C;X7;Y37;K300.00
+C;X8;Y37;K""
+C;X9;Y37;K""
+C;X10;Y37;K""
+C;X11;Y37;K""
+C;X12;Y37;K""
+C;X13;Y37;K""
+C;X14;Y37;K""
+C;X15;Y37;K""
+C;X16;Y37;K""
+C;X1;Y38;K"Expédition"
+C;X2;Y38;K"France : pomme de terre"
+C;X3;Y38;K"POMME DE TERRE div.var.cons France non lavée cat.II 50-75mm filet 10kg"
+C;X4;Y38;K"euro HT la tonne"
+C;X5;Y38;K330.00
+C;X6;Y38;K325.00
+C;X7;Y38;K320.00
+C;X8;Y38;K""
+C;X9;Y38;K""
+C;X10;Y38;K191.11
+C;X11;Y38;K190.00
+C;X12;Y38;K185.71
+C;X13;Y38;K176.25
+C;X14;Y38;K180.00
+C;X15;Y38;K180.00
+C;X16;Y38;K172.50
+C;X1;Y39;K"Expédition"
+C;X2;Y39;K"France : pomme de terre"
+C;X3;Y39;K"POMME DE TERRE div.var.cons France non lavée cat.II 50-75mm filet 25kg"
+C;X4;Y39;K"euro HT la tonne"
+C;X5;Y39;K320.00
+C;X6;Y39;K315.00
+C;X7;Y39;K310.00
+C;X8;Y39;K""
+C;X9;Y39;K""
+C;X10;Y39;K180.00
+C;X11;Y39;K180.00
+C;X12;Y39;K175.71
+C;X13;Y39;K166.25
+C;X14;Y39;K170.00
+C;X15;Y39;K170.00
+C;X16;Y39;K162.50
+C;X1;Y40;K"Expédition"
+C;X2;Y40;K"France : pomme de terre"
+C;X3;Y40;K"POMME DE TERRE div.var.cons France non lavée cat.II 60-75mm filet 25kg"
+C;X4;Y40;K"euro HT la tonne"
+C;X5;Y40;K370.00
+C;X6;Y40;K""
+C;X7;Y40;K""
+C;X8;Y40;K""
+C;X9;Y40;K""
+C;X10;Y40;K210.00
+C;X11;Y40;K210.00
+C;X12;Y40;K230.00
+C;X13;Y40;K220.00
+C;X14;Y40;K211.25
+C;X15;Y40;K210.00
+C;X16;Y40;K210.00
+C;X1;Y41;K"Expédition"
+C;X2;Y41;K"France : pomme de terre"
+C;X3;Y41;K"POMME DE TERRE four, purée ou potage div.var.cons France lavée cat.I 50-75mm filet 2,5kg"
+C;X4;Y41;K"euro HT la tonne"
+C;X5;Y41;K718.57
+C;X6;Y41;K700.00
+C;X7;Y41;K687.27
+C;X8;Y41;K""
+C;X9;Y41;K""
+C;X10;Y41;K590.00
+C;X11;Y41;K570.00
+C;X12;Y41;K570.00
+C;X13;Y41;K552.50
+C;X14;Y41;K550.00
+C;X15;Y41;K535.00
+C;X16;Y41;K512.50
+C;X1;Y42;K"Expédition"
+C;X2;Y42;K"France : pomme de terre"
+C;X3;Y42;K"POMME DE TERRE frites div.var.cons France lavée cat.I 50-75mm filet 2,5kg"
+C;X4;Y42;K"euro HT la tonne"
+C;X5;Y42;K722.14
+C;X6;Y42;K710.00
+C;X7;Y42;K696.36
+C;X8;Y42;K""
+C;X9;Y42;K""
+C;X10;Y42;K603.00
+C;X11;Y42;K588.00
+C;X12;Y42;K587.14
+C;X13;Y42;K572.50
+C;X14;Y42;K570.00
+C;X15;Y42;K555.00
+C;X16;Y42;K535.00
+C;X1;Y43;K"Expédition"
+C;X2;Y43;K"France : pomme de terre - export"
+C;X3;Y43;K"POMME DE TERRE Agata France lavable cat.I 40-70mm sac 1tonne"
+C;X4;Y43;K"euro HT la tonne"
+C;X5;Y43;K354.00
+C;X6;Y43;K330.00
+C;X7;Y43;K""
+C;X8;Y43;K""
+C;X9;Y43;K""
+C;X10;Y43;K""
+C;X11;Y43;K""
+C;X12;Y43;K""
+C;X13;Y43;K""
+C;X14;Y43;K""
+C;X15;Y43;K""
+C;X16;Y43;K""
+C;X1;Y44;K"Expédition"
+C;X2;Y44;K"France : pomme de terre - export"
+C;X3;Y44;K"POMME DE TERRE Agata France lavable cat.I +45mm big bag"
+C;X4;Y44;K"euro HT le kg"
+C;X5;Y44;K""
+C;X6;Y44;K""
+C;X7;Y44;K""
+C;X8;Y44;K""
+C;X9;Y44;K""
+C;X10;Y44;K120.00
+C;X11;Y44;K""
+C;X12;Y44;K""
+C;X13;Y44;K""
+C;X14;Y44;K""
+C;X15;Y44;K""
+C;X16;Y44;K""
+C;X1;Y45;K"Expédition"
+C;X2;Y45;K"France : pomme de terre - export"
+C;X3;Y45;K"POMME DE TERRE Agata France lavable cat.I +45mm big bag"
+C;X4;Y45;K"euro HT la tonne"
+C;X5;Y45;K""
+C;X6;Y45;K""
+C;X7;Y45;K""
+C;X8;Y45;K""
+C;X9;Y45;K""
+C;X10;Y45;K140.00
+C;X11;Y45;K164.00
+C;X12;Y45;K177.50
+C;X13;Y45;K170.00
+C;X14;Y45;K165.00
+C;X15;Y45;K167.50
+C;X16;Y45;K145.00
+C;X1;Y46;K"Expédition"
+C;X2;Y46;K"France : pomme de terre - export"
+C;X3;Y46;K"POMME DE TERRE Agata France lavée cat.I +45mm sac 10kg"
+C;X4;Y46;K"euro HT la tonne"
+C;X5;Y46;K450.00
+C;X6;Y46;K433.33
+C;X7;Y46;K420.00
+C;X8;Y46;K""
+C;X9;Y46;K""
+C;X10;Y46;K245.00
+C;X11;Y46;K250.00
+C;X12;Y46;K247.50
+C;X13;Y46;K240.00
+C;X14;Y46;K237.50
+C;X15;Y46;K230.00
+C;X16;Y46;K225.00
+C;X1;Y47;K"Expédition"
+C;X2;Y47;K"France : pomme de terre - export"
+C;X3;Y47;K"POMME DE TERRE Agata France lavée cat.I +45mm sac 5kg"
+C;X4;Y47;K"euro HT la tonne"
+C;X5;Y47;K460.00
+C;X6;Y47;K""
+C;X7;Y47;K""
+C;X8;Y47;K""
+C;X9;Y47;K""
+C;X10;Y47;K230.00
+C;X11;Y47;K""
+C;X12;Y47;K257.50
+C;X13;Y47;K250.00
+C;X14;Y47;K246.25
+C;X15;Y47;K240.00
+C;X16;Y47;K235.00
+C;X1;Y48;K"Expédition"
+C;X2;Y48;K"France : pomme de terre - export"
+C;X3;Y48;K"POMME DE TERRE CHAIR NORMALE France lavée cat.I +45mm filet 5kg"
+C;X4;Y48;K"euro HT la tonne"
+C;X5;Y48;K376.67
+C;X6;Y48;K""
+C;X7;Y48;K""
+C;X8;Y48;K""
+C;X9;Y48;K""
+C;X10;Y48;K""
+C;X11;Y48;K""
+C;X12;Y48;K""
+C;X13;Y48;K""
+C;X14;Y48;K""
+C;X15;Y48;K""
+C;X16;Y48;K""
+C;X1;Y49;K"Expédition"
+C;X2;Y49;K"France : pomme de terre - export"
+C;X3;Y49;K"POMME DE TERRE CHAIR NORMALE France non lavée-non lavable cat.I +45mm big bag"
+C;X4;Y49;K"euro HT la tonne"
+C;X5;Y49;K168.00
+C;X6;Y49;K118.33
+C;X7;Y49;K110.00
+C;X8;Y49;K""
+C;X9;Y49;K""
+C;X10;Y49;K80.00
+C;X11;Y49;K80.00
+C;X12;Y49;K77.50
+C;X13;Y49;K70.00
+C;X14;Y49;K60.00
+C;X15;Y49;K58.75
+C;X16;Y49;K52.50
+C;X1;Y50;K"Expédition"
+C;X2;Y50;K"France : pomme de terre - export"
+C;X3;Y50;K"POMME DE TERRE div.var.cons France lavable cat.I 40-70mm big bag"
+C;X4;Y50;K"euro HT la tonne"
+C;X5;Y50;K308.00
+C;X6;Y50;K260.00
+C;X7;Y50;K230.00
+C;X8;Y50;K""
+C;X9;Y50;K""
+C;X10;Y50;K""
+C;X11;Y50;K""
+C;X12;Y50;K""
+C;X13;Y50;K""
+C;X14;Y50;K""
+C;X15;Y50;K""
+C;X16;Y50;K""
+C;X1;Y51;K"Expédition"
+C;X2;Y51;K"France : pomme de terre - export"
+C;X3;Y51;K"POMME DE TERRE div.var.cons France lavable cat.I +45mm big bag"
+C;X4;Y51;K"euro HT le kg"
+C;X5;Y51;K""
+C;X6;Y51;K""
+C;X7;Y51;K""
+C;X8;Y51;K""
+C;X9;Y51;K""
+C;X10;Y51;K120.00
+C;X11;Y51;K""
+C;X12;Y51;K""
+C;X13;Y51;K""
+C;X14;Y51;K""
+C;X15;Y51;K""
+C;X16;Y51;K""
+C;X1;Y52;K"Expédition"
+C;X2;Y52;K"France : pomme de terre - export"
+C;X3;Y52;K"POMME DE TERRE div.var.cons France lavable cat.I +45mm big bag"
+C;X4;Y52;K"euro HT la tonne"
+C;X5;Y52;K""
+C;X6;Y52;K""
+C;X7;Y52;K""
+C;X8;Y52;K""
+C;X9;Y52;K""
+C;X10;Y52;K130.00
+C;X11;Y52;K152.00
+C;X12;Y52;K160.00
+C;X13;Y52;K150.00
+C;X14;Y52;K145.00
+C;X15;Y52;K150.00
+C;X16;Y52;K130.00
+C;X1;Y53;K"Expédition"
+C;X2;Y53;K"France : pomme de terre - export"
+C;X3;Y53;K"POMME DE TERRE div.var.cons France lavable cat.I +45mm sac 5kg"
+C;X4;Y53;K"euro HT la tonne"
+C;X5;Y53;K""
+C;X6;Y53;K""
+C;X7;Y53;K""
+C;X8;Y53;K""
+C;X9;Y53;K""
+C;X10;Y53;K""
+C;X11;Y53;K250.00
+C;X12;Y53;K""
+C;X13;Y53;K220.00
+C;X14;Y53;K""
+C;X15;Y53;K""
+C;X16;Y53;K""
+C;X1;Y54;K"Expédition"
+C;X2;Y54;K"France : pomme de terre - export"
+C;X3;Y54;K"POMME DE TERRE div.var.cons France lavée cat.I +45mm sac 10kg"
+C;X4;Y54;K"euro HT la tonne"
+C;X5;Y54;K370.00
+C;X6;Y54;K410.00
+C;X7;Y54;K""
+C;X8;Y54;K""
+C;X9;Y54;K""
+C;X10;Y54;K230.00
+C;X11;Y54;K240.00
+C;X12;Y54;K237.50
+C;X13;Y54;K""
+C;X14;Y54;K213.33
+C;X15;Y54;K210.00
+C;X16;Y54;K""
+C;X1;Y55;K"Expédition"
+C;X2;Y55;K"France : pomme de terre - export"
+C;X3;Y55;K"POMME DE TERRE div.var.cons France lavée cat.I +45mm sac 5kg"
+C;X4;Y55;K"euro HT la tonne"
+C;X5;Y55;K""
+C;X6;Y55;K""
+C;X7;Y55;K""
+C;X8;Y55;K""
+C;X9;Y55;K""
+C;X10;Y55;K""
+C;X11;Y55;K""
+C;X12;Y55;K""
+C;X13;Y55;K""
+C;X14;Y55;K220.00
+C;X15;Y55;K220.00
+C;X16;Y55;K217.50
+C;X1;Y56;K"Expédition"
+C;X2;Y56;K"France : pomme de terre - export"
+C;X3;Y56;K"POMME DE TERRE div.var.cons France non lavée cat.II 50-75mm sac 10kg"
+C;X4;Y56;K"euro HT la tonne"
+C;X5;Y56;K254.00
+C;X6;Y56;K220.00
+C;X7;Y56;K210.00
+C;X8;Y56;K""
+C;X9;Y56;K""
+C;X10;Y56;K152.50
+C;X11;Y56;K142.00
+C;X12;Y56;K135.00
+C;X13;Y56;K130.00
+C;X14;Y56;K115.00
+C;X15;Y56;K115.00
+C;X16;Y56;K105.00
+C;X1;Y57;K"Expédition"
+C;X2;Y57;K"France : pomme de terre - export"
+C;X3;Y57;K"POMME DE TERRE div.var.cons France non lavée cat.II 50-75mm sac 25kg"
+C;X4;Y57;K"euro HT la tonne"
+C;X5;Y57;K240.00
+C;X6;Y57;K220.00
+C;X7;Y57;K""
+C;X8;Y57;K""
+C;X9;Y57;K""
+C;X10;Y57;K""
+C;X11;Y57;K""
+C;X12;Y57;K""
+C;X13;Y57;K""
+C;X14;Y57;K""
+C;X15;Y57;K""
+C;X16;Y57;K90.00
+C;X1;Y58;K"Expédition"
+C;X2;Y58;K"France : pomme de terre - export"
+C;X3;Y58;K"POMME DE TERRE div.var.cons France non lavée-non lavable cat.I +45mm big bag Fritable"
+C;X4;Y58;K"euro HT la tonne"
+C;X5;Y58;K280.00
+C;X6;Y58;K""
+C;X7;Y58;K""
+C;X8;Y58;K""
+C;X9;Y58;K""
+C;X10;Y58;K""
+C;X11;Y58;K""
+C;X12;Y58;K""
+C;X13;Y58;K""
+C;X14;Y58;K""
+C;X15;Y58;K""
+C;X16;Y58;K""
+C;X1;Y59;K"Expédition"
+C;X2;Y59;K"France : pomme de terre - export"
+C;X3;Y59;K"POMME DE TERRE div.var. fritable conso frais France non lavée-non lavable cat.I +45mm big bag"
+C;X4;Y59;K"euro HT le kg"
+C;X5;Y59;K297.50
+C;X6;Y59;K266.67
+C;X7;Y59;K250.00
+C;X8;Y59;K""
+C;X9;Y59;K""
+C;X10;Y59;K""
+C;X11;Y59;K""
+C;X12;Y59;K""
+C;X13;Y59;K""
+C;X14;Y59;K""
+C;X15;Y59;K""
+C;X16;Y59;K""
+C;X1;Y60;K"Expédition"
+C;X2;Y60;K"France : pomme de terre - export"
+C;X3;Y60;K"POMME DE TERRE div.var. fritable conso frais France non lavée-non lavable cat.I +45mm big bag"
+C;X4;Y60;K"euro HT la tonne"
+C;X5;Y60;K""
+C;X6;Y60;K""
+C;X7;Y60;K""
+C;X8;Y60;K""
+C;X9;Y60;K""
+C;X10;Y60;K170.00
+C;X11;Y60;K158.00
+C;X12;Y60;K150.00
+C;X13;Y60;K132.00
+C;X14;Y60;K131.25
+C;X15;Y60;K120.00
+C;X16;Y60;K120.00
+C;X1;Y61;K"Expédition"
+C;X2;Y61;K"France : pomme de terre - export"
+C;X3;Y61;K"POMME DE TERRE div.var. fritable type industrie France non lavée-non lavable cat.I +45mm big bag"
+C;X4;Y61;K"euro HT la tonne"
+C;X5;Y61;K""
+C;X6;Y61;K""
+C;X7;Y61;K""
+C;X8;Y61;K""
+C;X9;Y61;K""
+C;X10;Y61;K100.00
+C;X11;Y61;K90.00
+C;X12;Y61;K95.00
+C;X13;Y61;K72.00
+C;X14;Y61;K70.00
+C;X15;Y61;K67.50
+C;X16;Y61;K57.50
+C;X1;Y62;K"Expédition"
+C;X2;Y62;K"France : pomme de terre - export"
+C;X3;Y62;K"POMME DE TERRE div.var. fritable type industrie France non lavée-non lavable cat.I +45mm big bag"
+C;X4;Y62;K"euro HT le kg"
+C;X5;Y62;K205.00
+C;X6;Y62;K186.67
+C;X7;Y62;K180.00
+C;X8;Y62;K""
+C;X9;Y62;K""
+C;X10;Y62;K""
+C;X11;Y62;K""
+C;X12;Y62;K""
+C;X13;Y62;K""
+C;X14;Y62;K""
+C;X15;Y62;K""
+C;X16;Y62;K""
+C;X1;Y63;K"Expédition"
+C;X2;Y63;K"France : pomme de terre - export"
+C;X3;Y63;K"POMME DE TERRE peau rouge France lavable cat.I +45mm big bag"
+C;X4;Y63;K"euro HT la tonne"
+C;X5;Y63;K238.00
+C;X6;Y63;K210.00
+C;X7;Y63;K190.00
+C;X8;Y63;K""
+C;X9;Y63;K""
+C;X10;Y63;K162.50
+C;X11;Y63;K160.00
+C;X12;Y63;K152.50
+C;X13;Y63;K142.00
+C;X14;Y63;K138.75
+C;X15;Y63;K155.00
+C;X16;Y63;K241.25
+C;X1;Y64;K"Expédition"
+C;X2;Y64;K"France : pomme de terre - export"
+C;X3;Y64;K"POMME DE TERRE peau rouge France lavée cat.I +50mm sac 10kg"
+C;X4;Y64;K"euro HT la tonne"
+C;X5;Y64;K""
+C;X6;Y64;K""
+C;X7;Y64;K""
+C;X8;Y64;K""
+C;X9;Y64;K""
+C;X10;Y64;K225.00
+C;X11;Y64;K""
+C;X12;Y64;K""
+C;X13;Y64;K""
+C;X14;Y64;K""
+C;X15;Y64;K""
+C;X16;Y64;K293.33
+C;X1;Y65;K"Expédition"
+C;X2;Y65;K"France : pomme de terre - export"
+C;X3;Y65;K"POMME DE TERRE peau rouge France lavée cat.I +50mm sac 15kg"
+C;X4;Y65;K"euro HT la tonne"
+C;X5;Y65;K336.00
+C;X6;Y65;K290.00
+C;X7;Y65;K270.00
+C;X8;Y65;K""
+C;X9;Y65;K""
+C;X10;Y65;K240.00
+C;X11;Y65;K232.00
+C;X12;Y65;K225.00
+C;X13;Y65;K218.00
+C;X14;Y65;K220.00
+C;X15;Y65;K222.50
+C;X16;Y65;K250.00
+C;X1;Y66;K"Expédition"
+C;X2;Y66;K"France : pomme de terre - export"
+C;X3;Y66;K"POMME DE TERRE peau rouge France non lavée cat.II 50-75mm sac 10kg"
+C;X4;Y66;K"euro HT la tonne"
+C;X5;Y66;K237.50
+C;X6;Y66;K203.33
+C;X7;Y66;K190.00
+C;X8;Y66;K""
+C;X9;Y66;K""
+C;X10;Y66;K""
+C;X11;Y66;K152.50
+C;X12;Y66;K136.25
+C;X13;Y66;K124.00
+C;X14;Y66;K120.00
+C;X15;Y66;K120.00
+C;X16;Y66;K160.00
+C;X1;Y67;K"Expédition"
+C;X2;Y67;K"France : pomme de terre - industrie"
+C;X3;Y67;K"POMME DE TERRE CHAIR NORMALE div.var.cons France non lavée 360g sous eau industrie Tout venant  35mm et + Fritable"
+C;X4;Y67;K"euro HT la tonne"
+C;X5;Y67;K100.00
+C;X6;Y67;K87.50
+C;X7;Y67;K65.00
+C;X8;Y67;K""
+C;X9;Y67;K""
+C;X10;Y67;K""
+C;X11;Y67;K""
+C;X12;Y67;K""
+C;X13;Y67;K""
+C;X14;Y67;K""
+C;X15;Y67;K""
+C;X16;Y67;K""
+C;X1;Y68;K"Expédition"
+C;X2;Y68;K"France : pomme de terre - industrie"
+C;X3;Y68;K"POMME DE TERRE Fontane France +35mm vrac Fritable"
+C;X4;Y68;K"euro HT la tonne"
+C;X5;Y68;K100.00
+C;X6;Y68;K87.50
+C;X7;Y68;K65.00
+C;X8;Y68;K""
+C;X9;Y68;K""
+C;X10;Y68;K""
+C;X11;Y68;K""
+C;X12;Y68;K""
+C;X13;Y68;K30.00
+C;X14;Y68;K""
+C;X15;Y68;K""
+C;X16;Y68;K""
+C;X1;Y69;K"Expédition"
+C;X2;Y69;K"France : pomme de terre - industrie"
+C;X3;Y69;K"POMME DE TERRE Innovator France +35mm vrac Fritable"
+C;X4;Y69;K"euro HT la tonne"
+C;X5;Y69;K""
+C;X6;Y69;K""
+C;X7;Y69;K""
+C;X8;Y69;K""
+C;X9;Y69;K""
+C;X10;Y69;K""
+C;X11;Y69;K30.00
+C;X12;Y69;K""
+C;X13;Y69;K""
+C;X14;Y69;K""
+C;X15;Y69;K""
+C;X16;Y69;K""
+C;X1;Y70;K"Grossistes"
+C;X2;Y70;K"France : fruits et légumes bio - grossistes"
+C;X3;Y70;K"POMME DE TERRE de conservation France biologique"
+C;X4;Y70;K"euro HT le kg"
+C;X5;Y70;K1.57
+C;X6;Y70;K1.57
+C;X7;Y70;K1.57
+C;X8;Y70;K1.51
+C;X9;Y70;K1.58
+C;X10;Y70;K1.53
+C;X11;Y70;K1.39
+C;X12;Y70;K1.28
+C;X13;Y70;K1.26
+C;X14;Y70;K1.27
+C;X15;Y70;K1.23
+C;X16;Y70;K1.19
+C;X1;Y71;K"Grossistes"
+C;X2;Y71;K"France : fruits et légumes bio - grossistes"
+C;X3;Y71;K"POMME DE TERRE primeur France biologique"
+C;X4;Y71;K"euro HT le kg"
+C;X5;Y71;K5.51
+C;X6;Y71;K4.06
+C;X7;Y71;K2.42
+C;X8;Y71;K1.99
+C;X9;Y71;K1.76
+C;X10;Y71;K""
+C;X11;Y71;K""
+C;X12;Y71;K""
+C;X13;Y71;K""
+C;X14;Y71;K""
+C;X15;Y71;K""
+C;X16;Y71;K""
+C;X1;Y72;K"Grossistes"
+C;X2;Y72;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y72;K"POMME DE TERRE Agata France lavée cat.I 50-75mm sac 15kg"
+C;X4;Y72;K"euro HT le kg"
+C;X5;Y72;K0.95
+C;X6;Y72;K0.93
+C;X7;Y72;K0.90
+C;X8;Y72;K0.80
+C;X9;Y72;K0.70
+C;X10;Y72;K0.70
+C;X11;Y72;K0.75
+C;X12;Y72;K0.74
+C;X13;Y72;K0.70
+C;X14;Y72;K0.70
+C;X15;Y72;K0.68
+C;X16;Y72;K0.65
+C;X1;Y73;K"Grossistes"
+C;X2;Y73;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y73;K"POMME DE TERRE Agata France lavée cat.I carton 12,5kg consommation"
+C;X4;Y73;K"euro HT le kg"
+C;X5;Y73;K""
+C;X6;Y73;K""
+C;X7;Y73;K""
+C;X8;Y73;K0.80
+C;X9;Y73;K""
+C;X10;Y73;K""
+C;X11;Y73;K""
+C;X12;Y73;K""
+C;X13;Y73;K""
+C;X14;Y73;K""
+C;X15;Y73;K""
+C;X16;Y73;K""
+C;X1;Y74;K"Grossistes"
+C;X2;Y74;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y74;K"POMME DE TERRE CHAIR FERME Charlotte primeur France lavée cat.I +35mm"
+C;X4;Y74;K"euro HT le kg"
+C;X5;Y74;K""
+C;X6;Y74;K""
+C;X7;Y74;K1.80
+C;X8;Y74;K1.48
+C;X9;Y74;K""
+C;X10;Y74;K""
+C;X11;Y74;K""
+C;X12;Y74;K""
+C;X13;Y74;K""
+C;X14;Y74;K""
+C;X15;Y74;K""
+C;X16;Y74;K""
+C;X1;Y75;K"Grossistes"
+C;X2;Y75;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y75;K"POMME DE TERRE CHAIR FERME France lavée cat.I grenaille carton 12,5kg"
+C;X4;Y75;K"euro HT le kg"
+C;X5;Y75;K1.40
+C;X6;Y75;K1.48
+C;X7;Y75;K1.52
+C;X8;Y75;K1.54
+C;X9;Y75;K1.40
+C;X10;Y75;K1.40
+C;X11;Y75;K1.36
+C;X12;Y75;K1.32
+C;X13;Y75;K1.30
+C;X14;Y75;K1.30
+C;X15;Y75;K1.27
+C;X16;Y75;K1.25
+C;X1;Y76;K"Grossistes"
+C;X2;Y76;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y76;K"POMME DE TERRE CHAIR FERME Noirmoutier lavée cat.I grenaille cagette 5kg"
+C;X4;Y76;K"euro HT le kg"
+C;X5;Y76;K""
+C;X6;Y76;K""
+C;X7;Y76;K3.85
+C;X8;Y76;K3.25
+C;X9;Y76;K""
+C;X10;Y76;K""
+C;X11;Y76;K""
+C;X12;Y76;K""
+C;X13;Y76;K""
+C;X14;Y76;K""
+C;X15;Y76;K""
+C;X16;Y76;K""
+C;X1;Y77;K"Grossistes"
+C;X2;Y77;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y77;K"POMME DE TERRE CHAIR FERME peau jaune France lavée cat.I 35-55mm carton 12,5kg"
+C;X4;Y77;K"euro HT le kg"
+C;X5;Y77;K1.19
+C;X6;Y77;K1.20
+C;X7;Y77;K1.20
+C;X8;Y77;K1.14
+C;X9;Y77;K0.90
+C;X10;Y77;K0.97
+C;X11;Y77;K0.96
+C;X12;Y77;K0.90
+C;X13;Y77;K0.90
+C;X14;Y77;K0.90
+C;X15;Y77;K0.89
+C;X16;Y77;K0.90
+C;X1;Y78;K"Grossistes"
+C;X2;Y78;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y78;K"POMME DE TERRE CHAIR FERME peau rouge France lavée cat.I 35-55mm carton 12,5kg"
+C;X4;Y78;K"euro HT le kg"
+C;X5;Y78;K1.20
+C;X6;Y78;K1.20
+C;X7;Y78;K1.20
+C;X8;Y78;K""
+C;X9;Y78;K1.10
+C;X10;Y78;K1.10
+C;X11;Y78;K1.02
+C;X12;Y78;K0.96
+C;X13;Y78;K0.90
+C;X14;Y78;K0.93
+C;X15;Y78;K0.94
+C;X16;Y78;K0.95
+C;X1;Y79;K"Grossistes"
+C;X2;Y79;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y79;K"POMME DE TERRE CHAIR FERME primeur Noirmoutier lavée cat.I +35mm cagette 5kg"
+C;X4;Y79;K"euro HT le kg"
+C;X5;Y79;K""
+C;X6;Y79;K3.50
+C;X7;Y79;K3.12
+C;X8;Y79;K1.98
+C;X9;Y79;K""
+C;X10;Y79;K""
+C;X11;Y79;K""
+C;X12;Y79;K""
+C;X13;Y79;K""
+C;X14;Y79;K""
+C;X15;Y79;K""
+C;X16;Y79;K""
+C;X1;Y80;K"Grossistes"
+C;X2;Y80;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y80;K"POMME DE TERRE CHAIR FERME primeur Roussillon cat.I carton 12,5kg"
+C;X4;Y80;K"euro HT le kg"
+C;X5;Y80;K""
+C;X6;Y80;K""
+C;X7;Y80;K""
+C;X8;Y80;K1.52
+C;X9;Y80;K""
+C;X10;Y80;K""
+C;X11;Y80;K""
+C;X12;Y80;K""
+C;X13;Y80;K""
+C;X14;Y80;K""
+C;X15;Y80;K""
+C;X16;Y80;K""
+C;X1;Y81;K"Grossistes"
+C;X2;Y81;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y81;K"POMME DE TERRE CHAIR NORMALE div.var.cons de conservation France non lavée cat.II +60mm filet 25kg"
+C;X4;Y81;K"euro HT le kg"
+C;X5;Y81;K0.75
+C;X6;Y81;K""
+C;X7;Y81;K""
+C;X8;Y81;K""
+C;X9;Y81;K""
+C;X10;Y81;K""
+C;X11;Y81;K""
+C;X12;Y81;K""
+C;X13;Y81;K""
+C;X14;Y81;K""
+C;X15;Y81;K""
+C;X16;Y81;K""
+C;X1;Y82;K"Grossistes"
+C;X2;Y82;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y82;K"POMME DE TERRE CHAIR NORMALE France non lavée cat.I +50mm filet 5kg"
+C;X4;Y82;K"euro HT le kg"
+C;X5;Y82;K0.48
+C;X6;Y82;K0.48
+C;X7;Y82;K""
+C;X8;Y82;K""
+C;X9;Y82;K""
+C;X10;Y82;K0.38
+C;X11;Y82;K0.33
+C;X12;Y82;K0.34
+C;X13;Y82;K0.35
+C;X14;Y82;K0.35
+C;X15;Y82;K""
+C;X16;Y82;K""
+C;X1;Y83;K"Grossistes"
+C;X2;Y83;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y83;K"POMME DE TERRE div.var.cons France lavée cat.I 40-70mm filet 5kg"
+C;X4;Y83;K"euro HT le kg"
+C;X5;Y83;K0.50
+C;X6;Y83;K0.47
+C;X7;Y83;K0.45
+C;X8;Y83;K0.45
+C;X9;Y83;K0.45
+C;X10;Y83;K0.45
+C;X11;Y83;K0.34
+C;X12;Y83;K0.32
+C;X13;Y83;K0.31
+C;X14;Y83;K0.30
+C;X15;Y83;K0.30
+C;X16;Y83;K0.28
+C;X1;Y84;K"Grossistes"
+C;X2;Y84;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y84;K"POMME DE TERRE div.var.cons France lavée cat.I 50-75mm filet 5kg"
+C;X4;Y84;K"euro HT le kg"
+C;X5;Y84;K0.50
+C;X6;Y84;K0.47
+C;X7;Y84;K0.45
+C;X8;Y84;K0.50
+C;X9;Y84;K0.50
+C;X10;Y84;K""
+C;X11;Y84;K""
+C;X12;Y84;K""
+C;X13;Y84;K""
+C;X14;Y84;K0.35
+C;X15;Y84;K0.35
+C;X16;Y84;K0.35
+C;X1;Y85;K"Grossistes"
+C;X2;Y85;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y85;K"POMME DE TERRE div.var.cons France lavée cat.I 50-75mm sac 10kg"
+C;X4;Y85;K"euro HT le kg"
+C;X5;Y85;K""
+C;X6;Y85;K""
+C;X7;Y85;K""
+C;X8;Y85;K0.80
+C;X9;Y85;K""
+C;X10;Y85;K""
+C;X11;Y85;K""
+C;X12;Y85;K""
+C;X13;Y85;K""
+C;X14;Y85;K""
+C;X15;Y85;K""
+C;X16;Y85;K""
+C;X1;Y86;K"Grossistes"
+C;X2;Y86;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y86;K"POMME DE TERRE div.var.cons France non lavée 50-75mm filet 5kg"
+C;X4;Y86;K"euro HT le kg"
+C;X5;Y86;K""
+C;X6;Y86;K""
+C;X7;Y86;K""
+C;X8;Y86;K""
+C;X9;Y86;K""
+C;X10;Y86;K""
+C;X11;Y86;K""
+C;X12;Y86;K""
+C;X13;Y86;K""
+C;X14;Y86;K""
+C;X15;Y86;K0.34
+C;X16;Y86;K0.30
+C;X1;Y87;K"Grossistes"
+C;X2;Y87;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y87;K"POMME DE TERRE div.var.cons France non lavée cat.I 40-70mm filet 5kg"
+C;X4;Y87;K"euro HT le kg"
+C;X5;Y87;K0.50
+C;X6;Y87;K0.40
+C;X7;Y87;K0.35
+C;X8;Y87;K""
+C;X9;Y87;K""
+C;X10;Y87;K0.40
+C;X11;Y87;K0.30
+C;X12;Y87;K0.30
+C;X13;Y87;K0.25
+C;X14;Y87;K0.25
+C;X15;Y87;K0.25
+C;X16;Y87;K0.25
+C;X1;Y88;K"Grossistes"
+C;X2;Y88;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y88;K"POMME DE TERRE div.var.cons France non lavée cat.I +60mm filet 25kg"
+C;X4;Y88;K"euro HT le kg"
+C;X5;Y88;K0.75
+C;X6;Y88;K0.75
+C;X7;Y88;K0.75
+C;X8;Y88;K""
+C;X9;Y88;K""
+C;X10;Y88;K0.65
+C;X11;Y88;K0.69
+C;X12;Y88;K0.72
+C;X13;Y88;K0.75
+C;X14;Y88;K0.75
+C;X15;Y88;K0.76
+C;X16;Y88;K0.75
+C;X1;Y89;K"Grossistes"
+C;X2;Y89;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y89;K"POMME DE TERRE Spunta Italie lavée cat.I 40-75mm caisse bois"
+C;X4;Y89;K"euro HT le kg"
+C;X5;Y89;K1.43
+C;X6;Y89;K1.40
+C;X7;Y89;K1.25
+C;X8;Y89;K0.85
+C;X9;Y89;K0.75
+C;X10;Y89;K0.75
+C;X11;Y89;K""
+C;X12;Y89;K""
+C;X13;Y89;K""
+C;X14;Y89;K""
+C;X15;Y89;K""
+C;X16;Y89;K""
+C;X1;Y90;K"Grossistes"
+C;X2;Y90;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y90;K"POMME DE TERRE Agata France lavée cat.I 50-75mm sac 10kg"
+C;X4;Y90;K"euro HT le kg"
+C;X5;Y90;K0.68
+C;X6;Y90;K0.67
+C;X7;Y90;K0.67
+C;X8;Y90;K0.69
+C;X9;Y90;K0.62
+C;X10;Y90;K0.50
+C;X11;Y90;K0.45
+C;X12;Y90;K0.43
+C;X13;Y90;K0.44
+C;X14;Y90;K0.47
+C;X15;Y90;K0.47
+C;X16;Y90;K0.46
+C;X1;Y91;K"Grossistes"
+C;X2;Y91;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y91;K"POMME DE TERRE CHAIR FERME Celtiane France lavée cat.I carton 12,5kg"
+C;X4;Y91;K"euro HT le kg"
+C;X5;Y91;K1.38
+C;X6;Y91;K1.37
+C;X7;Y91;K1.49
+C;X8;Y91;K1.51
+C;X9;Y91;K1.38
+C;X10;Y91;K1.31
+C;X11;Y91;K1.23
+C;X12;Y91;K1.14
+C;X13;Y91;K1.14
+C;X14;Y91;K1.12
+C;X15;Y91;K1.07
+C;X16;Y91;K1.05
+C;X1;Y92;K"Grossistes"
+C;X2;Y92;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y92;K"POMME DE TERRE CHAIR FERME chérie France cat.I carton 12,5kg"
+C;X4;Y92;K"euro HT le kg"
+C;X5;Y92;K1.23
+C;X6;Y92;K1.23
+C;X7;Y92;K1.25
+C;X8;Y92;K1.34
+C;X9;Y92;K1.20
+C;X10;Y92;K1.20
+C;X11;Y92;K1.18
+C;X12;Y92;K1.14
+C;X13;Y92;K1.15
+C;X14;Y92;K1.13
+C;X15;Y92;K1.10
+C;X16;Y92;K1.05
+C;X1;Y93;K"Grossistes"
+C;X2;Y93;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y93;K"POMME DE TERRE CHAIR FERME Jazzy France lavée cat.I carton 12,5kg"
+C;X4;Y93;K"euro HT le kg"
+C;X5;Y93;K1.03
+C;X6;Y93;K1.09
+C;X7;Y93;K1.04
+C;X8;Y93;K1.15
+C;X9;Y93;K1.01
+C;X10;Y93;K0.97
+C;X11;Y93;K0.96
+C;X12;Y93;K0.92
+C;X13;Y93;K0.94
+C;X14;Y93;K0.93
+C;X15;Y93;K0.90
+C;X16;Y93;K0.89
+C;X1;Y94;K"Grossistes"
+C;X2;Y94;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y94;K"POMME DE TERRE CHAIR FERME Linzer délicatess France lavée cat.I 17-35mm"
+C;X4;Y94;K"euro HT le kg"
+C;X5;Y94;K9.67
+C;X6;Y94;K6.98
+C;X7;Y94;K4.42
+C;X8;Y94;K3.65
+C;X9;Y94;K3.80
+C;X10;Y94;K3.80
+C;X11;Y94;K""
+C;X12;Y94;K""
+C;X13;Y94;K""
+C;X14;Y94;K""
+C;X15;Y94;K""
+C;X16;Y94;K10.50
+C;X1;Y95;K"Grossistes"
+C;X2;Y95;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y95;K"POMME DE TERRE CHAIR FERME Linzer délicatess France lavée cat.I 28-35mm"
+C;X4;Y95;K"euro HT le kg"
+C;X5;Y95;K""
+C;X6;Y95;K5.29
+C;X7;Y95;K2.96
+C;X8;Y95;K2.37
+C;X9;Y95;K2.17
+C;X10;Y95;K1.98
+C;X11;Y95;K""
+C;X12;Y95;K""
+C;X13;Y95;K""
+C;X14;Y95;K""
+C;X15;Y95;K""
+C;X16;Y95;K8.50
+C;X1;Y96;K"Grossistes"
+C;X2;Y96;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y96;K"POMME DE TERRE CHAIR FERME Linzer délicatess France lavée cat.I +35mm"
+C;X4;Y96;K"euro HT le kg"
+C;X5;Y96;K7.79
+C;X6;Y96;K4.09
+C;X7;Y96;K2.07
+C;X8;Y96;K1.36
+C;X9;Y96;K1.36
+C;X10;Y96;K1.24
+C;X11;Y96;K""
+C;X12;Y96;K""
+C;X13;Y96;K""
+C;X14;Y96;K""
+C;X15;Y96;K""
+C;X16;Y96;K6.50
+C;X1;Y97;K"Grossistes"
+C;X2;Y97;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y97;K"POMME DE TERRE CHAIR FERME Spunta Italie cat.II"
+C;X4;Y97;K"euro HT le kg"
+C;X5;Y97;K""
+C;X6;Y97;K""
+C;X7;Y97;K0.87
+C;X8;Y97;K0.72
+C;X9;Y97;K0.70
+C;X10;Y97;K0.67
+C;X11;Y97;K0.65
+C;X12;Y97;K""
+C;X13;Y97;K""
+C;X14;Y97;K""
+C;X15;Y97;K""
+C;X16;Y97;K""
+C;X1;Y98;K"Grossistes"
+C;X2;Y98;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y98;K"POMME DE TERRE div.var.cons France non lavée cat.II 60-75mm sac 10kg"
+C;X4;Y98;K"euro HT le kg"
+C;X5;Y98;K0.56
+C;X6;Y98;K0.55
+C;X7;Y98;K0.55
+C;X8;Y98;K0.51
+C;X9;Y98;K0.49
+C;X10;Y98;K0.44
+C;X11;Y98;K0.37
+C;X12;Y98;K0.38
+C;X13;Y98;K0.38
+C;X14;Y98;K0.40
+C;X15;Y98;K0.38
+C;X16;Y98;K0.36
+C;X1;Y99;K"Grossistes"
+C;X2;Y99;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y99;K"POMME DE TERRE Agata France lavée cat.I carton 12,5kg"
+C;X4;Y99;K"euro HT le kg"
+C;X5;Y99;K1.00
+C;X6;Y99;K1.00
+C;X7;Y99;K1.00
+C;X8;Y99;K1.03
+C;X9;Y99;K0.96
+C;X10;Y99;K0.89
+C;X11;Y99;K0.81
+C;X12;Y99;K0.80
+C;X13;Y99;K0.80
+C;X14;Y99;K0.76
+C;X15;Y99;K0.78
+C;X16;Y99;K0.80
+C;X1;Y100;K"Grossistes"
+C;X2;Y100;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y100;K"POMME DE TERRE Amandine France lavée cat.I carton 12,5kg"
+C;X4;Y100;K"euro HT le kg"
+C;X5;Y100;K1.70
+C;X6;Y100;K1.70
+C;X7;Y100;K1.70
+C;X8;Y100;K""
+C;X9;Y100;K1.88
+C;X10;Y100;K1.84
+C;X11;Y100;K1.73
+C;X12;Y100;K1.60
+C;X13;Y100;K1.48
+C;X14;Y100;K1.60
+C;X15;Y100;K1.60
+C;X16;Y100;K1.60
+C;X1;Y101;K"Grossistes"
+C;X2;Y101;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y101;K"POMME DE TERRE Bintje France cat.I +50mm sac 10kg"
+C;X4;Y101;K"euro HT le kg"
+C;X5;Y101;K0.70
+C;X6;Y101;K0.69
+C;X7;Y101;K0.65
+C;X8;Y101;K0.62
+C;X9;Y101;K""
+C;X10;Y101;K""
+C;X11;Y101;K0.57
+C;X12;Y101;K0.50
+C;X13;Y101;K0.48
+C;X14;Y101;K0.48
+C;X15;Y101;K0.48
+C;X16;Y101;K0.49
+C;X1;Y102;K"Grossistes"
+C;X2;Y102;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y102;K"POMME DE TERRE CHAIR FERME chérie France lavée cat.I carton 12,5kg"
+C;X4;Y102;K"euro HT le kg"
+C;X5;Y102;K1.08
+C;X6;Y102;K1.07
+C;X7;Y102;K1.07
+C;X8;Y102;K""
+C;X9;Y102;K""
+C;X10;Y102;K1.00
+C;X11;Y102;K1.05
+C;X12;Y102;K1.05
+C;X13;Y102;K1.00
+C;X14;Y102;K1.00
+C;X15;Y102;K1.00
+C;X16;Y102;K1.00
+C;X1;Y103;K"Grossistes"
+C;X2;Y103;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y103;K"POMME DE TERRE CHAIR FERME Ratte France lavée cat.I cagette 5kg"
+C;X4;Y103;K"euro HT le kg"
+C;X5;Y103;K2.46
+C;X6;Y103;K2.45
+C;X7;Y103;K2.45
+C;X8;Y103;K2.45
+C;X9;Y103;K""
+C;X10;Y103;K2.50
+C;X11;Y103;K2.57
+C;X12;Y103;K2.59
+C;X13;Y103;K2.60
+C;X14;Y103;K2.67
+C;X15;Y103;K2.65
+C;X16;Y103;K2.60
+C;X1;Y104;K"Grossistes"
+C;X2;Y104;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y104;K"POMME DE TERRE France cat.I grenaille carton 10kg"
+C;X4;Y104;K"euro HT le kg"
+C;X5;Y104;K""
+C;X6;Y104;K""
+C;X7;Y104;K""
+C;X8;Y104;K1.55
+C;X9;Y104;K1.49
+C;X10;Y104;K1.40
+C;X11;Y104;K1.40
+C;X12;Y104;K1.36
+C;X13;Y104;K1.35
+C;X14;Y104;K1.38
+C;X15;Y104;K1.35
+C;X16;Y104;K1.30
+C;X1;Y105;K"Grossistes"
+C;X2;Y105;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y105;K"POMME DE TERRE Linzer délicatess France cat.I cagette 5kg"
+C;X4;Y105;K"euro HT le kg"
+C;X5;Y105;K""
+C;X6;Y105;K""
+C;X7;Y105;K""
+C;X8;Y105;K4.50
+C;X9;Y105;K""
+C;X10;Y105;K3.40
+C;X11;Y105;K3.40
+C;X12;Y105;K""
+C;X13;Y105;K""
+C;X14;Y105;K""
+C;X15;Y105;K""
+C;X16;Y105;K""
+C;X1;Y106;K"Grossistes"
+C;X2;Y106;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y106;K"POMME DE TERRE Monalisa France cat.I +50mm sac 10kg"
+C;X4;Y106;K"euro HT le kg"
+C;X5;Y106;K0.89
+C;X6;Y106;K0.85
+C;X7;Y106;K0.85
+C;X8;Y106;K0.85
+C;X9;Y106;K""
+C;X10;Y106;K""
+C;X11;Y106;K""
+C;X12;Y106;K""
+C;X13;Y106;K""
+C;X14;Y106;K0.72
+C;X15;Y106;K0.70
+C;X16;Y106;K0.70
+C;X1;Y107;K"Grossistes"
+C;X2;Y107;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y107;K"POMME DE TERRE Spunta Italie cat.I"
+C;X4;Y107;K"euro HT le kg"
+C;X5;Y107;K1.74
+C;X6;Y107;K1.65
+C;X7;Y107;K1.44
+C;X8;Y107;K1.36
+C;X9;Y107;K1.15
+C;X10;Y107;K""
+C;X11;Y107;K""
+C;X12;Y107;K""
+C;X13;Y107;K""
+C;X14;Y107;K""
+C;X15;Y107;K""
+C;X16;Y107;K""
+C;X1;Y108;K"Grossistes"
+C;X2;Y108;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y108;K"POMME DE TERRE Vitelotte noire France lavée cat.I cagette 5kg"
+C;X4;Y108;K"euro HT le kg"
+C;X5;Y108;K""
+C;X6;Y108;K""
+C;X7;Y108;K""
+C;X8;Y108;K""
+C;X9;Y108;K""
+C;X10;Y108;K""
+C;X11;Y108;K3.20
+C;X12;Y108;K3.05
+C;X13;Y108;K2.95
+C;X14;Y108;K2.85
+C;X15;Y108;K2.75
+C;X16;Y108;K""
+C;X1;Y109;K"Grossistes"
+C;X2;Y109;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y109;K"POMME DE TERRE Bintje France cat.I 60-75mm sac 10kg"
+C;X4;Y109;K"euro HT le kg"
+C;X5;Y109;K0.69
+C;X6;Y109;K0.70
+C;X7;Y109;K0.69
+C;X8;Y109;K0.73
+C;X9;Y109;K""
+C;X10;Y109;K0.60
+C;X11;Y109;K0.54
+C;X12;Y109;K0.50
+C;X13;Y109;K0.53
+C;X14;Y109;K0.51
+C;X15;Y109;K0.52
+C;X16;Y109;K0.50
+C;X1;Y110;K"Grossistes"
+C;X2;Y110;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y110;K"POMME DE TERRE CHAIR FERME Agata France cat.I 50-75mm sac 10kg"
+C;X4;Y110;K"euro HT le kg"
+C;X5;Y110;K0.81
+C;X6;Y110;K0.82
+C;X7;Y110;K0.81
+C;X8;Y110;K0.84
+C;X9;Y110;K0.79
+C;X10;Y110;K0.68
+C;X11;Y110;K0.64
+C;X12;Y110;K0.60
+C;X13;Y110;K0.61
+C;X14;Y110;K0.60
+C;X15;Y110;K0.60
+C;X16;Y110;K0.60
+C;X1;Y111;K"Grossistes"
+C;X2;Y111;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y111;K"POMME DE TERRE CHAIR FERME Amandine France cat.I 35-50mm carton 12,5kg"
+C;X4;Y111;K"euro HT le kg"
+C;X5;Y111;K1.60
+C;X6;Y111;K1.65
+C;X7;Y111;K""
+C;X8;Y111;K""
+C;X9;Y111;K""
+C;X10;Y111;K1.70
+C;X11;Y111;K1.51
+C;X12;Y111;K1.54
+C;X13;Y111;K1.55
+C;X14;Y111;K1.53
+C;X15;Y111;K1.50
+C;X16;Y111;K1.56
+C;X1;Y112;K"Grossistes"
+C;X2;Y112;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y112;K"POMME DE TERRE CHAIR FERME Celtiane France cat.I 35-65mm carton 12,5kg"
+C;X4;Y112;K"euro HT le kg"
+C;X5;Y112;K1.60
+C;X6;Y112;K1.60
+C;X7;Y112;K""
+C;X8;Y112;K1.80
+C;X9;Y112;K1.53
+C;X10;Y112;K1.44
+C;X11;Y112;K1.27
+C;X12;Y112;K1.23
+C;X13;Y112;K1.20
+C;X14;Y112;K1.20
+C;X15;Y112;K1.20
+C;X16;Y112;K1.16
+C;X1;Y113;K"Grossistes"
+C;X2;Y113;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y113;K"POMME DE TERRE CHAIR NORMALE Spunta de conservation Italie lavée cat.I carton 12,5kg"
+C;X4;Y113;K"euro HT le kg"
+C;X5;Y113;K1.63
+C;X6;Y113;K1.54
+C;X7;Y113;K1.26
+C;X8;Y113;K1.06
+C;X9;Y113;K0.99
+C;X10;Y113;K1.00
+C;X11;Y113;K""
+C;X12;Y113;K""
+C;X13;Y113;K""
+C;X14;Y113;K""
+C;X15;Y113;K""
+C;X16;Y113;K""
+C;X1;Y114;K"Grossistes"
+C;X2;Y114;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y114;K"POMME DE TERRE div.var.cons France cat.I 60-75mm filet 10kg"
+C;X4;Y114;K"euro HT le kg"
+C;X5;Y114;K0.81
+C;X6;Y114;K0.85
+C;X7;Y114;K0.84
+C;X8;Y114;K0.86
+C;X9;Y114;K0.80
+C;X10;Y114;K""
+C;X11;Y114;K""
+C;X12;Y114;K""
+C;X13;Y114;K""
+C;X14;Y114;K0.70
+C;X15;Y114;K0.70
+C;X16;Y114;K""
+C;X1;Y115;K"Grossistes"
+C;X2;Y115;K"MIN de Marseille : fruits et légumes"
+C;X3;Y115;K"POMME DE TERRE CHAIR FERME Celtiane France lavée cat.I carton 12,5kg"
+C;X4;Y115;K"euro HT le kg"
+C;X5;Y115;K1.61
+C;X6;Y115;K""
+C;X7;Y115;K""
+C;X8;Y115;K1.67
+C;X9;Y115;K1.54
+C;X10;Y115;K1.47
+C;X11;Y115;K1.51
+C;X12;Y115;K1.49
+C;X13;Y115;K1.49
+C;X14;Y115;K1.49
+C;X15;Y115;K1.39
+C;X16;Y115;K1.24
+C;X1;Y116;K"Grossistes"
+C;X2;Y116;K"MIN de Marseille : fruits et légumes"
+C;X3;Y116;K"POMME DE TERRE CHAIR FERME Celtiane primeur Israël lavée cat.I carton 12,5kg"
+C;X4;Y116;K"euro HT le kg"
+C;X5;Y116;K""
+C;X6;Y116;K1.73
+C;X7;Y116;K1.69
+C;X8;Y116;K1.69
+C;X9;Y116;K""
+C;X10;Y116;K""
+C;X11;Y116;K""
+C;X12;Y116;K""
+C;X13;Y116;K""
+C;X14;Y116;K""
+C;X15;Y116;K""
+C;X16;Y116;K""
+C;X1;Y117;K"Grossistes"
+C;X2;Y117;K"MIN de Marseille : fruits et légumes"
+C;X3;Y117;K"POMME DE TERRE CHAIR FERME chérie France lavée cat.I +35mm carton 12,5kg"
+C;X4;Y117;K"euro HT le kg"
+C;X5;Y117;K1.60
+C;X6;Y117;K1.60
+C;X7;Y117;K1.57
+C;X8;Y117;K1.58
+C;X9;Y117;K1.52
+C;X10;Y117;K1.49
+C;X11;Y117;K1.50
+C;X12;Y117;K1.49
+C;X13;Y117;K1.51
+C;X14;Y117;K1.46
+C;X15;Y117;K1.35
+C;X16;Y117;K1.20
+C;X1;Y118;K"Grossistes"
+C;X2;Y118;K"MIN de Marseille : fruits et légumes"
+C;X3;Y118;K"POMME DE TERRE CHAIR NORMALE Agata France lavée cat.I +50mm sac 15kg"
+C;X4;Y118;K"euro HT le kg"
+C;X5;Y118;K0.92
+C;X6;Y118;K0.90
+C;X7;Y118;K0.93
+C;X8;Y118;K1.02
+C;X9;Y118;K0.81
+C;X10;Y118;K0.80
+C;X11;Y118;K0.76
+C;X12;Y118;K0.72
+C;X13;Y118;K0.81
+C;X14;Y118;K0.79
+C;X15;Y118;K0.75
+C;X16;Y118;K0.79
+C;X1;Y119;K"Grossistes"
+C;X2;Y119;K"MIN de Marseille : fruits et légumes"
+C;X3;Y119;K"POMME DE TERRE Monalisa France lavée cat.I +50mm sac 10kg"
+C;X4;Y119;K"euro HT le kg"
+C;X5;Y119;K0.80
+C;X6;Y119;K0.80
+C;X7;Y119;K0.80
+C;X8;Y119;K0.80
+C;X9;Y119;K""
+C;X10;Y119;K""
+C;X11;Y119;K0.59
+C;X12;Y119;K0.55
+C;X13;Y119;K0.59
+C;X14;Y119;K0.64
+C;X15;Y119;K0.63
+C;X16;Y119;K0.64
+C;X1;Y120;K"Grossistes"
+C;X2;Y120;K"MIN de Marseille : fruits et légumes"
+C;X3;Y120;K"POMME DE TERRE Spunta Italie cat.I 40-75mm cagette"
+C;X4;Y120;K"euro HT le kg"
+C;X5;Y120;K""
+C;X6;Y120;K""
+C;X7;Y120;K1.11
+C;X8;Y120;K0.93
+C;X9;Y120;K0.80
+C;X10;Y120;K0.88
+C;X11;Y120;K""
+C;X12;Y120;K""
+C;X13;Y120;K""
+C;X14;Y120;K""
+C;X15;Y120;K""
+C;X16;Y120;K""
+C;X1;Y121;K"Grossistes"
+C;X2;Y121;K"MIN de Nantes : fruits et légumes"
+C;X3;Y121;K"POMME DE TERRE basique div.var.cons France non lavée cat.I 40-70mm sac 10kg"
+C;X4;Y121;K"euro HT le kg"
+C;X5;Y121;K0.65
+C;X6;Y121;K0.65
+C;X7;Y121;K0.65
+C;X8;Y121;K0.64
+C;X9;Y121;K0.60
+C;X10;Y121;K0.52
+C;X11;Y121;K0.47
+C;X12;Y121;K0.43
+C;X13;Y121;K0.43
+C;X14;Y121;K0.43
+C;X15;Y121;K0.43
+C;X16;Y121;K0.42
+C;X1;Y122;K"Grossistes"
+C;X2;Y122;K"MIN de Nantes : fruits et légumes"
+C;X3;Y122;K"POMME DE TERRE basique France lavée cat.I 40-70mm sac 10kg"
+C;X4;Y122;K"euro HT le kg"
+C;X5;Y122;K0.80
+C;X6;Y122;K0.80
+C;X7;Y122;K0.80
+C;X8;Y122;K0.80
+C;X9;Y122;K0.80
+C;X10;Y122;K0.69
+C;X11;Y122;K0.62
+C;X12;Y122;K0.60
+C;X13;Y122;K0.60
+C;X14;Y122;K0.60
+C;X15;Y122;K0.60
+C;X16;Y122;K0.57
+C;X1;Y123;K"Grossistes"
+C;X2;Y123;K"MIN de Nantes : fruits et légumes"
+C;X3;Y123;K"POMME DE TERRE CHAIR FERME div.var.cons France lavée cat.I carton 12,5kg"
+C;X4;Y123;K"euro HT le kg"
+C;X5;Y123;K1.40
+C;X6;Y123;K1.40
+C;X7;Y123;K1.40
+C;X8;Y123;K1.36
+C;X9;Y123;K1.30
+C;X10;Y123;K1.30
+C;X11;Y123;K1.17
+C;X12;Y123;K1.15
+C;X13;Y123;K1.15
+C;X14;Y123;K1.15
+C;X15;Y123;K1.11
+C;X16;Y123;K1.10
+C;X1;Y124;K"Grossistes"
+C;X2;Y124;K"MIN de Nantes : fruits et légumes"
+C;X3;Y124;K"POMME DE TERRE CHAIR NORMALE Sirtema primeur Val de Loire non lavée cat.I +35mm cagette"
+C;X4;Y124;K"euro HT le kg"
+C;X5;Y124;K4.21
+C;X6;Y124;K2.83
+C;X7;Y124;K1.96
+C;X8;Y124;K1.79
+C;X9;Y124;K""
+C;X10;Y124;K""
+C;X11;Y124;K""
+C;X12;Y124;K""
+C;X13;Y124;K""
+C;X14;Y124;K""
+C;X15;Y124;K""
+C;X16;Y124;K6.44
+C;X1;Y125;K"Grossistes"
+C;X2;Y125;K"MIN de Nantes : fruits et légumes"
+C;X3;Y125;K"POMME DE TERRE Sirtema primeur Noirmoutier cat.I +35mm cagette"
+C;X4;Y125;K"euro HT le kg"
+C;X5;Y125;K5.34
+C;X6;Y125;K3.79
+C;X7;Y125;K2.64
+C;X8;Y125;K""
+C;X9;Y125;K""
+C;X10;Y125;K""
+C;X11;Y125;K""
+C;X12;Y125;K""
+C;X13;Y125;K""
+C;X14;Y125;K""
+C;X15;Y125;K""
+C;X16;Y125;K""
+C;X1;Y126;K"Grossistes"
+C;X2;Y126;K"MIN de Nantes : fruits et légumes"
+C;X3;Y126;K"POMME DE TERRE Starlette primeur France cat.I 28-35mm"
+C;X4;Y126;K"euro HT le kg"
+C;X5;Y126;K5.40
+C;X6;Y126;K""
+C;X7;Y126;K""
+C;X8;Y126;K""
+C;X9;Y126;K""
+C;X10;Y126;K""
+C;X11;Y126;K""
+C;X12;Y126;K""
+C;X13;Y126;K""
+C;X14;Y126;K""
+C;X15;Y126;K""
+C;X16;Y126;K6.06
+C;X1;Y127;K"Grossistes"
+C;X2;Y127;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y127;K"POMME DE TERRE de conservation France biologique"
+C;X4;Y127;K"euro HT le kg"
+C;X5;Y127;K1.71
+C;X6;Y127;K1.69
+C;X7;Y127;K1.64
+C;X8;Y127;K1.50
+C;X9;Y127;K1.61
+C;X10;Y127;K1.63
+C;X11;Y127;K1.52
+C;X12;Y127;K1.39
+C;X13;Y127;K1.34
+C;X14;Y127;K1.33
+C;X15;Y127;K1.29
+C;X16;Y127;K1.25
+C;X1;Y128;K"Grossistes"
+C;X2;Y128;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y128;K"POMME DE TERRE primeur France biologique"
+C;X4;Y128;K"euro HT le kg"
+C;X5;Y128;K5.59
+C;X6;Y128;K4.28
+C;X7;Y128;K2.44
+C;X8;Y128;K1.97
+C;X9;Y128;K1.81
+C;X10;Y128;K""
+C;X11;Y128;K""
+C;X12;Y128;K""
+C;X13;Y128;K""
+C;X14;Y128;K""
+C;X15;Y128;K""
+C;X16;Y128;K""
+C;X1;Y129;K"Grossistes"
+C;X2;Y129;K"MIN de Nice : fruits et légumes"
+C;X3;Y129;K"POMME DE TERRE CHAIR FERME Amandine France lavée cat.I carton 12,5kg"
+C;X4;Y129;K"euro HT le kg"
+C;X5;Y129;K1.90
+C;X6;Y129;K1.95
+C;X7;Y129;K2.02
+C;X8;Y129;K2.10
+C;X9;Y129;K1.90
+C;X10;Y129;K1.76
+C;X11;Y129;K1.75
+C;X12;Y129;K1.73
+C;X13;Y129;K1.55
+C;X14;Y129;K1.54
+C;X15;Y129;K1.55
+C;X16;Y129;K1.60
+C;X1;Y130;K"Grossistes"
+C;X2;Y130;K"MIN de Nice : fruits et légumes"
+C;X3;Y130;K"POMME DE TERRE CHAIR FERME chérie France lavée cat.I carton 12,5kg"
+C;X4;Y130;K"euro HT le kg"
+C;X5;Y130;K1.60
+C;X6;Y130;K1.60
+C;X7;Y130;K1.60
+C;X8;Y130;K1.60
+C;X9;Y130;K1.60
+C;X10;Y130;K1.57
+C;X11;Y130;K1.60
+C;X12;Y130;K1.60
+C;X13;Y130;K1.52
+C;X14;Y130;K1.55
+C;X15;Y130;K1.60
+C;X16;Y130;K1.60
+C;X1;Y131;K"Grossistes"
+C;X2;Y131;K"MIN de Nice : fruits et légumes"
+C;X3;Y131;K"POMME DE TERRE CHAIR FERME Ratte France lavée cat.I cagette 5kg consommation"
+C;X4;Y131;K"euro HT le kg"
+C;X5;Y131;K2.80
+C;X6;Y131;K""
+C;X7;Y131;K""
+C;X8;Y131;K""
+C;X9;Y131;K""
+C;X10;Y131;K""
+C;X11;Y131;K""
+C;X12;Y131;K""
+C;X13;Y131;K2.82
+C;X14;Y131;K2.80
+C;X15;Y131;K2.74
+C;X16;Y131;K2.65
+C;X1;Y132;K"Grossistes"
+C;X2;Y132;K"MIN de Nice : fruits et légumes"
+C;X3;Y132;K"POMME DE TERRE CHAIR FERME Spunta Italie lavée cat.I sac 10kg"
+C;X4;Y132;K"euro HT le kg"
+C;X5;Y132;K1.80
+C;X6;Y132;K1.70
+C;X7;Y132;K1.52
+C;X8;Y132;K1.12
+C;X9;Y132;K1.15
+C;X10;Y132;K1.05
+C;X11;Y132;K1.00
+C;X12;Y132;K1.00
+C;X13;Y132;K""
+C;X14;Y132;K""
+C;X15;Y132;K""
+C;X16;Y132;K1.70
+C;X1;Y133;K"Grossistes"
+C;X2;Y133;K"MIN de Nice : fruits et légumes"
+C;X3;Y133;K"POMME DE TERRE FARINEUSE Agata France lavée cat.I carton 12,5kg"
+C;X4;Y133;K"euro HT le kg"
+C;X5;Y133;K1.20
+C;X6;Y133;K1.20
+C;X7;Y133;K1.20
+C;X8;Y133;K1.20
+C;X9;Y133;K1.25
+C;X10;Y133;K1.14
+C;X11;Y133;K1.09
+C;X12;Y133;K1.11
+C;X13;Y133;K1.03
+C;X14;Y133;K1.02
+C;X15;Y133;K1.02
+C;X16;Y133;K1.00
+C;X1;Y134;K"Grossistes"
+C;X2;Y134;K"MIN de Nice : fruits et légumes"
+C;X3;Y134;K"POMME DE TERRE FARINEUSE Bintje France lavée cat.I sac 10kg"
+C;X4;Y134;K"euro HT le kg"
+C;X5;Y134;K0.86
+C;X6;Y134;K0.90
+C;X7;Y134;K0.90
+C;X8;Y134;K0.90
+C;X9;Y134;K""
+C;X10;Y134;K""
+C;X11;Y134;K""
+C;X12;Y134;K""
+C;X13;Y134;K""
+C;X14;Y134;K""
+C;X15;Y134;K""
+C;X16;Y134;K""
+C;X1;Y135;K"Grossistes"
+C;X2;Y135;K"MIN de Nice : fruits et légumes"
+C;X3;Y135;K"POMME DE TERRE FARINEUSE Monalisa France lavée cat.I carton 12,5kg"
+C;X4;Y135;K"euro HT le kg"
+C;X5;Y135;K1.05
+C;X6;Y135;K1.05
+C;X7;Y135;K1.05
+C;X8;Y135;K1.10
+C;X9;Y135;K1.15
+C;X10;Y135;K1.06
+C;X11;Y135;K1.03
+C;X12;Y135;K0.99
+C;X13;Y135;K0.95
+C;X14;Y135;K0.95
+C;X15;Y135;K0.95
+C;X16;Y135;K0.95
+C;X1;Y136;K"Grossistes"
+C;X2;Y136;K"MIN de Nice : fruits et légumes"
+C;X3;Y136;K"POMME DE TERRE FARINEUSE Vitelotte noire France lavée cat.I cagette 5kg consommation"
+C;X4;Y136;K"euro HT le kg"
+C;X5;Y136;K2.80
+C;X6;Y136;K""
+C;X7;Y136;K""
+C;X8;Y136;K""
+C;X9;Y136;K""
+C;X10;Y136;K""
+C;X11;Y136;K""
+C;X12;Y136;K3.20
+C;X13;Y136;K3.10
+C;X14;Y136;K3.05
+C;X15;Y136;K3.00
+C;X16;Y136;K""
+C;X1;Y137;K"Grossistes"
+C;X2;Y137;K"MIN de Rungis : fruits et légumes"
+C;X3;Y137;K"POMME DE TERRE basique div.var.cons France lavée cat.I 40-70mm sac 10kg"
+C;X4;Y137;K"euro HT le kg"
+C;X5;Y137;K0.51
+C;X6;Y137;K0.51
+C;X7;Y137;K0.50
+C;X8;Y137;K0.51
+C;X9;Y137;K0.48
+C;X10;Y137;K0.39
+C;X11;Y137;K0.37
+C;X12;Y137;K0.35
+C;X13;Y137;K0.40
+C;X14;Y137;K0.38
+C;X15;Y137;K0.30
+C;X16;Y137;K0.30
+C;X1;Y138;K"Grossistes"
+C;X2;Y138;K"MIN de Rungis : fruits et légumes"
+C;X3;Y138;K"POMME DE TERRE basique div.var.cons France non lavée cat.I 40-70mm sac 10kg"
+C;X4;Y138;K"euro HT le kg"
+C;X5;Y138;K0.46
+C;X6;Y138;K0.46
+C;X7;Y138;K0.45
+C;X8;Y138;K0.45
+C;X9;Y138;K0.43
+C;X10;Y138;K0.35
+C;X11;Y138;K0.32
+C;X12;Y138;K0.32
+C;X13;Y138;K0.40
+C;X14;Y138;K0.40
+C;X15;Y138;K0.31
+C;X16;Y138;K0.33
+C;X1;Y139;K"Grossistes"
+C;X2;Y139;K"MIN de Rungis : fruits et légumes"
+C;X3;Y139;K"POMME DE TERRE CHAIR FERME Celtiane France lavée cat.I carton 12,5kg"
+C;X4;Y139;K"euro HT le kg"
+C;X5;Y139;K1.02
+C;X6;Y139;K1.03
+C;X7;Y139;K1.01
+C;X8;Y139;K1.25
+C;X9;Y139;K1.30
+C;X10;Y139;K1.01
+C;X11;Y139;K0.90
+C;X12;Y139;K0.92
+C;X13;Y139;K1.00
+C;X14;Y139;K1.00
+C;X15;Y139;K0.91
+C;X16;Y139;K0.90
+C;X1;Y140;K"Grossistes"
+C;X2;Y140;K"MIN de Rungis : fruits et légumes"
+C;X3;Y140;K"POMME DE TERRE CHAIR FERME chérie France cat.I carton 12,5kg"
+C;X4;Y140;K"euro HT le kg"
+C;X5;Y140;K0.92
+C;X6;Y140;K0.99
+C;X7;Y140;K0.94
+C;X8;Y140;K1.30
+C;X9;Y140;K1.36
+C;X10;Y140;K1.00
+C;X11;Y140;K0.90
+C;X12;Y140;K0.92
+C;X13;Y140;K1.00
+C;X14;Y140;K1.00
+C;X15;Y140;K0.91
+C;X16;Y140;K0.90
+C;X1;Y141;K"Grossistes"
+C;X2;Y141;K"MIN de Rungis : fruits et légumes"
+C;X3;Y141;K"POMME DE TERRE CHAIR FERME div.var.cons France lavée cat.I grenaille carton 10kg"
+C;X4;Y141;K"euro HT le kg"
+C;X5;Y141;K1.50
+C;X6;Y141;K1.54
+C;X7;Y141;K1.40
+C;X8;Y141;K1.20
+C;X9;Y141;K1.38
+C;X10;Y141;K1.51
+C;X11;Y141;K1.54
+C;X12;Y141;K1.53
+C;X13;Y141;K1.70
+C;X14;Y141;K1.63
+C;X15;Y141;K1.50
+C;X16;Y141;K1.55
+C;X1;Y142;K"Grossistes"
+C;X2;Y142;K"MIN de Rungis : fruits et légumes"
+C;X3;Y142;K"POMME DE TERRE CHAIR FERME Jazzy France lavée cat.I carton 12,5kg"
+C;X4;Y142;K"euro HT le kg"
+C;X5;Y142;K""
+C;X6;Y142;K""
+C;X7;Y142;K""
+C;X8;Y142;K""
+C;X9;Y142;K""
+C;X10;Y142;K""
+C;X11;Y142;K""
+C;X12;Y142;K0.90
+C;X13;Y142;K0.90
+C;X14;Y142;K0.88
+C;X15;Y142;K0.80
+C;X16;Y142;K0.80
+C;X1;Y143;K"Grossistes"
+C;X2;Y143;K"MIN de Rungis : fruits et légumes"
+C;X3;Y143;K"POMME DE TERRE CHAIR FERME Linzer délicatess primeur France lavée cat.I 17-35mm"
+C;X4;Y143;K"euro HT le kg"
+C;X5;Y143;K8.18
+C;X6;Y143;K7.11
+C;X7;Y143;K5.20
+C;X8;Y143;K""
+C;X9;Y143;K""
+C;X10;Y143;K""
+C;X11;Y143;K""
+C;X12;Y143;K""
+C;X13;Y143;K""
+C;X14;Y143;K""
+C;X15;Y143;K""
+C;X16;Y143;K""
+C;X1;Y144;K"Grossistes"
+C;X2;Y144;K"MIN de Rungis : fruits et légumes"
+C;X3;Y144;K"POMME DE TERRE CHAIR FERME Noirmoutier lavée cat.I grenaille cagette"
+C;X4;Y144;K"euro HT le kg"
+C;X5;Y144;K7.83
+C;X6;Y144;K5.97
+C;X7;Y144;K4.45
+C;X8;Y144;K3.70
+C;X9;Y144;K""
+C;X10;Y144;K""
+C;X11;Y144;K""
+C;X12;Y144;K""
+C;X13;Y144;K""
+C;X14;Y144;K""
+C;X15;Y144;K""
+C;X16;Y144;K9.82
+C;X1;Y145;K"Grossistes"
+C;X2;Y145;K"MIN de Rungis : fruits et légumes"
+C;X3;Y145;K"POMME DE TERRE CHAIR FERME primeur Noirmoutier lavée cat.I +35mm cagette 5kg"
+C;X4;Y145;K"euro HT le kg"
+C;X5;Y145;K4.00
+C;X6;Y145;K3.71
+C;X7;Y145;K3.60
+C;X8;Y145;K""
+C;X9;Y145;K""
+C;X10;Y145;K""
+C;X11;Y145;K""
+C;X12;Y145;K""
+C;X13;Y145;K""
+C;X14;Y145;K""
+C;X15;Y145;K""
+C;X16;Y145;K""
+C;X1;Y146;K"Grossistes"
+C;X2;Y146;K"MIN de Rungis : fruits et légumes"
+C;X3;Y146;K"POMME DE TERRE primeur Noirmoutier cat.I +35mm carton 12,5kg"
+C;X4;Y146;K"euro HT le kg"
+C;X5;Y146;K""
+C;X6;Y146;K""
+C;X7;Y146;K""
+C;X8;Y146;K""
+C;X9;Y146;K""
+C;X10;Y146;K""
+C;X11;Y146;K""
+C;X12;Y146;K""
+C;X13;Y146;K""
+C;X14;Y146;K""
+C;X15;Y146;K""
+C;X16;Y146;K8.80
+C;X1;Y147;K"Grossistes"
+C;X2;Y147;K"MIN de Rungis : fruits et légumes"
+C;X3;Y147;K"POMME DE TERRE Spunta Italie cat.I +35mm sac 10kg"
+C;X4;Y147;K"euro HT le kg"
+C;X5;Y147;K1.20
+C;X6;Y147;K1.20
+C;X7;Y147;K0.98
+C;X8;Y147;K0.92
+C;X9;Y147;K0.75
+C;X10;Y147;K""
+C;X11;Y147;K""
+C;X12;Y147;K""
+C;X13;Y147;K""
+C;X14;Y147;K""
+C;X15;Y147;K""
+C;X16;Y147;K""
+C;X1;Y148;K"Grossistes"
+C;X2;Y148;K"MIN de Rungis : fruits et légumes"
+C;X3;Y148;K"POMME DE TERRE Spunta Maroc lavée cat.I carton 12,5kg"
+C;X4;Y148;K"euro HT le kg"
+C;X5;Y148;K""
+C;X6;Y148;K""
+C;X7;Y148;K""
+C;X8;Y148;K""
+C;X9;Y148;K""
+C;X10;Y148;K""
+C;X11;Y148;K""
+C;X12;Y148;K""
+C;X13;Y148;K""
+C;X14;Y148;K""
+C;X15;Y148;K1.00
+C;X16;Y148;K1.16
+C;X1;Y149;K"Grossistes"
+C;X2;Y149;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y149;K"POMME DE TERRE de conservation France biologique"
+C;X4;Y149;K"euro HT le kg"
+C;X5;Y149;K1.40
+C;X6;Y149;K1.48
+C;X7;Y149;K1.53
+C;X8;Y149;K1.52
+C;X9;Y149;K1.55
+C;X10;Y149;K1.40
+C;X11;Y149;K1.25
+C;X12;Y149;K1.14
+C;X13;Y149;K1.11
+C;X14;Y149;K1.12
+C;X15;Y149;K1.07
+C;X16;Y149;K1.02
+C;X1;Y150;K"Grossistes"
+C;X2;Y150;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y150;K"POMME DE TERRE primeur France biologique"
+C;X4;Y150;K"euro HT le kg"
+C;X5;Y150;K5.26
+C;X6;Y150;K3.93
+C;X7;Y150;K2.33
+C;X8;Y150;K1.99
+C;X9;Y150;K1.60
+C;X10;Y150;K""
+C;X11;Y150;K""
+C;X12;Y150;K""
+C;X13;Y150;K""
+C;X14;Y150;K""
+C;X15;Y150;K""
+C;X16;Y150;K""
+C;X1;Y151;K"Grossistes"
+C;X2;Y151;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y151;K"POMME DE TERRE CHAIR FERME Charlotte France cat.I +35mm filet 2,5kg"
+C;X4;Y151;K"euro HT le kg"
+C;X5;Y151;K1.18
+C;X6;Y151;K1.20
+C;X7;Y151;K1.20
+C;X8;Y151;K""
+C;X9;Y151;K1.25
+C;X10;Y151;K1.14
+C;X11;Y151;K1.00
+C;X12;Y151;K0.95
+C;X13;Y151;K0.95
+C;X14;Y151;K0.94
+C;X15;Y151;K0.91
+C;X16;Y151;K0.94
+C;X1;Y152;K"Grossistes"
+C;X2;Y152;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y152;K"POMME DE TERRE CHAIR FERME Charlotte France lavée cat.I 35-50mm carton 12,5kg"
+C;X4;Y152;K"euro HT le kg"
+C;X5;Y152;K1.53
+C;X6;Y152;K1.55
+C;X7;Y152;K1.55
+C;X8;Y152;K""
+C;X9;Y152;K1.32
+C;X10;Y152;K1.31
+C;X11;Y152;K1.27
+C;X12;Y152;K1.25
+C;X13;Y152;K1.23
+C;X14;Y152;K1.21
+C;X15;Y152;K1.25
+C;X16;Y152;K1.25
+C;X1;Y153;K"Grossistes"
+C;X2;Y153;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y153;K"POMME DE TERRE CHAIR NORMALE chair jaune "Nouvelle récolte" France lavée cat.I filet 5kg"
+C;X4;Y153;K"euro HT le kg"
+C;X5;Y153;K""
+C;X6;Y153;K""
+C;X7;Y153;K""
+C;X8;Y153;K""
+C;X9;Y153;K0.75
+C;X10;Y153;K""
+C;X11;Y153;K""
+C;X12;Y153;K""
+C;X13;Y153;K""
+C;X14;Y153;K""
+C;X15;Y153;K""
+C;X16;Y153;K""
+C;X1;Y154;K"Grossistes"
+C;X2;Y154;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y154;K"POMME DE TERRE CHAIR NORMALE div.var.cons de conservation France lavée cat.I +35mm filet 2,5kg consommation"
+C;X4;Y154;K"euro HT le kg"
+C;X5;Y154;K1.05
+C;X6;Y154;K1.05
+C;X7;Y154;K1.05
+C;X8;Y154;K1.05
+C;X9;Y154;K1.02
+C;X10;Y154;K0.90
+C;X11;Y154;K0.89
+C;X12;Y154;K0.85
+C;X13;Y154;K0.85
+C;X14;Y154;K0.85
+C;X15;Y154;K0.85
+C;X16;Y154;K0.85
+C;X1;Y155;K"Grossistes"
+C;X2;Y155;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y155;K"POMME DE TERRE CHAIR NORMALE div.var.cons France lavée cat.I filet 10kg"
+C;X4;Y155;K"euro HT le kg"
+C;X5;Y155;K1.05
+C;X6;Y155;K1.05
+C;X7;Y155;K1.04
+C;X8;Y155;K1.04
+C;X9;Y155;K1.04
+C;X10;Y155;K1.04
+C;X11;Y155;K0.87
+C;X12;Y155;K0.95
+C;X13;Y155;K0.94
+C;X14;Y155;K0.95
+C;X15;Y155;K0.84
+C;X16;Y155;K0.89
+C;X1;Y156;K"Grossistes"
+C;X2;Y156;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y156;K"POMME DE TERRE CHAIR NORMALE div.var.cons France lavée cat.I filet 5kg"
+C;X4;Y156;K"euro HT le kg"
+C;X5;Y156;K0.55
+C;X6;Y156;K0.55
+C;X7;Y156;K0.55
+C;X8;Y156;K0.55
+C;X9;Y156;K0.56
+C;X10;Y156;K0.57
+C;X11;Y156;K0.55
+C;X12;Y156;K0.50
+C;X13;Y156;K0.50
+C;X14;Y156;K0.50
+C;X15;Y156;K0.49
+C;X16;Y156;K0.49
+C;X1;Y157;K"Grossistes"
+C;X2;Y157;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y157;K"POMME DE TERRE CHAIR NORMALE "Nouvelle récolte" France cat.I filet 10kg"
+C;X4;Y157;K"euro HT le kg"
+C;X5;Y157;K""
+C;X6;Y157;K""
+C;X7;Y157;K""
+C;X8;Y157;K""
+C;X9;Y157;K0.90
+C;X10;Y157;K""
+C;X11;Y157;K""
+C;X12;Y157;K""
+C;X13;Y157;K""
+C;X14;Y157;K""
+C;X15;Y157;K""
+C;X16;Y157;K""
+C;X1;Y158;K"Grossistes"
+C;X2;Y158;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y158;K"POMME DE TERRE Spunta Maroc cat.I"
+C;X4;Y158;K"euro HT le kg"
+C;X5;Y158;K1.32
+C;X6;Y158;K""
+C;X7;Y158;K""
+C;X8;Y158;K""
+C;X9;Y158;K""
+C;X10;Y158;K""
+C;X11;Y158;K""
+C;X12;Y158;K""
+C;X13;Y158;K""
+C;X14;Y158;K""
+C;X15;Y158;K1.40
+C;X16;Y158;K1.34
+C;X1;Y159;K"Grossistes"
+C;X2;Y159;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y159;K"POMME DE TERRE Spunta primeur Italie cat.I +35mm"
+C;X4;Y159;K"euro HT le kg"
+C;X5;Y159;K1.90
+C;X6;Y159;K1.73
+C;X7;Y159;K1.56
+C;X8;Y159;K1.26
+C;X9;Y159;K1.35
+C;X10;Y159;K""
+C;X11;Y159;K""
+C;X12;Y159;K""
+C;X13;Y159;K""
+C;X14;Y159;K""
+C;X15;Y159;K""
+C;X16;Y159;K""
+C;X1;Y160;K"Grossistes"
+C;X2;Y160;K"MIN de Strasbourg : fruits et légumes bio"
+C;X3;Y160;K"POMME DE TERRE de conservation France biologique"
+C;X4;Y160;K"euro HT le kg"
+C;X5;Y160;K1.65
+C;X6;Y160;K1.58
+C;X7;Y160;K1.51
+C;X8;Y160;K1.42
+C;X9;Y160;K1.54
+C;X10;Y160;K1.44
+C;X11;Y160;K1.31
+C;X12;Y160;K1.30
+C;X13;Y160;K1.34
+C;X14;Y160;K1.37
+C;X15;Y160;K1.30
+C;X16;Y160;K1.22
+C;X1;Y161;K"Grossistes"
+C;X2;Y161;K"MIN de Strasbourg : fruits et légumes bio"
+C;X3;Y161;K"POMME DE TERRE primeur France lavée biologique"
+C;X4;Y161;K"euro HT le kg"
+C;X5;Y161;K""
+C;X6;Y161;K""
+C;X7;Y161;K2.52
+C;X8;Y161;K1.93
+C;X9;Y161;K1.71
+C;X10;Y161;K""
+C;X11;Y161;K""
+C;X12;Y161;K""
+C;X13;Y161;K""
+C;X14;Y161;K""
+C;X15;Y161;K""
+C;X16;Y161;K""
+C;X1;Y162;K"Grossistes"
+C;X2;Y162;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y162;K"POMME DE TERRE Agata France lavée cat.I sac 10kg"
+C;X4;Y162;K"euro HT le kg"
+C;X5;Y162;K0.69
+C;X6;Y162;K0.72
+C;X7;Y162;K0.70
+C;X8;Y162;K0.68
+C;X9;Y162;K0.64
+C;X10;Y162;K0.51
+C;X11;Y162;K0.51
+C;X12;Y162;K0.49
+C;X13;Y162;K0.50
+C;X14;Y162;K0.48
+C;X15;Y162;K0.46
+C;X16;Y162;K0.46
+C;X1;Y163;K"Grossistes"
+C;X2;Y163;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y163;K"POMME DE TERRE Bintje France cat.I sac 10kg"
+C;X4;Y163;K"euro HT le kg"
+C;X5;Y163;K0.56
+C;X6;Y163;K0.55
+C;X7;Y163;K0.55
+C;X8;Y163;K0.57
+C;X9;Y163;K""
+C;X10;Y163;K""
+C;X11;Y163;K""
+C;X12;Y163;K0.40
+C;X13;Y163;K0.40
+C;X14;Y163;K0.40
+C;X15;Y163;K0.40
+C;X16;Y163;K0.39
+C;X1;Y164;K"Grossistes"
+C;X2;Y164;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y164;K"POMME DE TERRE CHAIR FERME Celtiane France lavée cat.I +35mm carton 12,5kg"
+C;X4;Y164;K"euro HT le kg"
+C;X5;Y164;K""
+C;X6;Y164;K""
+C;X7;Y164;K""
+C;X8;Y164;K1.35
+C;X9;Y164;K1.27
+C;X10;Y164;K1.22
+C;X11;Y164;K1.23
+C;X12;Y164;K1.24
+C;X13;Y164;K1.11
+C;X14;Y164;K1.10
+C;X15;Y164;K1.10
+C;X16;Y164;K1.10
+C;X1;Y165;K"Grossistes"
+C;X2;Y165;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y165;K"POMME DE TERRE CHAIR NORMALE Béa primeur France lavée cat.I 35-50mm caisse"
+C;X4;Y165;K"euro HT le kg"
+C;X5;Y165;K2.86
+C;X6;Y165;K2.41
+C;X7;Y165;K1.90
+C;X8;Y165;K1.65
+C;X9;Y165;K""
+C;X10;Y165;K""
+C;X11;Y165;K""
+C;X12;Y165;K""
+C;X13;Y165;K""
+C;X14;Y165;K""
+C;X15;Y165;K""
+C;X16;Y165;K""
+C;X1;Y166;K"Grossistes"
+C;X2;Y166;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y166;K"POMME DE TERRE div.var.cons France lavée cat.I sac 10kg"
+C;X4;Y166;K"euro HT le kg"
+C;X5;Y166;K""
+C;X6;Y166;K""
+C;X7;Y166;K""
+C;X8;Y166;K""
+C;X9;Y166;K0.65
+C;X10;Y166;K0.52
+C;X11;Y166;K0.51
+C;X12;Y166;K0.52
+C;X13;Y166;K""
+C;X14;Y166;K""
+C;X15;Y166;K""
+C;X16;Y166;K""
+C;X1;Y167;K"Grossistes"
+C;X2;Y167;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y167;K"POMME DE TERRE Spunta Italie cat.I carton 12,5kg"
+C;X4;Y167;K"euro HT le kg"
+C;X5;Y167;K1.55
+C;X6;Y167;K1.37
+C;X7;Y167;K1.11
+C;X8;Y167;K0.92
+C;X9;Y167;K0.82
+C;X10;Y167;K0.78
+C;X11;Y167;K""
+C;X12;Y167;K""
+C;X13;Y167;K""
+C;X14;Y167;K""
+C;X15;Y167;K""
+C;X16;Y167;K""
+C;X1;Y168;K"Détail"
+C;X2;Y168;K"Légumes France DETAIL GMS"
+C;X3;Y168;K"POMME DE TERRE de conservation France lavée sac 10kg"
+C;X4;Y168;K"euro TTC le kg"
+C;X5;Y168;K0.83
+C;X6;Y168;K""
+C;X7;Y168;K""
+C;X8;Y168;K""
+C;X9;Y168;K""
+C;X10;Y168;K0.62
+C;X11;Y168;K0.64
+C;X12;Y168;K0.57
+C;X13;Y168;K0.56
+C;X14;Y168;K0.62
+C;X15;Y168;K0.50
+C;X16;Y168;K0.49
+C;X1;Y169;K"Détail"
+C;X2;Y169;K"Légumes France DETAIL GMS"
+C;X3;Y169;K"POMME DE TERRE de conservation France lavée sac 5kg"
+C;X4;Y169;K"euro TTC le kg"
+C;X5;Y169;K0.95
+C;X6;Y169;K0.90
+C;X7;Y169;K0.93
+C;X8;Y169;K0.95
+C;X9;Y169;K0.88
+C;X10;Y169;K0.81
+C;X11;Y169;K0.76
+C;X12;Y169;K0.71
+C;X13;Y169;K0.73
+C;X14;Y169;K0.69
+C;X15;Y169;K0.66
+C;X16;Y169;K0.66
+C;X1;Y170;K"Détail"
+C;X2;Y170;K"Légumes France DETAIL GMS"
+C;X3;Y170;K"POMME DE TERRE de conservation France vrac"
+C;X4;Y170;K"euro TTC le kg"
+C;X5;Y170;K2.15
+C;X6;Y170;K2.12
+C;X7;Y170;K2.10
+C;X8;Y170;K2.12
+C;X9;Y170;K2.06
+C;X10;Y170;K1.96
+C;X11;Y170;K1.91
+C;X12;Y170;K1.96
+C;X13;Y170;K1.96
+C;X14;Y170;K1.95
+C;X15;Y170;K1.89
+C;X16;Y170;K1.95
+C;X1;Y171;K"Détail"
+C;X2;Y171;K"Légumes France DETAIL GMS"
+C;X3;Y171;K"POMME DE TERRE four, frites ou purée de conservation France filet 2,5kg"
+C;X4;Y171;K"euro TTC le kg"
+C;X5;Y171;K1.44
+C;X6;Y171;K1.45
+C;X7;Y171;K1.45
+C;X8;Y171;K1.47
+C;X9;Y171;K1.46
+C;X10;Y171;K1.29
+C;X11;Y171;K1.23
+C;X12;Y171;K1.21
+C;X13;Y171;K1.24
+C;X14;Y171;K1.20
+C;X15;Y171;K1.15
+C;X16;Y171;K1.20
+C;X1;Y172;K"Détail"
+C;X2;Y172;K"Légumes France DETAIL GMS"
+C;X3;Y172;K"POMME DE TERRE four, frites ou purée de conservation France filet 2kg"
+C;X4;Y172;K"euro TTC le kg"
+C;X5;Y172;K""
+C;X6;Y172;K""
+C;X7;Y172;K""
+C;X8;Y172;K""
+C;X9;Y172;K""
+C;X10;Y172;K""
+C;X11;Y172;K""
+C;X12;Y172;K""
+C;X13;Y172;K1.26
+C;X14;Y172;K1.26
+C;X15;Y172;K1.23
+C;X16;Y172;K1.18
+C;X1;Y173;K"Détail"
+C;X2;Y173;K"Légumes France DETAIL GMS"
+C;X3;Y173;K"POMME DE TERRE France biologique"
+C;X4;Y173;K"euro TTC le kg"
+C;X5;Y173;K2.49
+C;X6;Y173;K2.53
+C;X7;Y173;K2.55
+C;X8;Y173;K2.51
+C;X9;Y173;K2.55
+C;X10;Y173;K2.44
+C;X11;Y173;K2.25
+C;X12;Y173;K2.30
+C;X13;Y173;K2.31
+C;X14;Y173;K2.23
+C;X15;Y173;K2.17
+C;X16;Y173;K2.17
+C;X1;Y174;K"Détail"
+C;X2;Y174;K"Légumes France DETAIL GMS"
+C;X3;Y174;K"POMME DE TERRE primeur France cdt 1kg"
+C;X4;Y174;K"euro TTC le kg"
+C;X5;Y174;K""
+C;X6;Y174;K4.75
+C;X7;Y174;K3.73
+C;X8;Y174;K3.23
+C;X9;Y174;K2.66
+C;X10;Y174;K""
+C;X11;Y174;K""
+C;X12;Y174;K""
+C;X13;Y174;K""
+C;X14;Y174;K""
+C;X15;Y174;K""
+C;X16;Y174;K""
+C;X1;Y175;K"Détail"
+C;X2;Y175;K"Légumes France DETAIL GMS"
+C;X3;Y175;K"POMME DE TERRE primeur France filet 2,5kg"
+C;X4;Y175;K"euro TTC le kg"
+C;X5;Y175;K""
+C;X6;Y175;K""
+C;X7;Y175;K""
+C;X8;Y175;K1.48
+C;X9;Y175;K1.30
+C;X10;Y175;K""
+C;X11;Y175;K""
+C;X12;Y175;K""
+C;X13;Y175;K""
+C;X14;Y175;K""
+C;X15;Y175;K""
+C;X16;Y175;K""
+C;X1;Y176;K"Détail"
+C;X2;Y176;K"Légumes France DETAIL GMS"
+C;X3;Y176;K"POMME DE TERRE primeur France vrac"
+C;X4;Y176;K"euro TTC le kg"
+C;X5;Y176;K6.29
+C;X6;Y176;K5.36
+C;X7;Y176;K3.99
+C;X8;Y176;K2.85
+C;X9;Y176;K2.66
+C;X10;Y176;K2.65
+C;X11;Y176;K""
+C;X12;Y176;K""
+C;X13;Y176;K""
+C;X14;Y176;K""
+C;X15;Y176;K""
+C;X16;Y176;K""
+C;X1;Y177;K"Détail"
+C;X2;Y177;K"Légumes France DETAIL GMS"
+C;X3;Y177;K"POMME DE TERRE vapeur ou rissolée de conservation France filet 2,5kg"
+C;X4;Y177;K"euro TTC le kg"
+C;X5;Y177;K1.46
+C;X6;Y177;K1.49
+C;X7;Y177;K1.46
+C;X8;Y177;K1.47
+C;X9;Y177;K1.45
+C;X10;Y177;K1.42
+C;X11;Y177;K1.30
+C;X12;Y177;K1.28
+C;X13;Y177;K1.21
+C;X14;Y177;K1.19
+C;X15;Y177;K1.19
+C;X16;Y177;K1.17
+C;X1;Y178;K"Détail"
+C;X2;Y178;K"Légumes France DETAIL GMS"
+C;X3;Y178;K"POMME DE TERRE vapeur ou rissolée de conservation France filet 2kg"
+C;X4;Y178;K"euro TTC le kg"
+C;X5;Y178;K""
+C;X6;Y178;K""
+C;X7;Y178;K""
+C;X8;Y178;K""
+C;X9;Y178;K""
+C;X10;Y178;K""
+C;X11;Y178;K""
+C;X12;Y178;K""
+C;X13;Y178;K1.35
+C;X14;Y178;K1.30
+C;X15;Y178;K1.33
+C;X16;Y178;K1.43
+C;X1;Y179;K"Détail"
+C;X2;Y179;K"Légumes France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y179;K"POMME DE TERRE de conservation France biologique"
+C;X4;Y179;K"euro TTC le kg"
+C;X5;Y179;K2.57
+C;X6;Y179;K2.61
+C;X7;Y179;K2.63
+C;X8;Y179;K2.70
+C;X9;Y179;K2.77
+C;X10;Y179;K2.62
+C;X11;Y179;K2.41
+C;X12;Y179;K2.40
+C;X13;Y179;K2.37
+C;X14;Y179;K2.42
+C;X15;Y179;K2.36
+C;X16;Y179;K2.33
+C;X1;Y180;K"Détail"
+C;X2;Y180;K"Légumes France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y180;K"POMME DE TERRE primeur France biologique"
+C;X4;Y180;K"euro TTC le kg"
+C;X5;Y180;K6.16
+C;X6;Y180;K6.33
+C;X7;Y180;K4.83
+C;X8;Y180;K4.19
+C;X9;Y180;K3.63
+C;X10;Y180;K""
+C;X11;Y180;K""
+C;X12;Y180;K""
+C;X13;Y180;K""
+C;X14;Y180;K""
+C;X15;Y180;K""
+C;X16;Y180;K""
+F;SM6;X1;Y183
+C;K"Source : RNM.FranceAgriMer.fr"
+E

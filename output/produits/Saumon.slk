@@ -1,0 +1,278 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Saumon - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Grossistes"
+C;X2;Y5;K"MIN de Rungis : marée"
+C;X3;Y5;K"SAUMON frais (entier) vidé aquaculture 2-3kg Ecosse"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K9.95
+C;X6;Y5;K7.20
+C;X7;Y5;K7.14
+C;X8;Y5;K7.13
+C;X9;Y5;K6.76
+C;X10;Y5;K6.60
+C;X11;Y5;K6.89
+C;X12;Y5;K6.90
+C;X13;Y5;K6.99
+C;X14;Y5;K7.03
+C;X15;Y5;K8.26
+C;X16;Y5;K8.50
+C;X1;Y6;K"Grossistes"
+C;X2;Y6;K"MIN de Rungis : marée"
+C;X3;Y6;K"SAUMON frais (entier) vidé aquaculture 2-3kg Norvège"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K8.18
+C;X6;Y6;K6.80
+C;X7;Y6;K6.84
+C;X8;Y6;K6.83
+C;X9;Y6;K6.52
+C;X10;Y6;K6.40
+C;X11;Y6;K6.69
+C;X12;Y6;K6.70
+C;X13;Y6;K6.79
+C;X14;Y6;K6.81
+C;X15;Y6;K7.17
+C;X16;Y6;K7.30
+C;X1;Y7;K"Grossistes"
+C;X2;Y7;K"MIN de Rungis : marée"
+C;X3;Y7;K"SAUMON frais (entier) vidé aquaculture 3-4kg Norvège"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K8.37
+C;X6;Y7;K6.99
+C;X7;Y7;K7.19
+C;X8;Y7;K7.33
+C;X9;Y7;K6.90
+C;X10;Y7;K6.70
+C;X11;Y7;K6.99
+C;X12;Y7;K7.00
+C;X13;Y7;K7.09
+C;X14;Y7;K7.14
+C;X15;Y7;K7.90
+C;X16;Y7;K8.00
+C;X1;Y8;K"Grossistes"
+C;X2;Y8;K"MIN de Rungis : marée"
+C;X3;Y8;K"SAUMON frais (entier) vidé aquaculture 4-5kg Norvège"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K8.48
+C;X6;Y8;K7.19
+C;X7;Y8;K7.39
+C;X8;Y8;K7.53
+C;X9;Y8;K7.10
+C;X10;Y8;K6.90
+C;X11;Y8;K7.28
+C;X12;Y8;K7.30
+C;X13;Y8;K7.48
+C;X14;Y8;K7.51
+C;X15;Y8;K8.16
+C;X16;Y8;K8.30
+C;X1;Y9;K"Grossistes"
+C;X2;Y9;K"MIN de Rungis : marée"
+C;X3;Y9;K"SAUMON frais (entier) vidé aquaculture 5-6kg Norvège"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K8.96
+C;X6;Y9;K7.39
+C;X7;Y9;K7.70
+C;X8;Y9;K7.93
+C;X9;Y9;K7.45
+C;X10;Y9;K7.20
+C;X11;Y9;K7.49
+C;X12;Y9;K7.50
+C;X13;Y9;K7.68
+C;X14;Y9;K7.73
+C;X15;Y9;K8.24
+C;X16;Y9;K8.30
+C;X1;Y10;K"Grossistes"
+C;X2;Y10;K"MIN de Rungis : marée"
+C;X3;Y10;K"SAUMON frais (entier) vidé aquaculture 6-7kg Norvège"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K9.63
+C;X6;Y10;K7.57
+C;X7;Y10;K7.90
+C;X8;Y10;K8.13
+C;X9;Y10;K7.54
+C;X10;Y10;K7.20
+C;X11;Y10;K7.68
+C;X12;Y10;K7.70
+C;X13;Y10;K7.88
+C;X14;Y10;K7.91
+C;X15;Y10;K8.44
+C;X16;Y10;K8.50
+C;X1;Y11;K"Grossistes"
+C;X2;Y11;K"MIN de Rungis : marée"
+C;X3;Y11;K"SAUMON label rouge frais (entier) vidé aquaculture 2-3kg Ecosse"
+C;X4;Y11;K"euro HT le kg"
+C;X5;Y11;K11.71
+C;X6;Y11;K7.48
+C;X7;Y11;K7.57
+C;X8;Y11;K7.83
+C;X9;Y11;K7.19
+C;X10;Y11;K6.80
+C;X11;Y11;K7.47
+C;X12;Y11;K7.50
+C;X13;Y11;K7.50
+C;X14;Y11;K7.50
+C;X15;Y11;K9.04
+C;X16;Y11;K9.20
+C;X1;Y12;K"Grossistes"
+C;X2;Y12;K"MIN de Rungis : marée congelée"
+C;X3;Y12;K"SAUMON congelé (entier) vidé sauvage 2-3kg Import"
+C;X4;Y12;K"euro HT le kg"
+C;X5;Y12;K8.00
+C;X6;Y12;K8.00
+C;X7;Y12;K8.00
+C;X8;Y12;K8.00
+C;X9;Y12;K8.00
+C;X10;Y12;K8.00
+C;X11;Y12;K8.00
+C;X12;Y12;K8.00
+C;X13;Y12;K8.00
+C;X14;Y12;K8.00
+C;X15;Y12;K8.00
+C;X16;Y12;K8.00
+C;X1;Y13;K"Grossistes"
+C;X2;Y13;K"MIN de Rungis : marée filets"
+C;X3;Y13;K"SAUMON frais (filet) tranche aquaculture 3-4kg Norvège"
+C;X4;Y13;K"euro HT le kg"
+C;X5;Y13;K12.18
+C;X6;Y13;K11.98
+C;X7;Y13;K12.07
+C;X8;Y13;K11.50
+C;X9;Y13;K11.44
+C;X10;Y13;K11.41
+C;X11;Y13;K11.69
+C;X12;Y13;K11.70
+C;X13;Y13;K12.03
+C;X14;Y13;K13.28
+C;X15;Y13;K13.38
+C;X16;Y13;K13.00
+C;X1;Y14;K"Grossistes"
+C;X2;Y14;K"MIN de Rungis : marée filets"
+C;X3;Y14;K"SAUMON frais (filet) tranche aquaculture 3-4kg U.E."
+C;X4;Y14;K"euro HT le kg"
+C;X5;Y14;K12.56
+C;X6;Y14;K11.98
+C;X7;Y14;K12.19
+C;X8;Y14;K12.00
+C;X9;Y14;K11.88
+C;X10;Y14;K12.48
+C;X11;Y14;K12.88
+C;X12;Y14;K12.90
+C;X13;Y14;K13.09
+C;X14;Y14;K13.84
+C;X15;Y14;K14.22
+C;X16;Y14;K14.00
+C;X1;Y15;K"Grossistes"
+C;X2;Y15;K"MIN de Rungis : marée transformée"
+C;X3;Y15;K"SAUMON biologique fumé tranché-reconstitué aquaculture sous-vide"
+C;X4;Y15;K"euro HT le kg"
+C;X5;Y15;K37.00
+C;X6;Y15;K37.00
+C;X7;Y15;K37.00
+C;X8;Y15;K37.00
+C;X9;Y15;K37.00
+C;X10;Y15;K37.00
+C;X11;Y15;K37.00
+C;X12;Y15;K37.00
+C;X13;Y15;K38.00
+C;X14;Y15;K37.20
+C;X15;Y15;K36.00
+C;X16;Y15;K36.00
+C;X1;Y16;K"Grossistes"
+C;X2;Y16;K"MIN de Rungis : marée transformée"
+C;X3;Y16;K"SAUMON fumé (filet) tranché-reconstitué aquaculture 1-2kg sous-vide Ecosse"
+C;X4;Y16;K"euro HT le kg"
+C;X5;Y16;K37.00
+C;X6;Y16;K37.00
+C;X7;Y16;K37.00
+C;X8;Y16;K37.00
+C;X9;Y16;K37.00
+C;X10;Y16;K37.00
+C;X11;Y16;K37.00
+C;X12;Y16;K37.00
+C;X13;Y16;K38.00
+C;X14;Y16;K37.40
+C;X15;Y16;K36.00
+C;X16;Y16;K36.00
+C;X1;Y17;K"Grossistes"
+C;X2;Y17;K"MIN de Rungis : marée transformée"
+C;X3;Y17;K"SAUMON fumé (filet) tranché-reconstitué aquaculture 1-2kg sous-vide Norvège"
+C;X4;Y17;K"euro HT le kg"
+C;X5;Y17;K35.00
+C;X6;Y17;K35.00
+C;X7;Y17;K35.00
+C;X8;Y17;K35.00
+C;X9;Y17;K35.00
+C;X10;Y17;K35.00
+C;X11;Y17;K35.00
+C;X12;Y17;K35.00
+C;X13;Y17;K36.00
+C;X14;Y17;K35.00
+C;X15;Y17;K33.00
+C;X16;Y17;K33.00
+C;X1;Y18;K"Détail"
+C;X2;Y18;K"Marée France DETAIL GMS"
+C;X3;Y18;K"SAUMON pavé aquaculture hors Fr."
+C;X4;Y18;K"euro TTC le kg"
+C;X5;Y18;K25.02
+C;X6;Y18;K23.88
+C;X7;Y18;K24.23
+C;X8;Y18;K22.84
+C;X9;Y18;K22.27
+C;X10;Y18;K22.21
+C;X11;Y18;K23.35
+C;X12;Y18;K24.69
+C;X13;Y18;K23.56
+C;X14;Y18;K24.83
+C;X15;Y18;K23.25
+C;X16;Y18;K23.01
+F;SM6;X1;Y21
+C;K"Source : RNM.FranceAgriMer.fr"
+E

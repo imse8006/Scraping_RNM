@@ -1,0 +1,1846 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Ail - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Marché de producteurs"
+C;X2;Y5;K"MIN d'Agen carreau : fruits et légumes"
+C;X3;Y5;K"AIL blanc sec Sud-Ouest cat.I 40-60mm sac 5kg"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K""
+C;X6;Y5;K""
+C;X7;Y5;K""
+C;X8;Y5;K4.25
+C;X9;Y5;K""
+C;X10;Y5;K""
+C;X11;Y5;K""
+C;X12;Y5;K""
+C;X13;Y5;K""
+C;X14;Y5;K""
+C;X15;Y5;K""
+C;X16;Y5;K""
+C;X1;Y6;K"Marché de producteurs"
+C;X2;Y6;K"MIN d'Agen carreau : fruits et légumes"
+C;X3;Y6;K"AIL blanc sec Sud-Ouest cat.I 60-80mm sac 5kg"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K""
+C;X6;Y6;K""
+C;X7;Y6;K""
+C;X8;Y6;K4.25
+C;X9;Y6;K4.25
+C;X10;Y6;K4.75
+C;X11;Y6;K""
+C;X12;Y6;K""
+C;X13;Y6;K""
+C;X14;Y6;K""
+C;X15;Y6;K""
+C;X16;Y6;K""
+C;X1;Y7;K"Marché de producteurs"
+C;X2;Y7;K"MIN d'Agen carreau : fruits et légumes"
+C;X3;Y7;K"AIL violet frais Sud-Ouest avec fane 30-50mm botte"
+C;X4;Y7;K"euro HT la botte"
+C;X5;Y7;K""
+C;X6;Y7;K2.65
+C;X7;Y7;K""
+C;X8;Y7;K""
+C;X9;Y7;K""
+C;X10;Y7;K""
+C;X11;Y7;K""
+C;X12;Y7;K""
+C;X13;Y7;K""
+C;X14;Y7;K""
+C;X15;Y7;K""
+C;X16;Y7;K""
+C;X1;Y8;K"Marché de producteurs"
+C;X2;Y8;K"MIN d'Agen carreau : fruits et légumes"
+C;X3;Y8;K"AIL violet sec Sud-Ouest cat.I 60-80mm sac 5kg"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K""
+C;X6;Y8;K""
+C;X7;Y8;K""
+C;X8;Y8;K""
+C;X9;Y8;K""
+C;X10;Y8;K""
+C;X11;Y8;K5.63
+C;X12;Y8;K5.25
+C;X13;Y8;K4.75
+C;X14;Y8;K""
+C;X15;Y8;K""
+C;X16;Y8;K""
+C;X1;Y9;K"Marché de producteurs"
+C;X2;Y9;K"MIN d'Agen carreau : fruits et légumes"
+C;X3;Y9;K"AIL violet sec Sud-Ouest cat.I 60-80mm tresse"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K""
+C;X6;Y9;K""
+C;X7;Y9;K""
+C;X8;Y9;K6.00
+C;X9;Y9;K""
+C;X10;Y9;K""
+C;X11;Y9;K""
+C;X12;Y9;K""
+C;X13;Y9;K""
+C;X14;Y9;K""
+C;X15;Y9;K""
+C;X16;Y9;K""
+C;X1;Y10;K"Expédition"
+C;X2;Y10;K"Bassin Centre-Ouest : fruits et légumes bio"
+C;X3;Y10;K"AIL blanc Centre-Ouest biologique"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K""
+C;X6;Y10;K""
+C;X7;Y10;K10.00
+C;X8;Y10;K8.73
+C;X9;Y10;K8.40
+C;X10;Y10;K8.32
+C;X11;Y10;K8.28
+C;X12;Y10;K10.10
+C;X13;Y10;K10.00
+C;X14;Y10;K""
+C;X15;Y10;K""
+C;X16;Y10;K""
+C;X1;Y11;K"Expédition"
+C;X2;Y11;K"Bassin Centre-Ouest : fruits et légumes bio"
+C;X3;Y11;K"AIL blanc Centre-Ouest biologique filet 250g"
+C;X4;Y11;K"euro HT le kg"
+C;X5;Y11;K10.99
+C;X6;Y11;K10.61
+C;X7;Y11;K""
+C;X8;Y11;K""
+C;X9;Y11;K10.80
+C;X10;Y11;K10.04
+C;X11;Y11;K10.10
+C;X12;Y11;K10.21
+C;X13;Y11;K10.15
+C;X14;Y11;K10.30
+C;X15;Y11;K10.13
+C;X16;Y11;K10.20
+C;X1;Y12;K"Expédition"
+C;X2;Y12;K"Bassin Sud-Est : fruits et légumes bio"
+C;X3;Y12;K"AIL violet frais Sud-Est avec fane biologique"
+C;X4;Y12;K"euro HT le kg"
+C;X5;Y12;K""
+C;X6;Y12;K8.13
+C;X7;Y12;K7.89
+C;X8;Y12;K""
+C;X9;Y12;K""
+C;X10;Y12;K""
+C;X11;Y12;K""
+C;X12;Y12;K""
+C;X13;Y12;K""
+C;X14;Y12;K""
+C;X15;Y12;K""
+C;X16;Y12;K""
+C;X1;Y13;K"Expédition"
+C;X2;Y13;K"France : ail"
+C;X3;Y13;K"AIL blanc sec France biologique cat.I vrac"
+C;X4;Y13;K"euro HT le kg"
+C;X5;Y13;K""
+C;X6;Y13;K""
+C;X7;Y13;K""
+C;X8;Y13;K""
+C;X9;Y13;K""
+C;X10;Y13;K8.00
+C;X11;Y13;K7.92
+C;X12;Y13;K7.70
+C;X13;Y13;K7.50
+C;X14;Y13;K7.50
+C;X15;Y13;K7.50
+C;X16;Y13;K""
+C;X1;Y14;K"Expédition"
+C;X2;Y14;K"France : ail"
+C;X3;Y14;K"AIL blanc sec France biologique filet 250g"
+C;X4;Y14;K"euro HT le filet"
+C;X5;Y14;K""
+C;X6;Y14;K""
+C;X7;Y14;K""
+C;X8;Y14;K""
+C;X9;Y14;K""
+C;X10;Y14;K""
+C;X11;Y14;K2.60
+C;X12;Y14;K2.60
+C;X13;Y14;K2.60
+C;X14;Y14;K2.58
+C;X15;Y14;K2.50
+C;X16;Y14;K""
+C;X1;Y15;K"Expédition"
+C;X2;Y15;K"France : ail"
+C;X3;Y15;K"AIL blanc sec France cat.I 40-60mm filet 250g"
+C;X4;Y15;K"euro HT le filet"
+C;X5;Y15;K""
+C;X6;Y15;K""
+C;X7;Y15;K""
+C;X8;Y15;K""
+C;X9;Y15;K1.45
+C;X10;Y15;K1.45
+C;X11;Y15;K1.50
+C;X12;Y15;K1.50
+C;X13;Y15;K1.50
+C;X14;Y15;K1.50
+C;X15;Y15;K1.50
+C;X16;Y15;K""
+C;X1;Y16;K"Expédition"
+C;X2;Y16;K"France : ail"
+C;X3;Y16;K"AIL blanc sec France cat.I 60-80mm filet 3 têtes"
+C;X4;Y16;K"euro HT le filet"
+C;X5;Y16;K""
+C;X6;Y16;K""
+C;X7;Y16;K""
+C;X8;Y16;K""
+C;X9;Y16;K1.73
+C;X10;Y16;K1.70
+C;X11;Y16;K1.75
+C;X12;Y16;K1.80
+C;X13;Y16;K1.70
+C;X14;Y16;K1.70
+C;X15;Y16;K1.70
+C;X16;Y16;K""
+C;X1;Y17;K"Expédition"
+C;X2;Y17;K"France : ail"
+C;X3;Y17;K"AIL blanc sec France cat.I 60-80 ou 70-90mm sac 5kg"
+C;X4;Y17;K"euro HT le kg"
+C;X5;Y17;K""
+C;X6;Y17;K""
+C;X7;Y17;K""
+C;X8;Y17;K""
+C;X9;Y17;K5.75
+C;X10;Y17;K5.40
+C;X11;Y17;K5.40
+C;X12;Y17;K5.50
+C;X13;Y17;K5.50
+C;X14;Y17;K5.50
+C;X15;Y17;K5.70
+C;X16;Y17;K""
+C;X1;Y18;K"Expédition"
+C;X2;Y18;K"France : ail"
+C;X3;Y18;K"AIL blanc sec France cat.I tresse 1kg"
+C;X4;Y18;K"euro HT le kg"
+C;X5;Y18;K""
+C;X6;Y18;K""
+C;X7;Y18;K""
+C;X8;Y18;K""
+C;X9;Y18;K6.36
+C;X10;Y18;K6.50
+C;X11;Y18;K6.38
+C;X12;Y18;K6.30
+C;X13;Y18;K6.50
+C;X14;Y18;K6.50
+C;X15;Y18;K""
+C;X16;Y18;K""
+C;X1;Y19;K"Expédition"
+C;X2;Y19;K"France : ail"
+C;X3;Y19;K"AIL rose Lautrec label rouge sec France cat.I 50-70mm grappe 1kg"
+C;X4;Y19;K"euro HT le kg"
+C;X5;Y19;K""
+C;X6;Y19;K""
+C;X7;Y19;K""
+C;X8;Y19;K""
+C;X9;Y19;K11.00
+C;X10;Y19;K12.00
+C;X11;Y19;K12.00
+C;X12;Y19;K12.00
+C;X13;Y19;K12.00
+C;X14;Y19;K12.00
+C;X15;Y19;K12.00
+C;X16;Y19;K""
+C;X1;Y20;K"Expédition"
+C;X2;Y20;K"France : ail"
+C;X3;Y20;K"AIL rose Lautrec label rouge sec France cat.I 60-70mm plateau 5kg"
+C;X4;Y20;K"euro HT le kg"
+C;X5;Y20;K""
+C;X6;Y20;K""
+C;X7;Y20;K""
+C;X8;Y20;K""
+C;X9;Y20;K11.00
+C;X10;Y20;K11.00
+C;X11;Y20;K11.00
+C;X12;Y20;K11.50
+C;X13;Y20;K12.25
+C;X14;Y20;K12.96
+C;X15;Y20;K12.65
+C;X16;Y20;K""
+C;X1;Y21;K"Expédition"
+C;X2;Y21;K"France : ail"
+C;X3;Y21;K"AIL rose Lautrec label rouge sec France cat.I 70-90mm plateau 5kg"
+C;X4;Y21;K"euro HT le kg"
+C;X5;Y21;K""
+C;X6;Y21;K""
+C;X7;Y21;K""
+C;X8;Y21;K""
+C;X9;Y21;K13.00
+C;X10;Y21;K13.00
+C;X11;Y21;K13.00
+C;X12;Y21;K13.95
+C;X13;Y21;K13.25
+C;X14;Y21;K13.50
+C;X15;Y21;K13.50
+C;X16;Y21;K""
+C;X1;Y22;K"Expédition"
+C;X2;Y22;K"France : ail"
+C;X3;Y22;K"AIL rose sec France cat.I 50-70mm grappe 1kg"
+C;X4;Y22;K"euro HT la grappe"
+C;X5;Y22;K""
+C;X6;Y22;K""
+C;X7;Y22;K""
+C;X8;Y22;K""
+C;X9;Y22;K8.50
+C;X10;Y22;K8.50
+C;X11;Y22;K8.70
+C;X12;Y22;K8.50
+C;X13;Y22;K8.57
+C;X14;Y22;K8.88
+C;X15;Y22;K9.00
+C;X16;Y22;K""
+C;X1;Y23;K"Expédition"
+C;X2;Y23;K"France : ail"
+C;X3;Y23;K"AIL rose sec Tarn cat.I 60-80mm"
+C;X4;Y23;K"euro HT le kg"
+C;X5;Y23;K""
+C;X6;Y23;K""
+C;X7;Y23;K""
+C;X8;Y23;K""
+C;X9;Y23;K8.00
+C;X10;Y23;K8.00
+C;X11;Y23;K8.50
+C;X12;Y23;K8.50
+C;X13;Y23;K8.65
+C;X14;Y23;K8.57
+C;X15;Y23;K""
+C;X16;Y23;K""
+C;X1;Y24;K"Expédition"
+C;X2;Y24;K"France : ail"
+C;X3;Y24;K"AIL rose sec Tarn cat.I 70-90mm"
+C;X4;Y24;K"euro HT le kg"
+C;X5;Y24;K""
+C;X6;Y24;K""
+C;X7;Y24;K""
+C;X8;Y24;K""
+C;X9;Y24;K9.00
+C;X10;Y24;K9.00
+C;X11;Y24;K9.40
+C;X12;Y24;K9.00
+C;X13;Y24;K9.07
+C;X14;Y24;K9.26
+C;X15;Y24;K""
+C;X16;Y24;K""
+C;X1;Y25;K"Expédition"
+C;X2;Y25;K"France : ail"
+C;X3;Y25;K"AIL violet AOP Cadours sec France cat.I 60-80mm filet 3 têtes"
+C;X4;Y25;K"euro HT le filet"
+C;X5;Y25;K""
+C;X6;Y25;K""
+C;X7;Y25;K""
+C;X8;Y25;K""
+C;X9;Y25;K2.10
+C;X10;Y25;K2.10
+C;X11;Y25;K2.10
+C;X12;Y25;K2.10
+C;X13;Y25;K2.10
+C;X14;Y25;K2.10
+C;X15;Y25;K""
+C;X16;Y25;K""
+C;X1;Y26;K"Expédition"
+C;X2;Y26;K"France : ail"
+C;X3;Y26;K"AIL violet AOP Cadours sec France cat.I 70-90mm plateau 6kg"
+C;X4;Y26;K"euro HT le kg"
+C;X5;Y26;K""
+C;X6;Y26;K""
+C;X7;Y26;K""
+C;X8;Y26;K""
+C;X9;Y26;K6.50
+C;X10;Y26;K6.50
+C;X11;Y26;K6.52
+C;X12;Y26;K6.60
+C;X13;Y26;K6.60
+C;X14;Y26;K6.75
+C;X15;Y26;K""
+C;X16;Y26;K""
+C;X1;Y27;K"Expédition"
+C;X2;Y27;K"France : ail"
+C;X3;Y27;K"AIL violet sec France cat.I 60-80mm filet 3 têtes"
+C;X4;Y27;K"euro HT le filet"
+C;X5;Y27;K""
+C;X6;Y27;K""
+C;X7;Y27;K""
+C;X8;Y27;K""
+C;X9;Y27;K""
+C;X10;Y27;K""
+C;X11;Y27;K1.80
+C;X12;Y27;K1.77
+C;X13;Y27;K1.76
+C;X14;Y27;K1.75
+C;X15;Y27;K""
+C;X16;Y27;K""
+C;X1;Y28;K"Expédition"
+C;X2;Y28;K"France : ail"
+C;X3;Y28;K"AIL violet sec France cat.I 60-80 ou 70-90mm sac 5kg"
+C;X4;Y28;K"euro HT le kg"
+C;X5;Y28;K""
+C;X6;Y28;K""
+C;X7;Y28;K""
+C;X8;Y28;K5.20
+C;X9;Y28;K5.20
+C;X10;Y28;K5.20
+C;X11;Y28;K5.38
+C;X12;Y28;K5.50
+C;X13;Y28;K5.50
+C;X14;Y28;K5.50
+C;X15;Y28;K5.50
+C;X16;Y28;K""
+C;X1;Y29;K"Expédition"
+C;X2;Y29;K"France : ail"
+C;X3;Y29;K"AIL violet sec France cat.I tresse 1kg"
+C;X4;Y29;K"euro HT le kg"
+C;X5;Y29;K""
+C;X6;Y29;K""
+C;X7;Y29;K""
+C;X8;Y29;K6.50
+C;X9;Y29;K6.50
+C;X10;Y29;K6.50
+C;X11;Y29;K6.50
+C;X12;Y29;K6.50
+C;X13;Y29;K6.50
+C;X14;Y29;K6.50
+C;X15;Y29;K6.50
+C;X16;Y29;K""
+C;X1;Y30;K"Expédition"
+C;X2;Y30;K"France : fruits et légumes bio - expédition"
+C;X3;Y30;K"AIL blanc sec France biologique"
+C;X4;Y30;K"euro HT le kg"
+C;X5;Y30;K9.20
+C;X6;Y30;K8.71
+C;X7;Y30;K10.88
+C;X8;Y30;K8.69
+C;X9;Y30;K8.44
+C;X10;Y30;K8.31
+C;X11;Y30;K8.27
+C;X12;Y30;K8.31
+C;X13;Y30;K8.20
+C;X14;Y30;K8.23
+C;X15;Y30;K8.34
+C;X16;Y30;K8.59
+C;X1;Y31;K"Expédition"
+C;X2;Y31;K"France : fruits et légumes bio - expédition"
+C;X3;Y31;K"AIL frais France biologique"
+C;X4;Y31;K"euro HT le kg"
+C;X5;Y31;K""
+C;X6;Y31;K7.93
+C;X7;Y31;K7.93
+C;X8;Y31;K""
+C;X9;Y31;K""
+C;X10;Y31;K""
+C;X11;Y31;K""
+C;X12;Y31;K""
+C;X13;Y31;K""
+C;X14;Y31;K""
+C;X15;Y31;K""
+C;X16;Y31;K""
+C;X1;Y32;K"Expédition"
+C;X2;Y32;K"France : fruits et légumes bio - expédition"
+C;X3;Y32;K"AIL violet sec France biologique"
+C;X4;Y32;K"euro HT le kg"
+C;X5;Y32;K""
+C;X6;Y32;K""
+C;X7;Y32;K8.00
+C;X8;Y32;K8.00
+C;X9;Y32;K""
+C;X10;Y32;K""
+C;X11;Y32;K""
+C;X12;Y32;K""
+C;X13;Y32;K""
+C;X14;Y32;K""
+C;X15;Y32;K""
+C;X16;Y32;K""
+C;X1;Y33;K"Import"
+C;X2;Y33;K"France : fruits et légumes bio - import"
+C;X3;Y33;K"AIL blanc Espagne biologique"
+C;X4;Y33;K"euro HT le kg"
+C;X5;Y33;K6.20
+C;X6;Y33;K""
+C;X7;Y33;K6.12
+C;X8;Y33;K5.85
+C;X9;Y33;K5.70
+C;X10;Y33;K5.40
+C;X11;Y33;K5.40
+C;X12;Y33;K5.33
+C;X13;Y33;K5.35
+C;X14;Y33;K5.35
+C;X15;Y33;K5.20
+C;X16;Y33;K5.23
+C;X1;Y34;K"Grossistes"
+C;X2;Y34;K"France : fruits et légumes bio - grossistes"
+C;X3;Y34;K"AIL blanc sec France biologique"
+C;X4;Y34;K"euro HT le kg"
+C;X5;Y34;K10.91
+C;X6;Y34;K10.80
+C;X7;Y34;K""
+C;X8;Y34;K""
+C;X9;Y34;K10.54
+C;X10;Y34;K10.29
+C;X11;Y34;K10.09
+C;X12;Y34;K10.10
+C;X13;Y34;K10.09
+C;X14;Y34;K10.35
+C;X15;Y34;K10.45
+C;X16;Y34;K10.62
+C;X1;Y35;K"Grossistes"
+C;X2;Y35;K"France : fruits et légumes bio - grossistes"
+C;X3;Y35;K"AIL blanc sec U.E. biologique"
+C;X4;Y35;K"euro HT le kg"
+C;X5;Y35;K7.09
+C;X6;Y35;K7.42
+C;X7;Y35;K7.22
+C;X8;Y35;K7.48
+C;X9;Y35;K7.34
+C;X10;Y35;K7.08
+C;X11;Y35;K7.15
+C;X12;Y35;K7.17
+C;X13;Y35;K6.99
+C;X14;Y35;K7.20
+C;X15;Y35;K7.19
+C;X16;Y35;K7.35
+C;X1;Y36;K"Grossistes"
+C;X2;Y36;K"France : fruits et légumes bio - grossistes"
+C;X3;Y36;K"AIL frais France biologique"
+C;X4;Y36;K"euro HT le kg"
+C;X5;Y36;K""
+C;X6;Y36;K11.80
+C;X7;Y36;K10.77
+C;X8;Y36;K10.48
+C;X9;Y36;K9.56
+C;X10;Y36;K""
+C;X11;Y36;K""
+C;X12;Y36;K""
+C;X13;Y36;K""
+C;X14;Y36;K""
+C;X15;Y36;K""
+C;X16;Y36;K""
+C;X1;Y37;K"Grossistes"
+C;X2;Y37;K"France : fruits et légumes bio - grossistes"
+C;X3;Y37;K"AIL violet sec France biologique"
+C;X4;Y37;K"euro HT le kg"
+C;X5;Y37;K""
+C;X6;Y37;K10.76
+C;X7;Y37;K8.00
+C;X8;Y37;K""
+C;X9;Y37;K""
+C;X10;Y37;K""
+C;X11;Y37;K""
+C;X12;Y37;K""
+C;X13;Y37;K""
+C;X14;Y37;K""
+C;X15;Y37;K""
+C;X16;Y37;K""
+C;X1;Y38;K"Grossistes"
+C;X2;Y38;K"France : fruits et légumes bio - grossistes"
+C;X3;Y38;K"AIL violet sec U.E. biologique"
+C;X4;Y38;K"euro HT le kg"
+C;X5;Y38;K6.99
+C;X6;Y38;K7.72
+C;X7;Y38;K7.30
+C;X8;Y38;K7.69
+C;X9;Y38;K6.14
+C;X10;Y38;K6.95
+C;X11;Y38;K7.90
+C;X12;Y38;K""
+C;X13;Y38;K""
+C;X14;Y38;K""
+C;X15;Y38;K""
+C;X16;Y38;K""
+C;X1;Y39;K"Grossistes"
+C;X2;Y39;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y39;K"AIL blanc frais France cat.I 60-80mm"
+C;X4;Y39;K"euro HT le kg"
+C;X5;Y39;K""
+C;X6;Y39;K""
+C;X7;Y39;K""
+C;X8;Y39;K6.55
+C;X9;Y39;K6.35
+C;X10;Y39;K6.30
+C;X11;Y39;K""
+C;X12;Y39;K""
+C;X13;Y39;K""
+C;X14;Y39;K""
+C;X15;Y39;K""
+C;X16;Y39;K""
+C;X1;Y40;K"Grossistes"
+C;X2;Y40;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y40;K"AIL blanc sec Espagne cat.I 60-80mm"
+C;X4;Y40;K"euro HT le kg"
+C;X5;Y40;K5.60
+C;X6;Y40;K5.60
+C;X7;Y40;K5.60
+C;X8;Y40;K5.38
+C;X9;Y40;K5.35
+C;X10;Y40;K5.27
+C;X11;Y40;K5.18
+C;X12;Y40;K5.28
+C;X13;Y40;K4.98
+C;X14;Y40;K5.00
+C;X15;Y40;K5.10
+C;X16;Y40;K5.00
+C;X1;Y41;K"Grossistes"
+C;X2;Y41;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y41;K"AIL blanc sec France cat.I 60-80mm"
+C;X4;Y41;K"euro HT le kg"
+C;X5;Y41;K""
+C;X6;Y41;K""
+C;X7;Y41;K""
+C;X8;Y41;K""
+C;X9;Y41;K""
+C;X10;Y41;K6.10
+C;X11;Y41;K6.20
+C;X12;Y41;K6.40
+C;X13;Y41;K5.50
+C;X14;Y41;K""
+C;X15;Y41;K""
+C;X16;Y41;K""
+C;X1;Y42;K"Grossistes"
+C;X2;Y42;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y42;K"AIL frais Egypte cat.I 60-80mm"
+C;X4;Y42;K"euro HT le kg"
+C;X5;Y42;K""
+C;X6;Y42;K""
+C;X7;Y42;K""
+C;X8;Y42;K""
+C;X9;Y42;K""
+C;X10;Y42;K""
+C;X11;Y42;K""
+C;X12;Y42;K""
+C;X13;Y42;K""
+C;X14;Y42;K""
+C;X15;Y42;K""
+C;X16;Y42;K5.00
+C;X1;Y43;K"Grossistes"
+C;X2;Y43;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y43;K"AIL rose France cat.I 60-80mm"
+C;X4;Y43;K"euro HT le kg"
+C;X5;Y43;K""
+C;X6;Y43;K""
+C;X7;Y43;K""
+C;X8;Y43;K""
+C;X9;Y43;K""
+C;X10;Y43;K""
+C;X11;Y43;K9.20
+C;X12;Y43;K9.20
+C;X13;Y43;K9.20
+C;X14;Y43;K9.20
+C;X15;Y43;K""
+C;X16;Y43;K""
+C;X1;Y44;K"Grossistes"
+C;X2;Y44;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y44;K"AIL rose sec Espagne cat.I 60-80mm"
+C;X4;Y44;K"euro HT le kg"
+C;X5;Y44;K""
+C;X6;Y44;K""
+C;X7;Y44;K""
+C;X8;Y44;K""
+C;X9;Y44;K""
+C;X10;Y44;K""
+C;X11;Y44;K""
+C;X12;Y44;K""
+C;X13;Y44;K""
+C;X14;Y44;K""
+C;X15;Y44;K9.65
+C;X16;Y44;K9.80
+C;X1;Y45;K"Grossistes"
+C;X2;Y45;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y45;K"AIL violet sec Argentine cat.I 60-80mm"
+C;X4;Y45;K"euro HT le kg"
+C;X5;Y45;K""
+C;X6;Y45;K""
+C;X7;Y45;K""
+C;X8;Y45;K""
+C;X9;Y45;K""
+C;X10;Y45;K""
+C;X11;Y45;K""
+C;X12;Y45;K""
+C;X13;Y45;K""
+C;X14;Y45;K""
+C;X15;Y45;K""
+C;X16;Y45;K4.70
+C;X1;Y46;K"Grossistes"
+C;X2;Y46;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y46;K"AIL violet sec Espagne cat.I 60-80mm"
+C;X4;Y46;K"euro HT le kg"
+C;X5;Y46;K5.60
+C;X6;Y46;K5.60
+C;X7;Y46;K""
+C;X8;Y46;K""
+C;X9;Y46;K""
+C;X10;Y46;K5.70
+C;X11;Y46;K4.95
+C;X12;Y46;K5.67
+C;X13;Y46;K5.22
+C;X14;Y46;K5.00
+C;X15;Y46;K5.00
+C;X16;Y46;K""
+C;X1;Y47;K"Grossistes"
+C;X2;Y47;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y47;K"AIL blanc sec Espagne cat.I 70-90mm"
+C;X4;Y47;K"euro HT le kg"
+C;X5;Y47;K6.03
+C;X6;Y47;K6.14
+C;X7;Y47;K6.10
+C;X8;Y47;K5.90
+C;X9;Y47;K""
+C;X10;Y47;K""
+C;X11;Y47;K5.13
+C;X12;Y47;K4.95
+C;X13;Y47;K4.96
+C;X14;Y47;K4.91
+C;X15;Y47;K4.73
+C;X16;Y47;K4.80
+C;X1;Y48;K"Grossistes"
+C;X2;Y48;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y48;K"AIL violet frais France cat.I 60-80mm"
+C;X4;Y48;K"euro HT le kg"
+C;X5;Y48;K""
+C;X6;Y48;K""
+C;X7;Y48;K6.50
+C;X8;Y48;K6.53
+C;X9;Y48;K""
+C;X10;Y48;K""
+C;X11;Y48;K""
+C;X12;Y48;K""
+C;X13;Y48;K""
+C;X14;Y48;K""
+C;X15;Y48;K""
+C;X16;Y48;K""
+C;X1;Y49;K"Grossistes"
+C;X2;Y49;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y49;K"AIL violet sec Argentine cat.I 70-90mm"
+C;X4;Y49;K"euro HT le kg"
+C;X5;Y49;K6.96
+C;X6;Y49;K6.88
+C;X7;Y49;K6.53
+C;X8;Y49;K""
+C;X9;Y49;K""
+C;X10;Y49;K""
+C;X11;Y49;K""
+C;X12;Y49;K""
+C;X13;Y49;K""
+C;X14;Y49;K5.76
+C;X15;Y49;K5.40
+C;X16;Y49;K5.27
+C;X1;Y50;K"Grossistes"
+C;X2;Y50;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y50;K"AIL violet sec Espagne cat.I 60-80mm"
+C;X4;Y50;K"euro HT le kg"
+C;X5;Y50;K6.07
+C;X6;Y50;K6.39
+C;X7;Y50;K6.24
+C;X8;Y50;K5.37
+C;X9;Y50;K5.00
+C;X10;Y50;K5.13
+C;X11;Y50;K4.90
+C;X12;Y50;K4.94
+C;X13;Y50;K4.96
+C;X14;Y50;K4.96
+C;X15;Y50;K4.73
+C;X16;Y50;K4.82
+C;X1;Y51;K"Grossistes"
+C;X2;Y51;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y51;K"AIL violet sec France cat.I 60-80mm"
+C;X4;Y51;K"euro HT le kg"
+C;X5;Y51;K""
+C;X6;Y51;K""
+C;X7;Y51;K""
+C;X8;Y51;K6.00
+C;X9;Y51;K6.36
+C;X10;Y51;K6.21
+C;X11;Y51;K6.18
+C;X12;Y51;K6.20
+C;X13;Y51;K6.20
+C;X14;Y51;K6.10
+C;X15;Y51;K6.13
+C;X16;Y51;K6.21
+C;X1;Y52;K"Grossistes"
+C;X2;Y52;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y52;K"AIL violet frais Sud-Est cat.I"
+C;X4;Y52;K"euro HT le kg"
+C;X5;Y52;K""
+C;X6;Y52;K7.82
+C;X7;Y52;K6.21
+C;X8;Y52;K6.35
+C;X9;Y52;K""
+C;X10;Y52;K""
+C;X11;Y52;K""
+C;X12;Y52;K""
+C;X13;Y52;K""
+C;X14;Y52;K""
+C;X15;Y52;K""
+C;X16;Y52;K""
+C;X1;Y53;K"Grossistes"
+C;X2;Y53;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y53;K"AIL violet France avec fane cat.I"
+C;X4;Y53;K"euro HT le kg"
+C;X5;Y53;K6.20
+C;X6;Y53;K6.35
+C;X7;Y53;K6.00
+C;X8;Y53;K""
+C;X9;Y53;K""
+C;X10;Y53;K""
+C;X11;Y53;K""
+C;X12;Y53;K""
+C;X13;Y53;K""
+C;X14;Y53;K""
+C;X15;Y53;K""
+C;X16;Y53;K""
+C;X1;Y54;K"Grossistes"
+C;X2;Y54;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y54;K"AIL violet sec Argentine cat.I"
+C;X4;Y54;K"euro HT le kg"
+C;X5;Y54;K""
+C;X6;Y54;K""
+C;X7;Y54;K""
+C;X8;Y54;K""
+C;X9;Y54;K""
+C;X10;Y54;K""
+C;X11;Y54;K""
+C;X12;Y54;K""
+C;X13;Y54;K""
+C;X14;Y54;K""
+C;X15;Y54;K""
+C;X16;Y54;K5.83
+C;X1;Y55;K"Grossistes"
+C;X2;Y55;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y55;K"AIL violet sec Espagne cat.I sac 5kg"
+C;X4;Y55;K"euro HT le kg"
+C;X5;Y55;K6.87
+C;X6;Y55;K6.77
+C;X7;Y55;K6.48
+C;X8;Y55;K5.68
+C;X9;Y55;K5.65
+C;X10;Y55;K5.75
+C;X11;Y55;K5.94
+C;X12;Y55;K6.00
+C;X13;Y55;K6.00
+C;X14;Y55;K6.10
+C;X15;Y55;K6.14
+C;X16;Y55;K6.25
+C;X1;Y56;K"Grossistes"
+C;X2;Y56;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y56;K"AIL violet sec France cat.I sac 5kg"
+C;X4;Y56;K"euro HT le kg"
+C;X5;Y56;K7.12
+C;X6;Y56;K""
+C;X7;Y56;K""
+C;X8;Y56;K6.40
+C;X9;Y56;K6.69
+C;X10;Y56;K6.67
+C;X11;Y56;K6.65
+C;X12;Y56;K6.56
+C;X13;Y56;K6.43
+C;X14;Y56;K6.45
+C;X15;Y56;K6.45
+C;X16;Y56;K6.10
+C;X1;Y57;K"Grossistes"
+C;X2;Y57;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y57;K"AIL blanc sec Espagne cat.I 60-80mm sac 5kg"
+C;X4;Y57;K"euro HT le kg"
+C;X5;Y57;K6.64
+C;X6;Y57;K6.95
+C;X7;Y57;K6.33
+C;X8;Y57;K6.00
+C;X9;Y57;K""
+C;X10;Y57;K""
+C;X11;Y57;K""
+C;X12;Y57;K""
+C;X13;Y57;K""
+C;X14;Y57;K""
+C;X15;Y57;K""
+C;X16;Y57;K""
+C;X1;Y58;K"Grossistes"
+C;X2;Y58;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y58;K"AIL violet sec Espagne cat.I 60-80mm"
+C;X4;Y58;K"euro HT le kg"
+C;X5;Y58;K6.72
+C;X6;Y58;K6.42
+C;X7;Y58;K6.34
+C;X8;Y58;K5.91
+C;X9;Y58;K5.33
+C;X10;Y58;K5.53
+C;X11;Y58;K5.55
+C;X12;Y58;K4.99
+C;X13;Y58;K5.23
+C;X14;Y58;K5.10
+C;X15;Y58;K5.28
+C;X16;Y58;K5.58
+C;X1;Y59;K"Grossistes"
+C;X2;Y59;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y59;K"AIL violet sec France cat.I 60-80mm sac 5kg"
+C;X4;Y59;K"euro HT le kg"
+C;X5;Y59;K""
+C;X6;Y59;K""
+C;X7;Y59;K""
+C;X8;Y59;K""
+C;X9;Y59;K7.21
+C;X10;Y59;K6.56
+C;X11;Y59;K6.78
+C;X12;Y59;K7.13
+C;X13;Y59;K7.90
+C;X14;Y59;K""
+C;X15;Y59;K""
+C;X16;Y59;K""
+C;X1;Y60;K"Grossistes"
+C;X2;Y60;K"MIN de Marseille : fruits et légumes"
+C;X3;Y60;K"AIL blanc sec Espagne cat.I 70-90mm sac 5kg"
+C;X4;Y60;K"euro HT le kg"
+C;X5;Y60;K5.40
+C;X6;Y60;K5.53
+C;X7;Y60;K5.50
+C;X8;Y60;K5.35
+C;X9;Y60;K4.88
+C;X10;Y60;K4.83
+C;X11;Y60;K4.81
+C;X12;Y60;K4.81
+C;X13;Y60;K4.87
+C;X14;Y60;K4.84
+C;X15;Y60;K4.85
+C;X16;Y60;K4.82
+C;X1;Y61;K"Grossistes"
+C;X2;Y61;K"MIN de Marseille : fruits et légumes"
+C;X3;Y61;K"AIL rose Lautrec label rouge sec France cat.I 70-90mm plateau"
+C;X4;Y61;K"euro HT le kg"
+C;X5;Y61;K13.00
+C;X6;Y61;K13.00
+C;X7;Y61;K""
+C;X8;Y61;K""
+C;X9;Y61;K""
+C;X10;Y61;K""
+C;X11;Y61;K""
+C;X12;Y61;K15.00
+C;X13;Y61;K15.00
+C;X14;Y61;K15.44
+C;X15;Y61;K15.29
+C;X16;Y61;K14.64
+C;X1;Y62;K"Grossistes"
+C;X2;Y62;K"MIN de Marseille : fruits et légumes"
+C;X3;Y62;K"AIL violet frais Egypte cat.I 60-80mm"
+C;X4;Y62;K"euro HT le kg"
+C;X5;Y62;K6.40
+C;X6;Y62;K""
+C;X7;Y62;K""
+C;X8;Y62;K""
+C;X9;Y62;K""
+C;X10;Y62;K""
+C;X11;Y62;K""
+C;X12;Y62;K""
+C;X13;Y62;K""
+C;X14;Y62;K""
+C;X15;Y62;K""
+C;X16;Y62;K5.90
+C;X1;Y63;K"Grossistes"
+C;X2;Y63;K"MIN de Marseille : fruits et légumes"
+C;X3;Y63;K"AIL violet frais France avec fane cat.I botte"
+C;X4;Y63;K"euro HT le kg"
+C;X5;Y63;K6.25
+C;X6;Y63;K5.75
+C;X7;Y63;K5.43
+C;X8;Y63;K""
+C;X9;Y63;K""
+C;X10;Y63;K""
+C;X11;Y63;K""
+C;X12;Y63;K""
+C;X13;Y63;K""
+C;X14;Y63;K""
+C;X15;Y63;K""
+C;X16;Y63;K""
+C;X1;Y64;K"Grossistes"
+C;X2;Y64;K"MIN de Marseille : fruits et légumes"
+C;X3;Y64;K"AIL violet frais France cat.I 50-70mm colis 5kg"
+C;X4;Y64;K"euro HT le kg"
+C;X5;Y64;K""
+C;X6;Y64;K""
+C;X7;Y64;K6.40
+C;X8;Y64;K6.42
+C;X9;Y64;K7.00
+C;X10;Y64;K""
+C;X11;Y64;K""
+C;X12;Y64;K""
+C;X13;Y64;K""
+C;X14;Y64;K""
+C;X15;Y64;K""
+C;X16;Y64;K""
+C;X1;Y65;K"Grossistes"
+C;X2;Y65;K"MIN de Marseille : fruits et légumes"
+C;X3;Y65;K"AIL violet sec Argentine cat.I 70-90mm sac 5kg"
+C;X4;Y65;K"euro HT le kg"
+C;X5;Y65;K""
+C;X6;Y65;K6.50
+C;X7;Y65;K6.17
+C;X8;Y65;K""
+C;X9;Y65;K""
+C;X10;Y65;K""
+C;X11;Y65;K""
+C;X12;Y65;K""
+C;X13;Y65;K""
+C;X14;Y65;K""
+C;X15;Y65;K5.10
+C;X16;Y65;K5.07
+C;X1;Y66;K"Grossistes"
+C;X2;Y66;K"MIN de Marseille : fruits et légumes"
+C;X3;Y66;K"AIL violet sec Espagne cat.I 70-90mm sac 5kg"
+C;X4;Y66;K"euro HT le kg"
+C;X5;Y66;K6.00
+C;X6;Y66;K5.80
+C;X7;Y66;K5.04
+C;X8;Y66;K5.27
+C;X9;Y66;K5.22
+C;X10;Y66;K5.07
+C;X11;Y66;K5.12
+C;X12;Y66;K4.80
+C;X13;Y66;K4.91
+C;X14;Y66;K4.86
+C;X15;Y66;K4.89
+C;X16;Y66;K5.05
+C;X1;Y67;K"Grossistes"
+C;X2;Y67;K"MIN de Marseille : fruits et légumes"
+C;X3;Y67;K"AIL violet sec France cat.I 70-90mm sac 5kg"
+C;X4;Y67;K"euro HT le kg"
+C;X5;Y67;K""
+C;X6;Y67;K""
+C;X7;Y67;K""
+C;X8;Y67;K""
+C;X9;Y67;K6.00
+C;X10;Y67;K6.02
+C;X11;Y67;K6.03
+C;X12;Y67;K6.00
+C;X13;Y67;K6.08
+C;X14;Y67;K5.94
+C;X15;Y67;K5.90
+C;X16;Y67;K""
+C;X1;Y68;K"Grossistes"
+C;X2;Y68;K"MIN de Nantes : fruits et légumes"
+C;X3;Y68;K"AIL blanc sec Espagne cat.I 70-90mm sac 5kg"
+C;X4;Y68;K"euro HT le kg"
+C;X5;Y68;K""
+C;X6;Y68;K""
+C;X7;Y68;K""
+C;X8;Y68;K""
+C;X9;Y68;K""
+C;X10;Y68;K""
+C;X11;Y68;K""
+C;X12;Y68;K5.20
+C;X13;Y68;K""
+C;X14;Y68;K""
+C;X15;Y68;K4.83
+C;X16;Y68;K""
+C;X1;Y69;K"Grossistes"
+C;X2;Y69;K"MIN de Nantes : fruits et légumes"
+C;X3;Y69;K"AIL rose sec France cat.I 70-90mm colis 5kg"
+C;X4;Y69;K"euro HT le kg"
+C;X5;Y69;K11.00
+C;X6;Y69;K11.00
+C;X7;Y69;K11.00
+C;X8;Y69;K""
+C;X9;Y69;K""
+C;X10;Y69;K12.66
+C;X11;Y69;K11.96
+C;X12;Y69;K11.99
+C;X13;Y69;K14.36
+C;X14;Y69;K14.05
+C;X15;Y69;K13.00
+C;X16;Y69;K13.00
+C;X1;Y70;K"Grossistes"
+C;X2;Y70;K"MIN de Nantes : fruits et légumes"
+C;X3;Y70;K"AIL violet frais Egypte cat.I 60-80mm"
+C;X4;Y70;K"euro HT le kg"
+C;X5;Y70;K6.77
+C;X6;Y70;K6.20
+C;X7;Y70;K""
+C;X8;Y70;K""
+C;X9;Y70;K""
+C;X10;Y70;K""
+C;X11;Y70;K""
+C;X12;Y70;K""
+C;X13;Y70;K""
+C;X14;Y70;K7.10
+C;X15;Y70;K6.67
+C;X16;Y70;K7.32
+C;X1;Y71;K"Grossistes"
+C;X2;Y71;K"MIN de Nantes : fruits et légumes"
+C;X3;Y71;K"AIL violet frais France en gousse cat.I 70-90mm"
+C;X4;Y71;K"euro HT le kg"
+C;X5;Y71;K""
+C;X6;Y71;K7.87
+C;X7;Y71;K7.80
+C;X8;Y71;K7.80
+C;X9;Y71;K7.80
+C;X10;Y71;K""
+C;X11;Y71;K""
+C;X12;Y71;K""
+C;X13;Y71;K""
+C;X14;Y71;K""
+C;X15;Y71;K""
+C;X16;Y71;K""
+C;X1;Y72;K"Grossistes"
+C;X2;Y72;K"MIN de Nantes : fruits et légumes"
+C;X3;Y72;K"AIL violet sec Argentine cat.I 50-70mm colis 5kg"
+C;X4;Y72;K"euro HT le kg"
+C;X5;Y72;K7.20
+C;X6;Y72;K7.38
+C;X7;Y72;K7.50
+C;X8;Y72;K7.90
+C;X9;Y72;K""
+C;X10;Y72;K""
+C;X11;Y72;K""
+C;X12;Y72;K""
+C;X13;Y72;K""
+C;X14;Y72;K""
+C;X15;Y72;K5.90
+C;X16;Y72;K5.68
+C;X1;Y73;K"Grossistes"
+C;X2;Y73;K"MIN de Nantes : fruits et légumes"
+C;X3;Y73;K"AIL violet sec Espagne cat.I 70-90mm"
+C;X4;Y73;K"euro HT le kg"
+C;X5;Y73;K8.12
+C;X6;Y73;K8.00
+C;X7;Y73;K7.00
+C;X8;Y73;K6.59
+C;X9;Y73;K6.39
+C;X10;Y73;K5.93
+C;X11;Y73;K5.95
+C;X12;Y73;K5.47
+C;X13;Y73;K5.50
+C;X14;Y73;K5.38
+C;X15;Y73;K6.00
+C;X16;Y73;K""
+C;X1;Y74;K"Grossistes"
+C;X2;Y74;K"MIN de Nantes : fruits et légumes"
+C;X3;Y74;K"AIL violet sec France cat.I 70-90mm sac 5kg"
+C;X4;Y74;K"euro HT le kg"
+C;X5;Y74;K""
+C;X6;Y74;K""
+C;X7;Y74;K""
+C;X8;Y74;K""
+C;X9;Y74;K""
+C;X10;Y74;K7.80
+C;X11;Y74;K7.83
+C;X12;Y74;K7.55
+C;X13;Y74;K7.66
+C;X14;Y74;K7.80
+C;X15;Y74;K7.86
+C;X16;Y74;K""
+C;X1;Y75;K"Grossistes"
+C;X2;Y75;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y75;K"AIL blanc sec France biologique"
+C;X4;Y75;K"euro HT le kg"
+C;X5;Y75;K11.09
+C;X6;Y75;K10.92
+C;X7;Y75;K""
+C;X8;Y75;K""
+C;X9;Y75;K11.11
+C;X10;Y75;K10.98
+C;X11;Y75;K10.46
+C;X12;Y75;K10.24
+C;X13;Y75;K10.46
+C;X14;Y75;K10.61
+C;X15;Y75;K10.79
+C;X16;Y75;K10.94
+C;X1;Y76;K"Grossistes"
+C;X2;Y76;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y76;K"AIL blanc sec U.E. biologique"
+C;X4;Y76;K"euro HT le kg"
+C;X5;Y76;K7.21
+C;X6;Y76;K7.37
+C;X7;Y76;K7.23
+C;X8;Y76;K7.59
+C;X9;Y76;K7.35
+C;X10;Y76;K6.93
+C;X11;Y76;K6.85
+C;X12;Y76;K6.82
+C;X13;Y76;K6.52
+C;X14;Y76;K6.68
+C;X15;Y76;K6.88
+C;X16;Y76;K6.90
+C;X1;Y77;K"Grossistes"
+C;X2;Y77;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y77;K"AIL frais France biologique"
+C;X4;Y77;K"euro HT le kg"
+C;X5;Y77;K""
+C;X6;Y77;K11.43
+C;X7;Y77;K11.01
+C;X8;Y77;K10.57
+C;X9;Y77;K""
+C;X10;Y77;K""
+C;X11;Y77;K""
+C;X12;Y77;K""
+C;X13;Y77;K""
+C;X14;Y77;K""
+C;X15;Y77;K""
+C;X16;Y77;K""
+C;X1;Y78;K"Grossistes"
+C;X2;Y78;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y78;K"AIL violet sec France biologique"
+C;X4;Y78;K"euro HT le kg"
+C;X5;Y78;K""
+C;X6;Y78;K10.87
+C;X7;Y78;K""
+C;X8;Y78;K""
+C;X9;Y78;K""
+C;X10;Y78;K""
+C;X11;Y78;K""
+C;X12;Y78;K""
+C;X13;Y78;K""
+C;X14;Y78;K""
+C;X15;Y78;K""
+C;X16;Y78;K""
+C;X1;Y79;K"Grossistes"
+C;X2;Y79;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y79;K"AIL violet sec U.E. biologique"
+C;X4;Y79;K"euro HT le kg"
+C;X5;Y79;K6.98
+C;X6;Y79;K""
+C;X7;Y79;K""
+C;X8;Y79;K7.62
+C;X9;Y79;K""
+C;X10;Y79;K""
+C;X11;Y79;K""
+C;X12;Y79;K""
+C;X13;Y79;K""
+C;X14;Y79;K""
+C;X15;Y79;K""
+C;X16;Y79;K""
+C;X1;Y80;K"Grossistes"
+C;X2;Y80;K"MIN de Nice : fruits et légumes"
+C;X3;Y80;K"AIL rose Lautrec label rouge sec France cat.I 70-90mm plateau"
+C;X4;Y80;K"euro HT le kg"
+C;X5;Y80;K12.08
+C;X6;Y80;K""
+C;X7;Y80;K""
+C;X8;Y80;K""
+C;X9;Y80;K""
+C;X10;Y80;K""
+C;X11;Y80;K""
+C;X12;Y80;K""
+C;X13;Y80;K""
+C;X14;Y80;K""
+C;X15;Y80;K""
+C;X16;Y80;K""
+C;X1;Y81;K"Grossistes"
+C;X2;Y81;K"MIN de Nice : fruits et légumes"
+C;X3;Y81;K"AIL violet frais France cat.I 60-80mm"
+C;X4;Y81;K"euro HT le kg"
+C;X5;Y81;K7.31
+C;X6;Y81;K8.10
+C;X7;Y81;K7.38
+C;X8;Y81;K7.40
+C;X9;Y81;K""
+C;X10;Y81;K""
+C;X11;Y81;K""
+C;X12;Y81;K""
+C;X13;Y81;K""
+C;X14;Y81;K""
+C;X15;Y81;K""
+C;X16;Y81;K""
+C;X1;Y82;K"Grossistes"
+C;X2;Y82;K"MIN de Nice : fruits et légumes"
+C;X3;Y82;K"AIL violet sec Argentine cat.I 60-80mm sac 5kg"
+C;X4;Y82;K"euro HT le kg"
+C;X5;Y82;K""
+C;X6;Y82;K""
+C;X7;Y82;K""
+C;X8;Y82;K""
+C;X9;Y82;K""
+C;X10;Y82;K""
+C;X11;Y82;K""
+C;X12;Y82;K""
+C;X13;Y82;K""
+C;X14;Y82;K""
+C;X15;Y82;K5.65
+C;X16;Y82;K5.60
+C;X1;Y83;K"Grossistes"
+C;X2;Y83;K"MIN de Nice : fruits et légumes"
+C;X3;Y83;K"AIL violet sec Espagne cat.I 70-90mm sac 5kg"
+C;X4;Y83;K"euro HT le kg"
+C;X5;Y83;K6.28
+C;X6;Y83;K6.25
+C;X7;Y83;K6.21
+C;X8;Y83;K6.20
+C;X9;Y83;K6.20
+C;X10;Y83;K5.80
+C;X11;Y83;K5.96
+C;X12;Y83;K6.05
+C;X13;Y83;K6.00
+C;X14;Y83;K5.85
+C;X15;Y83;K6.05
+C;X16;Y83;K6.16
+C;X1;Y84;K"Grossistes"
+C;X2;Y84;K"MIN de Nice : fruits et légumes"
+C;X3;Y84;K"AIL violet sec France cat.I 70-90mm sac 5kg"
+C;X4;Y84;K"euro HT le kg"
+C;X5;Y84;K""
+C;X6;Y84;K""
+C;X7;Y84;K""
+C;X8;Y84;K6.60
+C;X9;Y84;K6.50
+C;X10;Y84;K6.55
+C;X11;Y84;K6.60
+C;X12;Y84;K6.64
+C;X13;Y84;K6.75
+C;X14;Y84;K6.60
+C;X15;Y84;K6.65
+C;X16;Y84;K""
+C;X1;Y85;K"Grossistes"
+C;X2;Y85;K"MIN de Rungis : fruits et légumes"
+C;X3;Y85;K"AIL blanc frais France avec fane cat.I 60-80mm"
+C;X4;Y85;K"euro HT le kg"
+C;X5;Y85;K6.00
+C;X6;Y85;K6.00
+C;X7;Y85;K5.75
+C;X8;Y85;K5.50
+C;X9;Y85;K5.50
+C;X10;Y85;K""
+C;X11;Y85;K""
+C;X12;Y85;K""
+C;X13;Y85;K""
+C;X14;Y85;K""
+C;X15;Y85;K""
+C;X16;Y85;K""
+C;X1;Y86;K"Grossistes"
+C;X2;Y86;K"MIN de Rungis : fruits et légumes"
+C;X3;Y86;K"AIL blanc frais France cat.I 60-80mm"
+C;X4;Y86;K"euro HT le kg"
+C;X5;Y86;K9.00
+C;X6;Y86;K7.97
+C;X7;Y86;K7.25
+C;X8;Y86;K7.00
+C;X9;Y86;K7.00
+C;X10;Y86;K""
+C;X11;Y86;K""
+C;X12;Y86;K""
+C;X13;Y86;K""
+C;X14;Y86;K""
+C;X15;Y86;K""
+C;X16;Y86;K""
+C;X1;Y87;K"Grossistes"
+C;X2;Y87;K"MIN de Rungis : fruits et légumes"
+C;X3;Y87;K"AIL blanc sec Espagne cat.I 60-80mm"
+C;X4;Y87;K"euro HT le kg"
+C;X5;Y87;K5.80
+C;X6;Y87;K5.88
+C;X7;Y87;K6.00
+C;X8;Y87;K6.00
+C;X9;Y87;K5.70
+C;X10;Y87;K5.19
+C;X11;Y87;K5.20
+C;X12;Y87;K5.11
+C;X13;Y87;K5.52
+C;X14;Y87;K5.43
+C;X15;Y87;K5.10
+C;X16;Y87;K5.50
+C;X1;Y88;K"Grossistes"
+C;X2;Y88;K"MIN de Rungis : fruits et légumes"
+C;X3;Y88;K"AIL blanc sec France cat.I 60-80mm"
+C;X4;Y88;K"euro HT le kg"
+C;X5;Y88;K""
+C;X6;Y88;K""
+C;X7;Y88;K""
+C;X8;Y88;K""
+C;X9;Y88;K""
+C;X10;Y88;K6.00
+C;X11;Y88;K5.89
+C;X12;Y88;K5.71
+C;X13;Y88;K""
+C;X14;Y88;K""
+C;X15;Y88;K""
+C;X16;Y88;K""
+C;X1;Y89;K"Grossistes"
+C;X2;Y89;K"MIN de Rungis : fruits et légumes"
+C;X3;Y89;K"AIL violet sec Argentine cat.I 60-80mm"
+C;X4;Y89;K"euro HT le kg"
+C;X5;Y89;K7.60
+C;X6;Y89;K7.29
+C;X7;Y89;K7.00
+C;X8;Y89;K7.00
+C;X9;Y89;K7.60
+C;X10;Y89;K8.00
+C;X11;Y89;K""
+C;X12;Y89;K""
+C;X13;Y89;K""
+C;X14;Y89;K""
+C;X15;Y89;K5.72
+C;X16;Y89;K5.75
+C;X1;Y90;K"Grossistes"
+C;X2;Y90;K"MIN de Rungis : fruits et légumes"
+C;X3;Y90;K"AIL violet sec Espagne cat.I 60-80mm"
+C;X4;Y90;K"euro HT le kg"
+C;X5;Y90;K5.80
+C;X6;Y90;K""
+C;X7;Y90;K""
+C;X8;Y90;K""
+C;X9;Y90;K""
+C;X10;Y90;K""
+C;X11;Y90;K4.89
+C;X12;Y90;K4.94
+C;X13;Y90;K5.00
+C;X14;Y90;K5.14
+C;X15;Y90;K5.00
+C;X16;Y90;K5.00
+C;X1;Y91;K"Grossistes"
+C;X2;Y91;K"MIN de Rungis : fruits et légumes"
+C;X3;Y91;K"AIL violet sec France cat.I 60-80mm"
+C;X4;Y91;K"euro HT le kg"
+C;X5;Y91;K""
+C;X6;Y91;K7.45
+C;X7;Y91;K7.00
+C;X8;Y91;K7.00
+C;X9;Y91;K7.15
+C;X10;Y91;K7.36
+C;X11;Y91;K7.24
+C;X12;Y91;K7.27
+C;X13;Y91;K""
+C;X14;Y91;K""
+C;X15;Y91;K""
+C;X16;Y91;K""
+C;X1;Y92;K"Grossistes"
+C;X2;Y92;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y92;K"AIL blanc sec France biologique"
+C;X4;Y92;K"euro HT le kg"
+C;X5;Y92;K11.64
+C;X6;Y92;K11.95
+C;X7;Y92;K""
+C;X8;Y92;K""
+C;X9;Y92;K10.40
+C;X10;Y92;K10.11
+C;X11;Y92;K9.75
+C;X12;Y92;K9.78
+C;X13;Y92;K9.74
+C;X14;Y92;K10.31
+C;X15;Y92;K10.31
+C;X16;Y92;K10.43
+C;X1;Y93;K"Grossistes"
+C;X2;Y93;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y93;K"AIL blanc sec U.E. biologique"
+C;X4;Y93;K"euro HT le kg"
+C;X5;Y93;K6.94
+C;X6;Y93;K7.13
+C;X7;Y93;K7.06
+C;X8;Y93;K6.79
+C;X9;Y93;K6.85
+C;X10;Y93;K6.84
+C;X11;Y93;K6.77
+C;X12;Y93;K6.57
+C;X13;Y93;K6.71
+C;X14;Y93;K6.82
+C;X15;Y93;K6.63
+C;X16;Y93;K6.82
+C;X1;Y94;K"Grossistes"
+C;X2;Y94;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y94;K"AIL frais France biologique"
+C;X4;Y94;K"euro HT le kg"
+C;X5;Y94;K""
+C;X6;Y94;K12.94
+C;X7;Y94;K10.71
+C;X8;Y94;K10.01
+C;X9;Y94;K9.52
+C;X10;Y94;K""
+C;X11;Y94;K""
+C;X12;Y94;K""
+C;X13;Y94;K""
+C;X14;Y94;K""
+C;X15;Y94;K""
+C;X16;Y94;K""
+C;X1;Y95;K"Grossistes"
+C;X2;Y95;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y95;K"AIL violet sec France biologique"
+C;X4;Y95;K"euro HT le kg"
+C;X5;Y95;K""
+C;X6;Y95;K""
+C;X7;Y95;K8.00
+C;X8;Y95;K""
+C;X9;Y95;K""
+C;X10;Y95;K""
+C;X11;Y95;K""
+C;X12;Y95;K""
+C;X13;Y95;K""
+C;X14;Y95;K""
+C;X15;Y95;K""
+C;X16;Y95;K""
+C;X1;Y96;K"Grossistes"
+C;X2;Y96;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y96;K"AIL violet sec U.E. biologique"
+C;X4;Y96;K"euro HT le kg"
+C;X5;Y96;K""
+C;X6;Y96;K7.91
+C;X7;Y96;K7.75
+C;X8;Y96;K7.72
+C;X9;Y96;K""
+C;X10;Y96;K6.61
+C;X11;Y96;K""
+C;X12;Y96;K""
+C;X13;Y96;K""
+C;X14;Y96;K""
+C;X15;Y96;K""
+C;X16;Y96;K""
+C;X1;Y97;K"Grossistes"
+C;X2;Y97;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y97;K"AIL blanc frais Egypte cat.I 50-70mm colis 5kg"
+C;X4;Y97;K"euro HT le kg"
+C;X5;Y97;K""
+C;X6;Y97;K6.20
+C;X7;Y97;K6.28
+C;X8;Y97;K7.12
+C;X9;Y97;K""
+C;X10;Y97;K""
+C;X11;Y97;K""
+C;X12;Y97;K""
+C;X13;Y97;K""
+C;X14;Y97;K""
+C;X15;Y97;K""
+C;X16;Y97;K""
+C;X1;Y98;K"Grossistes"
+C;X2;Y98;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y98;K"AIL blanc frais France cat.I 60-80mm"
+C;X4;Y98;K"euro HT le kg"
+C;X5;Y98;K""
+C;X6;Y98;K9.20
+C;X7;Y98;K8.47
+C;X8;Y98;K8.51
+C;X9;Y98;K8.26
+C;X10;Y98;K7.97
+C;X11;Y98;K7.62
+C;X12;Y98;K""
+C;X13;Y98;K""
+C;X14;Y98;K""
+C;X15;Y98;K""
+C;X16;Y98;K""
+C;X1;Y99;K"Grossistes"
+C;X2;Y99;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y99;K"AIL blanc France cat.I 60-80mm"
+C;X4;Y99;K"euro HT le kg"
+C;X5;Y99;K""
+C;X6;Y99;K""
+C;X7;Y99;K""
+C;X8;Y99;K""
+C;X9;Y99;K""
+C;X10;Y99;K""
+C;X11;Y99;K8.22
+C;X12;Y99;K7.76
+C;X13;Y99;K7.80
+C;X14;Y99;K7.85
+C;X15;Y99;K7.85
+C;X16;Y99;K7.59
+C;X1;Y100;K"Grossistes"
+C;X2;Y100;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y100;K"AIL blanc sec Espagne cat.I 60-80mm"
+C;X4;Y100;K"euro HT le kg"
+C;X5;Y100;K6.22
+C;X6;Y100;K6.17
+C;X7;Y100;K5.91
+C;X8;Y100;K5.97
+C;X9;Y100;K6.06
+C;X10;Y100;K5.89
+C;X11;Y100;K5.93
+C;X12;Y100;K5.90
+C;X13;Y100;K5.92
+C;X14;Y100;K5.84
+C;X15;Y100;K5.79
+C;X16;Y100;K5.83
+C;X1;Y101;K"Grossistes"
+C;X2;Y101;K"MIN de Strasbourg : fruits et légumes bio"
+C;X3;Y101;K"AIL blanc frais France biologique"
+C;X4;Y101;K"euro HT le kg"
+C;X5;Y101;K""
+C;X6;Y101;K9.85
+C;X7;Y101;K9.29
+C;X8;Y101;K9.31
+C;X9;Y101;K9.38
+C;X10;Y101;K""
+C;X11;Y101;K""
+C;X12;Y101;K""
+C;X13;Y101;K""
+C;X14;Y101;K""
+C;X15;Y101;K""
+C;X16;Y101;K""
+C;X1;Y102;K"Grossistes"
+C;X2;Y102;K"MIN de Strasbourg : fruits et légumes bio"
+C;X3;Y102;K"AIL blanc sec France biologique"
+C;X4;Y102;K"euro HT le kg"
+C;X5;Y102;K""
+C;X6;Y102;K""
+C;X7;Y102;K""
+C;X8;Y102;K""
+C;X9;Y102;K9.11
+C;X10;Y102;K8.93
+C;X11;Y102;K""
+C;X12;Y102;K""
+C;X13;Y102;K""
+C;X14;Y102;K""
+C;X15;Y102;K""
+C;X16;Y102;K""
+C;X1;Y103;K"Grossistes"
+C;X2;Y103;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y103;K"AIL rose sec Tarn cat.I 60-80mm"
+C;X4;Y103;K"euro HT le kg"
+C;X5;Y103;K""
+C;X6;Y103;K""
+C;X7;Y103;K""
+C;X8;Y103;K""
+C;X9;Y103;K""
+C;X10;Y103;K8.94
+C;X11;Y103;K8.84
+C;X12;Y103;K9.26
+C;X13;Y103;K9.30
+C;X14;Y103;K9.30
+C;X15;Y103;K9.30
+C;X16;Y103;K9.80
+C;X1;Y104;K"Grossistes"
+C;X2;Y104;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y104;K"AIL violet frais France cat.I 60-80mm"
+C;X4;Y104;K"euro HT le kg"
+C;X5;Y104;K""
+C;X6;Y104;K6.80
+C;X7;Y104;K6.51
+C;X8;Y104;K""
+C;X9;Y104;K""
+C;X10;Y104;K""
+C;X11;Y104;K""
+C;X12;Y104;K""
+C;X13;Y104;K""
+C;X14;Y104;K""
+C;X15;Y104;K""
+C;X16;Y104;K""
+C;X1;Y105;K"Grossistes"
+C;X2;Y105;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y105;K"AIL violet sec Argentine cat.I 70-90mm"
+C;X4;Y105;K"euro HT le kg"
+C;X5;Y105;K""
+C;X6;Y105;K5.80
+C;X7;Y105;K""
+C;X8;Y105;K""
+C;X9;Y105;K""
+C;X10;Y105;K""
+C;X11;Y105;K""
+C;X12;Y105;K""
+C;X13;Y105;K""
+C;X14;Y105;K""
+C;X15;Y105;K4.80
+C;X16;Y105;K""
+C;X1;Y106;K"Grossistes"
+C;X2;Y106;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y106;K"AIL violet sec Espagne cat.I 60-80mm"
+C;X4;Y106;K"euro HT le kg"
+C;X5;Y106;K6.38
+C;X6;Y106;K5.95
+C;X7;Y106;K6.08
+C;X8;Y106;K5.29
+C;X9;Y106;K5.21
+C;X10;Y106;K5.50
+C;X11;Y106;K5.50
+C;X12;Y106;K4.86
+C;X13;Y106;K4.79
+C;X14;Y106;K4.88
+C;X15;Y106;K4.80
+C;X16;Y106;K4.58
+C;X1;Y107;K"Grossistes"
+C;X2;Y107;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y107;K"AIL violet sec France cat.I 60-80mm sac 5kg"
+C;X4;Y107;K"euro HT le kg"
+C;X5;Y107;K""
+C;X6;Y107;K""
+C;X7;Y107;K6.80
+C;X8;Y107;K6.58
+C;X9;Y107;K6.52
+C;X10;Y107;K6.50
+C;X11;Y107;K6.50
+C;X12;Y107;K6.50
+C;X13;Y107;K6.60
+C;X14;Y107;K6.80
+C;X15;Y107;K6.84
+C;X16;Y107;K6.80
+C;X1;Y108;K"Détail"
+C;X2;Y108;K"Légumes France DETAIL GMS"
+C;X3;Y108;K"AIL blanc sec France 50-70 ou 60-80mm filet 3 têtes"
+C;X4;Y108;K"euro TTC le filet"
+C;X5;Y108;K3.61
+C;X6;Y108;K3.61
+C;X7;Y108;K3.61
+C;X8;Y108;K3.40
+C;X9;Y108;K3.50
+C;X10;Y108;K3.54
+C;X11;Y108;K3.52
+C;X12;Y108;K3.52
+C;X13;Y108;K3.53
+C;X14;Y108;K3.52
+C;X15;Y108;K3.50
+C;X16;Y108;K3.51
+C;X1;Y109;K"Détail"
+C;X2;Y109;K"Légumes France DETAIL GMS"
+C;X3;Y109;K"AIL blanc sec France biologique"
+C;X4;Y109;K"euro TTC le kg"
+C;X5;Y109;K18.96
+C;X6;Y109;K19.07
+C;X7;Y109;K19.00
+C;X8;Y109;K19.11
+C;X9;Y109;K18.51
+C;X10;Y109;K18.18
+C;X11;Y109;K18.22
+C;X12;Y109;K18.12
+C;X13;Y109;K18.09
+C;X14;Y109;K18.09
+C;X15;Y109;K18.04
+C;X16;Y109;K18.12
+C;X1;Y110;K"Détail"
+C;X2;Y110;K"Légumes France DETAIL GMS"
+C;X3;Y110;K"AIL blanc sec France vrac"
+C;X4;Y110;K"euro TTC le kg"
+C;X5;Y110;K11.32
+C;X6;Y110;K11.66
+C;X7;Y110;K11.80
+C;X8;Y110;K11.81
+C;X9;Y110;K11.67
+C;X10;Y110;K11.76
+C;X11;Y110;K11.89
+C;X12;Y110;K11.86
+C;X13;Y110;K11.76
+C;X14;Y110;K11.62
+C;X15;Y110;K11.60
+C;X16;Y110;K11.62
+C;X1;Y111;K"Détail"
+C;X2;Y111;K"Légumes France DETAIL GMS"
+C;X3;Y111;K"AIL blanc sec hors Fr. 50-70 ou 60-80mm filet 3 têtes"
+C;X4;Y111;K"euro TTC le filet"
+C;X5;Y111;K3.66
+C;X6;Y111;K3.50
+C;X7;Y111;K3.48
+C;X8;Y111;K3.54
+C;X9;Y111;K3.72
+C;X10;Y111;K3.81
+C;X11;Y111;K""
+C;X12;Y111;K""
+C;X13;Y111;K""
+C;X14;Y111;K""
+C;X15;Y111;K""
+C;X16;Y111;K""
+C;X1;Y112;K"Détail"
+C;X2;Y112;K"Légumes France DETAIL GMS"
+C;X3;Y112;K"AIL blanc sec hors Fr. biologique"
+C;X4;Y112;K"euro TTC le kg"
+C;X5;Y112;K""
+C;X6;Y112;K18.34
+C;X7;Y112;K18.27
+C;X8;Y112;K17.89
+C;X9;Y112;K18.17
+C;X10;Y112;K16.93
+C;X11;Y112;K""
+C;X12;Y112;K""
+C;X13;Y112;K""
+C;X14;Y112;K""
+C;X15;Y112;K""
+C;X16;Y112;K""
+C;X1;Y113;K"Détail"
+C;X2;Y113;K"Légumes France DETAIL GMS"
+C;X3;Y113;K"AIL blanc sec hors Fr. vrac"
+C;X4;Y113;K"euro TTC le kg"
+C;X5;Y113;K11.29
+C;X6;Y113;K11.53
+C;X7;Y113;K11.71
+C;X8;Y113;K11.53
+C;X9;Y113;K11.30
+C;X10;Y113;K11.26
+C;X11;Y113;K10.91
+C;X12;Y113;K10.85
+C;X13;Y113;K10.96
+C;X14;Y113;K11.16
+C;X15;Y113;K11.04
+C;X16;Y113;K11.23
+C;X1;Y114;K"Détail"
+C;X2;Y114;K"Légumes France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y114;K"AIL blanc sec France biologique"
+C;X4;Y114;K"euro TTC le kg"
+C;X5;Y114;K15.56
+C;X6;Y114;K16.56
+C;X7;Y114;K16.12
+C;X8;Y114;K16.49
+C;X9;Y114;K16.88
+C;X10;Y114;K17.14
+C;X11;Y114;K17.16
+C;X12;Y114;K17.02
+C;X13;Y114;K16.99
+C;X14;Y114;K16.78
+C;X15;Y114;K16.95
+C;X16;Y114;K17.16
+C;X1;Y115;K"Détail"
+C;X2;Y115;K"Légumes France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y115;K"AIL blanc sec U.E. biologique"
+C;X4;Y115;K"euro TTC le kg"
+C;X5;Y115;K11.83
+C;X6;Y115;K12.45
+C;X7;Y115;K13.81
+C;X8;Y115;K14.02
+C;X9;Y115;K""
+C;X10;Y115;K""
+C;X11;Y115;K""
+C;X12;Y115;K""
+C;X13;Y115;K""
+C;X14;Y115;K""
+C;X15;Y115;K""
+C;X16;Y115;K""
+C;X1;Y116;K"Détail"
+C;X2;Y116;K"Légumes France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y116;K"AIL frais France biologique"
+C;X4;Y116;K"euro TTC le kg"
+C;X5;Y116;K""
+C;X6;Y116;K16.50
+C;X7;Y116;K16.51
+C;X8;Y116;K15.57
+C;X9;Y116;K14.15
+C;X10;Y116;K""
+C;X11;Y116;K""
+C;X12;Y116;K""
+C;X13;Y116;K""
+C;X14;Y116;K""
+C;X15;Y116;K""
+C;X16;Y116;K""
+F;SM6;X1;Y119
+C;K"Source : RNM.FranceAgriMer.fr"
+E

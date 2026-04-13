@@ -1,0 +1,1350 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Noix - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Marché de producteurs"
+C;X2;Y5;K"Marché de Lyon-Corbas carreau : fruits et légumes"
+C;X3;Y5;K"NOIX de Grenoble sèche Rhône-Alpes +30mm sac 10kg"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K""
+C;X6;Y5;K""
+C;X7;Y5;K""
+C;X8;Y5;K""
+C;X9;Y5;K""
+C;X10;Y5;K""
+C;X11;Y5;K3.90
+C;X12;Y5;K3.86
+C;X13;Y5;K3.80
+C;X14;Y5;K3.80
+C;X15;Y5;K""
+C;X16;Y5;K""
+C;X1;Y6;K"Marché de producteurs"
+C;X2;Y6;K"Marché de Lyon-Corbas carreau : fruits et légumes"
+C;X3;Y6;K"NOIX Lara fraîche Rhône-Alpes cat.I +34mm sac 10kg"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K""
+C;X6;Y6;K""
+C;X7;Y6;K""
+C;X8;Y6;K""
+C;X9;Y6;K""
+C;X10;Y6;K3.40
+C;X11;Y6;K3.40
+C;X12;Y6;K""
+C;X13;Y6;K""
+C;X14;Y6;K""
+C;X15;Y6;K""
+C;X16;Y6;K""
+C;X1;Y7;K"Marché de producteurs"
+C;X2;Y7;K"Marché de Perpignan carreau : fruits et légumes"
+C;X3;Y7;K"NOIX Roussillon"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K4.00
+C;X6;Y7;K""
+C;X7;Y7;K""
+C;X8;Y7;K""
+C;X9;Y7;K""
+C;X10;Y7;K""
+C;X11;Y7;K""
+C;X12;Y7;K""
+C;X13;Y7;K""
+C;X14;Y7;K""
+C;X15;Y7;K""
+C;X16;Y7;K""
+C;X1;Y8;K"Marché de producteurs"
+C;X2;Y8;K"MIN d'Agen carreau : fruits et légumes"
+C;X3;Y8;K"NOIX variétés diverses sèche Sud-Ouest cat.I +28mm sac 5kg"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K""
+C;X6;Y8;K""
+C;X7;Y8;K""
+C;X8;Y8;K""
+C;X9;Y8;K""
+C;X10;Y8;K2.90
+C;X11;Y8;K3.35
+C;X12;Y8;K3.65
+C;X13;Y8;K3.52
+C;X14;Y8;K""
+C;X15;Y8;K3.25
+C;X16;Y8;K3.80
+C;X1;Y9;K"Expédition"
+C;X2;Y9;K"Bassin Auvergne Rhône-Alpes : kiwi, châtaigne-marron, noix"
+C;X3;Y9;K"NOIX Lara fraîche Rhône-Alpes cat.I +34mm sac 5kg"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K""
+C;X6;Y9;K""
+C;X7;Y9;K""
+C;X8;Y9;K""
+C;X9;Y9;K""
+C;X10;Y9;K2.96
+C;X11;Y9;K2.90
+C;X12;Y9;K""
+C;X13;Y9;K""
+C;X14;Y9;K""
+C;X15;Y9;K""
+C;X16;Y9;K""
+C;X1;Y10;K"Expédition"
+C;X2;Y10;K"Bassin Auvergne Rhône-Alpes : kiwi, châtaigne-marron, noix"
+C;X3;Y10;K"NOIX Lara fraîche Rhône-Alpes cat.I +36mm sac 5kg"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K""
+C;X6;Y10;K""
+C;X7;Y10;K""
+C;X8;Y10;K""
+C;X9;Y10;K""
+C;X10;Y10;K3.29
+C;X11;Y10;K3.20
+C;X12;Y10;K""
+C;X13;Y10;K""
+C;X14;Y10;K""
+C;X15;Y10;K""
+C;X16;Y10;K""
+C;X1;Y11;K"Expédition"
+C;X2;Y11;K"Bassin Auvergne Rhône-Alpes : kiwi, châtaigne-marron, noix"
+C;X3;Y11;K"NOIX Lara fraîche Rhône-Alpes cat.I +38mm sac 5kg"
+C;X4;Y11;K"euro HT le kg"
+C;X5;Y11;K""
+C;X6;Y11;K""
+C;X7;Y11;K""
+C;X8;Y11;K""
+C;X9;Y11;K""
+C;X10;Y11;K3.49
+C;X11;Y11;K3.40
+C;X12;Y11;K""
+C;X13;Y11;K""
+C;X14;Y11;K""
+C;X15;Y11;K""
+C;X16;Y11;K""
+C;X1;Y12;K"Expédition"
+C;X2;Y12;K"Bassin Auvergne Rhône-Alpes : kiwi, châtaigne-marron, noix"
+C;X3;Y12;K"NOIX variétés diverses AOP Grenoble sèche Rhône-Alpes cat.I +28mm sac 5kg"
+C;X4;Y12;K"euro HT le kg"
+C;X5;Y12;K3.00
+C;X6;Y12;K""
+C;X7;Y12;K""
+C;X8;Y12;K""
+C;X9;Y12;K""
+C;X10;Y12;K""
+C;X11;Y12;K2.94
+C;X12;Y12;K2.95
+C;X13;Y12;K2.95
+C;X14;Y12;K2.95
+C;X15;Y12;K2.95
+C;X16;Y12;K2.95
+C;X1;Y13;K"Expédition"
+C;X2;Y13;K"Bassin Auvergne Rhône-Alpes : kiwi, châtaigne-marron, noix"
+C;X3;Y13;K"NOIX variétés diverses AOP Grenoble sèche Rhône-Alpes cat.I +30mm sac 5kg"
+C;X4;Y13;K"euro HT le kg"
+C;X5;Y13;K3.35
+C;X6;Y13;K""
+C;X7;Y13;K""
+C;X8;Y13;K""
+C;X9;Y13;K""
+C;X10;Y13;K""
+C;X11;Y13;K3.50
+C;X12;Y13;K3.50
+C;X13;Y13;K3.50
+C;X14;Y13;K3.50
+C;X15;Y13;K3.50
+C;X16;Y13;K3.50
+C;X1;Y14;K"Expédition"
+C;X2;Y14;K"Bassin Auvergne Rhône-Alpes : kiwi, châtaigne-marron, noix"
+C;X3;Y14;K"NOIX variétés diverses AOP Grenoble sèche Rhône-Alpes cat.I +32mm sac 5kg"
+C;X4;Y14;K"euro HT le kg"
+C;X5;Y14;K3.70
+C;X6;Y14;K""
+C;X7;Y14;K""
+C;X8;Y14;K""
+C;X9;Y14;K""
+C;X10;Y14;K""
+C;X11;Y14;K4.03
+C;X12;Y14;K4.05
+C;X13;Y14;K4.05
+C;X14;Y14;K4.05
+C;X15;Y14;K4.05
+C;X16;Y14;K4.05
+C;X1;Y15;K"Expédition"
+C;X2;Y15;K"Bassin Auvergne Rhône-Alpes : kiwi, châtaigne-marron, noix"
+C;X3;Y15;K"NOIX variétés diverses AOP Grenoble sèche Rhône-Alpes cat.I +34mm sac 5kg"
+C;X4;Y15;K"euro HT le kg"
+C;X5;Y15;K4.15
+C;X6;Y15;K""
+C;X7;Y15;K""
+C;X8;Y15;K""
+C;X9;Y15;K""
+C;X10;Y15;K""
+C;X11;Y15;K4.51
+C;X12;Y15;K4.50
+C;X13;Y15;K4.50
+C;X14;Y15;K4.50
+C;X15;Y15;K4.50
+C;X16;Y15;K4.50
+C;X1;Y16;K"Expédition"
+C;X2;Y16;K"Bassin Sud-Ouest : noix, châtaigne-marron"
+C;X3;Y16;K"NOIX Franquette sèche Sud-Ouest cat.I +28mm sac 5kg"
+C;X4;Y16;K"euro HT le kg"
+C;X5;Y16;K""
+C;X6;Y16;K""
+C;X7;Y16;K""
+C;X8;Y16;K""
+C;X9;Y16;K""
+C;X10;Y16;K""
+C;X11;Y16;K3.00
+C;X12;Y16;K2.95
+C;X13;Y16;K2.90
+C;X14;Y16;K2.83
+C;X15;Y16;K2.80
+C;X16;Y16;K""
+C;X1;Y17;K"Expédition"
+C;X2;Y17;K"Bassin Sud-Ouest : noix, châtaigne-marron"
+C;X3;Y17;K"NOIX Franquette sèche Sud-Ouest cat.I +30mm sac 5kg"
+C;X4;Y17;K"euro HT le kg"
+C;X5;Y17;K""
+C;X6;Y17;K""
+C;X7;Y17;K""
+C;X8;Y17;K""
+C;X9;Y17;K""
+C;X10;Y17;K""
+C;X11;Y17;K3.47
+C;X12;Y17;K3.40
+C;X13;Y17;K3.40
+C;X14;Y17;K3.40
+C;X15;Y17;K3.40
+C;X16;Y17;K""
+C;X1;Y18;K"Expédition"
+C;X2;Y18;K"Bassin Sud-Ouest : noix, châtaigne-marron"
+C;X3;Y18;K"NOIX Franquette sèche Sud-Ouest cat.I +32mm sac 5kg"
+C;X4;Y18;K"euro HT le kg"
+C;X5;Y18;K""
+C;X6;Y18;K""
+C;X7;Y18;K""
+C;X8;Y18;K""
+C;X9;Y18;K""
+C;X10;Y18;K""
+C;X11;Y18;K3.97
+C;X12;Y18;K3.90
+C;X13;Y18;K3.90
+C;X14;Y18;K3.83
+C;X15;Y18;K3.70
+C;X16;Y18;K""
+C;X1;Y19;K"Expédition"
+C;X2;Y19;K"Bassin Sud-Ouest : noix, châtaigne-marron"
+C;X3;Y19;K"NOIX Franquette sèche Sud-Ouest cat.I +34mm sac 5kg"
+C;X4;Y19;K"euro HT le kg"
+C;X5;Y19;K""
+C;X6;Y19;K""
+C;X7;Y19;K""
+C;X8;Y19;K""
+C;X9;Y19;K""
+C;X10;Y19;K""
+C;X11;Y19;K4.40
+C;X12;Y19;K4.40
+C;X13;Y19;K4.35
+C;X14;Y19;K4.35
+C;X15;Y19;K4.35
+C;X16;Y19;K""
+C;X1;Y20;K"Expédition"
+C;X2;Y20;K"Bassin Sud-Ouest : noix, châtaigne-marron"
+C;X3;Y20;K"NOIX Lara fraîche Sud-Ouest cat.I +32mm sac 5kg"
+C;X4;Y20;K"euro HT le kg"
+C;X5;Y20;K""
+C;X6;Y20;K""
+C;X7;Y20;K""
+C;X8;Y20;K""
+C;X9;Y20;K""
+C;X10;Y20;K2.70
+C;X11;Y20;K2.20
+C;X12;Y20;K""
+C;X13;Y20;K""
+C;X14;Y20;K""
+C;X15;Y20;K""
+C;X16;Y20;K""
+C;X1;Y21;K"Expédition"
+C;X2;Y21;K"Bassin Sud-Ouest : noix, châtaigne-marron"
+C;X3;Y21;K"NOIX Lara fraîche Sud-Ouest cat.I +34mm sac 5kg"
+C;X4;Y21;K"euro HT le kg"
+C;X5;Y21;K""
+C;X6;Y21;K""
+C;X7;Y21;K""
+C;X8;Y21;K""
+C;X9;Y21;K""
+C;X10;Y21;K2.90
+C;X11;Y21;K2.60
+C;X12;Y21;K""
+C;X13;Y21;K""
+C;X14;Y21;K""
+C;X15;Y21;K""
+C;X16;Y21;K""
+C;X1;Y22;K"Expédition"
+C;X2;Y22;K"Bassin Sud-Ouest : noix, châtaigne-marron"
+C;X3;Y22;K"NOIX Lara fraîche Sud-Ouest cat.I +36mm sac 5kg"
+C;X4;Y22;K"euro HT le kg"
+C;X5;Y22;K""
+C;X6;Y22;K""
+C;X7;Y22;K""
+C;X8;Y22;K""
+C;X9;Y22;K""
+C;X10;Y22;K3.25
+C;X11;Y22;K3.10
+C;X12;Y22;K""
+C;X13;Y22;K""
+C;X14;Y22;K""
+C;X15;Y22;K""
+C;X16;Y22;K""
+C;X1;Y23;K"Expédition"
+C;X2;Y23;K"Bassin Sud-Ouest : noix, châtaigne-marron"
+C;X3;Y23;K"NOIX Lara fraîche Sud-Ouest cat.I +38mm sac 5kg"
+C;X4;Y23;K"euro HT le kg"
+C;X5;Y23;K""
+C;X6;Y23;K""
+C;X7;Y23;K""
+C;X8;Y23;K""
+C;X9;Y23;K""
+C;X10;Y23;K3.75
+C;X11;Y23;K3.60
+C;X12;Y23;K""
+C;X13;Y23;K""
+C;X14;Y23;K""
+C;X15;Y23;K""
+C;X16;Y23;K""
+C;X1;Y24;K"Expédition"
+C;X2;Y24;K"Bassin Sud-Ouest : noix, châtaigne-marron"
+C;X3;Y24;K"NOIX Lara sèche Sud-Ouest cat.I +30mm sac 5kg"
+C;X4;Y24;K"euro HT le kg"
+C;X5;Y24;K""
+C;X6;Y24;K""
+C;X7;Y24;K""
+C;X8;Y24;K""
+C;X9;Y24;K""
+C;X10;Y24;K""
+C;X11;Y24;K3.10
+C;X12;Y24;K3.05
+C;X13;Y24;K3.00
+C;X14;Y24;K3.00
+C;X15;Y24;K3.00
+C;X16;Y24;K""
+C;X1;Y25;K"Expédition"
+C;X2;Y25;K"Bassin Sud-Ouest : noix, châtaigne-marron"
+C;X3;Y25;K"NOIX Lara sèche Sud-Ouest cat.I +32mm sac 5kg"
+C;X4;Y25;K"euro HT le kg"
+C;X5;Y25;K""
+C;X6;Y25;K""
+C;X7;Y25;K""
+C;X8;Y25;K""
+C;X9;Y25;K""
+C;X10;Y25;K""
+C;X11;Y25;K3.40
+C;X12;Y25;K3.40
+C;X13;Y25;K3.40
+C;X14;Y25;K3.40
+C;X15;Y25;K3.40
+C;X16;Y25;K""
+C;X1;Y26;K"Expédition"
+C;X2;Y26;K"Bassin Sud-Ouest : noix, châtaigne-marron"
+C;X3;Y26;K"NOIX Lara sèche Sud-Ouest cat.I +34mm sac 5kg"
+C;X4;Y26;K"euro HT le kg"
+C;X5;Y26;K""
+C;X6;Y26;K""
+C;X7;Y26;K""
+C;X8;Y26;K""
+C;X9;Y26;K""
+C;X10;Y26;K""
+C;X11;Y26;K3.90
+C;X12;Y26;K3.85
+C;X13;Y26;K3.80
+C;X14;Y26;K3.80
+C;X15;Y26;K3.80
+C;X16;Y26;K""
+C;X1;Y27;K"Expédition"
+C;X2;Y27;K"Bassin Sud-Ouest : noix, châtaigne-marron"
+C;X3;Y27;K"NOIX Lara sèche Sud-Ouest cat.I +36mm sac 5kg"
+C;X4;Y27;K"euro HT le kg"
+C;X5;Y27;K""
+C;X6;Y27;K""
+C;X7;Y27;K""
+C;X8;Y27;K""
+C;X9;Y27;K""
+C;X10;Y27;K""
+C;X11;Y27;K4.42
+C;X12;Y27;K4.35
+C;X13;Y27;K4.30
+C;X14;Y27;K4.30
+C;X15;Y27;K4.30
+C;X16;Y27;K""
+C;X1;Y28;K"Expédition"
+C;X2;Y28;K"Bassin Sud-Ouest : noix, châtaigne-marron"
+C;X3;Y28;K"NOIX Marbot sèche Sud-Ouest cat.I +30mm sac 5kg"
+C;X4;Y28;K"euro HT le kg"
+C;X5;Y28;K""
+C;X6;Y28;K""
+C;X7;Y28;K""
+C;X8;Y28;K""
+C;X9;Y28;K""
+C;X10;Y28;K""
+C;X11;Y28;K3.60
+C;X12;Y28;K3.60
+C;X13;Y28;K3.60
+C;X14;Y28;K3.60
+C;X15;Y28;K3.60
+C;X16;Y28;K""
+C;X1;Y29;K"Expédition"
+C;X2;Y29;K"Bassin Sud-Ouest : noix, châtaigne-marron"
+C;X3;Y29;K"NOIX Marbot sèche Sud-Ouest cat.I +32mm sac 5kg"
+C;X4;Y29;K"euro HT le kg"
+C;X5;Y29;K""
+C;X6;Y29;K""
+C;X7;Y29;K""
+C;X8;Y29;K""
+C;X9;Y29;K""
+C;X10;Y29;K""
+C;X11;Y29;K4.00
+C;X12;Y29;K4.00
+C;X13;Y29;K4.00
+C;X14;Y29;K4.00
+C;X15;Y29;K4.00
+C;X16;Y29;K""
+C;X1;Y30;K"Expédition"
+C;X2;Y30;K"Bassin Sud-Ouest : noix, châtaigne-marron"
+C;X3;Y30;K"NOIX Marbot sèche Sud-Ouest cat.I +34mm sac 5kg"
+C;X4;Y30;K"euro HT le kg"
+C;X5;Y30;K""
+C;X6;Y30;K""
+C;X7;Y30;K""
+C;X8;Y30;K""
+C;X9;Y30;K""
+C;X10;Y30;K""
+C;X11;Y30;K4.40
+C;X12;Y30;K4.40
+C;X13;Y30;K4.40
+C;X14;Y30;K4.40
+C;X15;Y30;K4.20
+C;X16;Y30;K""
+C;X1;Y31;K"Grossistes"
+C;X2;Y31;K"France : fruits et légumes bio - grossistes"
+C;X3;Y31;K"NOIX France biologique"
+C;X4;Y31;K"euro HT le kg"
+C;X5;Y31;K5.97
+C;X6;Y31;K6.07
+C;X7;Y31;K5.99
+C;X8;Y31;K6.00
+C;X9;Y31;K5.89
+C;X10;Y31;K5.17
+C;X11;Y31;K4.97
+C;X12;Y31;K5.39
+C;X13;Y31;K5.59
+C;X14;Y31;K5.58
+C;X15;Y31;K5.46
+C;X16;Y31;K5.50
+C;X1;Y32;K"Grossistes"
+C;X2;Y32;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y32;K"NOIX variétés diverses sèche France cat.I +32mm"
+C;X4;Y32;K"euro HT le kg"
+C;X5;Y32;K""
+C;X6;Y32;K""
+C;X7;Y32;K""
+C;X8;Y32;K""
+C;X9;Y32;K""
+C;X10;Y32;K""
+C;X11;Y32;K4.85
+C;X12;Y32;K4.91
+C;X13;Y32;K4.95
+C;X14;Y32;K5.14
+C;X15;Y32;K5.30
+C;X16;Y32;K5.30
+C;X1;Y33;K"Grossistes"
+C;X2;Y33;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y33;K"NOIX AOP Grenoble sèche France cat.I +28mm"
+C;X4;Y33;K"euro HT le kg"
+C;X5;Y33;K""
+C;X6;Y33;K""
+C;X7;Y33;K""
+C;X8;Y33;K""
+C;X9;Y33;K""
+C;X10;Y33;K""
+C;X11;Y33;K3.15
+C;X12;Y33;K3.20
+C;X13;Y33;K3.20
+C;X14;Y33;K3.20
+C;X15;Y33;K3.20
+C;X16;Y33;K""
+C;X1;Y34;K"Grossistes"
+C;X2;Y34;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y34;K"NOIX AOP Grenoble sèche France cat.I +30mm"
+C;X4;Y34;K"euro HT le kg"
+C;X5;Y34;K""
+C;X6;Y34;K""
+C;X7;Y34;K""
+C;X8;Y34;K""
+C;X9;Y34;K""
+C;X10;Y34;K""
+C;X11;Y34;K3.79
+C;X12;Y34;K3.88
+C;X13;Y34;K3.83
+C;X14;Y34;K3.83
+C;X15;Y34;K3.90
+C;X16;Y34;K3.83
+C;X1;Y35;K"Grossistes"
+C;X2;Y35;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y35;K"NOIX AOP Grenoble sèche France cat.I +32mm"
+C;X4;Y35;K"euro HT le kg"
+C;X5;Y35;K""
+C;X6;Y35;K""
+C;X7;Y35;K""
+C;X8;Y35;K""
+C;X9;Y35;K""
+C;X10;Y35;K""
+C;X11;Y35;K4.55
+C;X12;Y35;K4.68
+C;X13;Y35;K4.54
+C;X14;Y35;K4.47
+C;X15;Y35;K4.59
+C;X16;Y35;K4.58
+C;X1;Y36;K"Grossistes"
+C;X2;Y36;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y36;K"NOIX AOP Grenoble sèche France cat.I +34mm"
+C;X4;Y36;K"euro HT le kg"
+C;X5;Y36;K""
+C;X6;Y36;K""
+C;X7;Y36;K""
+C;X8;Y36;K""
+C;X9;Y36;K""
+C;X10;Y36;K""
+C;X11;Y36;K""
+C;X12;Y36;K""
+C;X13;Y36;K""
+C;X14;Y36;K""
+C;X15;Y36;K4.90
+C;X16;Y36;K""
+C;X1;Y37;K"Grossistes"
+C;X2;Y37;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y37;K"NOIX Lara fraîche France cat.I +32mm plateau"
+C;X4;Y37;K"euro HT le kg"
+C;X5;Y37;K""
+C;X6;Y37;K""
+C;X7;Y37;K""
+C;X8;Y37;K""
+C;X9;Y37;K""
+C;X10;Y37;K2.64
+C;X11;Y37;K2.50
+C;X12;Y37;K""
+C;X13;Y37;K""
+C;X14;Y37;K""
+C;X15;Y37;K""
+C;X16;Y37;K""
+C;X1;Y38;K"Grossistes"
+C;X2;Y38;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y38;K"NOIX Lara fraîche France cat.I +34mm plateau"
+C;X4;Y38;K"euro HT le kg"
+C;X5;Y38;K""
+C;X6;Y38;K""
+C;X7;Y38;K""
+C;X8;Y38;K""
+C;X9;Y38;K""
+C;X10;Y38;K3.13
+C;X11;Y38;K2.80
+C;X12;Y38;K""
+C;X13;Y38;K""
+C;X14;Y38;K""
+C;X15;Y38;K""
+C;X16;Y38;K""
+C;X1;Y39;K"Grossistes"
+C;X2;Y39;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y39;K"NOIX Lara fraîche France cat.I +36mm plateau"
+C;X4;Y39;K"euro HT le kg"
+C;X5;Y39;K""
+C;X6;Y39;K""
+C;X7;Y39;K""
+C;X8;Y39;K""
+C;X9;Y39;K""
+C;X10;Y39;K4.07
+C;X11;Y39;K3.30
+C;X12;Y39;K""
+C;X13;Y39;K""
+C;X14;Y39;K""
+C;X15;Y39;K""
+C;X16;Y39;K""
+C;X1;Y40;K"Grossistes"
+C;X2;Y40;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y40;K"NOIX AOP Grenoble sèche France cat.I +30mm sac 5kg"
+C;X4;Y40;K"euro HT le kg"
+C;X5;Y40;K""
+C;X6;Y40;K""
+C;X7;Y40;K""
+C;X8;Y40;K""
+C;X9;Y40;K""
+C;X10;Y40;K""
+C;X11;Y40;K4.30
+C;X12;Y40;K4.30
+C;X13;Y40;K4.30
+C;X14;Y40;K4.53
+C;X15;Y40;K4.55
+C;X16;Y40;K4.49
+C;X1;Y41;K"Grossistes"
+C;X2;Y41;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y41;K"NOIX fraîche France cat.I +34mm sac 5kg"
+C;X4;Y41;K"euro HT le kg"
+C;X5;Y41;K""
+C;X6;Y41;K""
+C;X7;Y41;K""
+C;X8;Y41;K""
+C;X9;Y41;K""
+C;X10;Y41;K4.85
+C;X11;Y41;K3.86
+C;X12;Y41;K""
+C;X13;Y41;K""
+C;X14;Y41;K""
+C;X15;Y41;K""
+C;X16;Y41;K""
+C;X1;Y42;K"Grossistes"
+C;X2;Y42;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y42;K"NOIX fraîche France cat.I +36mm sac 5kg"
+C;X4;Y42;K"euro HT le kg"
+C;X5;Y42;K""
+C;X6;Y42;K""
+C;X7;Y42;K""
+C;X8;Y42;K""
+C;X9;Y42;K""
+C;X10;Y42;K4.23
+C;X11;Y42;K3.89
+C;X12;Y42;K""
+C;X13;Y42;K""
+C;X14;Y42;K""
+C;X15;Y42;K""
+C;X16;Y42;K""
+C;X1;Y43;K"Grossistes"
+C;X2;Y43;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y43;K"NOIX sèche France cat.I +32mm sac 5kg"
+C;X4;Y43;K"euro HT le kg"
+C;X5;Y43;K""
+C;X6;Y43;K""
+C;X7;Y43;K""
+C;X8;Y43;K""
+C;X9;Y43;K""
+C;X10;Y43;K""
+C;X11;Y43;K4.72
+C;X12;Y43;K4.84
+C;X13;Y43;K4.77
+C;X14;Y43;K4.50
+C;X15;Y43;K4.50
+C;X16;Y43;K4.53
+C;X1;Y44;K"Grossistes"
+C;X2;Y44;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y44;K"NOIX sèche France cat.I +34mm sac 5kg"
+C;X4;Y44;K"euro HT le kg"
+C;X5;Y44;K4.73
+C;X6;Y44;K""
+C;X7;Y44;K""
+C;X8;Y44;K""
+C;X9;Y44;K""
+C;X10;Y44;K""
+C;X11;Y44;K""
+C;X12;Y44;K""
+C;X13;Y44;K""
+C;X14;Y44;K""
+C;X15;Y44;K""
+C;X16;Y44;K""
+C;X1;Y45;K"Grossistes"
+C;X2;Y45;K"MIN de Marseille : fruits et légumes"
+C;X3;Y45;K"NOIX fraîche France cat.I +36mm vrac"
+C;X4;Y45;K"euro HT le kg"
+C;X5;Y45;K""
+C;X6;Y45;K""
+C;X7;Y45;K""
+C;X8;Y45;K""
+C;X9;Y45;K""
+C;X10;Y45;K4.30
+C;X11;Y45;K4.00
+C;X12;Y45;K""
+C;X13;Y45;K""
+C;X14;Y45;K""
+C;X15;Y45;K""
+C;X16;Y45;K""
+C;X1;Y46;K"Grossistes"
+C;X2;Y46;K"MIN de Marseille : fruits et légumes"
+C;X3;Y46;K"NOIX Franquette sèche France cat.I +32mm"
+C;X4;Y46;K"euro HT le kg"
+C;X5;Y46;K""
+C;X6;Y46;K""
+C;X7;Y46;K""
+C;X8;Y46;K""
+C;X9;Y46;K5.06
+C;X10;Y46;K4.90
+C;X11;Y46;K4.94
+C;X12;Y46;K5.02
+C;X13;Y46;K4.53
+C;X14;Y46;K4.61
+C;X15;Y46;K4.75
+C;X16;Y46;K4.76
+C;X1;Y47;K"Grossistes"
+C;X2;Y47;K"MIN de Marseille : fruits et légumes"
+C;X3;Y47;K"NOIX variétés diverses sèche France cat.I +34mm sac 5kg"
+C;X4;Y47;K"euro HT le kg"
+C;X5;Y47;K""
+C;X6;Y47;K""
+C;X7;Y47;K""
+C;X8;Y47;K""
+C;X9;Y47;K""
+C;X10;Y47;K""
+C;X11;Y47;K""
+C;X12;Y47;K4.80
+C;X13;Y47;K4.80
+C;X14;Y47;K""
+C;X15;Y47;K""
+C;X16;Y47;K""
+C;X1;Y48;K"Grossistes"
+C;X2;Y48;K"MIN de Nantes : fruits et légumes"
+C;X3;Y48;K"NOIX Franquette sèche France cat.I +30mm"
+C;X4;Y48;K"euro HT le kg"
+C;X5;Y48;K""
+C;X6;Y48;K""
+C;X7;Y48;K""
+C;X8;Y48;K""
+C;X9;Y48;K""
+C;X10;Y48;K""
+C;X11;Y48;K""
+C;X12;Y48;K""
+C;X13;Y48;K""
+C;X14;Y48;K""
+C;X15;Y48;K""
+C;X16;Y48;K3.90
+C;X1;Y49;K"Grossistes"
+C;X2;Y49;K"MIN de Nantes : fruits et légumes"
+C;X3;Y49;K"NOIX Franquette sèche France cat.I +32mm"
+C;X4;Y49;K"euro HT le kg"
+C;X5;Y49;K""
+C;X6;Y49;K""
+C;X7;Y49;K""
+C;X8;Y49;K""
+C;X9;Y49;K""
+C;X10;Y49;K""
+C;X11;Y49;K5.20
+C;X12;Y49;K5.00
+C;X13;Y49;K5.00
+C;X14;Y49;K""
+C;X15;Y49;K""
+C;X16;Y49;K""
+C;X1;Y50;K"Grossistes"
+C;X2;Y50;K"MIN de Nantes : fruits et légumes"
+C;X3;Y50;K"NOIX Franquette sèche France cat.I +34mm"
+C;X4;Y50;K"euro HT le kg"
+C;X5;Y50;K5.60
+C;X6;Y50;K5.60
+C;X7;Y50;K""
+C;X8;Y50;K""
+C;X9;Y50;K""
+C;X10;Y50;K""
+C;X11;Y50;K""
+C;X12;Y50;K""
+C;X13;Y50;K5.50
+C;X14;Y50;K5.50
+C;X15;Y50;K5.43
+C;X16;Y50;K5.43
+C;X1;Y51;K"Grossistes"
+C;X2;Y51;K"MIN de Nantes : fruits et légumes"
+C;X3;Y51;K"NOIX Lara fraîche France cat.I +32mm"
+C;X4;Y51;K"euro HT le kg"
+C;X5;Y51;K""
+C;X6;Y51;K""
+C;X7;Y51;K""
+C;X8;Y51;K""
+C;X9;Y51;K""
+C;X10;Y51;K2.91
+C;X11;Y51;K""
+C;X12;Y51;K""
+C;X13;Y51;K""
+C;X14;Y51;K""
+C;X15;Y51;K""
+C;X16;Y51;K""
+C;X1;Y52;K"Grossistes"
+C;X2;Y52;K"MIN de Nantes : fruits et légumes"
+C;X3;Y52;K"NOIX Lara fraîche France cat.I +34mm"
+C;X4;Y52;K"euro HT le kg"
+C;X5;Y52;K""
+C;X6;Y52;K""
+C;X7;Y52;K""
+C;X8;Y52;K""
+C;X9;Y52;K""
+C;X10;Y52;K4.00
+C;X11;Y52;K""
+C;X12;Y52;K""
+C;X13;Y52;K""
+C;X14;Y52;K""
+C;X15;Y52;K""
+C;X16;Y52;K""
+C;X1;Y53;K"Grossistes"
+C;X2;Y53;K"MIN de Nantes : fruits et légumes"
+C;X3;Y53;K"NOIX Lara fraîche France cat.I +36mm"
+C;X4;Y53;K"euro HT le kg"
+C;X5;Y53;K""
+C;X6;Y53;K""
+C;X7;Y53;K""
+C;X8;Y53;K""
+C;X9;Y53;K""
+C;X10;Y53;K4.22
+C;X11;Y53;K4.30
+C;X12;Y53;K""
+C;X13;Y53;K""
+C;X14;Y53;K""
+C;X15;Y53;K""
+C;X16;Y53;K""
+C;X1;Y54;K"Grossistes"
+C;X2;Y54;K"MIN de Nantes : fruits et légumes"
+C;X3;Y54;K"NOIX Lara fraîche France cat.I +38mm"
+C;X4;Y54;K"euro HT le kg"
+C;X5;Y54;K""
+C;X6;Y54;K""
+C;X7;Y54;K""
+C;X8;Y54;K""
+C;X9;Y54;K""
+C;X10;Y54;K4.34
+C;X11;Y54;K4.40
+C;X12;Y54;K""
+C;X13;Y54;K""
+C;X14;Y54;K""
+C;X15;Y54;K""
+C;X16;Y54;K""
+C;X1;Y55;K"Grossistes"
+C;X2;Y55;K"MIN de Nantes : fruits et légumes"
+C;X3;Y55;K"NOIX Lara sèche France cat.I +30mm"
+C;X4;Y55;K"euro HT le kg"
+C;X5;Y55;K""
+C;X6;Y55;K""
+C;X7;Y55;K""
+C;X8;Y55;K""
+C;X9;Y55;K""
+C;X10;Y55;K""
+C;X11;Y55;K3.85
+C;X12;Y55;K""
+C;X13;Y55;K""
+C;X14;Y55;K""
+C;X15;Y55;K""
+C;X16;Y55;K""
+C;X1;Y56;K"Grossistes"
+C;X2;Y56;K"MIN de Nantes : fruits et légumes"
+C;X3;Y56;K"NOIX Lara sèche France cat.I +32mm"
+C;X4;Y56;K"euro HT le kg"
+C;X5;Y56;K""
+C;X6;Y56;K""
+C;X7;Y56;K""
+C;X8;Y56;K""
+C;X9;Y56;K""
+C;X10;Y56;K""
+C;X11;Y56;K4.34
+C;X12;Y56;K""
+C;X13;Y56;K""
+C;X14;Y56;K""
+C;X15;Y56;K""
+C;X16;Y56;K""
+C;X1;Y57;K"Grossistes"
+C;X2;Y57;K"MIN de Nantes : fruits et légumes"
+C;X3;Y57;K"NOIX Lara sèche France cat.I +34mm"
+C;X4;Y57;K"euro HT le kg"
+C;X5;Y57;K""
+C;X6;Y57;K""
+C;X7;Y57;K""
+C;X8;Y57;K""
+C;X9;Y57;K""
+C;X10;Y57;K""
+C;X11;Y57;K4.61
+C;X12;Y57;K4.70
+C;X13;Y57;K4.70
+C;X14;Y57;K""
+C;X15;Y57;K""
+C;X16;Y57;K""
+C;X1;Y58;K"Grossistes"
+C;X2;Y58;K"MIN de Nantes : fruits et légumes"
+C;X3;Y58;K"NOIX Lara sèche France cat.I +36mm"
+C;X4;Y58;K"euro HT le kg"
+C;X5;Y58;K""
+C;X6;Y58;K""
+C;X7;Y58;K""
+C;X8;Y58;K""
+C;X9;Y58;K""
+C;X10;Y58;K""
+C;X11;Y58;K4.60
+C;X12;Y58;K4.60
+C;X13;Y58;K""
+C;X14;Y58;K""
+C;X15;Y58;K""
+C;X16;Y58;K""
+C;X1;Y59;K"Grossistes"
+C;X2;Y59;K"MIN de Nantes : fruits et légumes"
+C;X3;Y59;K"NOIX Lara sèche France cat.I +38mm"
+C;X4;Y59;K"euro HT le kg"
+C;X5;Y59;K""
+C;X6;Y59;K""
+C;X7;Y59;K""
+C;X8;Y59;K""
+C;X9;Y59;K""
+C;X10;Y59;K""
+C;X11;Y59;K4.90
+C;X12;Y59;K4.87
+C;X13;Y59;K""
+C;X14;Y59;K""
+C;X15;Y59;K""
+C;X16;Y59;K""
+C;X1;Y60;K"Grossistes"
+C;X2;Y60;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y60;K"NOIX France biologique"
+C;X4;Y60;K"euro HT le kg"
+C;X5;Y60;K6.40
+C;X6;Y60;K6.21
+C;X7;Y60;K6.09
+C;X8;Y60;K6.09
+C;X9;Y60;K5.97
+C;X10;Y60;K4.99
+C;X11;Y60;K4.90
+C;X12;Y60;K5.66
+C;X13;Y60;K6.04
+C;X14;Y60;K5.70
+C;X15;Y60;K5.47
+C;X16;Y60;K5.54
+C;X1;Y61;K"Grossistes"
+C;X2;Y61;K"MIN de Nice : fruits et légumes"
+C;X3;Y61;K"NOIX AOP Grenoble fraîche France cat.I +34mm sac 10kg"
+C;X4;Y61;K"euro HT le kg"
+C;X5;Y61;K""
+C;X6;Y61;K""
+C;X7;Y61;K""
+C;X8;Y61;K""
+C;X9;Y61;K""
+C;X10;Y61;K""
+C;X11;Y61;K3.50
+C;X12;Y61;K""
+C;X13;Y61;K""
+C;X14;Y61;K""
+C;X15;Y61;K""
+C;X16;Y61;K""
+C;X1;Y62;K"Grossistes"
+C;X2;Y62;K"MIN de Nice : fruits et légumes"
+C;X3;Y62;K"NOIX AOP Grenoble fraîche France cat.I +36mm sac 10kg"
+C;X4;Y62;K"euro HT le kg"
+C;X5;Y62;K""
+C;X6;Y62;K""
+C;X7;Y62;K""
+C;X8;Y62;K""
+C;X9;Y62;K""
+C;X10;Y62;K""
+C;X11;Y62;K4.38
+C;X12;Y62;K""
+C;X13;Y62;K""
+C;X14;Y62;K""
+C;X15;Y62;K""
+C;X16;Y62;K""
+C;X1;Y63;K"Grossistes"
+C;X2;Y63;K"MIN de Nice : fruits et légumes"
+C;X3;Y63;K"NOIX AOP Grenoble fraîche France cat.I +38mm sac 10kg"
+C;X4;Y63;K"euro HT le kg"
+C;X5;Y63;K""
+C;X6;Y63;K""
+C;X7;Y63;K""
+C;X8;Y63;K""
+C;X9;Y63;K""
+C;X10;Y63;K""
+C;X11;Y63;K4.90
+C;X12;Y63;K""
+C;X13;Y63;K""
+C;X14;Y63;K""
+C;X15;Y63;K""
+C;X16;Y63;K""
+C;X1;Y64;K"Grossistes"
+C;X2;Y64;K"MIN de Nice : fruits et légumes"
+C;X3;Y64;K"NOIX AOP Grenoble sèche France cat.I +32mm sac 10kg"
+C;X4;Y64;K"euro HT le kg"
+C;X5;Y64;K""
+C;X6;Y64;K""
+C;X7;Y64;K""
+C;X8;Y64;K""
+C;X9;Y64;K""
+C;X10;Y64;K""
+C;X11;Y64;K4.70
+C;X12;Y64;K4.70
+C;X13;Y64;K4.77
+C;X14;Y64;K""
+C;X15;Y64;K""
+C;X16;Y64;K""
+C;X1;Y65;K"Grossistes"
+C;X2;Y65;K"MIN de Nice : fruits et légumes"
+C;X3;Y65;K"NOIX AOP Grenoble sèche France cat.I +34mm sac 10kg"
+C;X4;Y65;K"euro HT le kg"
+C;X5;Y65;K""
+C;X6;Y65;K""
+C;X7;Y65;K""
+C;X8;Y65;K""
+C;X9;Y65;K""
+C;X10;Y65;K""
+C;X11;Y65;K5.10
+C;X12;Y65;K""
+C;X13;Y65;K""
+C;X14;Y65;K""
+C;X15;Y65;K""
+C;X16;Y65;K""
+C;X1;Y66;K"Grossistes"
+C;X2;Y66;K"MIN de Rungis : fruits et légumes"
+C;X3;Y66;K"NOIX AOP Grenoble sèche France cat.I +30mm"
+C;X4;Y66;K"euro HT le kg"
+C;X5;Y66;K3.90
+C;X6;Y66;K4.00
+C;X7;Y66;K4.00
+C;X8;Y66;K4.00
+C;X9;Y66;K4.67
+C;X10;Y66;K5.10
+C;X11;Y66;K4.40
+C;X12;Y66;K4.12
+C;X13;Y66;K4.50
+C;X14;Y66;K4.45
+C;X15;Y66;K4.56
+C;X16;Y66;K4.59
+C;X1;Y67;K"Grossistes"
+C;X2;Y67;K"MIN de Rungis : fruits et légumes"
+C;X3;Y67;K"NOIX AOP Grenoble sèche France cat.I +32mm"
+C;X4;Y67;K"euro HT le kg"
+C;X5;Y67;K4.90
+C;X6;Y67;K5.00
+C;X7;Y67;K5.00
+C;X8;Y67;K5.00
+C;X9;Y67;K4.91
+C;X10;Y67;K4.56
+C;X11;Y67;K4.54
+C;X12;Y67;K4.62
+C;X13;Y67;K5.00
+C;X14;Y67;K4.95
+C;X15;Y67;K5.25
+C;X16;Y67;K5.10
+C;X1;Y68;K"Grossistes"
+C;X2;Y68;K"MIN de Rungis : fruits et légumes"
+C;X3;Y68;K"NOIX Lara fraîche France cat.I +36mm sac 5kg"
+C;X4;Y68;K"euro HT le kg"
+C;X5;Y68;K""
+C;X6;Y68;K""
+C;X7;Y68;K""
+C;X8;Y68;K""
+C;X9;Y68;K""
+C;X10;Y68;K3.76
+C;X11;Y68;K3.48
+C;X12;Y68;K""
+C;X13;Y68;K""
+C;X14;Y68;K""
+C;X15;Y68;K""
+C;X16;Y68;K""
+C;X1;Y69;K"Grossistes"
+C;X2;Y69;K"MIN de Rungis : fruits et légumes"
+C;X3;Y69;K"NOIX Lara fraîche France cat.I +38mm sac 5kg"
+C;X4;Y69;K"euro HT le kg"
+C;X5;Y69;K""
+C;X6;Y69;K""
+C;X7;Y69;K""
+C;X8;Y69;K""
+C;X9;Y69;K""
+C;X10;Y69;K4.47
+C;X11;Y69;K4.48
+C;X12;Y69;K""
+C;X13;Y69;K""
+C;X14;Y69;K""
+C;X15;Y69;K""
+C;X16;Y69;K""
+C;X1;Y70;K"Grossistes"
+C;X2;Y70;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y70;K"NOIX France biologique"
+C;X4;Y70;K"euro HT le kg"
+C;X5;Y70;K5.59
+C;X6;Y70;K5.71
+C;X7;Y70;K5.65
+C;X8;Y70;K""
+C;X9;Y70;K""
+C;X10;Y70;K4.85
+C;X11;Y70;K4.83
+C;X12;Y70;K5.02
+C;X13;Y70;K5.26
+C;X14;Y70;K5.41
+C;X15;Y70;K5.29
+C;X16;Y70;K5.26
+C;X1;Y71;K"Grossistes"
+C;X2;Y71;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y71;K"NOIX France"
+C;X4;Y71;K"euro HT le kg"
+C;X5;Y71;K""
+C;X6;Y71;K""
+C;X7;Y71;K""
+C;X8;Y71;K""
+C;X9;Y71;K""
+C;X10;Y71;K""
+C;X11;Y71;K3.95
+C;X12;Y71;K""
+C;X13;Y71;K""
+C;X14;Y71;K""
+C;X15;Y71;K""
+C;X16;Y71;K""
+C;X1;Y72;K"Grossistes"
+C;X2;Y72;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y72;K"NOIX Lara fraîche France cat.I +32mm plateau"
+C;X4;Y72;K"euro HT le kg"
+C;X5;Y72;K""
+C;X6;Y72;K""
+C;X7;Y72;K""
+C;X8;Y72;K""
+C;X9;Y72;K""
+C;X10;Y72;K3.12
+C;X11;Y72;K3.04
+C;X12;Y72;K""
+C;X13;Y72;K""
+C;X14;Y72;K""
+C;X15;Y72;K""
+C;X16;Y72;K""
+C;X1;Y73;K"Grossistes"
+C;X2;Y73;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y73;K"NOIX Lara fraîche France cat.I +34mm plateau"
+C;X4;Y73;K"euro HT le kg"
+C;X5;Y73;K""
+C;X6;Y73;K""
+C;X7;Y73;K""
+C;X8;Y73;K""
+C;X9;Y73;K""
+C;X10;Y73;K3.84
+C;X11;Y73;K3.51
+C;X12;Y73;K""
+C;X13;Y73;K""
+C;X14;Y73;K""
+C;X15;Y73;K""
+C;X16;Y73;K""
+C;X1;Y74;K"Grossistes"
+C;X2;Y74;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y74;K"NOIX variétés diverses sèche France cat.I +32mm"
+C;X4;Y74;K"euro HT le kg"
+C;X5;Y74;K""
+C;X6;Y74;K""
+C;X7;Y74;K""
+C;X8;Y74;K""
+C;X9;Y74;K""
+C;X10;Y74;K""
+C;X11;Y74;K2.98
+C;X12;Y74;K3.40
+C;X13;Y74;K3.61
+C;X14;Y74;K3.70
+C;X15;Y74;K4.05
+C;X16;Y74;K4.03
+C;X1;Y75;K"Grossistes"
+C;X2;Y75;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y75;K"NOIX variétés diverses sèche France cat.I +34mm"
+C;X4;Y75;K"euro HT le kg"
+C;X5;Y75;K""
+C;X6;Y75;K""
+C;X7;Y75;K""
+C;X8;Y75;K""
+C;X9;Y75;K""
+C;X10;Y75;K""
+C;X11;Y75;K3.70
+C;X12;Y75;K4.16
+C;X13;Y75;K""
+C;X14;Y75;K""
+C;X15;Y75;K""
+C;X16;Y75;K""
+C;X1;Y76;K"Grossistes"
+C;X2;Y76;K"MIN de Strasbourg : fruits et légumes bio"
+C;X3;Y76;K"NOIX fraîche France biologique"
+C;X4;Y76;K"euro HT le kg"
+C;X5;Y76;K""
+C;X6;Y76;K""
+C;X7;Y76;K""
+C;X8;Y76;K""
+C;X9;Y76;K""
+C;X10;Y76;K""
+C;X11;Y76;K5.04
+C;X12;Y76;K5.00
+C;X13;Y76;K5.09
+C;X14;Y76;K""
+C;X15;Y76;K""
+C;X16;Y76;K""
+C;X1;Y77;K"Grossistes"
+C;X2;Y77;K"MIN de Strasbourg : fruits et légumes bio"
+C;X3;Y77;K"NOIX sèche France biologique"
+C;X4;Y77;K"euro HT le kg"
+C;X5;Y77;K""
+C;X6;Y77;K""
+C;X7;Y77;K""
+C;X8;Y77;K""
+C;X9;Y77;K""
+C;X10;Y77;K""
+C;X11;Y77;K""
+C;X12;Y77;K5.26
+C;X13;Y77;K""
+C;X14;Y77;K4.97
+C;X15;Y77;K4.88
+C;X16;Y77;K5.32
+C;X1;Y78;K"Grossistes"
+C;X2;Y78;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y78;K"NOIX Franquette sèche France cat.I +32mm"
+C;X4;Y78;K"euro HT le kg"
+C;X5;Y78;K""
+C;X6;Y78;K""
+C;X7;Y78;K""
+C;X8;Y78;K""
+C;X9;Y78;K""
+C;X10;Y78;K""
+C;X11;Y78;K""
+C;X12;Y78;K""
+C;X13;Y78;K4.50
+C;X14;Y78;K""
+C;X15;Y78;K""
+C;X16;Y78;K""
+C;X1;Y79;K"Détail"
+C;X2;Y79;K"Fruits France DETAIL GMS"
+C;X3;Y79;K"NOIX AOP Grenoble sac 1kg"
+C;X4;Y79;K"euro TTC le kg"
+C;X5;Y79;K""
+C;X6;Y79;K""
+C;X7;Y79;K""
+C;X8;Y79;K""
+C;X9;Y79;K""
+C;X10;Y79;K""
+C;X11;Y79;K6.87
+C;X12;Y79;K6.67
+C;X13;Y79;K6.50
+C;X14;Y79;K7.06
+C;X15;Y79;K6.93
+C;X16;Y79;K""
+C;X1;Y80;K"Détail"
+C;X2;Y80;K"Fruits France DETAIL GMS"
+C;X3;Y80;K"NOIX AOP Grenoble sachet 500g"
+C;X4;Y80;K"euro TTC le kg"
+C;X5;Y80;K""
+C;X6;Y80;K""
+C;X7;Y80;K""
+C;X8;Y80;K""
+C;X9;Y80;K""
+C;X10;Y80;K""
+C;X11;Y80;K8.55
+C;X12;Y80;K8.69
+C;X13;Y80;K8.96
+C;X14;Y80;K8.85
+C;X15;Y80;K8.74
+C;X16;Y80;K""
+C;X1;Y81;K"Détail"
+C;X2;Y81;K"Fruits France DETAIL GMS"
+C;X3;Y81;K"NOIX AOP Grenoble vrac"
+C;X4;Y81;K"euro TTC le kg"
+C;X5;Y81;K""
+C;X6;Y81;K""
+C;X7;Y81;K""
+C;X8;Y81;K""
+C;X9;Y81;K""
+C;X10;Y81;K""
+C;X11;Y81;K""
+C;X12;Y81;K5.92
+C;X13;Y81;K6.53
+C;X14;Y81;K6.43
+C;X15;Y81;K6.50
+C;X16;Y81;K""
+C;X1;Y82;K"Détail"
+C;X2;Y82;K"Fruits France DETAIL GMS"
+C;X3;Y82;K"NOIX France biologique"
+C;X4;Y82;K"euro TTC le kg"
+C;X5;Y82;K""
+C;X6;Y82;K""
+C;X7;Y82;K""
+C;X8;Y82;K""
+C;X9;Y82;K""
+C;X10;Y82;K8.84
+C;X11;Y82;K8.78
+C;X12;Y82;K8.81
+C;X13;Y82;K8.87
+C;X14;Y82;K8.72
+C;X15;Y82;K8.78
+C;X16;Y82;K""
+C;X1;Y83;K"Détail"
+C;X2;Y83;K"Fruits France DETAIL GMS"
+C;X3;Y83;K"NOIX sans label France sac 1kg"
+C;X4;Y83;K"euro TTC le kg"
+C;X5;Y83;K""
+C;X6;Y83;K""
+C;X7;Y83;K""
+C;X8;Y83;K""
+C;X9;Y83;K""
+C;X10;Y83;K""
+C;X11;Y83;K6.07
+C;X12;Y83;K6.01
+C;X13;Y83;K5.88
+C;X14;Y83;K5.84
+C;X15;Y83;K5.84
+C;X16;Y83;K""
+C;X1;Y84;K"Détail"
+C;X2;Y84;K"Fruits France DETAIL GMS"
+C;X3;Y84;K"NOIX sans label France vrac"
+C;X4;Y84;K"euro TTC le kg"
+C;X5;Y84;K""
+C;X6;Y84;K""
+C;X7;Y84;K""
+C;X8;Y84;K""
+C;X9;Y84;K""
+C;X10;Y84;K5.98
+C;X11;Y84;K6.08
+C;X12;Y84;K6.68
+C;X13;Y84;K7.00
+C;X14;Y84;K7.09
+C;X15;Y84;K6.96
+C;X16;Y84;K""
+C;X1;Y85;K"Détail"
+C;X2;Y85;K"Fruits France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y85;K"NOIX France biologique"
+C;X4;Y85;K"euro TTC le kg"
+C;X5;Y85;K8.91
+C;X6;Y85;K8.91
+C;X7;Y85;K8.99
+C;X8;Y85;K9.04
+C;X9;Y85;K9.05
+C;X10;Y85;K9.01
+C;X11;Y85;K8.57
+C;X12;Y85;K8.90
+C;X13;Y85;K8.85
+C;X14;Y85;K8.90
+C;X15;Y85;K8.80
+C;X16;Y85;K8.78
+F;SM6;X1;Y88
+C;K"Source : RNM.FranceAgriMer.fr"
+E

@@ -1,0 +1,198 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Huître - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Grossistes"
+C;X2;Y5;K"MIN de Rungis : huîtres"
+C;X3;Y5;K"HUÎTRE Belon calibre G2 bourriche de 100 France"
+C;X4;Y5;K"euro HT les 100 pièces"
+C;X5;Y5;K120.00
+C;X6;Y5;K120.00
+C;X7;Y5;K120.00
+C;X8;Y5;K120.00
+C;X9;Y5;K120.00
+C;X10;Y5;K120.00
+C;X11;Y5;K120.00
+C;X12;Y5;K120.00
+C;X13;Y5;K120.00
+C;X14;Y5;K120.00
+C;X15;Y5;K120.00
+C;X16;Y5;K120.00
+C;X1;Y6;K"Grossistes"
+C;X2;Y6;K"MIN de Rungis : huîtres"
+C;X3;Y6;K"HUÎTRE Belon calibre M3 bourriche de 100 France"
+C;X4;Y6;K"euro HT les 100 pièces"
+C;X5;Y6;K120.00
+C;X6;Y6;K120.00
+C;X7;Y6;K120.00
+C;X8;Y6;K120.00
+C;X9;Y6;K120.00
+C;X10;Y6;K120.00
+C;X11;Y6;K120.00
+C;X12;Y6;K120.00
+C;X13;Y6;K120.00
+C;X14;Y6;K120.00
+C;X15;Y6;K120.00
+C;X16;Y6;K120.00
+C;X1;Y7;K"Grossistes"
+C;X2;Y7;K"MIN de Rungis : huîtres"
+C;X3;Y7;K"HUÎTRE creuse fine calibre G2 bourriche de 6kg France"
+C;X4;Y7;K"euro HT les 50 pièces"
+C;X5;Y7;K51.00
+C;X6;Y7;K55.00
+C;X7;Y7;K55.00
+C;X8;Y7;K55.00
+C;X9;Y7;K55.00
+C;X10;Y7;K55.00
+C;X11;Y7;K55.00
+C;X12;Y7;K56.25
+C;X13;Y7;K60.00
+C;X14;Y7;K60.00
+C;X15;Y7;K60.00
+C;X16;Y7;K60.00
+C;X1;Y8;K"Grossistes"
+C;X2;Y8;K"MIN de Rungis : huîtres"
+C;X3;Y8;K"HUÎTRE creuse fine de claire calibre G2 bourriche de 150 France"
+C;X4;Y8;K"euro HT les 150 pièces"
+C;X5;Y8;K94.00
+C;X6;Y8;K90.00
+C;X7;Y8;K90.00
+C;X8;Y8;K90.00
+C;X9;Y8;K90.00
+C;X10;Y8;K90.00
+C;X11;Y8;K90.00
+C;X12;Y8;K91.25
+C;X13;Y8;K95.00
+C;X14;Y8;K95.00
+C;X15;Y8;K95.00
+C;X16;Y8;K95.00
+C;X1;Y9;K"Grossistes"
+C;X2;Y9;K"MIN de Rungis : huîtres"
+C;X3;Y9;K"HUÎTRE creuse fine de claire calibre M3 bourriche de 200 France"
+C;X4;Y9;K"euro HT les 200 pièces"
+C;X5;Y9;K105.60
+C;X6;Y9;K108.00
+C;X7;Y9;K108.00
+C;X8;Y9;K108.00
+C;X9;Y9;K108.00
+C;X10;Y9;K108.00
+C;X11;Y9;K108.00
+C;X12;Y9;K108.50
+C;X13;Y9;K110.00
+C;X14;Y9;K110.00
+C;X15;Y9;K110.00
+C;X16;Y9;K110.00
+C;X1;Y10;K"Grossistes"
+C;X2;Y10;K"MIN de Rungis : huîtres"
+C;X3;Y10;K"HUÎTRE creuse spéciale calibre G2 bourriche de 100 France"
+C;X4;Y10;K"euro HT les 100 pièces"
+C;X5;Y10;K118.00
+C;X6;Y10;K110.00
+C;X7;Y10;K110.00
+C;X8;Y10;K110.00
+C;X9;Y10;K110.00
+C;X10;Y10;K110.00
+C;X11;Y10;K110.00
+C;X12;Y10;K110.00
+C;X13;Y10;K114.00
+C;X14;Y10;K115.00
+C;X15;Y10;K115.00
+C;X16;Y10;K115.00
+C;X1;Y11;K"Grossistes"
+C;X2;Y11;K"MIN de Rungis : huîtres"
+C;X3;Y11;K"HUÎTRE creuse spéciale calibre M3 bourriche de 100 France"
+C;X4;Y11;K"euro HT les 100 pièces"
+C;X5;Y11;K128.00
+C;X6;Y11;K120.00
+C;X7;Y11;K120.00
+C;X8;Y11;K120.00
+C;X9;Y11;K120.00
+C;X10;Y11;K120.00
+C;X11;Y11;K120.00
+C;X12;Y11;K120.00
+C;X13;Y11;K124.00
+C;X14;Y11;K125.00
+C;X15;Y11;K125.00
+C;X16;Y11;K125.00
+C;X1;Y12;K"Grossistes"
+C;X2;Y12;K"MIN de Rungis : huîtres"
+C;X3;Y12;K"HUÎTRE creuse spéciale de claire calibre G2 bourriche de 150 France"
+C;X4;Y12;K"euro HT les 150 pièces"
+C;X5;Y12;K140.00
+C;X6;Y12;K140.00
+C;X7;Y12;K140.00
+C;X8;Y12;K140.00
+C;X9;Y12;K140.00
+C;X10;Y12;K140.00
+C;X11;Y12;K140.00
+C;X12;Y12;K140.00
+C;X13;Y12;K144.00
+C;X14;Y12;K145.00
+C;X15;Y12;K145.00
+C;X16;Y12;K145.00
+C;X1;Y13;K"Détail"
+C;X2;Y13;K"Marée France DETAIL GMS"
+C;X3;Y13;K"HUÎTRE creuse cal.3-4-5 vrac"
+C;X4;Y13;K"euro TTC le kg"
+C;X5;Y13;K8.81
+C;X6;Y13;K8.66
+C;X7;Y13;K8.49
+C;X8;Y13;K8.57
+C;X9;Y13;K8.24
+C;X10;Y13;K8.20
+C;X11;Y13;K8.40
+C;X12;Y13;K8.52
+C;X13;Y13;K8.86
+C;X14;Y13;K8.28
+C;X15;Y13;K8.61
+C;X16;Y13;K8.75
+F;SM6;X1;Y16
+C;K"Source : RNM.FranceAgriMer.fr"
+E

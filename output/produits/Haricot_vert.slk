@@ -1,0 +1,1382 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Haricot vert - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Marché de producteurs"
+C;X2;Y5;K"Marché de Perpignan carreau : fruits et légumes"
+C;X3;Y5;K"HARICOT VERT Beurre Roussillon"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K""
+C;X6;Y5;K""
+C;X7;Y5;K7.50
+C;X8;Y5;K7.00
+C;X9;Y5;K""
+C;X10;Y5;K5.00
+C;X11;Y5;K5.00
+C;X12;Y5;K""
+C;X13;Y5;K""
+C;X14;Y5;K""
+C;X15;Y5;K""
+C;X16;Y5;K""
+C;X1;Y6;K"Marché de producteurs"
+C;X2;Y6;K"Marché de Perpignan carreau : fruits et légumes"
+C;X3;Y6;K"HARICOT VERT vert Roussillon fin"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K""
+C;X6;Y6;K11.00
+C;X7;Y6;K7.00
+C;X8;Y6;K7.00
+C;X9;Y6;K8.50
+C;X10;Y6;K7.62
+C;X11;Y6;K6.00
+C;X12;Y6;K6.00
+C;X13;Y6;K""
+C;X14;Y6;K""
+C;X15;Y6;K""
+C;X16;Y6;K""
+C;X1;Y7;K"Marché de producteurs"
+C;X2;Y7;K"Marché de Perpignan carreau : fruits et légumes"
+C;X3;Y7;K"HARICOT VERT vert Roussillon moyen"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K""
+C;X6;Y7;K8.00
+C;X7;Y7;K8.00
+C;X8;Y7;K8.00
+C;X9;Y7;K6.00
+C;X10;Y7;K5.75
+C;X11;Y7;K5.00
+C;X12;Y7;K5.00
+C;X13;Y7;K""
+C;X14;Y7;K""
+C;X15;Y7;K""
+C;X16;Y7;K""
+C;X1;Y8;K"Marché de producteurs"
+C;X2;Y8;K"Marché de producteurs de Vivy : fruits et légumes"
+C;X3;Y8;K"HARICOT VERT Beurre Val de Loire cat.I plateau"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K""
+C;X6;Y8;K5.00
+C;X7;Y8;K4.22
+C;X8;Y8;K4.17
+C;X9;Y8;K3.00
+C;X10;Y8;K3.55
+C;X11;Y8;K3.00
+C;X12;Y8;K""
+C;X13;Y8;K""
+C;X14;Y8;K""
+C;X15;Y8;K""
+C;X16;Y8;K""
+C;X1;Y9;K"Marché de producteurs"
+C;X2;Y9;K"Marché de producteurs de Vivy : fruits et légumes"
+C;X3;Y9;K"HARICOT VERT Val de Loire ramassé main cat.I fin plateau rangé"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K""
+C;X6;Y9;K""
+C;X7;Y9;K""
+C;X8;Y9;K1.88
+C;X9;Y9;K1.37
+C;X10;Y9;K1.21
+C;X11;Y9;K1.11
+C;X12;Y9;K""
+C;X13;Y9;K""
+C;X14;Y9;K""
+C;X15;Y9;K""
+C;X16;Y9;K""
+C;X1;Y10;K"Marché de producteurs"
+C;X2;Y10;K"Marché de producteurs de Vivy : fruits et légumes"
+C;X3;Y10;K"HARICOT VERT Val de Loire ramassé main extra fin plateau rangé"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K""
+C;X6;Y10;K""
+C;X7;Y10;K11.08
+C;X8;Y10;K7.75
+C;X9;Y10;K4.83
+C;X10;Y10;K5.00
+C;X11;Y10;K5.62
+C;X12;Y10;K""
+C;X13;Y10;K8.00
+C;X14;Y10;K""
+C;X15;Y10;K""
+C;X16;Y10;K""
+C;X1;Y11;K"Marché de producteurs"
+C;X2;Y11;K"Marché de producteurs de Vivy : fruits et légumes"
+C;X3;Y11;K"HARICOT VERT vert Val de Loire ramassé machine plateau"
+C;X4;Y11;K"euro HT le kg"
+C;X5;Y11;K""
+C;X6;Y11;K""
+C;X7;Y11;K2.00
+C;X8;Y11;K1.85
+C;X9;Y11;K""
+C;X10;Y11;K""
+C;X11;Y11;K""
+C;X12;Y11;K""
+C;X13;Y11;K""
+C;X14;Y11;K""
+C;X15;Y11;K""
+C;X16;Y11;K""
+C;X1;Y12;K"Marché de producteurs"
+C;X2;Y12;K"MIN d'Agen carreau : fruits et légumes"
+C;X3;Y12;K"HARICOT VERT Beurre Sud-Ouest ramassé main cat.I plateau"
+C;X4;Y12;K"euro HT le kg"
+C;X5;Y12;K""
+C;X6;Y12;K""
+C;X7;Y12;K4.50
+C;X8;Y12;K4.67
+C;X9;Y12;K3.99
+C;X10;Y12;K3.25
+C;X11;Y12;K""
+C;X12;Y12;K""
+C;X13;Y12;K""
+C;X14;Y12;K""
+C;X15;Y12;K""
+C;X16;Y12;K""
+C;X1;Y13;K"Marché de producteurs"
+C;X2;Y13;K"MIN d'Agen carreau : fruits et légumes"
+C;X3;Y13;K"HARICOT VERT vert Sud-Ouest cat.I fin plateau"
+C;X4;Y13;K"euro HT le kg"
+C;X5;Y13;K""
+C;X6;Y13;K""
+C;X7;Y13;K5.50
+C;X8;Y13;K""
+C;X9;Y13;K""
+C;X10;Y13;K""
+C;X11;Y13;K3.90
+C;X12;Y13;K""
+C;X13;Y13;K""
+C;X14;Y13;K""
+C;X15;Y13;K""
+C;X16;Y13;K""
+C;X1;Y14;K"Marché de producteurs"
+C;X2;Y14;K"MIN d'Agen carreau : fruits et légumes"
+C;X3;Y14;K"HARICOT VERT vert Sud-Ouest ramassé machine cat.I plateau"
+C;X4;Y14;K"euro HT le kg"
+C;X5;Y14;K""
+C;X6;Y14;K""
+C;X7;Y14;K5.78
+C;X8;Y14;K5.10
+C;X9;Y14;K4.33
+C;X10;Y14;K4.70
+C;X11;Y14;K4.05
+C;X12;Y14;K""
+C;X13;Y14;K""
+C;X14;Y14;K""
+C;X15;Y14;K""
+C;X16;Y14;K""
+C;X1;Y15;K"Expédition"
+C;X2;Y15;K"Bassin Centre-Ouest : fruits et légumes bio"
+C;X3;Y15;K"HARICOT VERT Centre-Ouest biologique"
+C;X4;Y15;K"euro HT le kg"
+C;X5;Y15;K""
+C;X6;Y15;K""
+C;X7;Y15;K""
+C;X8;Y15;K8.60
+C;X9;Y15;K6.35
+C;X10;Y15;K6.43
+C;X11;Y15;K8.25
+C;X12;Y15;K""
+C;X13;Y15;K""
+C;X14;Y15;K""
+C;X15;Y15;K""
+C;X16;Y15;K""
+C;X1;Y16;K"Expédition"
+C;X2;Y16;K"Bassin Sud-Est : fruits et légumes bio"
+C;X3;Y16;K"HARICOT VERT Beurre Sud-Est biologique"
+C;X4;Y16;K"euro HT le kg"
+C;X5;Y16;K""
+C;X6;Y16;K10.25
+C;X7;Y16;K10.25
+C;X8;Y16;K""
+C;X9;Y16;K""
+C;X10;Y16;K""
+C;X11;Y16;K""
+C;X12;Y16;K""
+C;X13;Y16;K""
+C;X14;Y16;K""
+C;X15;Y16;K""
+C;X16;Y16;K""
+C;X1;Y17;K"Expédition"
+C;X2;Y17;K"Bassin Sud-Est : fruits et légumes bio"
+C;X3;Y17;K"HARICOT VERT vert Sud-Est biologique"
+C;X4;Y17;K"euro HT le kg"
+C;X5;Y17;K10.50
+C;X6;Y17;K9.94
+C;X7;Y17;K7.92
+C;X8;Y17;K7.50
+C;X9;Y17;K""
+C;X10;Y17;K""
+C;X11;Y17;K""
+C;X12;Y17;K""
+C;X13;Y17;K""
+C;X14;Y17;K""
+C;X15;Y17;K""
+C;X16;Y17;K""
+C;X1;Y18;K"Expédition"
+C;X2;Y18;K"France : fruits et légumes bio - expédition"
+C;X3;Y18;K"HARICOT VERT France biologique"
+C;X4;Y18;K"euro HT le kg"
+C;X5;Y18;K""
+C;X6;Y18;K9.47
+C;X7;Y18;K8.18
+C;X8;Y18;K7.84
+C;X9;Y18;K6.38
+C;X10;Y18;K6.57
+C;X11;Y18;K7.02
+C;X12;Y18;K8.00
+C;X13;Y18;K""
+C;X14;Y18;K""
+C;X15;Y18;K""
+C;X16;Y18;K""
+C;X1;Y19;K"Import"
+C;X2;Y19;K"France : fruits et légumes bio - import"
+C;X3;Y19;K"HARICOT VERT Coco plat Espagne biologique cat.I"
+C;X4;Y19;K"euro HT le kg"
+C;X5;Y19;K5.03
+C;X6;Y19;K4.40
+C;X7;Y19;K""
+C;X8;Y19;K""
+C;X9;Y19;K""
+C;X10;Y19;K""
+C;X11;Y19;K""
+C;X12;Y19;K""
+C;X13;Y19;K""
+C;X14;Y19;K""
+C;X15;Y19;K""
+C;X16;Y19;K""
+C;X1;Y20;K"Import"
+C;X2;Y20;K"France : fruits et légumes bio - import"
+C;X3;Y20;K"HARICOT VERT Espagne biologique cat.I"
+C;X4;Y20;K"euro HT le kg"
+C;X5;Y20;K""
+C;X6;Y20;K""
+C;X7;Y20;K""
+C;X8;Y20;K""
+C;X9;Y20;K""
+C;X10;Y20;K""
+C;X11;Y20;K""
+C;X12;Y20;K6.20
+C;X13;Y20;K6.15
+C;X14;Y20;K""
+C;X15;Y20;K""
+C;X16;Y20;K6.97
+C;X1;Y21;K"Import"
+C;X2;Y21;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y21;K"HARICOT VERT Coco plat Maroc cat.I fin colis 4kg"
+C;X4;Y21;K"euro HT le kg"
+C;X5;Y21;K1.35
+C;X6;Y21;K1.19
+C;X7;Y21;K""
+C;X8;Y21;K""
+C;X9;Y21;K""
+C;X10;Y21;K""
+C;X11;Y21;K2.12
+C;X12;Y21;K1.66
+C;X13;Y21;K1.69
+C;X14;Y21;K1.74
+C;X15;Y21;K3.18
+C;X16;Y21;K3.51
+C;X1;Y22;K"Import"
+C;X2;Y22;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y22;K"HARICOT VERT Coco plat Maroc cat.I moyen colis 4kg"
+C;X4;Y22;K"euro HT le kg"
+C;X5;Y22;K""
+C;X6;Y22;K""
+C;X7;Y22;K""
+C;X8;Y22;K""
+C;X9;Y22;K""
+C;X10;Y22;K""
+C;X11;Y22;K""
+C;X12;Y22;K1.62
+C;X13;Y22;K1.58
+C;X14;Y22;K""
+C;X15;Y22;K""
+C;X16;Y22;K""
+C;X1;Y23;K"Import"
+C;X2;Y23;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y23;K"HARICOT VERT Coco plat Maroc cat.I très fin colis 4kg"
+C;X4;Y23;K"euro HT le kg"
+C;X5;Y23;K1.83
+C;X6;Y23;K1.68
+C;X7;Y23;K""
+C;X8;Y23;K""
+C;X9;Y23;K""
+C;X10;Y23;K""
+C;X11;Y23;K1.81
+C;X12;Y23;K2.00
+C;X13;Y23;K2.25
+C;X14;Y23;K2.71
+C;X15;Y23;K3.00
+C;X16;Y23;K""
+C;X1;Y24;K"Import"
+C;X2;Y24;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y24;K"HARICOT VERT vert Maroc cat.I fin colis 4kg"
+C;X4;Y24;K"euro HT le kg"
+C;X5;Y24;K1.60
+C;X6;Y24;K1.31
+C;X7;Y24;K""
+C;X8;Y24;K""
+C;X9;Y24;K""
+C;X10;Y24;K""
+C;X11;Y24;K2.12
+C;X12;Y24;K1.63
+C;X13;Y24;K1.90
+C;X14;Y24;K2.27
+C;X15;Y24;K2.62
+C;X16;Y24;K1.90
+C;X1;Y25;K"Import"
+C;X2;Y25;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y25;K"HARICOT VERT vert Maroc cat.I très fin colis 4kg"
+C;X4;Y25;K"euro HT le kg"
+C;X5;Y25;K2.10
+C;X6;Y25;K1.91
+C;X7;Y25;K""
+C;X8;Y25;K""
+C;X9;Y25;K""
+C;X10;Y25;K""
+C;X11;Y25;K2.57
+C;X12;Y25;K1.86
+C;X13;Y25;K2.11
+C;X14;Y25;K2.84
+C;X15;Y25;K2.76
+C;X16;Y25;K2.40
+C;X1;Y26;K"Grossistes"
+C;X2;Y26;K"France : fruits et légumes bio - grossistes"
+C;X3;Y26;K"HARICOT VERT France biologique"
+C;X4;Y26;K"euro HT le kg"
+C;X5;Y26;K""
+C;X6;Y26;K10.58
+C;X7;Y26;K10.21
+C;X8;Y26;K9.70
+C;X9;Y26;K8.73
+C;X10;Y26;K7.12
+C;X11;Y26;K8.40
+C;X12;Y26;K8.95
+C;X13;Y26;K""
+C;X14;Y26;K""
+C;X15;Y26;K""
+C;X16;Y26;K""
+C;X1;Y27;K"Grossistes"
+C;X2;Y27;K"France : fruits et légumes bio - grossistes"
+C;X3;Y27;K"HARICOT VERT U.E. biologique"
+C;X4;Y27;K"euro HT le kg"
+C;X5;Y27;K6.67
+C;X6;Y27;K5.35
+C;X7;Y27;K""
+C;X8;Y27;K""
+C;X9;Y27;K""
+C;X10;Y27;K""
+C;X11;Y27;K""
+C;X12;Y27;K""
+C;X13;Y27;K""
+C;X14;Y27;K""
+C;X15;Y27;K""
+C;X16;Y27;K7.63
+C;X1;Y28;K"Grossistes"
+C;X2;Y28;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y28;K"HARICOT VERT Import cat.I fin plateau"
+C;X4;Y28;K"euro HT le kg"
+C;X5;Y28;K4.24
+C;X6;Y28;K3.95
+C;X7;Y28;K3.48
+C;X8;Y28;K""
+C;X9;Y28;K""
+C;X10;Y28;K""
+C;X11;Y28;K""
+C;X12;Y28;K""
+C;X13;Y28;K""
+C;X14;Y28;K""
+C;X15;Y28;K""
+C;X16;Y28;K""
+C;X1;Y29;K"Grossistes"
+C;X2;Y29;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y29;K"HARICOT VERT vert France cat.I fin"
+C;X4;Y29;K"euro HT le kg"
+C;X5;Y29;K""
+C;X6;Y29;K8.22
+C;X7;Y29;K6.42
+C;X8;Y29;K2.77
+C;X9;Y29;K2.24
+C;X10;Y29;K2.02
+C;X11;Y29;K2.38
+C;X12;Y29;K""
+C;X13;Y29;K""
+C;X14;Y29;K""
+C;X15;Y29;K""
+C;X16;Y29;K""
+C;X1;Y30;K"Grossistes"
+C;X2;Y30;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y30;K"HARICOT VERT Coco plat Maroc cat.I"
+C;X4;Y30;K"euro HT le kg"
+C;X5;Y30;K3.40
+C;X6;Y30;K2.38
+C;X7;Y30;K2.54
+C;X8;Y30;K2.86
+C;X9;Y30;K3.50
+C;X10;Y30;K""
+C;X11;Y30;K""
+C;X12;Y30;K2.89
+C;X13;Y30;K3.29
+C;X14;Y30;K4.02
+C;X15;Y30;K4.70
+C;X16;Y30;K4.15
+C;X1;Y31;K"Grossistes"
+C;X2;Y31;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y31;K"HARICOT VERT vert Belgique ramassé machine cat.I fin"
+C;X4;Y31;K"euro HT le kg"
+C;X5;Y31;K""
+C;X6;Y31;K""
+C;X7;Y31;K""
+C;X8;Y31;K2.50
+C;X9;Y31;K2.25
+C;X10;Y31;K""
+C;X11;Y31;K""
+C;X12;Y31;K""
+C;X13;Y31;K""
+C;X14;Y31;K""
+C;X15;Y31;K""
+C;X16;Y31;K""
+C;X1;Y32;K"Grossistes"
+C;X2;Y32;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y32;K"HARICOT VERT vert France ramassé machine cat.I fin"
+C;X4;Y32;K"euro HT le kg"
+C;X5;Y32;K""
+C;X6;Y32;K""
+C;X7;Y32;K4.07
+C;X8;Y32;K2.59
+C;X9;Y32;K2.30
+C;X10;Y32;K1.91
+C;X11;Y32;K1.82
+C;X12;Y32;K""
+C;X13;Y32;K""
+C;X14;Y32;K""
+C;X15;Y32;K""
+C;X16;Y32;K""
+C;X1;Y33;K"Grossistes"
+C;X2;Y33;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y33;K"HARICOT VERT vert France ramassé main cat.I fin"
+C;X4;Y33;K"euro HT le kg"
+C;X5;Y33;K""
+C;X6;Y33;K""
+C;X7;Y33;K6.58
+C;X8;Y33;K5.98
+C;X9;Y33;K""
+C;X10;Y33;K""
+C;X11;Y33;K""
+C;X12;Y33;K""
+C;X13;Y33;K""
+C;X14;Y33;K""
+C;X15;Y33;K""
+C;X16;Y33;K""
+C;X1;Y34;K"Grossistes"
+C;X2;Y34;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y34;K"HARICOT VERT vert Kenya extra très fin"
+C;X4;Y34;K"euro HT le kg"
+C;X5;Y34;K7.77
+C;X6;Y34;K7.41
+C;X7;Y34;K7.54
+C;X8;Y34;K7.37
+C;X9;Y34;K7.30
+C;X10;Y34;K7.52
+C;X11;Y34;K7.63
+C;X12;Y34;K7.60
+C;X13;Y34;K7.51
+C;X14;Y34;K7.50
+C;X15;Y34;K7.60
+C;X16;Y34;K7.95
+C;X1;Y35;K"Grossistes"
+C;X2;Y35;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y35;K"HARICOT VERT vert Maroc cat.I fin plateau"
+C;X4;Y35;K"euro HT le kg"
+C;X5;Y35;K3.77
+C;X6;Y35;K2.73
+C;X7;Y35;K2.65
+C;X8;Y35;K2.20
+C;X9;Y35;K""
+C;X10;Y35;K""
+C;X11;Y35;K""
+C;X12;Y35;K""
+C;X13;Y35;K""
+C;X14;Y35;K""
+C;X15;Y35;K""
+C;X16;Y35;K""
+C;X1;Y36;K"Grossistes"
+C;X2;Y36;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y36;K"HARICOT VERT vert Maroc cat.I très fin"
+C;X4;Y36;K"euro HT le kg"
+C;X5;Y36;K""
+C;X6;Y36;K""
+C;X7;Y36;K""
+C;X8;Y36;K""
+C;X9;Y36;K""
+C;X10;Y36;K""
+C;X11;Y36;K3.34
+C;X12;Y36;K2.87
+C;X13;Y36;K3.44
+C;X14;Y36;K4.11
+C;X15;Y36;K4.26
+C;X16;Y36;K4.43
+C;X1;Y37;K"Grossistes"
+C;X2;Y37;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y37;K"HARICOT VERT Coco plat Espagne cat.I"
+C;X4;Y37;K"euro HT le kg"
+C;X5;Y37;K""
+C;X6;Y37;K""
+C;X7;Y37;K""
+C;X8;Y37;K""
+C;X9;Y37;K""
+C;X10;Y37;K""
+C;X11;Y37;K5.80
+C;X12;Y37;K""
+C;X13;Y37;K""
+C;X14;Y37;K""
+C;X15;Y37;K""
+C;X16;Y37;K""
+C;X1;Y38;K"Grossistes"
+C;X2;Y38;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y38;K"HARICOT VERT Coco plat Maroc cat.I"
+C;X4;Y38;K"euro HT le kg"
+C;X5;Y38;K4.17
+C;X6;Y38;K3.00
+C;X7;Y38;K3.10
+C;X8;Y38;K""
+C;X9;Y38;K5.40
+C;X10;Y38;K5.42
+C;X11;Y38;K4.92
+C;X12;Y38;K3.60
+C;X13;Y38;K3.62
+C;X14;Y38;K3.88
+C;X15;Y38;K5.15
+C;X16;Y38;K4.85
+C;X1;Y39;K"Grossistes"
+C;X2;Y39;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y39;K"HARICOT VERT France cat.I fin"
+C;X4;Y39;K"euro HT le kg"
+C;X5;Y39;K""
+C;X6;Y39;K7.37
+C;X7;Y39;K6.35
+C;X8;Y39;K6.90
+C;X9;Y39;K7.05
+C;X10;Y39;K6.62
+C;X11;Y39;K5.91
+C;X12;Y39;K7.20
+C;X13;Y39;K""
+C;X14;Y39;K""
+C;X15;Y39;K""
+C;X16;Y39;K""
+C;X1;Y40;K"Grossistes"
+C;X2;Y40;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y40;K"HARICOT VERT Maroc cat.I fin"
+C;X4;Y40;K"euro HT le kg"
+C;X5;Y40;K4.52
+C;X6;Y40;K3.45
+C;X7;Y40;K""
+C;X8;Y40;K""
+C;X9;Y40;K""
+C;X10;Y40;K""
+C;X11;Y40;K4.30
+C;X12;Y40;K3.61
+C;X13;Y40;K3.45
+C;X14;Y40;K4.20
+C;X15;Y40;K4.88
+C;X16;Y40;K4.95
+C;X1;Y41;K"Grossistes"
+C;X2;Y41;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y41;K"HARICOT VERT Beurre France cat.I fin"
+C;X4;Y41;K"euro HT le kg"
+C;X5;Y41;K""
+C;X6;Y41;K""
+C;X7;Y41;K5.89
+C;X8;Y41;K4.64
+C;X9;Y41;K""
+C;X10;Y41;K""
+C;X11;Y41;K""
+C;X12;Y41;K""
+C;X13;Y41;K""
+C;X14;Y41;K""
+C;X15;Y41;K""
+C;X16;Y41;K""
+C;X1;Y42;K"Grossistes"
+C;X2;Y42;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y42;K"HARICOT VERT Coco plat Maroc cat.I moyen plateau"
+C;X4;Y42;K"euro HT le kg"
+C;X5;Y42;K3.56
+C;X6;Y42;K2.74
+C;X7;Y42;K2.72
+C;X8;Y42;K3.35
+C;X9;Y42;K""
+C;X10;Y42;K""
+C;X11;Y42;K3.20
+C;X12;Y42;K3.24
+C;X13;Y42;K3.41
+C;X14;Y42;K3.89
+C;X15;Y42;K4.65
+C;X16;Y42;K""
+C;X1;Y43;K"Grossistes"
+C;X2;Y43;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y43;K"HARICOT VERT vert France cat.I fin"
+C;X4;Y43;K"euro HT le kg"
+C;X5;Y43;K""
+C;X6;Y43;K7.83
+C;X7;Y43;K6.36
+C;X8;Y43;K7.00
+C;X9;Y43;K""
+C;X10;Y43;K""
+C;X11;Y43;K""
+C;X12;Y43;K""
+C;X13;Y43;K""
+C;X14;Y43;K""
+C;X15;Y43;K""
+C;X16;Y43;K""
+C;X1;Y44;K"Grossistes"
+C;X2;Y44;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y44;K"HARICOT VERT vert France ramassé machine cat.I fin"
+C;X4;Y44;K"euro HT le kg"
+C;X5;Y44;K""
+C;X6;Y44;K""
+C;X7;Y44;K3.00
+C;X8;Y44;K2.56
+C;X9;Y44;K2.44
+C;X10;Y44;K1.88
+C;X11;Y44;K1.75
+C;X12;Y44;K""
+C;X13;Y44;K""
+C;X14;Y44;K""
+C;X15;Y44;K""
+C;X16;Y44;K""
+C;X1;Y45;K"Grossistes"
+C;X2;Y45;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y45;K"HARICOT VERT vert Kenya cat.I extra fin"
+C;X4;Y45;K"euro HT le kg"
+C;X5;Y45;K7.89
+C;X6;Y45;K7.94
+C;X7;Y45;K7.70
+C;X8;Y45;K7.64
+C;X9;Y45;K7.49
+C;X10;Y45;K7.53
+C;X11;Y45;K7.46
+C;X12;Y45;K7.56
+C;X13;Y45;K7.49
+C;X14;Y45;K7.55
+C;X15;Y45;K7.78
+C;X16;Y45;K8.12
+C;X1;Y46;K"Grossistes"
+C;X2;Y46;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y46;K"HARICOT VERT vert Maroc cat.I fin"
+C;X4;Y46;K"euro HT le kg"
+C;X5;Y46;K3.76
+C;X6;Y46;K3.06
+C;X7;Y46;K2.75
+C;X8;Y46;K2.10
+C;X9;Y46;K""
+C;X10;Y46;K""
+C;X11;Y46;K3.73
+C;X12;Y46;K3.03
+C;X13;Y46;K3.50
+C;X14;Y46;K4.24
+C;X15;Y46;K4.40
+C;X16;Y46;K""
+C;X1;Y47;K"Grossistes"
+C;X2;Y47;K"MIN de Marseille : fruits et légumes"
+C;X3;Y47;K"HARICOT VERT Belgique cat.I fin"
+C;X4;Y47;K"euro HT le kg"
+C;X5;Y47;K""
+C;X6;Y47;K""
+C;X7;Y47;K""
+C;X8;Y47;K""
+C;X9;Y47;K2.55
+C;X10;Y47;K2.38
+C;X11;Y47;K""
+C;X12;Y47;K""
+C;X13;Y47;K""
+C;X14;Y47;K""
+C;X15;Y47;K""
+C;X16;Y47;K""
+C;X1;Y48;K"Grossistes"
+C;X2;Y48;K"MIN de Marseille : fruits et légumes"
+C;X3;Y48;K"HARICOT VERT Bobby Italie cat.I fin"
+C;X4;Y48;K"euro HT le kg"
+C;X5;Y48;K""
+C;X6;Y48;K""
+C;X7;Y48;K""
+C;X8;Y48;K2.45
+C;X9;Y48;K""
+C;X10;Y48;K""
+C;X11;Y48;K1.90
+C;X12;Y48;K""
+C;X13;Y48;K""
+C;X14;Y48;K""
+C;X15;Y48;K""
+C;X16;Y48;K""
+C;X1;Y49;K"Grossistes"
+C;X2;Y49;K"MIN de Marseille : fruits et légumes"
+C;X3;Y49;K"HARICOT VERT Coco plat Maroc cat.I moyen"
+C;X4;Y49;K"euro HT le kg"
+C;X5;Y49;K3.71
+C;X6;Y49;K2.73
+C;X7;Y49;K2.80
+C;X8;Y49;K3.38
+C;X9;Y49;K4.81
+C;X10;Y49;K4.45
+C;X11;Y49;K4.12
+C;X12;Y49;K2.86
+C;X13;Y49;K3.28
+C;X14;Y49;K3.79
+C;X15;Y49;K4.19
+C;X16;Y49;K4.32
+C;X1;Y50;K"Grossistes"
+C;X2;Y50;K"MIN de Marseille : fruits et légumes"
+C;X3;Y50;K"HARICOT VERT France cat.I fin"
+C;X4;Y50;K"euro HT le kg"
+C;X5;Y50;K""
+C;X6;Y50;K""
+C;X7;Y50;K""
+C;X8;Y50;K2.80
+C;X9;Y50;K2.70
+C;X10;Y50;K""
+C;X11;Y50;K""
+C;X12;Y50;K""
+C;X13;Y50;K""
+C;X14;Y50;K""
+C;X15;Y50;K""
+C;X16;Y50;K""
+C;X1;Y51;K"Grossistes"
+C;X2;Y51;K"MIN de Marseille : fruits et légumes"
+C;X3;Y51;K"HARICOT VERT France ramassé machine cat.I fin"
+C;X4;Y51;K"euro HT le kg"
+C;X5;Y51;K""
+C;X6;Y51;K""
+C;X7;Y51;K""
+C;X8;Y51;K""
+C;X9;Y51;K2.50
+C;X10;Y51;K2.20
+C;X11;Y51;K2.27
+C;X12;Y51;K""
+C;X13;Y51;K""
+C;X14;Y51;K""
+C;X15;Y51;K""
+C;X16;Y51;K""
+C;X1;Y52;K"Grossistes"
+C;X2;Y52;K"MIN de Marseille : fruits et légumes"
+C;X3;Y52;K"HARICOT VERT vert France ramassé main cat.I fin"
+C;X4;Y52;K"euro HT le kg"
+C;X5;Y52;K""
+C;X6;Y52;K""
+C;X7;Y52;K""
+C;X8;Y52;K""
+C;X9;Y52;K""
+C;X10;Y52;K2.20
+C;X11;Y52;K""
+C;X12;Y52;K""
+C;X13;Y52;K""
+C;X14;Y52;K""
+C;X15;Y52;K""
+C;X16;Y52;K""
+C;X1;Y53;K"Grossistes"
+C;X2;Y53;K"MIN de Marseille : fruits et légumes"
+C;X3;Y53;K"HARICOT VERT vert Maroc cat.I fin"
+C;X4;Y53;K"euro HT le kg"
+C;X5;Y53;K3.79
+C;X6;Y53;K3.03
+C;X7;Y53;K3.02
+C;X8;Y53;K3.16
+C;X9;Y53;K""
+C;X10;Y53;K""
+C;X11;Y53;K3.30
+C;X12;Y53;K2.89
+C;X13;Y53;K3.36
+C;X14;Y53;K3.86
+C;X15;Y53;K4.00
+C;X16;Y53;K4.30
+C;X1;Y54;K"Grossistes"
+C;X2;Y54;K"MIN de Nantes : fruits et légumes"
+C;X3;Y54;K"HARICOT VERT mange tout Kenya cat.I extra fin"
+C;X4;Y54;K"euro HT le kg"
+C;X5;Y54;K""
+C;X6;Y54;K""
+C;X7;Y54;K""
+C;X8;Y54;K""
+C;X9;Y54;K""
+C;X10;Y54;K""
+C;X11;Y54;K""
+C;X12;Y54;K""
+C;X13;Y54;K7.95
+C;X14;Y54;K""
+C;X15;Y54;K""
+C;X16;Y54;K""
+C;X1;Y55;K"Grossistes"
+C;X2;Y55;K"MIN de Nantes : fruits et légumes"
+C;X3;Y55;K"HARICOT VERT vert Egypte ramassé main cat.I fin"
+C;X4;Y55;K"euro HT le kg"
+C;X5;Y55;K""
+C;X6;Y55;K""
+C;X7;Y55;K""
+C;X8;Y55;K""
+C;X9;Y55;K""
+C;X10;Y55;K""
+C;X11;Y55;K""
+C;X12;Y55;K""
+C;X13;Y55;K""
+C;X14;Y55;K""
+C;X15;Y55;K""
+C;X16;Y55;K5.00
+C;X1;Y56;K"Grossistes"
+C;X2;Y56;K"MIN de Nantes : fruits et légumes"
+C;X3;Y56;K"HARICOT VERT vert France ramassé machine cat.I fin"
+C;X4;Y56;K"euro HT le kg"
+C;X5;Y56;K""
+C;X6;Y56;K""
+C;X7;Y56;K3.01
+C;X8;Y56;K2.73
+C;X9;Y56;K2.40
+C;X10;Y56;K1.86
+C;X11;Y56;K2.00
+C;X12;Y56;K""
+C;X13;Y56;K""
+C;X14;Y56;K""
+C;X15;Y56;K""
+C;X16;Y56;K""
+C;X1;Y57;K"Grossistes"
+C;X2;Y57;K"MIN de Nantes : fruits et légumes"
+C;X3;Y57;K"HARICOT VERT vert France ramassé main cat.I fin"
+C;X4;Y57;K"euro HT le kg"
+C;X5;Y57;K""
+C;X6;Y57;K7.87
+C;X7;Y57;K7.01
+C;X8;Y57;K7.08
+C;X9;Y57;K4.96
+C;X10;Y57;K""
+C;X11;Y57;K""
+C;X12;Y57;K""
+C;X13;Y57;K""
+C;X14;Y57;K""
+C;X15;Y57;K""
+C;X16;Y57;K""
+C;X1;Y58;K"Grossistes"
+C;X2;Y58;K"MIN de Nantes : fruits et légumes"
+C;X3;Y58;K"HARICOT VERT vert Maroc cat.I fin"
+C;X4;Y58;K"euro HT le kg"
+C;X5;Y58;K""
+C;X6;Y58;K""
+C;X7;Y58;K3.60
+C;X8;Y58;K""
+C;X9;Y58;K""
+C;X10;Y58;K""
+C;X11;Y58;K""
+C;X12;Y58;K""
+C;X13;Y58;K""
+C;X14;Y58;K""
+C;X15;Y58;K""
+C;X16;Y58;K6.00
+C;X1;Y59;K"Grossistes"
+C;X2;Y59;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y59;K"HARICOT VERT France biologique"
+C;X4;Y59;K"euro HT le kg"
+C;X5;Y59;K""
+C;X6;Y59;K10.99
+C;X7;Y59;K10.54
+C;X8;Y59;K9.62
+C;X9;Y59;K8.77
+C;X10;Y59;K7.34
+C;X11;Y59;K8.08
+C;X12;Y59;K8.63
+C;X13;Y59;K""
+C;X14;Y59;K""
+C;X15;Y59;K""
+C;X16;Y59;K""
+C;X1;Y60;K"Grossistes"
+C;X2;Y60;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y60;K"HARICOT VERT U.E. biologique"
+C;X4;Y60;K"euro HT le kg"
+C;X5;Y60;K7.08
+C;X6;Y60;K6.33
+C;X7;Y60;K""
+C;X8;Y60;K""
+C;X9;Y60;K""
+C;X10;Y60;K""
+C;X11;Y60;K""
+C;X12;Y60;K""
+C;X13;Y60;K""
+C;X14;Y60;K""
+C;X15;Y60;K""
+C;X16;Y60;K""
+C;X1;Y61;K"Grossistes"
+C;X2;Y61;K"MIN de Nice : fruits et légumes"
+C;X3;Y61;K"HARICOT VERT Coco plat Import cat.I caisse"
+C;X4;Y61;K"euro HT le kg"
+C;X5;Y61;K4.45
+C;X6;Y61;K2.94
+C;X7;Y61;K3.01
+C;X8;Y61;K3.94
+C;X9;Y61;K4.25
+C;X10;Y61;K5.79
+C;X11;Y61;K4.95
+C;X12;Y61;K4.30
+C;X13;Y61;K4.35
+C;X14;Y61;K4.51
+C;X15;Y61;K5.18
+C;X16;Y61;K4.70
+C;X1;Y62;K"Grossistes"
+C;X2;Y62;K"MIN de Nice : fruits et légumes"
+C;X3;Y62;K"HARICOT VERT vert France cat.I fin plateau"
+C;X4;Y62;K"euro HT le kg"
+C;X5;Y62;K""
+C;X6;Y62;K9.78
+C;X7;Y62;K7.42
+C;X8;Y62;K7.93
+C;X9;Y62;K""
+C;X10;Y62;K""
+C;X11;Y62;K""
+C;X12;Y62;K""
+C;X13;Y62;K""
+C;X14;Y62;K""
+C;X15;Y62;K""
+C;X16;Y62;K""
+C;X1;Y63;K"Grossistes"
+C;X2;Y63;K"MIN de Nice : fruits et légumes"
+C;X3;Y63;K"HARICOT VERT vert Import cat.I fin plateau"
+C;X4;Y63;K"euro HT le kg"
+C;X5;Y63;K4.95
+C;X6;Y63;K3.85
+C;X7;Y63;K3.35
+C;X8;Y63;K""
+C;X9;Y63;K""
+C;X10;Y63;K""
+C;X11;Y63;K""
+C;X12;Y63;K4.03
+C;X13;Y63;K4.03
+C;X14;Y63;K5.10
+C;X15;Y63;K5.36
+C;X16;Y63;K5.04
+C;X1;Y64;K"Grossistes"
+C;X2;Y64;K"MIN de Nice : fruits et légumes"
+C;X3;Y64;K"HARICOT VERT vert U.E. cat.I fin plateau"
+C;X4;Y64;K"euro HT le kg"
+C;X5;Y64;K5.60
+C;X6;Y64;K5.45
+C;X7;Y64;K4.64
+C;X8;Y64;K4.08
+C;X9;Y64;K""
+C;X10;Y64;K""
+C;X11;Y64;K""
+C;X12;Y64;K""
+C;X13;Y64;K""
+C;X14;Y64;K""
+C;X15;Y64;K""
+C;X16;Y64;K""
+C;X1;Y65;K"Grossistes"
+C;X2;Y65;K"MIN de Rungis : fruits et légumes"
+C;X3;Y65;K"HARICOT VERT Coco plat Maroc cat.I"
+C;X4;Y65;K"euro HT le kg"
+C;X5;Y65;K3.45
+C;X6;Y65;K2.50
+C;X7;Y65;K2.98
+C;X8;Y65;K3.21
+C;X9;Y65;K3.59
+C;X10;Y65;K4.71
+C;X11;Y65;K4.90
+C;X12;Y65;K2.95
+C;X13;Y65;K3.33
+C;X14;Y65;K3.82
+C;X15;Y65;K4.72
+C;X16;Y65;K4.18
+C;X1;Y66;K"Grossistes"
+C;X2;Y66;K"MIN de Rungis : fruits et légumes"
+C;X3;Y66;K"HARICOT VERT Coco plat Maroc cat.I très fin"
+C;X4;Y66;K"euro HT le kg"
+C;X5;Y66;K3.94
+C;X6;Y66;K""
+C;X7;Y66;K""
+C;X8;Y66;K""
+C;X9;Y66;K""
+C;X10;Y66;K""
+C;X11;Y66;K""
+C;X12;Y66;K""
+C;X13;Y66;K""
+C;X14;Y66;K""
+C;X15;Y66;K""
+C;X16;Y66;K""
+C;X1;Y67;K"Grossistes"
+C;X2;Y67;K"MIN de Rungis : fruits et légumes"
+C;X3;Y67;K"HARICOT VERT Coco plat U.E. cat.I fin"
+C;X4;Y67;K"euro HT le kg"
+C;X5;Y67;K""
+C;X6;Y67;K""
+C;X7;Y67;K""
+C;X8;Y67;K""
+C;X9;Y67;K3.80
+C;X10;Y67;K4.76
+C;X11;Y67;K4.50
+C;X12;Y67;K""
+C;X13;Y67;K""
+C;X14;Y67;K""
+C;X15;Y67;K""
+C;X16;Y67;K""
+C;X1;Y68;K"Grossistes"
+C;X2;Y68;K"MIN de Rungis : fruits et légumes"
+C;X3;Y68;K"HARICOT VERT vert France ramassé machine cat.I fin"
+C;X4;Y68;K"euro HT le kg"
+C;X5;Y68;K""
+C;X6;Y68;K""
+C;X7;Y68;K""
+C;X8;Y68;K2.49
+C;X9;Y68;K2.21
+C;X10;Y68;K1.65
+C;X11;Y68;K1.70
+C;X12;Y68;K""
+C;X13;Y68;K""
+C;X14;Y68;K""
+C;X15;Y68;K""
+C;X16;Y68;K""
+C;X1;Y69;K"Grossistes"
+C;X2;Y69;K"MIN de Rungis : fruits et légumes"
+C;X3;Y69;K"HARICOT VERT vert France ramassé main extra fin"
+C;X4;Y69;K"euro HT le kg"
+C;X5;Y69;K""
+C;X6;Y69;K7.00
+C;X7;Y69;K5.83
+C;X8;Y69;K""
+C;X9;Y69;K""
+C;X10;Y69;K""
+C;X11;Y69;K""
+C;X12;Y69;K""
+C;X13;Y69;K""
+C;X14;Y69;K""
+C;X15;Y69;K""
+C;X16;Y69;K""
+C;X1;Y70;K"Grossistes"
+C;X2;Y70;K"MIN de Rungis : fruits et légumes"
+C;X3;Y70;K"HARICOT VERT vert Import cat.I fin"
+C;X4;Y70;K"euro HT le kg"
+C;X5;Y70;K""
+C;X6;Y70;K""
+C;X7;Y70;K""
+C;X8;Y70;K""
+C;X9;Y70;K""
+C;X10;Y70;K""
+C;X11;Y70;K2.85
+C;X12;Y70;K2.79
+C;X13;Y70;K3.02
+C;X14;Y70;K3.98
+C;X15;Y70;K4.30
+C;X16;Y70;K4.47
+C;X1;Y71;K"Grossistes"
+C;X2;Y71;K"MIN de Rungis : fruits et légumes"
+C;X3;Y71;K"HARICOT VERT vert Kenya extra très fin"
+C;X4;Y71;K"euro HT le kg"
+C;X5;Y71;K7.50
+C;X6;Y71;K7.50
+C;X7;Y71;K7.50
+C;X8;Y71;K7.14
+C;X9;Y71;K7.00
+C;X10;Y71;K7.08
+C;X11;Y71;K7.10
+C;X12;Y71;K7.10
+C;X13;Y71;K7.21
+C;X14;Y71;K7.50
+C;X15;Y71;K7.50
+C;X16;Y71;K7.50
+C;X1;Y72;K"Grossistes"
+C;X2;Y72;K"MIN de Rungis : fruits et légumes"
+C;X3;Y72;K"HARICOT VERT vert Maroc cat.I fin"
+C;X4;Y72;K"euro HT le kg"
+C;X5;Y72;K3.63
+C;X6;Y72;K3.09
+C;X7;Y72;K3.04
+C;X8;Y72;K3.09
+C;X9;Y72;K""
+C;X10;Y72;K""
+C;X11;Y72;K3.14
+C;X12;Y72;K2.74
+C;X13;Y72;K3.02
+C;X14;Y72;K3.44
+C;X15;Y72;K3.62
+C;X16;Y72;K3.73
+C;X1;Y73;K"Grossistes"
+C;X2;Y73;K"MIN de Rungis : fruits et légumes"
+C;X3;Y73;K"HARICOT VERT vert Maroc cat.I très fin"
+C;X4;Y73;K"euro HT le kg"
+C;X5;Y73;K4.13
+C;X6;Y73;K""
+C;X7;Y73;K""
+C;X8;Y73;K""
+C;X9;Y73;K""
+C;X10;Y73;K""
+C;X11;Y73;K3.50
+C;X12;Y73;K3.01
+C;X13;Y73;K3.56
+C;X14;Y73;K4.26
+C;X15;Y73;K4.39
+C;X16;Y73;K4.06
+C;X1;Y74;K"Grossistes"
+C;X2;Y74;K"MIN de Rungis : fruits et légumes"
+C;X3;Y74;K"HARICOT VERT vert Sénégal cat.I fin"
+C;X4;Y74;K"euro HT le kg"
+C;X5;Y74;K3.80
+C;X6;Y74;K""
+C;X7;Y74;K""
+C;X8;Y74;K""
+C;X9;Y74;K""
+C;X10;Y74;K""
+C;X11;Y74;K""
+C;X12;Y74;K""
+C;X13;Y74;K""
+C;X14;Y74;K3.80
+C;X15;Y74;K4.03
+C;X16;Y74;K4.50
+C;X1;Y75;K"Grossistes"
+C;X2;Y75;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y75;K"HARICOT VERT France biologique"
+C;X4;Y75;K"euro HT le kg"
+C;X5;Y75;K""
+C;X6;Y75;K10.42
+C;X7;Y75;K10.05
+C;X8;Y75;K10.05
+C;X9;Y75;K9.27
+C;X10;Y75;K7.18
+C;X11;Y75;K8.61
+C;X12;Y75;K8.77
+C;X13;Y75;K""
+C;X14;Y75;K""
+C;X15;Y75;K""
+C;X16;Y75;K""
+C;X1;Y76;K"Grossistes"
+C;X2;Y76;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y76;K"HARICOT VERT U.E. biologique"
+C;X4;Y76;K"euro HT le kg"
+C;X5;Y76;K6.22
+C;X6;Y76;K5.37
+C;X7;Y76;K""
+C;X8;Y76;K""
+C;X9;Y76;K""
+C;X10;Y76;K""
+C;X11;Y76;K""
+C;X12;Y76;K""
+C;X13;Y76;K""
+C;X14;Y76;K""
+C;X15;Y76;K""
+C;X16;Y76;K7.36
+C;X1;Y77;K"Grossistes"
+C;X2;Y77;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y77;K"HARICOT VERT Coco plat Maroc cat.I"
+C;X4;Y77;K"euro HT le kg"
+C;X5;Y77;K2.33
+C;X6;Y77;K2.37
+C;X7;Y77;K2.51
+C;X8;Y77;K3.64
+C;X9;Y77;K""
+C;X10;Y77;K""
+C;X11;Y77;K""
+C;X12;Y77;K2.64
+C;X13;Y77;K3.48
+C;X14;Y77;K3.44
+C;X15;Y77;K4.40
+C;X16;Y77;K4.14
+C;X1;Y78;K"Grossistes"
+C;X2;Y78;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y78;K"HARICOT VERT France cat.I fin"
+C;X4;Y78;K"euro HT le kg"
+C;X5;Y78;K""
+C;X6;Y78;K""
+C;X7;Y78;K""
+C;X8;Y78;K3.66
+C;X9;Y78;K3.24
+C;X10;Y78;K2.55
+C;X11;Y78;K2.38
+C;X12;Y78;K""
+C;X13;Y78;K""
+C;X14;Y78;K""
+C;X15;Y78;K""
+C;X16;Y78;K""
+C;X1;Y79;K"Grossistes"
+C;X2;Y79;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y79;K"HARICOT VERT vert Maroc cat.I moyen"
+C;X4;Y79;K"euro HT le kg"
+C;X5;Y79;K4.29
+C;X6;Y79;K3.18
+C;X7;Y79;K3.39
+C;X8;Y79;K2.81
+C;X9;Y79;K""
+C;X10;Y79;K""
+C;X11;Y79;K""
+C;X12;Y79;K3.01
+C;X13;Y79;K3.67
+C;X14;Y79;K4.40
+C;X15;Y79;K4.74
+C;X16;Y79;K4.38
+C;X1;Y80;K"Grossistes"
+C;X2;Y80;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y80;K"HARICOT VERT vert U.E. cat.I fin"
+C;X4;Y80;K"euro HT le kg"
+C;X5;Y80;K""
+C;X6;Y80;K""
+C;X7;Y80;K""
+C;X8;Y80;K3.75
+C;X9;Y80;K3.40
+C;X10;Y80;K""
+C;X11;Y80;K""
+C;X12;Y80;K""
+C;X13;Y80;K""
+C;X14;Y80;K""
+C;X15;Y80;K""
+C;X16;Y80;K""
+C;X1;Y81;K"Grossistes"
+C;X2;Y81;K"MIN de Strasbourg : fruits et légumes bio"
+C;X3;Y81;K"HARICOT VERT France biologique"
+C;X4;Y81;K"euro HT le kg"
+C;X5;Y81;K""
+C;X6;Y81;K""
+C;X7;Y81;K8.62
+C;X8;Y81;K8.44
+C;X9;Y81;K8.30
+C;X10;Y81;K7.41
+C;X11;Y81;K8.10
+C;X12;Y81;K7.92
+C;X13;Y81;K""
+C;X14;Y81;K""
+C;X15;Y81;K""
+C;X16;Y81;K""
+C;X1;Y82;K"Grossistes"
+C;X2;Y82;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y82;K"HARICOT VERT Coco plat Maroc cat.I"
+C;X4;Y82;K"euro HT le kg"
+C;X5;Y82;K2.94
+C;X6;Y82;K2.33
+C;X7;Y82;K2.57
+C;X8;Y82;K""
+C;X9;Y82;K""
+C;X10;Y82;K""
+C;X11;Y82;K3.80
+C;X12;Y82;K2.69
+C;X13;Y82;K3.38
+C;X14;Y82;K3.92
+C;X15;Y82;K4.31
+C;X16;Y82;K4.05
+C;X1;Y83;K"Grossistes"
+C;X2;Y83;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y83;K"HARICOT VERT vert France ramassé machine cat.I moyen"
+C;X4;Y83;K"euro HT le kg"
+C;X5;Y83;K""
+C;X6;Y83;K""
+C;X7;Y83;K2.40
+C;X8;Y83;K2.43
+C;X9;Y83;K2.41
+C;X10;Y83;K1.85
+C;X11;Y83;K1.80
+C;X12;Y83;K""
+C;X13;Y83;K""
+C;X14;Y83;K""
+C;X15;Y83;K""
+C;X16;Y83;K""
+C;X1;Y84;K"Grossistes"
+C;X2;Y84;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y84;K"HARICOT VERT vert France ramassé main cat.I fin"
+C;X4;Y84;K"euro HT le kg"
+C;X5;Y84;K""
+C;X6;Y84;K5.50
+C;X7;Y84;K6.41
+C;X8;Y84;K7.00
+C;X9;Y84;K5.75
+C;X10;Y84;K""
+C;X11;Y84;K""
+C;X12;Y84;K""
+C;X13;Y84;K""
+C;X14;Y84;K""
+C;X15;Y84;K""
+C;X16;Y84;K""
+C;X1;Y85;K"Grossistes"
+C;X2;Y85;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y85;K"HARICOT VERT vert Maroc cat.I fin"
+C;X4;Y85;K"euro HT le kg"
+C;X5;Y85;K3.49
+C;X6;Y85;K2.98
+C;X7;Y85;K2.90
+C;X8;Y85;K""
+C;X9;Y85;K""
+C;X10;Y85;K""
+C;X11;Y85;K3.63
+C;X12;Y85;K2.81
+C;X13;Y85;K2.99
+C;X14;Y85;K4.06
+C;X15;Y85;K3.90
+C;X16;Y85;K4.12
+C;X1;Y86;K"Détail"
+C;X2;Y86;K"Légumes France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y86;K"HARICOT VERT France biologique ramassé main"
+C;X4;Y86;K"euro TTC le kg"
+C;X5;Y86;K""
+C;X6;Y86;K18.20
+C;X7;Y86;K16.02
+C;X8;Y86;K14.72
+C;X9;Y86;K13.75
+C;X10;Y86;K12.19
+C;X11;Y86;K12.64
+C;X12;Y86;K13.67
+C;X13;Y86;K""
+C;X14;Y86;K""
+C;X15;Y86;K""
+C;X16;Y86;K""
+C;X1;Y87;K"Détail"
+C;X2;Y87;K"Légumes France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y87;K"HARICOT VERT U.E. biologique ramassé main"
+C;X4;Y87;K"euro TTC le kg"
+C;X5;Y87;K11.58
+C;X6;Y87;K13.50
+C;X7;Y87;K12.77
+C;X8;Y87;K""
+C;X9;Y87;K""
+C;X10;Y87;K""
+C;X11;Y87;K""
+C;X12;Y87;K""
+C;X13;Y87;K""
+C;X14;Y87;K""
+C;X15;Y87;K""
+C;X16;Y87;K""
+F;SM6;X1;Y90
+C;K"Source : RNM.FranceAgriMer.fr"
+E

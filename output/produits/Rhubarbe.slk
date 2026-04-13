@@ -1,0 +1,326 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Rhubarbe - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Production"
+C;X2;Y5;K"Cadran Belgique : fruits et légumes"
+C;X3;Y5;K"RHUBARBE Belgique"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K2.20
+C;X6;Y5;K1.84
+C;X7;Y5;K1.55
+C;X8;Y5;K0.84
+C;X9;Y5;K0.69
+C;X10;Y5;K0.37
+C;X11;Y5;K""
+C;X12;Y5;K""
+C;X13;Y5;K""
+C;X14;Y5;K""
+C;X15;Y5;K""
+C;X16;Y5;K""
+C;X1;Y6;K"Expédition"
+C;X2;Y6;K"France : fruits et légumes bio - expédition"
+C;X3;Y6;K"RHUBARBE France biologique"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K""
+C;X6;Y6;K2.93
+C;X7;Y6;K2.84
+C;X8;Y6;K2.84
+C;X9;Y6;K2.68
+C;X10;Y6;K2.82
+C;X11;Y6;K2.50
+C;X12;Y6;K2.83
+C;X13;Y6;K""
+C;X14;Y6;K""
+C;X15;Y6;K""
+C;X16;Y6;K""
+C;X1;Y7;K"Grossistes"
+C;X2;Y7;K"France : fruits et légumes bio - grossistes"
+C;X3;Y7;K"RHUBARBE France biologique"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K""
+C;X6;Y7;K4.41
+C;X7;Y7;K4.12
+C;X8;Y7;K""
+C;X9;Y7;K""
+C;X10;Y7;K""
+C;X11;Y7;K""
+C;X12;Y7;K""
+C;X13;Y7;K""
+C;X14;Y7;K""
+C;X15;Y7;K""
+C;X16;Y7;K""
+C;X1;Y8;K"Grossistes"
+C;X2;Y8;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y8;K"RHUBARBE Allemagne"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K""
+C;X6;Y8;K""
+C;X7;Y8;K""
+C;X8;Y8;K""
+C;X9;Y8;K""
+C;X10;Y8;K""
+C;X11;Y8;K""
+C;X12;Y8;K""
+C;X13;Y8;K""
+C;X14;Y8;K""
+C;X15;Y8;K""
+C;X16;Y8;K7.22
+C;X1;Y9;K"Grossistes"
+C;X2;Y9;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y9;K"RHUBARBE France"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K""
+C;X6;Y9;K2.48
+C;X7;Y9;K2.70
+C;X8;Y9;K2.80
+C;X9;Y9;K2.56
+C;X10;Y9;K2.58
+C;X11;Y9;K""
+C;X12;Y9;K""
+C;X13;Y9;K""
+C;X14;Y9;K""
+C;X15;Y9;K""
+C;X16;Y9;K""
+C;X1;Y10;K"Grossistes"
+C;X2;Y10;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y10;K"RHUBARBE Allemagne"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K3.51
+C;X6;Y10;K3.05
+C;X7;Y10;K2.81
+C;X8;Y10;K2.90
+C;X9;Y10;K""
+C;X10;Y10;K""
+C;X11;Y10;K""
+C;X12;Y10;K""
+C;X13;Y10;K""
+C;X14;Y10;K""
+C;X15;Y10;K""
+C;X16;Y10;K""
+C;X1;Y11;K"Grossistes"
+C;X2;Y11;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y11;K"RHUBARBE France"
+C;X4;Y11;K"euro HT le kg"
+C;X5;Y11;K""
+C;X6;Y11;K""
+C;X7;Y11;K2.90
+C;X8;Y11;K2.82
+C;X9;Y11;K""
+C;X10;Y11;K""
+C;X11;Y11;K""
+C;X12;Y11;K""
+C;X13;Y11;K""
+C;X14;Y11;K""
+C;X15;Y11;K""
+C;X16;Y11;K""
+C;X1;Y12;K"Grossistes"
+C;X2;Y12;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y12;K"RHUBARBE France"
+C;X4;Y12;K"euro HT le kg"
+C;X5;Y12;K""
+C;X6;Y12;K""
+C;X7;Y12;K""
+C;X8;Y12;K3.70
+C;X9;Y12;K3.70
+C;X10;Y12;K""
+C;X11;Y12;K""
+C;X12;Y12;K""
+C;X13;Y12;K""
+C;X14;Y12;K""
+C;X15;Y12;K""
+C;X16;Y12;K""
+C;X1;Y13;K"Grossistes"
+C;X2;Y13;K"MIN de Nantes : fruits et légumes"
+C;X3;Y13;K"RHUBARBE Allemagne"
+C;X4;Y13;K"euro HT le kg"
+C;X5;Y13;K3.48
+C;X6;Y13;K2.90
+C;X7;Y13;K2.70
+C;X8;Y13;K""
+C;X9;Y13;K""
+C;X10;Y13;K""
+C;X11;Y13;K""
+C;X12;Y13;K""
+C;X13;Y13;K""
+C;X14;Y13;K""
+C;X15;Y13;K""
+C;X16;Y13;K6.32
+C;X1;Y14;K"Grossistes"
+C;X2;Y14;K"MIN de Nantes : fruits et légumes"
+C;X3;Y14;K"RHUBARBE France"
+C;X4;Y14;K"euro HT le kg"
+C;X5;Y14;K""
+C;X6;Y14;K1.40
+C;X7;Y14;K2.87
+C;X8;Y14;K3.12
+C;X9;Y14;K3.21
+C;X10;Y14;K2.64
+C;X11;Y14;K""
+C;X12;Y14;K""
+C;X13;Y14;K""
+C;X14;Y14;K""
+C;X15;Y14;K""
+C;X16;Y14;K""
+C;X1;Y15;K"Grossistes"
+C;X2;Y15;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y15;K"RHUBARBE France biologique"
+C;X4;Y15;K"euro HT le kg"
+C;X5;Y15;K""
+C;X6;Y15;K4.51
+C;X7;Y15;K4.00
+C;X8;Y15;K""
+C;X9;Y15;K""
+C;X10;Y15;K""
+C;X11;Y15;K""
+C;X12;Y15;K""
+C;X13;Y15;K""
+C;X14;Y15;K""
+C;X15;Y15;K""
+C;X16;Y15;K""
+C;X1;Y16;K"Grossistes"
+C;X2;Y16;K"MIN de Rungis : fruits et légumes"
+C;X3;Y16;K"RHUBARBE France"
+C;X4;Y16;K"euro HT le kg"
+C;X5;Y16;K5.50
+C;X6;Y16;K3.26
+C;X7;Y16;K2.55
+C;X8;Y16;K4.10
+C;X9;Y16;K2.36
+C;X10;Y16;K2.22
+C;X11;Y16;K""
+C;X12;Y16;K""
+C;X13;Y16;K""
+C;X14;Y16;K""
+C;X15;Y16;K""
+C;X16;Y16;K""
+C;X1;Y17;K"Grossistes"
+C;X2;Y17;K"MIN de Rungis : fruits et légumes"
+C;X3;Y17;K"RHUBARBE U.E."
+C;X4;Y17;K"euro HT le kg"
+C;X5;Y17;K4.24
+C;X6;Y17;K2.76
+C;X7;Y17;K2.86
+C;X8;Y17;K""
+C;X9;Y17;K""
+C;X10;Y17;K""
+C;X11;Y17;K""
+C;X12;Y17;K""
+C;X13;Y17;K""
+C;X14;Y17;K""
+C;X15;Y17;K""
+C;X16;Y17;K5.50
+C;X1;Y18;K"Grossistes"
+C;X2;Y18;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y18;K"RHUBARBE France biologique"
+C;X4;Y18;K"euro HT le kg"
+C;X5;Y18;K""
+C;X6;Y18;K""
+C;X7;Y18;K4.04
+C;X8;Y18;K""
+C;X9;Y18;K""
+C;X10;Y18;K""
+C;X11;Y18;K""
+C;X12;Y18;K""
+C;X13;Y18;K""
+C;X14;Y18;K""
+C;X15;Y18;K""
+C;X16;Y18;K""
+C;X1;Y19;K"Grossistes"
+C;X2;Y19;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y19;K"RHUBARBE Allemagne"
+C;X4;Y19;K"euro HT le kg"
+C;X5;Y19;K4.16
+C;X6;Y19;K3.17
+C;X7;Y19;K3.36
+C;X8;Y19;K""
+C;X9;Y19;K""
+C;X10;Y19;K""
+C;X11;Y19;K""
+C;X12;Y19;K""
+C;X13;Y19;K""
+C;X14;Y19;K""
+C;X15;Y19;K""
+C;X16;Y19;K""
+C;X1;Y20;K"Grossistes"
+C;X2;Y20;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y20;K"RHUBARBE Pays-Bas"
+C;X4;Y20;K"euro HT le kg"
+C;X5;Y20;K6.30
+C;X6;Y20;K""
+C;X7;Y20;K""
+C;X8;Y20;K""
+C;X9;Y20;K""
+C;X10;Y20;K""
+C;X11;Y20;K""
+C;X12;Y20;K""
+C;X13;Y20;K""
+C;X14;Y20;K""
+C;X15;Y20;K""
+C;X16;Y20;K""
+C;X1;Y21;K"Grossistes"
+C;X2;Y21;K"MIN de Strasbourg : fruits et légumes bio"
+C;X3;Y21;K"RHUBARBE France biologique"
+C;X4;Y21;K"euro HT le kg"
+C;X5;Y21;K""
+C;X6;Y21;K""
+C;X7;Y21;K4.46
+C;X8;Y21;K""
+C;X9;Y21;K""
+C;X10;Y21;K""
+C;X11;Y21;K""
+C;X12;Y21;K""
+C;X13;Y21;K""
+C;X14;Y21;K""
+C;X15;Y21;K""
+C;X16;Y21;K""
+F;SM6;X1;Y24
+C;K"Source : RNM.FranceAgriMer.fr"
+E

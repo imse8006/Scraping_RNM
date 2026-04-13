@@ -1,0 +1,358 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Betterave rouge - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Marché de producteurs"
+C;X2;Y5;K"Marché de Perpignan carreau : fruits et légumes"
+C;X3;Y5;K"BETTERAVE ROUGE crue Roussillon"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K1.20
+C;X6;Y5;K1.20
+C;X7;Y5;K1.20
+C;X8;Y5;K1.20
+C;X9;Y5;K1.20
+C;X10;Y5;K1.20
+C;X11;Y5;K1.61
+C;X12;Y5;K1.65
+C;X13;Y5;K1.65
+C;X14;Y5;K1.65
+C;X15;Y5;K1.65
+C;X16;Y5;K1.65
+C;X1;Y6;K"Marché de producteurs"
+C;X2;Y6;K"Marché de Perpignan carreau : fruits et légumes"
+C;X3;Y6;K"BETTERAVE ROUGE ronde crue Roussillon"
+C;X4;Y6;K"euro HT la botte"
+C;X5;Y6;K1.20
+C;X6;Y6;K1.20
+C;X7;Y6;K1.20
+C;X8;Y6;K1.20
+C;X9;Y6;K1.20
+C;X10;Y6;K1.20
+C;X11;Y6;K1.20
+C;X12;Y6;K1.20
+C;X13;Y6;K1.20
+C;X14;Y6;K1.20
+C;X15;Y6;K1.20
+C;X16;Y6;K1.20
+C;X1;Y7;K"Expédition"
+C;X2;Y7;K"Bassin Bretagne : fruits et légumes bio"
+C;X3;Y7;K"BETTERAVE ROUGE ronde crue Bretagne biologique"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K1.25
+C;X6;Y7;K1.25
+C;X7;Y7;K1.61
+C;X8;Y7;K1.75
+C;X9;Y7;K1.58
+C;X10;Y7;K1.45
+C;X11;Y7;K1.39
+C;X12;Y7;K1.34
+C;X13;Y7;K1.30
+C;X14;Y7;K1.30
+C;X15;Y7;K1.30
+C;X16;Y7;K1.30
+C;X1;Y8;K"Expédition"
+C;X2;Y8;K"Bassin Centre-Ouest : fruits et légumes bio"
+C;X3;Y8;K"BETTERAVE ROUGE ronde crue Centre-Ouest biologique"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K""
+C;X6;Y8;K""
+C;X7;Y8;K""
+C;X8;Y8;K""
+C;X9;Y8;K""
+C;X10;Y8;K1.38
+C;X11;Y8;K1.34
+C;X12;Y8;K1.30
+C;X13;Y8;K1.32
+C;X14;Y8;K1.33
+C;X15;Y8;K1.37
+C;X16;Y8;K1.34
+C;X1;Y9;K"Expédition"
+C;X2;Y9;K"France : fruits et légumes bio - expédition"
+C;X3;Y9;K"BETTERAVE ROUGE ronde crue France biologique"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K1.45
+C;X6;Y9;K1.41
+C;X7;Y9;K1.72
+C;X8;Y9;K1.75
+C;X9;Y9;K1.56
+C;X10;Y9;K1.49
+C;X11;Y9;K1.52
+C;X12;Y9;K1.39
+C;X13;Y9;K1.36
+C;X14;Y9;K1.38
+C;X15;Y9;K1.42
+C;X16;Y9;K1.39
+C;X1;Y10;K"Grossistes"
+C;X2;Y10;K"France : fruits et légumes bio - grossistes"
+C;X3;Y10;K"BETTERAVE ROUGE ronde crue France biologique"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K1.82
+C;X6;Y10;K1.86
+C;X7;Y10;K2.15
+C;X8;Y10;K2.44
+C;X9;Y10;K2.27
+C;X10;Y10;K2.10
+C;X11;Y10;K1.98
+C;X12;Y10;K1.89
+C;X13;Y10;K1.88
+C;X14;Y10;K1.87
+C;X15;Y10;K1.86
+C;X16;Y10;K1.88
+C;X1;Y11;K"Grossistes"
+C;X2;Y11;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y11;K"BETTERAVE ROUGE chioggia France colis 5kg"
+C;X4;Y11;K"euro HT le kg"
+C;X5;Y11;K""
+C;X6;Y11;K""
+C;X7;Y11;K""
+C;X8;Y11;K""
+C;X9;Y11;K""
+C;X10;Y11;K""
+C;X11;Y11;K2.79
+C;X12;Y11;K2.50
+C;X13;Y11;K2.55
+C;X14;Y11;K2.50
+C;X15;Y11;K2.50
+C;X16;Y11;K2.65
+C;X1;Y12;K"Grossistes"
+C;X2;Y12;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y12;K"BETTERAVE ROUGE ronde cuite Sud-Est sous vide sachet 500g"
+C;X4;Y12;K"euro HT le kg"
+C;X5;Y12;K2.20
+C;X6;Y12;K2.20
+C;X7;Y12;K2.23
+C;X8;Y12;K2.27
+C;X9;Y12;K2.30
+C;X10;Y12;K2.30
+C;X11;Y12;K2.30
+C;X12;Y12;K2.38
+C;X13;Y12;K2.40
+C;X14;Y12;K2.39
+C;X15;Y12;K2.35
+C;X16;Y12;K2.35
+C;X1;Y13;K"Grossistes"
+C;X2;Y13;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y13;K"BETTERAVE ROUGE primeur crue France plateau"
+C;X4;Y13;K"euro HT le kg"
+C;X5;Y13;K1.26
+C;X6;Y13;K1.18
+C;X7;Y13;K1.05
+C;X8;Y13;K1.14
+C;X9;Y13;K1.20
+C;X10;Y13;K1.20
+C;X11;Y13;K1.20
+C;X12;Y13;K1.20
+C;X13;Y13;K1.20
+C;X14;Y13;K1.20
+C;X15;Y13;K1.20
+C;X16;Y13;K1.20
+C;X1;Y14;K"Grossistes"
+C;X2;Y14;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y14;K"BETTERAVE ROUGE ronde primeur cuite France plateau"
+C;X4;Y14;K"euro HT le kg"
+C;X5;Y14;K2.20
+C;X6;Y14;K2.20
+C;X7;Y14;K2.20
+C;X8;Y14;K2.20
+C;X9;Y14;K2.20
+C;X10;Y14;K2.20
+C;X11;Y14;K2.20
+C;X12;Y14;K2.20
+C;X13;Y14;K2.20
+C;X14;Y14;K2.20
+C;X15;Y14;K2.20
+C;X16;Y14;K2.20
+C;X1;Y15;K"Grossistes"
+C;X2;Y15;K"MIN de Marseille : fruits et légumes"
+C;X3;Y15;K"BETTERAVE ROUGE ronde cuite France paquet 500g sous vide"
+C;X4;Y15;K"euro HT le kg"
+C;X5;Y15;K2.00
+C;X6;Y15;K2.00
+C;X7;Y15;K2.00
+C;X8;Y15;K2.08
+C;X9;Y15;K2.11
+C;X10;Y15;K2.03
+C;X11;Y15;K2.00
+C;X12;Y15;K2.00
+C;X13;Y15;K2.00
+C;X14;Y15;K2.00
+C;X15;Y15;K1.99
+C;X16;Y15;K2.04
+C;X1;Y16;K"Grossistes"
+C;X2;Y16;K"MIN de Nantes : fruits et légumes"
+C;X3;Y16;K"BETTERAVE ROUGE ronde crue France"
+C;X4;Y16;K"euro HT le kg"
+C;X5;Y16;K1.40
+C;X6;Y16;K1.53
+C;X7;Y16;K1.76
+C;X8;Y16;K1.75
+C;X9;Y16;K1.92
+C;X10;Y16;K1.80
+C;X11;Y16;K1.68
+C;X12;Y16;K1.61
+C;X13;Y16;K1.60
+C;X14;Y16;K1.60
+C;X15;Y16;K1.60
+C;X16;Y16;K1.60
+C;X1;Y17;K"Grossistes"
+C;X2;Y17;K"MIN de Nantes : fruits et légumes"
+C;X3;Y17;K"BETTERAVE ROUGE ronde cuite France"
+C;X4;Y17;K"euro HT le kg"
+C;X5;Y17;K2.71
+C;X6;Y17;K2.46
+C;X7;Y17;K""
+C;X8;Y17;K2.50
+C;X9;Y17;K2.50
+C;X10;Y17;K2.50
+C;X11;Y17;K2.50
+C;X12;Y17;K2.56
+C;X13;Y17;K2.50
+C;X14;Y17;K2.57
+C;X15;Y17;K2.49
+C;X16;Y17;K2.50
+C;X1;Y18;K"Grossistes"
+C;X2;Y18;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y18;K"BETTERAVE ROUGE ronde crue France biologique"
+C;X4;Y18;K"euro HT le kg"
+C;X5;Y18;K1.83
+C;X6;Y18;K1.93
+C;X7;Y18;K2.45
+C;X8;Y18;K2.44
+C;X9;Y18;K2.37
+C;X10;Y18;K2.05
+C;X11;Y18;K1.87
+C;X12;Y18;K1.68
+C;X13;Y18;K1.69
+C;X14;Y18;K1.80
+C;X15;Y18;K1.68
+C;X16;Y18;K1.82
+C;X1;Y19;K"Grossistes"
+C;X2;Y19;K"MIN de Rungis : fruits et légumes"
+C;X3;Y19;K"BETTERAVE ROUGE ronde crue France"
+C;X4;Y19;K"euro HT le kg"
+C;X5;Y19;K""
+C;X6;Y19;K""
+C;X7;Y19;K""
+C;X8;Y19;K""
+C;X9;Y19;K""
+C;X10;Y19;K""
+C;X11;Y19;K""
+C;X12;Y19;K""
+C;X13;Y19;K""
+C;X14;Y19;K""
+C;X15;Y19;K1.43
+C;X16;Y19;K1.44
+C;X1;Y20;K"Grossistes"
+C;X2;Y20;K"MIN de Rungis : fruits et légumes"
+C;X3;Y20;K"BETTERAVE ROUGE ronde cuite France"
+C;X4;Y20;K"euro HT le kg"
+C;X5;Y20;K2.31
+C;X6;Y20;K2.40
+C;X7;Y20;K2.40
+C;X8;Y20;K2.37
+C;X9;Y20;K2.30
+C;X10;Y20;K2.30
+C;X11;Y20;K2.30
+C;X12;Y20;K2.44
+C;X13;Y20;K2.50
+C;X14;Y20;K2.41
+C;X15;Y20;K2.27
+C;X16;Y20;K2.18
+C;X1;Y21;K"Grossistes"
+C;X2;Y21;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y21;K"BETTERAVE ROUGE ronde crue France biologique"
+C;X4;Y21;K"euro HT le kg"
+C;X5;Y21;K1.76
+C;X6;Y21;K1.78
+C;X7;Y21;K1.97
+C;X8;Y21;K2.37
+C;X9;Y21;K2.19
+C;X10;Y21;K2.09
+C;X11;Y21;K2.05
+C;X12;Y21;K2.04
+C;X13;Y21;K1.98
+C;X14;Y21;K1.91
+C;X15;Y21;K1.95
+C;X16;Y21;K1.94
+C;X1;Y22;K"Grossistes"
+C;X2;Y22;K"MIN de Strasbourg : fruits et légumes bio"
+C;X3;Y22;K"BETTERAVE ROUGE ronde crue France biologique"
+C;X4;Y22;K"euro HT le kg"
+C;X5;Y22;K1.97
+C;X6;Y22;K2.02
+C;X7;Y22;K2.04
+C;X8;Y22;K2.14
+C;X9;Y22;K2.08
+C;X10;Y22;K1.89
+C;X11;Y22;K1.85
+C;X12;Y22;K1.83
+C;X13;Y22;K1.83
+C;X14;Y22;K1.85
+C;X15;Y22;K1.83
+C;X16;Y22;K1.86
+C;X1;Y23;K"Détail"
+C;X2;Y23;K"Légumes France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y23;K"BETTERAVE ROUGE ronde crue France biologique"
+C;X4;Y23;K"euro TTC le kg"
+C;X5;Y23;K3.17
+C;X6;Y23;K3.22
+C;X7;Y23;K3.58
+C;X8;Y23;K3.81
+C;X9;Y23;K3.69
+C;X10;Y23;K3.75
+C;X11;Y23;K3.81
+C;X12;Y23;K3.54
+C;X13;Y23;K3.45
+C;X14;Y23;K3.44
+C;X15;Y23;K3.48
+C;X16;Y23;K3.23
+F;SM6;X1;Y26
+C;K"Source : RNM.FranceAgriMer.fr"
+E

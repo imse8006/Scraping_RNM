@@ -1,0 +1,710 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Céleri-branche - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Production"
+C;X2;Y5;K"Cadran de Barfleur : légumes"
+C;X3;Y5;K"CÉLERI-BRANCHE vert Manche cat.I colis 5kg"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K""
+C;X6;Y5;K""
+C;X7;Y5;K""
+C;X8;Y5;K1.04
+C;X9;Y5;K0.93
+C;X10;Y5;K0.82
+C;X11;Y5;K0.78
+C;X12;Y5;K0.79
+C;X13;Y5;K0.86
+C;X14;Y5;K1.40
+C;X15;Y5;K""
+C;X16;Y5;K""
+C;X1;Y6;K"Marché de producteurs"
+C;X2;Y6;K"Marché de Lyon-Corbas carreau : fruits et légumes"
+C;X3;Y6;K"CÉLERI-BRANCHE vert Rhône-Alpes"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K""
+C;X6;Y6;K""
+C;X7;Y6;K""
+C;X8;Y6;K""
+C;X9;Y6;K1.30
+C;X10;Y6;K1.29
+C;X11;Y6;K1.26
+C;X12;Y6;K1.20
+C;X13;Y6;K1.20
+C;X14;Y6;K1.28
+C;X15;Y6;K1.38
+C;X16;Y6;K1.40
+C;X1;Y7;K"Marché de producteurs"
+C;X2;Y7;K"Marché de Perpignan carreau : fruits et légumes"
+C;X3;Y7;K"CÉLERI-BRANCHE vert Roussillon"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K1.20
+C;X6;Y7;K1.20
+C;X7;Y7;K1.20
+C;X8;Y7;K1.20
+C;X9;Y7;K""
+C;X10;Y7;K""
+C;X11;Y7;K1.20
+C;X12;Y7;K1.20
+C;X13;Y7;K1.20
+C;X14;Y7;K1.14
+C;X15;Y7;K1.20
+C;X16;Y7;K1.20
+C;X1;Y8;K"Marché de producteurs"
+C;X2;Y8;K"MIN d'Agen carreau : fruits et légumes"
+C;X3;Y8;K"CÉLERI-BRANCHE vert Sud-Ouest cat.I plateau"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K1.55
+C;X6;Y8;K""
+C;X7;Y8;K""
+C;X8;Y8;K""
+C;X9;Y8;K""
+C;X10;Y8;K""
+C;X11;Y8;K""
+C;X12;Y8;K1.59
+C;X13;Y8;K1.60
+C;X14;Y8;K""
+C;X15;Y8;K""
+C;X16;Y8;K""
+C;X1;Y9;K"Expédition"
+C;X2;Y9;K"Bassin Bretagne : fruits et légumes bio"
+C;X3;Y9;K"CÉLERI-BRANCHE Bretagne biologique"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K""
+C;X6;Y9;K""
+C;X7;Y9;K""
+C;X8;Y9;K""
+C;X9;Y9;K""
+C;X10;Y9;K2.25
+C;X11;Y9;K2.18
+C;X12;Y9;K""
+C;X13;Y9;K""
+C;X14;Y9;K""
+C;X15;Y9;K""
+C;X16;Y9;K""
+C;X1;Y10;K"Expédition"
+C;X2;Y10;K"Bassin Centre-Ouest : fruits et légumes bio"
+C;X3;Y10;K"CÉLERI-BRANCHE Centre-Ouest biologique"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K""
+C;X6;Y10;K""
+C;X7;Y10;K2.20
+C;X8;Y10;K""
+C;X9;Y10;K2.09
+C;X10;Y10;K2.09
+C;X11;Y10;K1.96
+C;X12;Y10;K""
+C;X13;Y10;K""
+C;X14;Y10;K""
+C;X15;Y10;K""
+C;X16;Y10;K""
+C;X1;Y11;K"Expédition"
+C;X2;Y11;K"Bassin Manche : légumes"
+C;X3;Y11;K"CÉLERI-BRANCHE vert Basse-Normandie cat.I colis 5kg"
+C;X4;Y11;K"euro HT le kg"
+C;X5;Y11;K""
+C;X6;Y11;K""
+C;X7;Y11;K""
+C;X8;Y11;K""
+C;X9;Y11;K""
+C;X10;Y11;K1.16
+C;X11;Y11;K1.12
+C;X12;Y11;K1.09
+C;X13;Y11;K1.19
+C;X14;Y11;K1.75
+C;X15;Y11;K""
+C;X16;Y11;K""
+C;X1;Y12;K"Expédition"
+C;X2;Y12;K"Bassin Roussillon : fruits et légumes"
+C;X3;Y12;K"CÉLERI-BRANCHE vert Roussillon cat.I botte 1kg"
+C;X4;Y12;K"euro HT le kg"
+C;X5;Y12;K""
+C;X6;Y12;K""
+C;X7;Y12;K""
+C;X8;Y12;K""
+C;X9;Y12;K""
+C;X10;Y12;K""
+C;X11;Y12;K""
+C;X12;Y12;K1.09
+C;X13;Y12;K1.00
+C;X14;Y12;K1.09
+C;X15;Y12;K1.11
+C;X16;Y12;K""
+C;X1;Y13;K"Expédition"
+C;X2;Y13;K"Bassin Roussillon : fruits et légumes"
+C;X3;Y13;K"CÉLERI-BRANCHE vert Roussillon cat.I colis 5kg"
+C;X4;Y13;K"euro HT le kg"
+C;X5;Y13;K1.20
+C;X6;Y13;K""
+C;X7;Y13;K""
+C;X8;Y13;K""
+C;X9;Y13;K""
+C;X10;Y13;K""
+C;X11;Y13;K""
+C;X12;Y13;K0.93
+C;X13;Y13;K0.81
+C;X14;Y13;K0.95
+C;X15;Y13;K1.00
+C;X16;Y13;K""
+C;X1;Y14;K"Expédition"
+C;X2;Y14;K"Bassin Roussillon : fruits et légumes bio"
+C;X3;Y14;K"CÉLERI-BRANCHE vert Roussillon coupé biologique colis 5kg"
+C;X4;Y14;K"euro HT le kg"
+C;X5;Y14;K""
+C;X6;Y14;K""
+C;X7;Y14;K""
+C;X8;Y14;K""
+C;X9;Y14;K""
+C;X10;Y14;K""
+C;X11;Y14;K2.53
+C;X12;Y14;K""
+C;X13;Y14;K1.98
+C;X14;Y14;K1.48
+C;X15;Y14;K1.63
+C;X16;Y14;K1.79
+C;X1;Y15;K"Expédition"
+C;X2;Y15;K"Bassin Sud-Est : fruits et légumes bio"
+C;X3;Y15;K"CÉLERI-BRANCHE Sud-Est biologique"
+C;X4;Y15;K"euro HT le kg"
+C;X5;Y15;K1.99
+C;X6;Y15;K""
+C;X7;Y15;K2.00
+C;X8;Y15;K2.00
+C;X9;Y15;K""
+C;X10;Y15;K""
+C;X11;Y15;K1.93
+C;X12;Y15;K1.85
+C;X13;Y15;K1.75
+C;X14;Y15;K1.62
+C;X15;Y15;K1.29
+C;X16;Y15;K1.32
+C;X1;Y16;K"Expédition"
+C;X2;Y16;K"France : fruits et légumes bio - expédition"
+C;X3;Y16;K"CÉLERI-BRANCHE France biologique"
+C;X4;Y16;K"euro HT le kg"
+C;X5;Y16;K1.98
+C;X6;Y16;K2.06
+C;X7;Y16;K2.14
+C;X8;Y16;K2.08
+C;X9;Y16;K2.09
+C;X10;Y16;K2.08
+C;X11;Y16;K2.02
+C;X12;Y16;K1.78
+C;X13;Y16;K1.64
+C;X14;Y16;K1.57
+C;X15;Y16;K1.46
+C;X16;Y16;K1.54
+C;X1;Y17;K"Import"
+C;X2;Y17;K"France : fruits et légumes bio - import"
+C;X3;Y17;K"CÉLERI-BRANCHE Espagne coupé biologique cat.I"
+C;X4;Y17;K"euro HT la pièce"
+C;X5;Y17;K""
+C;X6;Y17;K""
+C;X7;Y17;K""
+C;X8;Y17;K""
+C;X9;Y17;K""
+C;X10;Y17;K""
+C;X11;Y17;K""
+C;X12;Y17;K""
+C;X13;Y17;K""
+C;X14;Y17;K""
+C;X15;Y17;K1.40
+C;X16;Y17;K""
+C;X1;Y18;K"Import"
+C;X2;Y18;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y18;K"CÉLERI-BRANCHE vert Espagne cat.I"
+C;X4;Y18;K"euro HT le kg"
+C;X5;Y18;K1.13
+C;X6;Y18;K1.18
+C;X7;Y18;K1.03
+C;X8;Y18;K0.98
+C;X9;Y18;K""
+C;X10;Y18;K0.95
+C;X11;Y18;K0.90
+C;X12;Y18;K0.80
+C;X13;Y18;K0.75
+C;X14;Y18;K0.80
+C;X15;Y18;K0.81
+C;X16;Y18;K0.83
+C;X1;Y19;K"Grossistes"
+C;X2;Y19;K"France : fruits et légumes bio - grossistes"
+C;X3;Y19;K"CÉLERI-BRANCHE France biologique"
+C;X4;Y19;K"euro HT le kg"
+C;X5;Y19;K2.73
+C;X6;Y19;K2.93
+C;X7;Y19;K2.92
+C;X8;Y19;K2.90
+C;X9;Y19;K3.12
+C;X10;Y19;K3.02
+C;X11;Y19;K2.76
+C;X12;Y19;K2.50
+C;X13;Y19;K2.35
+C;X14;Y19;K2.25
+C;X15;Y19;K2.10
+C;X16;Y19;K2.33
+C;X1;Y20;K"Grossistes"
+C;X2;Y20;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y20;K"CÉLERI-BRANCHE blanc Espagne coupé cat.I"
+C;X4;Y20;K"euro HT le kg"
+C;X5;Y20;K1.69
+C;X6;Y20;K1.77
+C;X7;Y20;K1.85
+C;X8;Y20;K""
+C;X9;Y20;K""
+C;X10;Y20;K""
+C;X11;Y20;K1.70
+C;X12;Y20;K1.69
+C;X13;Y20;K1.68
+C;X14;Y20;K1.55
+C;X15;Y20;K1.65
+C;X16;Y20;K1.69
+C;X1;Y21;K"Grossistes"
+C;X2;Y21;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y21;K"CÉLERI-BRANCHE blanc France coupé cat.I"
+C;X4;Y21;K"euro HT le kg"
+C;X5;Y21;K""
+C;X6;Y21;K""
+C;X7;Y21;K""
+C;X8;Y21;K2.04
+C;X9;Y21;K""
+C;X10;Y21;K""
+C;X11;Y21;K""
+C;X12;Y21;K""
+C;X13;Y21;K""
+C;X14;Y21;K""
+C;X15;Y21;K""
+C;X16;Y21;K""
+C;X1;Y22;K"Grossistes"
+C;X2;Y22;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y22;K"CÉLERI-BRANCHE vert Espagne cat.I"
+C;X4;Y22;K"euro HT le kg"
+C;X5;Y22;K1.41
+C;X6;Y22;K1.58
+C;X7;Y22;K1.54
+C;X8;Y22;K1.55
+C;X9;Y22;K""
+C;X10;Y22;K""
+C;X11;Y22;K""
+C;X12;Y22;K""
+C;X13;Y22;K""
+C;X14;Y22;K""
+C;X15;Y22;K""
+C;X16;Y22;K""
+C;X1;Y23;K"Grossistes"
+C;X2;Y23;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y23;K"CÉLERI-BRANCHE vert France cat.I"
+C;X4;Y23;K"euro HT le kg"
+C;X5;Y23;K""
+C;X6;Y23;K""
+C;X7;Y23;K""
+C;X8;Y23;K1.57
+C;X9;Y23;K1.51
+C;X10;Y23;K1.48
+C;X11;Y23;K1.46
+C;X12;Y23;K1.24
+C;X13;Y23;K1.26
+C;X14;Y23;K""
+C;X15;Y23;K""
+C;X16;Y23;K""
+C;X1;Y24;K"Grossistes"
+C;X2;Y24;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y24;K"CÉLERI-BRANCHE vert Italie cat.I"
+C;X4;Y24;K"euro HT le kg"
+C;X5;Y24;K1.30
+C;X6;Y24;K1.58
+C;X7;Y24;K1.56
+C;X8;Y24;K1.60
+C;X9;Y24;K""
+C;X10;Y24;K""
+C;X11;Y24;K""
+C;X12;Y24;K1.20
+C;X13;Y24;K1.17
+C;X14;Y24;K1.16
+C;X15;Y24;K1.23
+C;X16;Y24;K1.20
+C;X1;Y25;K"Grossistes"
+C;X2;Y25;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y25;K"CÉLERI-BRANCHE vert Espagne cat.I plateau"
+C;X4;Y25;K"euro HT le kg"
+C;X5;Y25;K1.65
+C;X6;Y25;K""
+C;X7;Y25;K""
+C;X8;Y25;K""
+C;X9;Y25;K""
+C;X10;Y25;K""
+C;X11;Y25;K""
+C;X12;Y25;K""
+C;X13;Y25;K""
+C;X14;Y25;K1.77
+C;X15;Y25;K1.59
+C;X16;Y25;K1.50
+C;X1;Y26;K"Grossistes"
+C;X2;Y26;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y26;K"CÉLERI-BRANCHE vert France cat.I plateau"
+C;X4;Y26;K"euro HT le kg"
+C;X5;Y26;K1.84
+C;X6;Y26;K1.77
+C;X7;Y26;K1.77
+C;X8;Y26;K1.81
+C;X9;Y26;K1.80
+C;X10;Y26;K1.82
+C;X11;Y26;K1.79
+C;X12;Y26;K1.74
+C;X13;Y26;K1.70
+C;X14;Y26;K1.74
+C;X15;Y26;K1.71
+C;X16;Y26;K1.64
+C;X1;Y27;K"Grossistes"
+C;X2;Y27;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y27;K"CÉLERI-BRANCHE vert Espagne cat.I"
+C;X4;Y27;K"euro HT le kg"
+C;X5;Y27;K1.60
+C;X6;Y27;K1.62
+C;X7;Y27;K1.60
+C;X8;Y27;K1.68
+C;X9;Y27;K1.61
+C;X10;Y27;K1.45
+C;X11;Y27;K1.42
+C;X12;Y27;K1.35
+C;X13;Y27;K1.40
+C;X14;Y27;K1.44
+C;X15;Y27;K1.47
+C;X16;Y27;K1.47
+C;X1;Y28;K"Grossistes"
+C;X2;Y28;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y28;K"CÉLERI-BRANCHE vert France cat.I"
+C;X4;Y28;K"euro HT le kg"
+C;X5;Y28;K""
+C;X6;Y28;K""
+C;X7;Y28;K""
+C;X8;Y28;K1.74
+C;X9;Y28;K1.62
+C;X10;Y28;K1.68
+C;X11;Y28;K1.65
+C;X12;Y28;K1.73
+C;X13;Y28;K1.61
+C;X14;Y28;K1.60
+C;X15;Y28;K1.60
+C;X16;Y28;K1.77
+C;X1;Y29;K"Grossistes"
+C;X2;Y29;K"MIN de Marseille : fruits et légumes"
+C;X3;Y29;K"CÉLERI-BRANCHE vert France cat.I"
+C;X4;Y29;K"euro HT le kg"
+C;X5;Y29;K1.42
+C;X6;Y29;K1.42
+C;X7;Y29;K1.43
+C;X8;Y29;K1.40
+C;X9;Y29;K1.43
+C;X10;Y29;K1.42
+C;X11;Y29;K1.43
+C;X12;Y29;K1.41
+C;X13;Y29;K1.39
+C;X14;Y29;K1.40
+C;X15;Y29;K1.41
+C;X16;Y29;K1.41
+C;X1;Y30;K"Grossistes"
+C;X2;Y30;K"MIN de Marseille : fruits et légumes"
+C;X3;Y30;K"CÉLERI-BRANCHE vert Italie cat.I plateau"
+C;X4;Y30;K"euro HT le kg"
+C;X5;Y30;K1.33
+C;X6;Y30;K1.44
+C;X7;Y30;K1.50
+C;X8;Y30;K1.41
+C;X9;Y30;K1.50
+C;X10;Y30;K1.52
+C;X11;Y30;K""
+C;X12;Y30;K""
+C;X13;Y30;K""
+C;X14;Y30;K1.41
+C;X15;Y30;K1.36
+C;X16;Y30;K1.28
+C;X1;Y31;K"Grossistes"
+C;X2;Y31;K"MIN de Nantes : fruits et légumes"
+C;X3;Y31;K"CÉLERI-BRANCHE vert Espagne cat.I"
+C;X4;Y31;K"euro HT le kg"
+C;X5;Y31;K1.60
+C;X6;Y31;K1.60
+C;X7;Y31;K""
+C;X8;Y31;K""
+C;X9;Y31;K""
+C;X10;Y31;K""
+C;X11;Y31;K""
+C;X12;Y31;K""
+C;X13;Y31;K""
+C;X14;Y31;K""
+C;X15;Y31;K1.40
+C;X16;Y31;K1.44
+C;X1;Y32;K"Grossistes"
+C;X2;Y32;K"MIN de Nantes : fruits et légumes"
+C;X3;Y32;K"CÉLERI-BRANCHE vert France cat.I"
+C;X4;Y32;K"euro HT le kg"
+C;X5;Y32;K2.20
+C;X6;Y32;K1.98
+C;X7;Y32;K1.70
+C;X8;Y32;K1.71
+C;X9;Y32;K1.72
+C;X10;Y32;K1.55
+C;X11;Y32;K1.55
+C;X12;Y32;K1.48
+C;X13;Y32;K1.40
+C;X14;Y32;K1.51
+C;X15;Y32;K1.49
+C;X16;Y32;K""
+C;X1;Y33;K"Grossistes"
+C;X2;Y33;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y33;K"CÉLERI-BRANCHE France biologique"
+C;X4;Y33;K"euro HT le kg"
+C;X5;Y33;K2.72
+C;X6;Y33;K2.83
+C;X7;Y33;K2.91
+C;X8;Y33;K2.91
+C;X9;Y33;K2.99
+C;X10;Y33;K3.01
+C;X11;Y33;K2.78
+C;X12;Y33;K2.38
+C;X13;Y33;K2.35
+C;X14;Y33;K2.32
+C;X15;Y33;K2.18
+C;X16;Y33;K2.37
+C;X1;Y34;K"Grossistes"
+C;X2;Y34;K"MIN de Nice : fruits et légumes"
+C;X3;Y34;K"CÉLERI-BRANCHE blanc U.E. cat.I"
+C;X4;Y34;K"euro HT le kg"
+C;X5;Y34;K1.70
+C;X6;Y34;K1.98
+C;X7;Y34;K1.90
+C;X8;Y34;K1.93
+C;X9;Y34;K1.95
+C;X10;Y34;K1.88
+C;X11;Y34;K1.76
+C;X12;Y34;K1.82
+C;X13;Y34;K1.90
+C;X14;Y34;K1.77
+C;X15;Y34;K1.79
+C;X16;Y34;K1.75
+C;X1;Y35;K"Grossistes"
+C;X2;Y35;K"MIN de Nice : fruits et légumes"
+C;X3;Y35;K"CÉLERI-BRANCHE vert France coupé cat.I"
+C;X4;Y35;K"euro HT le kg"
+C;X5;Y35;K""
+C;X6;Y35;K1.90
+C;X7;Y35;K1.84
+C;X8;Y35;K1.82
+C;X9;Y35;K1.90
+C;X10;Y35;K1.82
+C;X11;Y35;K1.95
+C;X12;Y35;K1.95
+C;X13;Y35;K1.95
+C;X14;Y35;K2.04
+C;X15;Y35;K1.98
+C;X16;Y35;K1.85
+C;X1;Y36;K"Grossistes"
+C;X2;Y36;K"MIN de Rungis : fruits et légumes"
+C;X3;Y36;K"CÉLERI-BRANCHE vert France cat.I"
+C;X4;Y36;K"euro HT le kg"
+C;X5;Y36;K""
+C;X6;Y36;K1.70
+C;X7;Y36;K1.70
+C;X8;Y36;K1.67
+C;X9;Y36;K1.58
+C;X10;Y36;K1.50
+C;X11;Y36;K1.49
+C;X12;Y36;K1.45
+C;X13;Y36;K1.39
+C;X14;Y36;K1.57
+C;X15;Y36;K1.60
+C;X16;Y36;K1.80
+C;X1;Y37;K"Grossistes"
+C;X2;Y37;K"MIN de Rungis : fruits et légumes"
+C;X3;Y37;K"CÉLERI-BRANCHE vert Italie cat.I"
+C;X4;Y37;K"euro HT le kg"
+C;X5;Y37;K1.22
+C;X6;Y37;K1.75
+C;X7;Y37;K1.80
+C;X8;Y37;K""
+C;X9;Y37;K""
+C;X10;Y37;K""
+C;X11;Y37;K""
+C;X12;Y37;K""
+C;X13;Y37;K""
+C;X14;Y37;K""
+C;X15;Y37;K""
+C;X16;Y37;K""
+C;X1;Y38;K"Grossistes"
+C;X2;Y38;K"MIN de Rungis : fruits et légumes"
+C;X3;Y38;K"CÉLERI-BRANCHE vert U.E. cat.I"
+C;X4;Y38;K"euro HT le kg"
+C;X5;Y38;K""
+C;X6;Y38;K""
+C;X7;Y38;K1.55
+C;X8;Y38;K1.55
+C;X9;Y38;K1.25
+C;X10;Y38;K1.00
+C;X11;Y38;K1.07
+C;X12;Y38;K1.30
+C;X13;Y38;K1.40
+C;X14;Y38;K1.44
+C;X15;Y38;K1.44
+C;X16;Y38;K1.44
+C;X1;Y39;K"Grossistes"
+C;X2;Y39;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y39;K"CÉLERI-BRANCHE France biologique"
+C;X4;Y39;K"euro HT le kg"
+C;X5;Y39;K2.75
+C;X6;Y39;K2.95
+C;X7;Y39;K2.92
+C;X8;Y39;K2.81
+C;X9;Y39;K2.92
+C;X10;Y39;K2.85
+C;X11;Y39;K2.64
+C;X12;Y39;K2.57
+C;X13;Y39;K2.29
+C;X14;Y39;K2.17
+C;X15;Y39;K2.06
+C;X16;Y39;K2.23
+C;X1;Y40;K"Grossistes"
+C;X2;Y40;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y40;K"CÉLERI-BRANCHE France cat.I"
+C;X4;Y40;K"euro HT le kg"
+C;X5;Y40;K1.76
+C;X6;Y40;K1.97
+C;X7;Y40;K1.88
+C;X8;Y40;K1.98
+C;X9;Y40;K1.91
+C;X10;Y40;K1.89
+C;X11;Y40;K1.86
+C;X12;Y40;K1.77
+C;X13;Y40;K1.85
+C;X14;Y40;K""
+C;X15;Y40;K""
+C;X16;Y40;K""
+C;X1;Y41;K"Grossistes"
+C;X2;Y41;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y41;K"CÉLERI-BRANCHE vert U.E. cat.I"
+C;X4;Y41;K"euro HT le kg"
+C;X5;Y41;K""
+C;X6;Y41;K""
+C;X7;Y41;K""
+C;X8;Y41;K""
+C;X9;Y41;K""
+C;X10;Y41;K1.70
+C;X11;Y41;K1.65
+C;X12;Y41;K1.60
+C;X13;Y41;K1.61
+C;X14;Y41;K1.73
+C;X15;Y41;K1.66
+C;X16;Y41;K1.51
+C;X1;Y42;K"Grossistes"
+C;X2;Y42;K"MIN de Strasbourg : fruits et légumes bio"
+C;X3;Y42;K"CÉLERI-BRANCHE France biologique"
+C;X4;Y42;K"euro HT le kg"
+C;X5;Y42;K3.07
+C;X6;Y42;K3.08
+C;X7;Y42;K""
+C;X8;Y42;K2.73
+C;X9;Y42;K2.81
+C;X10;Y42;K""
+C;X11;Y42;K""
+C;X12;Y42;K""
+C;X13;Y42;K""
+C;X14;Y42;K""
+C;X15;Y42;K""
+C;X16;Y42;K""
+C;X1;Y43;K"Grossistes"
+C;X2;Y43;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y43;K"CÉLERI-BRANCHE vert Espagne cat.I"
+C;X4;Y43;K"euro HT le kg"
+C;X5;Y43;K""
+C;X6;Y43;K""
+C;X7;Y43;K""
+C;X8;Y43;K""
+C;X9;Y43;K""
+C;X10;Y43;K""
+C;X11;Y43;K""
+C;X12;Y43;K""
+C;X13;Y43;K""
+C;X14;Y43;K""
+C;X15;Y43;K""
+C;X16;Y43;K1.20
+C;X1;Y44;K"Grossistes"
+C;X2;Y44;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y44;K"CÉLERI-BRANCHE vert France cat.I"
+C;X4;Y44;K"euro HT le kg"
+C;X5;Y44;K1.70
+C;X6;Y44;K1.70
+C;X7;Y44;K1.61
+C;X8;Y44;K1.50
+C;X9;Y44;K1.56
+C;X10;Y44;K1.51
+C;X11;Y44;K1.52
+C;X12;Y44;K1.46
+C;X13;Y44;K1.41
+C;X14;Y44;K1.50
+C;X15;Y44;K1.45
+C;X16;Y44;K1.42
+C;X1;Y45;K"Détail"
+C;X2;Y45;K"Légumes France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y45;K"CÉLERI-BRANCHE France biologique"
+C;X4;Y45;K"euro TTC le kg"
+C;X5;Y45;K4.24
+C;X6;Y45;K4.62
+C;X7;Y45;K4.57
+C;X8;Y45;K4.47
+C;X9;Y45;K4.64
+C;X10;Y45;K4.53
+C;X11;Y45;K4.47
+C;X12;Y45;K4.35
+C;X13;Y45;K4.08
+C;X14;Y45;K4.04
+C;X15;Y45;K3.81
+C;X16;Y45;K3.98
+F;SM6;X1;Y48
+C;K"Source : RNM.FranceAgriMer.fr"
+E

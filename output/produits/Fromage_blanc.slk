@@ -1,0 +1,102 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Fromage blanc - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Grossistes"
+C;X2;Y5;K"Indicateurs produits laitiers et œufs - restauration collective"
+C;X3;Y5;K"FROMAGE BLANC nature battu 20% MG pot 100g"
+C;X4;Y5;K"euro HT le pot"
+C;X5;Y5;K0.38
+C;X6;Y5;K0.38
+C;X7;Y5;K0.38
+C;X8;Y5;K0.38
+C;X9;Y5;K0.38
+C;X10;Y5;K0.38
+C;X11;Y5;K0.38
+C;X12;Y5;K0.38
+C;X13;Y5;K0.38
+C;X14;Y5;K0.39
+C;X15;Y5;K0.39
+C;X16;Y5;K0.39
+C;X1;Y6;K"Grossistes"
+C;X2;Y6;K"Indicateurs produits laitiers et œufs - restauration collective"
+C;X3;Y6;K"FROMAGE BLANC nature battu 20% MG seau 5 kg"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K3.31
+C;X6;Y6;K3.31
+C;X7;Y6;K3.31
+C;X8;Y6;K3.31
+C;X9;Y6;K3.31
+C;X10;Y6;K3.31
+C;X11;Y6;K3.31
+C;X12;Y6;K3.31
+C;X13;Y6;K3.31
+C;X14;Y6;K3.38
+C;X15;Y6;K3.38
+C;X16;Y6;K3.38
+C;X1;Y7;K"Grossistes"
+C;X2;Y7;K"Indicateurs produits laitiers et œufs - restauration collective"
+C;X3;Y7;K"FROMAGE BLANC nature frais suisse battu 40% MG pot 60g avec papier"
+C;X4;Y7;K"euro HT le pot"
+C;X5;Y7;K0.31
+C;X6;Y7;K0.31
+C;X7;Y7;K0.31
+C;X8;Y7;K0.31
+C;X9;Y7;K0.31
+C;X10;Y7;K0.31
+C;X11;Y7;K0.31
+C;X12;Y7;K0.31
+C;X13;Y7;K0.31
+C;X14;Y7;K0.33
+C;X15;Y7;K0.33
+C;X16;Y7;K0.33
+F;SM6;X1;Y10
+C;K"Source : RNM.FranceAgriMer.fr"
+E

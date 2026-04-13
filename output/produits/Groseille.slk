@@ -1,0 +1,262 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Groseille - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Grossistes"
+C;X2;Y5;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y5;K"GROSEILLE rouge France barq.125g"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K""
+C;X6;Y5;K""
+C;X7;Y5;K20.74
+C;X8;Y5;K14.76
+C;X9;Y5;K14.60
+C;X10;Y5;K16.80
+C;X11;Y5;K15.30
+C;X12;Y5;K""
+C;X13;Y5;K""
+C;X14;Y5;K""
+C;X15;Y5;K""
+C;X16;Y5;K""
+C;X1;Y6;K"Grossistes"
+C;X2;Y6;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y6;K"GROSEILLE rouge Pays-Bas barq.125g"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K29.10
+C;X6;Y6;K26.40
+C;X7;Y6;K""
+C;X8;Y6;K""
+C;X9;Y6;K""
+C;X10;Y6;K14.35
+C;X11;Y6;K13.46
+C;X12;Y6;K12.93
+C;X13;Y6;K14.86
+C;X14;Y6;K16.60
+C;X15;Y6;K16.52
+C;X16;Y6;K17.31
+C;X1;Y7;K"Grossistes"
+C;X2;Y7;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y7;K"GROSEILLE rouge Portugal barq.125g"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K""
+C;X6;Y7;K""
+C;X7;Y7;K""
+C;X8;Y7;K12.80
+C;X9;Y7;K""
+C;X10;Y7;K""
+C;X11;Y7;K""
+C;X12;Y7;K""
+C;X13;Y7;K""
+C;X14;Y7;K""
+C;X15;Y7;K""
+C;X16;Y7;K""
+C;X1;Y8;K"Grossistes"
+C;X2;Y8;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y8;K"GROSEILLE U.E. cat.I barq.125g"
+C;X4;Y8;K"euro HT les 125g"
+C;X5;Y8;K4.40
+C;X6;Y8;K4.30
+C;X7;Y8;K4.25
+C;X8;Y8;K3.15
+C;X9;Y8;K2.94
+C;X10;Y8;K2.84
+C;X11;Y8;K3.06
+C;X12;Y8;K2.81
+C;X13;Y8;K2.98
+C;X14;Y8;K3.52
+C;X15;Y8;K3.50
+C;X16;Y8;K3.48
+C;X1;Y9;K"Grossistes"
+C;X2;Y9;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y9;K"GROSEILLE rouge France barq.125g"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K""
+C;X6;Y9;K""
+C;X7;Y9;K""
+C;X8;Y9;K25.60
+C;X9;Y9;K23.15
+C;X10;Y9;K25.71
+C;X11;Y9;K26.60
+C;X12;Y9;K""
+C;X13;Y9;K""
+C;X14;Y9;K""
+C;X15;Y9;K""
+C;X16;Y9;K""
+C;X1;Y10;K"Grossistes"
+C;X2;Y10;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y10;K"GROSEILLE U.E. cat.I barq.125g"
+C;X4;Y10;K"euro HT les 125g"
+C;X5;Y10;K""
+C;X6;Y10;K""
+C;X7;Y10;K""
+C;X8;Y10;K""
+C;X9;Y10;K""
+C;X10;Y10;K""
+C;X11;Y10;K""
+C;X12;Y10;K""
+C;X13;Y10;K""
+C;X14;Y10;K""
+C;X15;Y10;K""
+C;X16;Y10;K3.29
+C;X1;Y11;K"Grossistes"
+C;X2;Y11;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y11;K"GROSEILLE U.E. cat.I barq.125g"
+C;X4;Y11;K"euro HT le kg"
+C;X5;Y11;K""
+C;X6;Y11;K""
+C;X7;Y11;K33.67
+C;X8;Y11;K29.60
+C;X9;Y11;K""
+C;X10;Y11;K""
+C;X11;Y11;K""
+C;X12;Y11;K""
+C;X13;Y11;K""
+C;X14;Y11;K""
+C;X15;Y11;K""
+C;X16;Y11;K""
+C;X1;Y12;K"Grossistes"
+C;X2;Y12;K"MIN de Nantes : fruits et légumes"
+C;X3;Y12;K"GROSEILLE rouge France barq.125g"
+C;X4;Y12;K"euro HT le kg"
+C;X5;Y12;K""
+C;X6;Y12;K""
+C;X7;Y12;K""
+C;X8;Y12;K21.88
+C;X9;Y12;K20.00
+C;X10;Y12;K""
+C;X11;Y12;K""
+C;X12;Y12;K""
+C;X13;Y12;K""
+C;X14;Y12;K""
+C;X15;Y12;K""
+C;X16;Y12;K""
+C;X1;Y13;K"Grossistes"
+C;X2;Y13;K"MIN de Nice : fruits et légumes"
+C;X3;Y13;K"GROSEILLE rouge U.E. cat.I barq.125g"
+C;X4;Y13;K"euro HT les 125g"
+C;X5;Y13;K""
+C;X6;Y13;K""
+C;X7;Y13;K""
+C;X8;Y13;K""
+C;X9;Y13;K""
+C;X10;Y13;K""
+C;X11;Y13;K""
+C;X12;Y13;K""
+C;X13;Y13;K""
+C;X14;Y13;K""
+C;X15;Y13;K3.63
+C;X16;Y13;K3.69
+C;X1;Y14;K"Grossistes"
+C;X2;Y14;K"MIN de Nice : fruits et légumes"
+C;X3;Y14;K"GROSEILLE rouge U.E. cat.I barq.125g"
+C;X4;Y14;K"euro HT le kg"
+C;X5;Y14;K36.50
+C;X6;Y14;K34.85
+C;X7;Y14;K33.31
+C;X8;Y14;K28.14
+C;X9;Y14;K24.15
+C;X10;Y14;K24.54
+C;X11;Y14;K24.11
+C;X12;Y14;K24.95
+C;X13;Y14;K26.20
+C;X14;Y14;K28.93
+C;X15;Y14;K28.50
+C;X16;Y14;K""
+C;X1;Y15;K"Grossistes"
+C;X2;Y15;K"MIN de Rungis : fruits et légumes"
+C;X3;Y15;K"GROSEILLE rouge France barq.125g"
+C;X4;Y15;K"euro HT le kg"
+C;X5;Y15;K""
+C;X6;Y15;K26.40
+C;X7;Y15;K24.44
+C;X8;Y15;K19.67
+C;X9;Y15;K17.44
+C;X10;Y15;K18.51
+C;X11;Y15;K18.88
+C;X12;Y15;K""
+C;X13;Y15;K""
+C;X14;Y15;K""
+C;X15;Y15;K""
+C;X16;Y15;K""
+C;X1;Y16;K"Grossistes"
+C;X2;Y16;K"MIN de Rungis : fruits et légumes"
+C;X3;Y16;K"GROSEILLE rouge Pays-Bas barq.125g"
+C;X4;Y16;K"euro HT le kg"
+C;X5;Y16;K28.69
+C;X6;Y16;K26.95
+C;X7;Y16;K22.24
+C;X8;Y16;K18.69
+C;X9;Y16;K15.54
+C;X10;Y16;K16.65
+C;X11;Y16;K16.45
+C;X12;Y16;K18.78
+C;X13;Y16;K18.25
+C;X14;Y16;K19.39
+C;X15;Y16;K19.52
+C;X16;Y16;K""
+C;X1;Y17;K"Grossistes"
+C;X2;Y17;K"MIN de Rungis : fruits et légumes"
+C;X3;Y17;K"GROSEILLE rouge Pays-Bas barq.125g"
+C;X4;Y17;K"euro HT les 125g"
+C;X5;Y17;K""
+C;X6;Y17;K""
+C;X7;Y17;K""
+C;X8;Y17;K""
+C;X9;Y17;K""
+C;X10;Y17;K""
+C;X11;Y17;K""
+C;X12;Y17;K""
+C;X13;Y17;K""
+C;X14;Y17;K""
+C;X15;Y17;K2.42
+C;X16;Y17;K2.59
+F;SM6;X1;Y20
+C;K"Source : RNM.FranceAgriMer.fr"
+E

@@ -1,0 +1,614 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Patate douce - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Marché de producteurs"
+C;X2;Y5;K"Marché de Lyon-Corbas carreau : fruits et légumes"
+C;X3;Y5;K"PATATE DOUCE Sud-Est moyenne"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K""
+C;X6;Y5;K""
+C;X7;Y5;K""
+C;X8;Y5;K""
+C;X9;Y5;K""
+C;X10;Y5;K""
+C;X11;Y5;K""
+C;X12;Y5;K2.10
+C;X13;Y5;K2.09
+C;X14;Y5;K2.20
+C;X15;Y5;K2.27
+C;X16;Y5;K2.30
+C;X1;Y6;K"Marché de producteurs"
+C;X2;Y6;K"Marché de Perpignan carreau : fruits et légumes"
+C;X3;Y6;K"PATATE DOUCE Roussillon"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K1.80
+C;X6;Y6;K""
+C;X7;Y6;K""
+C;X8;Y6;K""
+C;X9;Y6;K""
+C;X10;Y6;K2.00
+C;X11;Y6;K1.97
+C;X12;Y6;K2.00
+C;X13;Y6;K2.00
+C;X14;Y6;K2.00
+C;X15;Y6;K2.00
+C;X16;Y6;K1.75
+C;X1;Y7;K"Marché de producteurs"
+C;X2;Y7;K"MIN d'Agen carreau : fruits et légumes"
+C;X3;Y7;K"PATATE DOUCE Sud-Ouest moyenne"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K""
+C;X6;Y7;K""
+C;X7;Y7;K""
+C;X8;Y7;K""
+C;X9;Y7;K""
+C;X10;Y7;K2.00
+C;X11;Y7;K1.90
+C;X12;Y7;K1.80
+C;X13;Y7;K1.90
+C;X14;Y7;K1.80
+C;X15;Y7;K""
+C;X16;Y7;K""
+C;X1;Y8;K"Expédition"
+C;X2;Y8;K"Bassin Bretagne : fruits et légumes bio"
+C;X3;Y8;K"PATATE DOUCE Bretagne biologique"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K""
+C;X6;Y8;K""
+C;X7;Y8;K""
+C;X8;Y8;K""
+C;X9;Y8;K2.88
+C;X10;Y8;K2.79
+C;X11;Y8;K2.46
+C;X12;Y8;K2.31
+C;X13;Y8;K2.19
+C;X14;Y8;K2.19
+C;X15;Y8;K2.19
+C;X16;Y8;K""
+C;X1;Y9;K"Expédition"
+C;X2;Y9;K"Bassin Centre-Ouest : fruits et légumes bio"
+C;X3;Y9;K"PATATE DOUCE Centre-Ouest biologique"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K2.20
+C;X6;Y9;K""
+C;X7;Y9;K""
+C;X8;Y9;K""
+C;X9;Y9;K2.53
+C;X10;Y9;K2.18
+C;X11;Y9;K2.26
+C;X12;Y9;K2.00
+C;X13;Y9;K1.97
+C;X14;Y9;K1.98
+C;X15;Y9;K2.02
+C;X16;Y9;K2.16
+C;X1;Y10;K"Expédition"
+C;X2;Y10;K"Bassin nantais : légumes"
+C;X3;Y10;K"PATATE DOUCE Région nantaise 300-600g"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K""
+C;X6;Y10;K""
+C;X7;Y10;K""
+C;X8;Y10;K""
+C;X9;Y10;K""
+C;X10;Y10;K""
+C;X11;Y10;K""
+C;X12;Y10;K1.50
+C;X13;Y10;K1.50
+C;X14;Y10;K1.50
+C;X15;Y10;K1.50
+C;X16;Y10;K""
+C;X1;Y11;K"Expédition"
+C;X2;Y11;K"Bassin Sud-Est : fruits et légumes bio"
+C;X3;Y11;K"PATATE DOUCE Sud-Est biologique"
+C;X4;Y11;K"euro HT le kg"
+C;X5;Y11;K""
+C;X6;Y11;K""
+C;X7;Y11;K""
+C;X8;Y11;K""
+C;X9;Y11;K2.40
+C;X10;Y11;K2.46
+C;X11;Y11;K2.27
+C;X12;Y11;K2.05
+C;X13;Y11;K1.92
+C;X14;Y11;K1.93
+C;X15;Y11;K1.78
+C;X16;Y11;K""
+C;X1;Y12;K"Expédition"
+C;X2;Y12;K"France : fruits et légumes bio - expédition"
+C;X3;Y12;K"PATATE DOUCE France biologique"
+C;X4;Y12;K"euro HT le kg"
+C;X5;Y12;K2.09
+C;X6;Y12;K""
+C;X7;Y12;K""
+C;X8;Y12;K2.44
+C;X9;Y12;K2.96
+C;X10;Y12;K2.50
+C;X11;Y12;K2.30
+C;X12;Y12;K2.13
+C;X13;Y12;K2.04
+C;X14;Y12;K2.05
+C;X15;Y12;K1.97
+C;X16;Y12;K2.02
+C;X1;Y13;K"Import"
+C;X2;Y13;K"France : fruits et légumes bio - import"
+C;X3;Y13;K"PATATE DOUCE Espagne biologique"
+C;X4;Y13;K"euro HT le kg"
+C;X5;Y13;K2.00
+C;X6;Y13;K2.23
+C;X7;Y13;K""
+C;X8;Y13;K""
+C;X9;Y13;K2.41
+C;X10;Y13;K2.12
+C;X11;Y13;K1.81
+C;X12;Y13;K1.60
+C;X13;Y13;K1.55
+C;X14;Y13;K1.54
+C;X15;Y13;K1.68
+C;X16;Y13;K1.85
+C;X1;Y14;K"Import"
+C;X2;Y14;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y14;K"PATATE DOUCE Espagne cat.I 300-600g"
+C;X4;Y14;K"euro HT le kg"
+C;X5;Y14;K""
+C;X6;Y14;K""
+C;X7;Y14;K""
+C;X8;Y14;K""
+C;X9;Y14;K""
+C;X10;Y14;K""
+C;X11;Y14;K1.02
+C;X12;Y14;K1.01
+C;X13;Y14;K1.02
+C;X14;Y14;K1.05
+C;X15;Y14;K""
+C;X16;Y14;K""
+C;X1;Y15;K"Grossistes"
+C;X2;Y15;K"France : fruits et légumes bio - grossistes"
+C;X3;Y15;K"PATATE DOUCE France biologique"
+C;X4;Y15;K"euro HT le kg"
+C;X5;Y15;K2.96
+C;X6;Y15;K3.38
+C;X7;Y15;K3.46
+C;X8;Y15;K3.59
+C;X9;Y15;K3.56
+C;X10;Y15;K3.17
+C;X11;Y15;K2.81
+C;X12;Y15;K2.54
+C;X13;Y15;K2.45
+C;X14;Y15;K2.53
+C;X15;Y15;K2.54
+C;X16;Y15;K2.61
+C;X1;Y16;K"Grossistes"
+C;X2;Y16;K"France : fruits et légumes bio - grossistes"
+C;X3;Y16;K"PATATE DOUCE U.E. biologique"
+C;X4;Y16;K"euro HT le kg"
+C;X5;Y16;K2.36
+C;X6;Y16;K2.73
+C;X7;Y16;K2.95
+C;X8;Y16;K2.92
+C;X9;Y16;K2.97
+C;X10;Y16;K2.84
+C;X11;Y16;K2.39
+C;X12;Y16;K2.15
+C;X13;Y16;K""
+C;X14;Y16;K""
+C;X15;Y16;K""
+C;X16;Y16;K2.07
+C;X1;Y17;K"Grossistes"
+C;X2;Y17;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y17;K"PATATE DOUCE Egypte"
+C;X4;Y17;K"euro HT le kg"
+C;X5;Y17;K1.56
+C;X6;Y17;K1.89
+C;X7;Y17;K2.07
+C;X8;Y17;K2.23
+C;X9;Y17;K1.80
+C;X10;Y17;K1.36
+C;X11;Y17;K1.20
+C;X12;Y17;K1.01
+C;X13;Y17;K1.04
+C;X14;Y17;K1.22
+C;X15;Y17;K1.33
+C;X16;Y17;K1.36
+C;X1;Y18;K"Grossistes"
+C;X2;Y18;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y18;K"PATATE DOUCE France"
+C;X4;Y18;K"euro HT le kg"
+C;X5;Y18;K""
+C;X6;Y18;K""
+C;X7;Y18;K""
+C;X8;Y18;K""
+C;X9;Y18;K""
+C;X10;Y18;K""
+C;X11;Y18;K2.57
+C;X12;Y18;K2.52
+C;X13;Y18;K2.70
+C;X14;Y18;K2.65
+C;X15;Y18;K2.11
+C;X16;Y18;K1.58
+C;X1;Y19;K"Grossistes"
+C;X2;Y19;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y19;K"PATATE DOUCE Import"
+C;X4;Y19;K"euro HT le kg"
+C;X5;Y19;K1.76
+C;X6;Y19;K2.00
+C;X7;Y19;K2.19
+C;X8;Y19;K2.59
+C;X9;Y19;K2.34
+C;X10;Y19;K1.91
+C;X11;Y19;K1.52
+C;X12;Y19;K1.43
+C;X13;Y19;K1.38
+C;X14;Y19;K1.44
+C;X15;Y19;K1.51
+C;X16;Y19;K1.55
+C;X1;Y20;K"Grossistes"
+C;X2;Y20;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y20;K"PATATE DOUCE Import"
+C;X4;Y20;K"euro HT le kg"
+C;X5;Y20;K1.68
+C;X6;Y20;K2.23
+C;X7;Y20;K2.30
+C;X8;Y20;K2.47
+C;X9;Y20;K2.19
+C;X10;Y20;K1.80
+C;X11;Y20;K1.49
+C;X12;Y20;K1.39
+C;X13;Y20;K1.24
+C;X14;Y20;K1.38
+C;X15;Y20;K1.50
+C;X16;Y20;K1.44
+C;X1;Y21;K"Grossistes"
+C;X2;Y21;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y21;K"PATATE DOUCE longue France moyenne plateau"
+C;X4;Y21;K"euro HT le kg"
+C;X5;Y21;K""
+C;X6;Y21;K""
+C;X7;Y21;K""
+C;X8;Y21;K""
+C;X9;Y21;K""
+C;X10;Y21;K2.25
+C;X11;Y21;K2.22
+C;X12;Y21;K""
+C;X13;Y21;K""
+C;X14;Y21;K1.85
+C;X15;Y21;K1.86
+C;X16;Y21;K1.80
+C;X1;Y22;K"Grossistes"
+C;X2;Y22;K"MIN de Marseille : fruits et légumes"
+C;X3;Y22;K"PATATE DOUCE Import"
+C;X4;Y22;K"euro HT le kg"
+C;X5;Y22;K1.53
+C;X6;Y22;K1.72
+C;X7;Y22;K1.94
+C;X8;Y22;K2.21
+C;X9;Y22;K2.07
+C;X10;Y22;K1.56
+C;X11;Y22;K1.36
+C;X12;Y22;K1.20
+C;X13;Y22;K1.20
+C;X14;Y22;K1.27
+C;X15;Y22;K1.32
+C;X16;Y22;K1.32
+C;X1;Y23;K"Grossistes"
+C;X2;Y23;K"MIN de Nantes : fruits et légumes"
+C;X3;Y23;K"PATATE DOUCE France moyenne"
+C;X4;Y23;K"euro HT le kg"
+C;X5;Y23;K1.91
+C;X6;Y23;K1.95
+C;X7;Y23;K1.95
+C;X8;Y23;K2.10
+C;X9;Y23;K2.06
+C;X10;Y23;K2.10
+C;X11;Y23;K2.05
+C;X12;Y23;K1.81
+C;X13;Y23;K1.77
+C;X14;Y23;K1.94
+C;X15;Y23;K2.00
+C;X16;Y23;K1.98
+C;X1;Y24;K"Grossistes"
+C;X2;Y24;K"MIN de Nantes : fruits et légumes"
+C;X3;Y24;K"PATATE DOUCE Import"
+C;X4;Y24;K"euro HT le kg"
+C;X5;Y24;K1.74
+C;X6;Y24;K1.99
+C;X7;Y24;K2.33
+C;X8;Y24;K2.50
+C;X9;Y24;K2.29
+C;X10;Y24;K1.87
+C;X11;Y24;K1.63
+C;X12;Y24;K1.52
+C;X13;Y24;K1.30
+C;X14;Y24;K1.46
+C;X15;Y24;K1.51
+C;X16;Y24;K1.52
+C;X1;Y25;K"Grossistes"
+C;X2;Y25;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y25;K"PATATE DOUCE France biologique"
+C;X4;Y25;K"euro HT le kg"
+C;X5;Y25;K3.07
+C;X6;Y25;K3.90
+C;X7;Y25;K3.79
+C;X8;Y25;K3.89
+C;X9;Y25;K3.86
+C;X10;Y25;K2.95
+C;X11;Y25;K2.82
+C;X12;Y25;K2.24
+C;X13;Y25;K2.24
+C;X14;Y25;K2.54
+C;X15;Y25;K2.55
+C;X16;Y25;K2.65
+C;X1;Y26;K"Grossistes"
+C;X2;Y26;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y26;K"PATATE DOUCE U.E. biologique"
+C;X4;Y26;K"euro HT le kg"
+C;X5;Y26;K2.54
+C;X6;Y26;K2.87
+C;X7;Y26;K3.15
+C;X8;Y26;K3.20
+C;X9;Y26;K3.36
+C;X10;Y26;K3.14
+C;X11;Y26;K2.71
+C;X12;Y26;K2.38
+C;X13;Y26;K""
+C;X14;Y26;K""
+C;X15;Y26;K""
+C;X16;Y26;K2.08
+C;X1;Y27;K"Grossistes"
+C;X2;Y27;K"MIN de Nice : fruits et légumes"
+C;X3;Y27;K"PATATE DOUCE France moyenne"
+C;X4;Y27;K"euro HT le kg"
+C;X5;Y27;K""
+C;X6;Y27;K""
+C;X7;Y27;K""
+C;X8;Y27;K""
+C;X9;Y27;K""
+C;X10;Y27;K""
+C;X11;Y27;K""
+C;X12;Y27;K""
+C;X13;Y27;K""
+C;X14;Y27;K""
+C;X15;Y27;K2.80
+C;X16;Y27;K""
+C;X1;Y28;K"Grossistes"
+C;X2;Y28;K"MIN de Nice : fruits et légumes"
+C;X3;Y28;K"PATATE DOUCE Import moyenne"
+C;X4;Y28;K"euro HT le kg"
+C;X5;Y28;K1.80
+C;X6;Y28;K1.93
+C;X7;Y28;K2.31
+C;X8;Y28;K2.73
+C;X9;Y28;K2.40
+C;X10;Y28;K2.05
+C;X11;Y28;K1.79
+C;X12;Y28;K1.59
+C;X13;Y28;K1.62
+C;X14;Y28;K1.64
+C;X15;Y28;K1.75
+C;X16;Y28;K1.74
+C;X1;Y29;K"Grossistes"
+C;X2;Y29;K"MIN de Rungis : fruits et légumes"
+C;X3;Y29;K"PATATE DOUCE Espagne"
+C;X4;Y29;K"euro HT le kg"
+C;X5;Y29;K""
+C;X6;Y29;K""
+C;X7;Y29;K""
+C;X8;Y29;K""
+C;X9;Y29;K""
+C;X10;Y29;K""
+C;X11;Y29;K""
+C;X12;Y29;K1.30
+C;X13;Y29;K1.42
+C;X14;Y29;K1.40
+C;X15;Y29;K1.31
+C;X16;Y29;K1.30
+C;X1;Y30;K"Grossistes"
+C;X2;Y30;K"MIN de Rungis : fruits et légumes"
+C;X3;Y30;K"PATATE DOUCE France moyenne"
+C;X4;Y30;K"euro HT le kg"
+C;X5;Y30;K""
+C;X6;Y30;K""
+C;X7;Y30;K""
+C;X8;Y30;K""
+C;X9;Y30;K""
+C;X10;Y30;K""
+C;X11;Y30;K""
+C;X12;Y30;K1.54
+C;X13;Y30;K1.45
+C;X14;Y30;K1.82
+C;X15;Y30;K2.13
+C;X16;Y30;K2.10
+C;X1;Y31;K"Grossistes"
+C;X2;Y31;K"MIN de Rungis : fruits et légumes"
+C;X3;Y31;K"PATATE DOUCE Import"
+C;X4;Y31;K"euro HT le kg"
+C;X5;Y31;K1.51
+C;X6;Y31;K1.88
+C;X7;Y31;K2.36
+C;X8;Y31;K2.55
+C;X9;Y31;K2.07
+C;X10;Y31;K1.80
+C;X11;Y31;K1.46
+C;X12;Y31;K1.10
+C;X13;Y31;K1.20
+C;X14;Y31;K1.34
+C;X15;Y31;K1.31
+C;X16;Y31;K1.36
+C;X1;Y32;K"Grossistes"
+C;X2;Y32;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y32;K"PATATE DOUCE France biologique"
+C;X4;Y32;K"euro HT le kg"
+C;X5;Y32;K2.79
+C;X6;Y32;K3.05
+C;X7;Y32;K3.11
+C;X8;Y32;K3.39
+C;X9;Y32;K3.30
+C;X10;Y32;K3.18
+C;X11;Y32;K2.73
+C;X12;Y32;K2.57
+C;X13;Y32;K2.43
+C;X14;Y32;K2.46
+C;X15;Y32;K2.57
+C;X16;Y32;K2.66
+C;X1;Y33;K"Grossistes"
+C;X2;Y33;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y33;K"PATATE DOUCE U.E. biologique"
+C;X4;Y33;K"euro HT le kg"
+C;X5;Y33;K2.14
+C;X6;Y33;K2.45
+C;X7;Y33;K2.67
+C;X8;Y33;K2.84
+C;X9;Y33;K2.30
+C;X10;Y33;K2.35
+C;X11;Y33;K2.11
+C;X12;Y33;K2.01
+C;X13;Y33;K""
+C;X14;Y33;K""
+C;X15;Y33;K""
+C;X16;Y33;K2.12
+C;X1;Y34;K"Grossistes"
+C;X2;Y34;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y34;K"PATATE DOUCE Import"
+C;X4;Y34;K"euro HT le kg"
+C;X5;Y34;K1.73
+C;X6;Y34;K2.18
+C;X7;Y34;K2.56
+C;X8;Y34;K2.61
+C;X9;Y34;K2.41
+C;X10;Y34;K1.90
+C;X11;Y34;K1.54
+C;X12;Y34;K1.50
+C;X13;Y34;K1.31
+C;X14;Y34;K1.39
+C;X15;Y34;K1.59
+C;X16;Y34;K1.57
+C;X1;Y35;K"Grossistes"
+C;X2;Y35;K"MIN de Strasbourg : fruits et légumes bio"
+C;X3;Y35;K"PATATE DOUCE France biologique"
+C;X4;Y35;K"euro HT le kg"
+C;X5;Y35;K""
+C;X6;Y35;K""
+C;X7;Y35;K""
+C;X8;Y35;K""
+C;X9;Y35;K""
+C;X10;Y35;K2.97
+C;X11;Y35;K2.80
+C;X12;Y35;K2.73
+C;X13;Y35;K2.60
+C;X14;Y35;K2.72
+C;X15;Y35;K2.65
+C;X16;Y35;K""
+C;X1;Y36;K"Grossistes"
+C;X2;Y36;K"MIN de Strasbourg : fruits et légumes bio"
+C;X3;Y36;K"PATATE DOUCE U.E. biologique"
+C;X4;Y36;K"euro HT le kg"
+C;X5;Y36;K""
+C;X6;Y36;K""
+C;X7;Y36;K""
+C;X8;Y36;K""
+C;X9;Y36;K""
+C;X10;Y36;K""
+C;X11;Y36;K""
+C;X12;Y36;K""
+C;X13;Y36;K""
+C;X14;Y36;K""
+C;X15;Y36;K""
+C;X16;Y36;K2.30
+C;X1;Y37;K"Grossistes"
+C;X2;Y37;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y37;K"PATATE DOUCE France"
+C;X4;Y37;K"euro HT le kg"
+C;X5;Y37;K2.31
+C;X6;Y37;K""
+C;X7;Y37;K""
+C;X8;Y37;K""
+C;X9;Y37;K""
+C;X10;Y37;K""
+C;X11;Y37;K2.34
+C;X12;Y37;K2.30
+C;X13;Y37;K2.30
+C;X14;Y37;K""
+C;X15;Y37;K""
+C;X16;Y37;K""
+C;X1;Y38;K"Grossistes"
+C;X2;Y38;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y38;K"PATATE DOUCE Import"
+C;X4;Y38;K"euro HT le kg"
+C;X5;Y38;K1.52
+C;X6;Y38;K1.77
+C;X7;Y38;K1.98
+C;X8;Y38;K2.23
+C;X9;Y38;K2.03
+C;X10;Y38;K1.41
+C;X11;Y38;K1.32
+C;X12;Y38;K1.19
+C;X13;Y38;K1.11
+C;X14;Y38;K1.20
+C;X15;Y38;K1.34
+C;X16;Y38;K1.31
+C;X1;Y39;K"Détail"
+C;X2;Y39;K"Légumes France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y39;K"PATATE DOUCE France biologique"
+C;X4;Y39;K"euro TTC le kg"
+C;X5;Y39;K4.66
+C;X6;Y39;K4.95
+C;X7;Y39;K5.27
+C;X8;Y39;K5.38
+C;X9;Y39;K5.60
+C;X10;Y39;K5.30
+C;X11;Y39;K4.80
+C;X12;Y39;K4.56
+C;X13;Y39;K4.34
+C;X14;Y39;K4.31
+C;X15;Y39;K4.53
+C;X16;Y39;K4.67
+F;SM6;X1;Y42
+C;K"Source : RNM.FranceAgriMer.fr"
+E

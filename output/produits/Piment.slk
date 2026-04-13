@@ -1,0 +1,198 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Piment - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Marché de producteurs"
+C;X2;Y5;K"MIN d'Agen carreau : fruits et légumes"
+C;X3;Y5;K"PIMENT vert Sud-Ouest"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K""
+C;X6;Y5;K""
+C;X7;Y5;K""
+C;X8;Y5;K4.23
+C;X9;Y5;K4.50
+C;X10;Y5;K4.80
+C;X11;Y5;K4.45
+C;X12;Y5;K""
+C;X13;Y5;K""
+C;X14;Y5;K""
+C;X15;Y5;K""
+C;X16;Y5;K""
+C;X1;Y6;K"Import"
+C;X2;Y6;K"France : fruits et légumes bio - import"
+C;X3;Y6;K"PIMENT rouge Espagne biologique"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K""
+C;X6;Y6;K""
+C;X7;Y6;K""
+C;X8;Y6;K""
+C;X9;Y6;K""
+C;X10;Y6;K""
+C;X11;Y6;K""
+C;X12;Y6;K""
+C;X13;Y6;K""
+C;X14;Y6;K""
+C;X15;Y6;K""
+C;X16;Y6;K5.47
+C;X1;Y7;K"Import"
+C;X2;Y7;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y7;K"PIMENT Sahem vert Maroc cat.I"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K1.33
+C;X6;Y7;K0.88
+C;X7;Y7;K""
+C;X8;Y7;K""
+C;X9;Y7;K""
+C;X10;Y7;K""
+C;X11;Y7;K1.30
+C;X12;Y7;K1.03
+C;X13;Y7;K1.05
+C;X14;Y7;K1.21
+C;X15;Y7;K1.95
+C;X16;Y7;K2.05
+C;X1;Y8;K"Import"
+C;X2;Y8;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y8;K"PIMENT Starter vert Maroc cat.I"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K1.72
+C;X6;Y8;K1.22
+C;X7;Y8;K""
+C;X8;Y8;K""
+C;X9;Y8;K""
+C;X10;Y8;K""
+C;X11;Y8;K1.75
+C;X12;Y8;K1.24
+C;X13;Y8;K1.09
+C;X14;Y8;K1.33
+C;X15;Y8;K1.93
+C;X16;Y8;K2.17
+C;X1;Y9;K"Grossistes"
+C;X2;Y9;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y9;K"PIMENT vert Maroc"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K2.50
+C;X6;Y9;K1.80
+C;X7;Y9;K3.03
+C;X8;Y9;K2.71
+C;X9;Y9;K2.10
+C;X10;Y9;K2.73
+C;X11;Y9;K2.48
+C;X12;Y9;K1.70
+C;X13;Y9;K1.54
+C;X14;Y9;K1.87
+C;X15;Y9;K2.56
+C;X16;Y9;K2.75
+C;X1;Y10;K"Grossistes"
+C;X2;Y10;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y10;K"PIMENT rouge Import"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K""
+C;X6;Y10;K""
+C;X7;Y10;K""
+C;X8;Y10;K""
+C;X9;Y10;K""
+C;X10;Y10;K""
+C;X11;Y10;K4.85
+C;X12;Y10;K4.75
+C;X13;Y10;K""
+C;X14;Y10;K""
+C;X15;Y10;K""
+C;X16;Y10;K""
+C;X1;Y11;K"Grossistes"
+C;X2;Y11;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y11;K"PIMENT vert Import"
+C;X4;Y11;K"euro HT le kg"
+C;X5;Y11;K3.38
+C;X6;Y11;K2.75
+C;X7;Y11;K""
+C;X8;Y11;K""
+C;X9;Y11;K""
+C;X10;Y11;K""
+C;X11;Y11;K3.75
+C;X12;Y11;K2.75
+C;X13;Y11;K2.65
+C;X14;Y11;K""
+C;X15;Y11;K""
+C;X16;Y11;K""
+C;X1;Y12;K"Grossistes"
+C;X2;Y12;K"MIN de Rungis : fruits et légumes"
+C;X3;Y12;K"PIMENT vert Maroc"
+C;X4;Y12;K"euro HT le kg"
+C;X5;Y12;K2.45
+C;X6;Y12;K2.02
+C;X7;Y12;K2.50
+C;X8;Y12;K2.87
+C;X9;Y12;K2.42
+C;X10;Y12;K2.30
+C;X11;Y12;K2.54
+C;X12;Y12;K1.92
+C;X13;Y12;K1.55
+C;X14;Y12;K1.73
+C;X15;Y12;K2.42
+C;X16;Y12;K2.77
+C;X1;Y13;K"Grossistes"
+C;X2;Y13;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y13;K"PIMENT Maroc"
+C;X4;Y13;K"euro HT le kg"
+C;X5;Y13;K2.92
+C;X6;Y13;K1.95
+C;X7;Y13;K2.65
+C;X8;Y13;K2.68
+C;X9;Y13;K2.25
+C;X10;Y13;K2.71
+C;X11;Y13;K2.86
+C;X12;Y13;K2.49
+C;X13;Y13;K2.10
+C;X14;Y13;K2.15
+C;X15;Y13;K2.64
+C;X16;Y13;K3.00
+F;SM6;X1;Y16
+C;K"Source : RNM.FranceAgriMer.fr"
+E

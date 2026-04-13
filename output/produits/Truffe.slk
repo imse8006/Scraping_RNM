@@ -1,0 +1,422 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Truffe - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Marché de producteurs"
+C;X2;Y5;K"Marché de Carpentras : truffe"
+C;X3;Y5;K"TRUFFE Brumale France lavée-brossée-canifée cat.I détail"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K""
+C;X6;Y5;K""
+C;X7;Y5;K""
+C;X8;Y5;K""
+C;X9;Y5;K""
+C;X10;Y5;K""
+C;X11;Y5;K""
+C;X12;Y5;K""
+C;X13;Y5;K""
+C;X14;Y5;K400.00
+C;X15;Y5;K""
+C;X16;Y5;K""
+C;X1;Y6;K"Marché de producteurs"
+C;X2;Y6;K"Marché de Carpentras : truffe"
+C;X3;Y6;K"TRUFFE tuber melanosporum France cat.I"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K""
+C;X6;Y6;K""
+C;X7;Y6;K""
+C;X8;Y6;K""
+C;X9;Y6;K""
+C;X10;Y6;K""
+C;X11;Y6;K""
+C;X12;Y6;K""
+C;X13;Y6;K700.00
+C;X14;Y6;K400.00
+C;X15;Y6;K450.00
+C;X16;Y6;K""
+C;X1;Y7;K"Marché de producteurs"
+C;X2;Y7;K"Marché de Carpentras : truffe"
+C;X3;Y7;K"TRUFFE tuber melanosporum France cat.II"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K""
+C;X6;Y7;K""
+C;X7;Y7;K""
+C;X8;Y7;K""
+C;X9;Y7;K""
+C;X10;Y7;K""
+C;X11;Y7;K""
+C;X12;Y7;K200.00
+C;X13;Y7;K490.00
+C;X14;Y7;K""
+C;X15;Y7;K""
+C;X16;Y7;K""
+C;X1;Y8;K"Marché de producteurs"
+C;X2;Y8;K"Marché de Carpentras : truffe"
+C;X3;Y8;K"TRUFFE tuber melanosporum France cat.II détail"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K""
+C;X6;Y8;K""
+C;X7;Y8;K""
+C;X8;Y8;K""
+C;X9;Y8;K""
+C;X10;Y8;K""
+C;X11;Y8;K""
+C;X12;Y8;K""
+C;X13;Y8;K""
+C;X14;Y8;K575.00
+C;X15;Y8;K""
+C;X16;Y8;K""
+C;X1;Y9;K"Marché de producteurs"
+C;X2;Y9;K"Marché de Carpentras : truffe"
+C;X3;Y9;K"TRUFFE tuber melanosporum France extra"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K""
+C;X6;Y9;K""
+C;X7;Y9;K""
+C;X8;Y9;K""
+C;X9;Y9;K""
+C;X10;Y9;K""
+C;X11;Y9;K""
+C;X12;Y9;K""
+C;X13;Y9;K""
+C;X14;Y9;K500.00
+C;X15;Y9;K""
+C;X16;Y9;K""
+C;X1;Y10;K"Marché de producteurs"
+C;X2;Y10;K"Marché de Carpentras : truffe"
+C;X3;Y10;K"TRUFFE tuber melanosporum France lavée-brossée-canifée cat.I détail"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K""
+C;X6;Y10;K""
+C;X7;Y10;K""
+C;X8;Y10;K""
+C;X9;Y10;K""
+C;X10;Y10;K""
+C;X11;Y10;K""
+C;X12;Y10;K""
+C;X13;Y10;K""
+C;X14;Y10;K800.00
+C;X15;Y10;K900.00
+C;X16;Y10;K""
+C;X1;Y11;K"Marché de producteurs"
+C;X2;Y11;K"Marché de Carpentras : truffe"
+C;X3;Y11;K"TRUFFE tuber melanosporum France lavée-brossée-canifée cat.II détail"
+C;X4;Y11;K"euro HT le kg"
+C;X5;Y11;K""
+C;X6;Y11;K""
+C;X7;Y11;K""
+C;X8;Y11;K""
+C;X9;Y11;K""
+C;X10;Y11;K""
+C;X11;Y11;K""
+C;X12;Y11;K""
+C;X13;Y11;K""
+C;X14;Y11;K575.00
+C;X15;Y11;K650.00
+C;X16;Y11;K""
+C;X1;Y12;K"Marché de producteurs"
+C;X2;Y12;K"Marché de Carpentras : truffe"
+C;X3;Y12;K"TRUFFE tuber melanosporum France lavée-brossée-canifée extra détail"
+C;X4;Y12;K"euro HT le kg"
+C;X5;Y12;K""
+C;X6;Y12;K""
+C;X7;Y12;K""
+C;X8;Y12;K""
+C;X9;Y12;K""
+C;X10;Y12;K""
+C;X11;Y12;K""
+C;X12;Y12;K""
+C;X13;Y12;K1175.00
+C;X14;Y12;K816.67
+C;X15;Y12;K887.50
+C;X16;Y12;K""
+C;X1;Y13;K"Marché de producteurs"
+C;X2;Y13;K"Marché de Carpentras : truffe"
+C;X3;Y13;K"TRUFFE tuber melanosporum Sud-Est détail"
+C;X4;Y13;K"euro HT le kg"
+C;X5;Y13;K""
+C;X6;Y13;K""
+C;X7;Y13;K""
+C;X8;Y13;K""
+C;X9;Y13;K""
+C;X10;Y13;K""
+C;X11;Y13;K""
+C;X12;Y13;K""
+C;X13;Y13;K900.00
+C;X14;Y13;K750.00
+C;X15;Y13;K""
+C;X16;Y13;K""
+C;X1;Y14;K"Marché de producteurs"
+C;X2;Y14;K"Marché de Jarnac : truffe"
+C;X3;Y14;K"TRUFFE tuber melanosporum Nouvelle Aquitaine"
+C;X4;Y14;K"euro HT le kg"
+C;X5;Y14;K""
+C;X6;Y14;K""
+C;X7;Y14;K""
+C;X8;Y14;K""
+C;X9;Y14;K""
+C;X10;Y14;K""
+C;X11;Y14;K""
+C;X12;Y14;K600.00
+C;X13;Y14;K700.00
+C;X14;Y14;K612.50
+C;X15;Y14;K650.00
+C;X16;Y14;K""
+C;X1;Y15;K"Marché de producteurs"
+C;X2;Y15;K"Marché de Jarnac : truffe"
+C;X3;Y15;K"TRUFFE tuber melanosporum Nouvelle Aquitaine détail"
+C;X4;Y15;K"euro HT le kg"
+C;X5;Y15;K""
+C;X6;Y15;K""
+C;X7;Y15;K""
+C;X8;Y15;K""
+C;X9;Y15;K""
+C;X10;Y15;K""
+C;X11;Y15;K""
+C;X12;Y15;K500.00
+C;X13;Y15;K712.50
+C;X14;Y15;K600.00
+C;X15;Y15;K600.00
+C;X16;Y15;K""
+C;X1;Y16;K"Marché de producteurs"
+C;X2;Y16;K"Marché de Lalbenque : truffe"
+C;X3;Y16;K"TRUFFE tuber melanosporum France lavée-brossée-canifée cat.I détail"
+C;X4;Y16;K"euro HT le kg"
+C;X5;Y16;K""
+C;X6;Y16;K""
+C;X7;Y16;K""
+C;X8;Y16;K""
+C;X9;Y16;K""
+C;X10;Y16;K""
+C;X11;Y16;K""
+C;X12;Y16;K""
+C;X13;Y16;K""
+C;X14;Y16;K983.33
+C;X15;Y16;K1000.00
+C;X16;Y16;K""
+C;X1;Y17;K"Marché de producteurs"
+C;X2;Y17;K"Marché de Lalbenque : truffe"
+C;X3;Y17;K"TRUFFE tuber melanosporum Occitanie"
+C;X4;Y17;K"euro HT le kg"
+C;X5;Y17;K""
+C;X6;Y17;K""
+C;X7;Y17;K""
+C;X8;Y17;K""
+C;X9;Y17;K""
+C;X10;Y17;K""
+C;X11;Y17;K""
+C;X12;Y17;K""
+C;X13;Y17;K690.00
+C;X14;Y17;K675.00
+C;X15;Y17;K862.50
+C;X16;Y17;K1000.00
+C;X1;Y18;K"Marché de producteurs"
+C;X2;Y18;K"Marché de Montagnac : truffe"
+C;X3;Y18;K"TRUFFE tuber melanosporum Sud-Est"
+C;X4;Y18;K"euro HT le kg"
+C;X5;Y18;K""
+C;X6;Y18;K""
+C;X7;Y18;K""
+C;X8;Y18;K""
+C;X9;Y18;K""
+C;X10;Y18;K""
+C;X11;Y18;K""
+C;X12;Y18;K237.50
+C;X13;Y18;K520.00
+C;X14;Y18;K410.00
+C;X15;Y18;K550.00
+C;X16;Y18;K""
+C;X1;Y19;K"Marché de producteurs"
+C;X2;Y19;K"Marché de Richerenches : truffe"
+C;X3;Y19;K"TRUFFE tuber melanosporum Sud-Est"
+C;X4;Y19;K"euro HT le kg"
+C;X5;Y19;K""
+C;X6;Y19;K""
+C;X7;Y19;K""
+C;X8;Y19;K""
+C;X9;Y19;K""
+C;X10;Y19;K""
+C;X11;Y19;K""
+C;X12;Y19;K200.00
+C;X13;Y19;K525.00
+C;X14;Y19;K380.00
+C;X15;Y19;K612.50
+C;X16;Y19;K700.00
+C;X1;Y20;K"Marché de producteurs"
+C;X2;Y20;K"Marché de Ste-Alvère : truffe"
+C;X3;Y20;K"TRUFFE tuber melanosporum Nouvelle Aquitaine détail"
+C;X4;Y20;K"euro HT le kg"
+C;X5;Y20;K""
+C;X6;Y20;K""
+C;X7;Y20;K""
+C;X8;Y20;K""
+C;X9;Y20;K""
+C;X10;Y20;K""
+C;X11;Y20;K""
+C;X12;Y20;K600.00
+C;X13;Y20;K840.00
+C;X14;Y20;K875.00
+C;X15;Y20;K950.00
+C;X16;Y20;K""
+C;X1;Y21;K"Marché de producteurs"
+C;X2;Y21;K"Marché de St-Jean-d'Angély : truffe"
+C;X3;Y21;K"TRUFFE tuber melanosporum Nouvelle Aquitaine"
+C;X4;Y21;K"euro HT le kg"
+C;X5;Y21;K""
+C;X6;Y21;K""
+C;X7;Y21;K""
+C;X8;Y21;K""
+C;X9;Y21;K""
+C;X10;Y21;K""
+C;X11;Y21;K""
+C;X12;Y21;K""
+C;X13;Y21;K699.80
+C;X14;Y21;K582.50
+C;X15;Y21;K857.25
+C;X16;Y21;K897.00
+C;X1;Y22;K"Marché de producteurs"
+C;X2;Y22;K"Marché de Vic (Espagne) : truffe"
+C;X3;Y22;K"TRUFFE tuber melanosporum Espagne"
+C;X4;Y22;K"euro HT le kg"
+C;X5;Y22;K""
+C;X6;Y22;K""
+C;X7;Y22;K""
+C;X8;Y22;K""
+C;X9;Y22;K""
+C;X10;Y22;K""
+C;X11;Y22;K""
+C;X12;Y22;K110.00
+C;X13;Y22;K262.50
+C;X14;Y22;K202.00
+C;X15;Y22;K375.00
+C;X16;Y22;K500.00
+C;X1;Y23;K"Marché de producteurs"
+C;X2;Y23;K"Marché du Quercy : truffe"
+C;X3;Y23;K"TRUFFE tuber melanosporum France cat.I"
+C;X4;Y23;K"euro HT le kg"
+C;X5;Y23;K""
+C;X6;Y23;K""
+C;X7;Y23;K""
+C;X8;Y23;K""
+C;X9;Y23;K""
+C;X10;Y23;K""
+C;X11;Y23;K""
+C;X12;Y23;K""
+C;X13;Y23;K650.00
+C;X14;Y23;K590.00
+C;X15;Y23;K725.00
+C;X16;Y23;K""
+C;X1;Y24;K"Marché de producteurs"
+C;X2;Y24;K"Marché d'Uzès : truffe"
+C;X3;Y24;K"TRUFFE tuber melanosporum Occitanie"
+C;X4;Y24;K"euro HT le kg"
+C;X5;Y24;K""
+C;X6;Y24;K""
+C;X7;Y24;K""
+C;X8;Y24;K""
+C;X9;Y24;K""
+C;X10;Y24;K""
+C;X11;Y24;K""
+C;X12;Y24;K235.00
+C;X13;Y24;K487.50
+C;X14;Y24;K420.00
+C;X15;Y24;K462.50
+C;X16;Y24;K""
+C;X1;Y25;K"Grossistes"
+C;X2;Y25;K"MIN de Rungis : fruits et légumes"
+C;X3;Y25;K"TRUFFE blanche U.E."
+C;X4;Y25;K"euro HT le kg"
+C;X5;Y25;K""
+C;X6;Y25;K""
+C;X7;Y25;K""
+C;X8;Y25;K""
+C;X9;Y25;K""
+C;X10;Y25;K""
+C;X11;Y25;K""
+C;X12;Y25;K""
+C;X13;Y25;K3980.00
+C;X14;Y25;K4000.00
+C;X15;Y25;K""
+C;X16;Y25;K""
+C;X1;Y26;K"Grossistes"
+C;X2;Y26;K"MIN de Rungis : fruits et légumes"
+C;X3;Y26;K"TRUFFE tuber melanosporum France"
+C;X4;Y26;K"euro HT le kg"
+C;X5;Y26;K""
+C;X6;Y26;K""
+C;X7;Y26;K""
+C;X8;Y26;K""
+C;X9;Y26;K""
+C;X10;Y26;K""
+C;X11;Y26;K""
+C;X12;Y26;K""
+C;X13;Y26;K1121.43
+C;X14;Y26;K1250.00
+C;X15;Y26;K""
+C;X16;Y26;K""
+C;X1;Y27;K"Grossistes"
+C;X2;Y27;K"MIN de Rungis : fruits et légumes"
+C;X3;Y27;K"TRUFFE tuber melanosporum U.E."
+C;X4;Y27;K"euro HT le kg"
+C;X5;Y27;K""
+C;X6;Y27;K""
+C;X7;Y27;K""
+C;X8;Y27;K""
+C;X9;Y27;K""
+C;X10;Y27;K""
+C;X11;Y27;K""
+C;X12;Y27;K""
+C;X13;Y27;K895.24
+C;X14;Y27;K800.00
+C;X15;Y27;K""
+C;X16;Y27;K""
+F;SM6;X1;Y30
+C;K"Source : RNM.FranceAgriMer.fr"
+E

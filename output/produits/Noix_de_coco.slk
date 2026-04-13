@@ -1,0 +1,118 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Noix de coco - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Grossistes"
+C;X2;Y5;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y5;K"NOIX DE COCO Côte d'Ivoire colis de 8"
+C;X4;Y5;K"euro HT la pièce"
+C;X5;Y5;K1.00
+C;X6;Y5;K1.00
+C;X7;Y5;K1.00
+C;X8;Y5;K1.00
+C;X9;Y5;K1.00
+C;X10;Y5;K1.00
+C;X11;Y5;K1.00
+C;X12;Y5;K1.00
+C;X13;Y5;K1.05
+C;X14;Y5;K1.02
+C;X15;Y5;K1.00
+C;X16;Y5;K1.00
+C;X1;Y6;K"Grossistes"
+C;X2;Y6;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y6;K"NOIX DE COCO Côte d'Ivoire colis de 8"
+C;X4;Y6;K"euro HT la pièce"
+C;X5;Y6;K""
+C;X6;Y6;K""
+C;X7;Y6;K""
+C;X8;Y6;K""
+C;X9;Y6;K""
+C;X10;Y6;K1.40
+C;X11;Y6;K1.45
+C;X12;Y6;K1.45
+C;X13;Y6;K1.48
+C;X14;Y6;K1.51
+C;X15;Y6;K1.57
+C;X16;Y6;K1.50
+C;X1;Y7;K"Grossistes"
+C;X2;Y7;K"MIN de Nantes : fruits et légumes"
+C;X3;Y7;K"NOIX DE COCO"
+C;X4;Y7;K"euro HT la pièce"
+C;X5;Y7;K""
+C;X6;Y7;K""
+C;X7;Y7;K""
+C;X8;Y7;K""
+C;X9;Y7;K""
+C;X10;Y7;K""
+C;X11;Y7;K""
+C;X12;Y7;K""
+C;X13;Y7;K1.43
+C;X14;Y7;K""
+C;X15;Y7;K""
+C;X16;Y7;K""
+C;X1;Y8;K"Grossistes"
+C;X2;Y8;K"MIN de Rungis : fruits et légumes"
+C;X3;Y8;K"NOIX DE COCO Côte d'Ivoire colis de 15"
+C;X4;Y8;K"euro HT la pièce"
+C;X5;Y8;K1.00
+C;X6;Y8;K1.00
+C;X7;Y8;K1.00
+C;X8;Y8;K1.00
+C;X9;Y8;K1.00
+C;X10;Y8;K1.00
+C;X11;Y8;K1.00
+C;X12;Y8;K1.00
+C;X13;Y8;K1.30
+C;X14;Y8;K1.20
+C;X15;Y8;K1.17
+C;X16;Y8;K1.00
+F;SM6;X1;Y11
+C;K"Source : RNM.FranceAgriMer.fr"
+E

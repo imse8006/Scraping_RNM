@@ -1,0 +1,374 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Grenade - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Marché de producteurs"
+C;X2;Y5;K"Marché de Perpignan carreau : fruits et légumes"
+C;X3;Y5;K"GRENADE Roussillon +10 pièces"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K""
+C;X6;Y5;K""
+C;X7;Y5;K""
+C;X8;Y5;K""
+C;X9;Y5;K""
+C;X10;Y5;K2.50
+C;X11;Y5;K2.50
+C;X12;Y5;K2.50
+C;X13;Y5;K2.50
+C;X14;Y5;K""
+C;X15;Y5;K""
+C;X16;Y5;K""
+C;X1;Y6;K"Expédition"
+C;X2;Y6;K"Bassin Roussillon : fruits et légumes bio"
+C;X3;Y6;K"GRENADE Roussillon biologique"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K""
+C;X6;Y6;K""
+C;X7;Y6;K""
+C;X8;Y6;K""
+C;X9;Y6;K""
+C;X10;Y6;K3.35
+C;X11;Y6;K3.21
+C;X12;Y6;K3.11
+C;X13;Y6;K""
+C;X14;Y6;K""
+C;X15;Y6;K""
+C;X16;Y6;K""
+C;X1;Y7;K"Expédition"
+C;X2;Y7;K"Bassin Sud-Est : fruits et légumes bio"
+C;X3;Y7;K"GRENADE Sud-Est biologique"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K""
+C;X6;Y7;K""
+C;X7;Y7;K""
+C;X8;Y7;K""
+C;X9;Y7;K""
+C;X10;Y7;K3.25
+C;X11;Y7;K3.04
+C;X12;Y7;K3.07
+C;X13;Y7;K3.10
+C;X14;Y7;K""
+C;X15;Y7;K""
+C;X16;Y7;K""
+C;X1;Y8;K"Import"
+C;X2;Y8;K"France : fruits et légumes bio - import"
+C;X3;Y8;K"GRENADE Espagne biologique"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K""
+C;X6;Y8;K""
+C;X7;Y8;K""
+C;X8;Y8;K""
+C;X9;Y8;K3.48
+C;X10;Y8;K2.66
+C;X11;Y8;K2.65
+C;X12;Y8;K2.28
+C;X13;Y8;K""
+C;X14;Y8;K""
+C;X15;Y8;K""
+C;X16;Y8;K""
+C;X1;Y9;K"Import"
+C;X2;Y9;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y9;K"GRENADE Espagne cat.I +12 pièces"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K""
+C;X6;Y9;K""
+C;X7;Y9;K""
+C;X8;Y9;K""
+C;X9;Y9;K""
+C;X10;Y9;K2.36
+C;X11;Y9;K1.46
+C;X12;Y9;K1.30
+C;X13;Y9;K1.45
+C;X14;Y9;K""
+C;X15;Y9;K""
+C;X16;Y9;K""
+C;X1;Y10;K"Import"
+C;X2;Y10;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y10;K"GRENADE Espagne cat.I +15 pièces"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K""
+C;X6;Y10;K""
+C;X7;Y10;K""
+C;X8;Y10;K""
+C;X9;Y10;K""
+C;X10;Y10;K1.40
+C;X11;Y10;K1.19
+C;X12;Y10;K""
+C;X13;Y10;K""
+C;X14;Y10;K""
+C;X15;Y10;K""
+C;X16;Y10;K""
+C;X1;Y11;K"Grossistes"
+C;X2;Y11;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y11;K"GRENADE Import plateau"
+C;X4;Y11;K"euro HT le kg"
+C;X5;Y11;K""
+C;X6;Y11;K""
+C;X7;Y11;K""
+C;X8;Y11;K""
+C;X9;Y11;K""
+C;X10;Y11;K""
+C;X11;Y11;K2.70
+C;X12;Y11;K2.55
+C;X13;Y11;K2.55
+C;X14;Y11;K2.51
+C;X15;Y11;K""
+C;X16;Y11;K""
+C;X1;Y12;K"Grossistes"
+C;X2;Y12;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y12;K"GRENADE Espagne colis de 12"
+C;X4;Y12;K"euro HT le kg"
+C;X5;Y12;K""
+C;X6;Y12;K""
+C;X7;Y12;K""
+C;X8;Y12;K""
+C;X9;Y12;K""
+C;X10;Y12;K2.30
+C;X11;Y12;K2.00
+C;X12;Y12;K1.33
+C;X13;Y12;K2.07
+C;X14;Y12;K1.90
+C;X15;Y12;K""
+C;X16;Y12;K""
+C;X1;Y13;K"Grossistes"
+C;X2;Y13;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y13;K"GRENADE Import +12 pièces plateau"
+C;X4;Y13;K"euro HT le kg"
+C;X5;Y13;K""
+C;X6;Y13;K""
+C;X7;Y13;K""
+C;X8;Y13;K""
+C;X9;Y13;K""
+C;X10;Y13;K""
+C;X11;Y13;K1.64
+C;X12;Y13;K1.41
+C;X13;Y13;K1.46
+C;X14;Y13;K""
+C;X15;Y13;K""
+C;X16;Y13;K""
+C;X1;Y14;K"Grossistes"
+C;X2;Y14;K"MIN de Marseille : fruits et légumes"
+C;X3;Y14;K"GRENADE Espagne +12 pièces"
+C;X4;Y14;K"euro HT le kg"
+C;X5;Y14;K""
+C;X6;Y14;K""
+C;X7;Y14;K""
+C;X8;Y14;K""
+C;X9;Y14;K""
+C;X10;Y14;K2.58
+C;X11;Y14;K2.07
+C;X12;Y14;K1.74
+C;X13;Y14;K1.82
+C;X14;Y14;K""
+C;X15;Y14;K""
+C;X16;Y14;K""
+C;X1;Y15;K"Grossistes"
+C;X2;Y15;K"MIN de Nantes : fruits et légumes"
+C;X3;Y15;K"GRENADE Espagne colis de 15"
+C;X4;Y15;K"euro HT le kg"
+C;X5;Y15;K""
+C;X6;Y15;K""
+C;X7;Y15;K""
+C;X8;Y15;K""
+C;X9;Y15;K""
+C;X10;Y15;K""
+C;X11;Y15;K2.03
+C;X12;Y15;K2.68
+C;X13;Y15;K""
+C;X14;Y15;K""
+C;X15;Y15;K""
+C;X16;Y15;K""
+C;X1;Y16;K"Grossistes"
+C;X2;Y16;K"MIN de Nantes : fruits et légumes"
+C;X3;Y16;K"GRENADE Espagne colis de 15"
+C;X4;Y16;K"euro HT les 15 pièces"
+C;X5;Y16;K""
+C;X6;Y16;K""
+C;X7;Y16;K""
+C;X8;Y16;K""
+C;X9;Y16;K""
+C;X10;Y16;K""
+C;X11;Y16;K""
+C;X12;Y16;K""
+C;X13;Y16;K13.85
+C;X14;Y16;K13.49
+C;X15;Y16;K""
+C;X16;Y16;K""
+C;X1;Y17;K"Grossistes"
+C;X2;Y17;K"MIN de Nice : fruits et légumes"
+C;X3;Y17;K"GRENADE Import"
+C;X4;Y17;K"euro HT le kg"
+C;X5;Y17;K""
+C;X6;Y17;K""
+C;X7;Y17;K""
+C;X8;Y17;K""
+C;X9;Y17;K""
+C;X10;Y17;K""
+C;X11;Y17;K3.33
+C;X12;Y17;K3.12
+C;X13;Y17;K3.57
+C;X14;Y17;K""
+C;X15;Y17;K""
+C;X16;Y17;K""
+C;X1;Y18;K"Grossistes"
+C;X2;Y18;K"MIN de Rungis : fruits et légumes"
+C;X3;Y18;K"GRENADE Espagne"
+C;X4;Y18;K"euro HT le kg"
+C;X5;Y18;K""
+C;X6;Y18;K""
+C;X7;Y18;K""
+C;X8;Y18;K""
+C;X9;Y18;K""
+C;X10;Y18;K2.50
+C;X11;Y18;K2.25
+C;X12;Y18;K2.07
+C;X13;Y18;K2.36
+C;X14;Y18;K""
+C;X15;Y18;K""
+C;X16;Y18;K""
+C;X1;Y19;K"Grossistes"
+C;X2;Y19;K"MIN de Rungis : fruits et légumes"
+C;X3;Y19;K"GRENADE Import"
+C;X4;Y19;K"euro HT le kg"
+C;X5;Y19;K4.38
+C;X6;Y19;K4.50
+C;X7;Y19;K4.38
+C;X8;Y19;K4.05
+C;X9;Y19;K4.33
+C;X10;Y19;K4.02
+C;X11;Y19;K3.31
+C;X12;Y19;K""
+C;X13;Y19;K3.50
+C;X14;Y19;K3.60
+C;X15;Y19;K4.17
+C;X16;Y19;K4.39
+C;X1;Y20;K"Grossistes"
+C;X2;Y20;K"MIN de Rungis : fruits et légumes"
+C;X3;Y20;K"GRENADE Import +12 pièces"
+C;X4;Y20;K"euro HT le kg"
+C;X5;Y20;K""
+C;X6;Y20;K""
+C;X7;Y20;K""
+C;X8;Y20;K""
+C;X9;Y20;K""
+C;X10;Y20;K""
+C;X11;Y20;K""
+C;X12;Y20;K1.56
+C;X13;Y20;K1.50
+C;X14;Y20;K""
+C;X15;Y20;K""
+C;X16;Y20;K""
+C;X1;Y21;K"Grossistes"
+C;X2;Y21;K"MIN de Rungis : fruits et légumes"
+C;X3;Y21;K"GRENADE U.E."
+C;X4;Y21;K"euro HT le kg"
+C;X5;Y21;K""
+C;X6;Y21;K""
+C;X7;Y21;K""
+C;X8;Y21;K""
+C;X9;Y21;K""
+C;X10;Y21;K""
+C;X11;Y21;K3.18
+C;X12;Y21;K2.73
+C;X13;Y21;K""
+C;X14;Y21;K""
+C;X15;Y21;K""
+C;X16;Y21;K""
+C;X1;Y22;K"Grossistes"
+C;X2;Y22;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y22;K"GRENADE Espagne"
+C;X4;Y22;K"euro HT le kg"
+C;X5;Y22;K""
+C;X6;Y22;K""
+C;X7;Y22;K""
+C;X8;Y22;K""
+C;X9;Y22;K""
+C;X10;Y22;K2.38
+C;X11;Y22;K2.02
+C;X12;Y22;K1.66
+C;X13;Y22;K1.58
+C;X14;Y22;K1.80
+C;X15;Y22;K""
+C;X16;Y22;K""
+C;X1;Y23;K"Grossistes"
+C;X2;Y23;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y23;K"GRENADE Import"
+C;X4;Y23;K"euro HT le kg"
+C;X5;Y23;K""
+C;X6;Y23;K""
+C;X7;Y23;K""
+C;X8;Y23;K""
+C;X9;Y23;K""
+C;X10;Y23;K""
+C;X11;Y23;K""
+C;X12;Y23;K1.39
+C;X13;Y23;K1.53
+C;X14;Y23;K""
+C;X15;Y23;K""
+C;X16;Y23;K""
+C;X1;Y24;K"Grossistes"
+C;X2;Y24;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y24;K"GRENADE Turquie"
+C;X4;Y24;K"euro HT le kg"
+C;X5;Y24;K""
+C;X6;Y24;K""
+C;X7;Y24;K""
+C;X8;Y24;K""
+C;X9;Y24;K""
+C;X10;Y24;K""
+C;X11;Y24;K""
+C;X12;Y24;K2.30
+C;X13;Y24;K2.59
+C;X14;Y24;K2.84
+C;X15;Y24;K2.68
+C;X16;Y24;K2.83
+F;SM6;X1;Y27
+C;K"Source : RNM.FranceAgriMer.fr"
+E

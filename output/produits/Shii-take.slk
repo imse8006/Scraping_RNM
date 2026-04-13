@@ -1,0 +1,166 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Shii-take - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Grossistes"
+C;X2;Y5;K"France : fruits et légumes bio - grossistes"
+C;X3;Y5;K"SHII-TAKE France biologique"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K12.09
+C;X6;Y5;K12.07
+C;X7;Y5;K12.12
+C;X8;Y5;K11.68
+C;X9;Y5;K11.61
+C;X10;Y5;K11.72
+C;X11;Y5;K11.96
+C;X12;Y5;K11.95
+C;X13;Y5;K11.92
+C;X14;Y5;K11.99
+C;X15;Y5;K11.96
+C;X16;Y5;K11.89
+C;X1;Y6;K"Grossistes"
+C;X2;Y6;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y6;K"SHII-TAKE U.E. coupé cat.I moyen plateau"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K""
+C;X6;Y6;K""
+C;X7;Y6;K""
+C;X8;Y6;K""
+C;X9;Y6;K""
+C;X10;Y6;K""
+C;X11;Y6;K12.56
+C;X12;Y6;K12.50
+C;X13;Y6;K12.75
+C;X14;Y6;K12.05
+C;X15;Y6;K11.00
+C;X16;Y6;K""
+C;X1;Y7;K"Grossistes"
+C;X2;Y7;K"MIN de Nantes : fruits et légumes"
+C;X3;Y7;K"SHII-TAKE France"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K9.00
+C;X6;Y7;K""
+C;X7;Y7;K""
+C;X8;Y7;K""
+C;X9;Y7;K""
+C;X10;Y7;K9.00
+C;X11;Y7;K8.97
+C;X12;Y7;K8.91
+C;X13;Y7;K9.01
+C;X14;Y7;K9.15
+C;X15;Y7;K8.91
+C;X16;Y7;K8.67
+C;X1;Y8;K"Grossistes"
+C;X2;Y8;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y8;K"SHII-TAKE France biologique"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K12.46
+C;X6;Y8;K12.63
+C;X7;Y8;K11.73
+C;X8;Y8;K11.06
+C;X9;Y8;K""
+C;X10;Y8;K11.01
+C;X11;Y8;K11.62
+C;X12;Y8;K11.86
+C;X13;Y8;K11.76
+C;X14;Y8;K11.77
+C;X15;Y8;K11.80
+C;X16;Y8;K11.47
+C;X1;Y9;K"Grossistes"
+C;X2;Y9;K"MIN de Rungis : fruits et légumes"
+C;X3;Y9;K"SHII-TAKE France"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K9.00
+C;X6;Y9;K9.00
+C;X7;Y9;K9.00
+C;X8;Y9;K9.00
+C;X9;Y9;K9.00
+C;X10;Y9;K9.00
+C;X11;Y9;K9.00
+C;X12;Y9;K9.00
+C;X13;Y9;K8.68
+C;X14;Y9;K8.60
+C;X15;Y9;K9.00
+C;X16;Y9;K9.00
+C;X1;Y10;K"Grossistes"
+C;X2;Y10;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y10;K"SHII-TAKE France biologique"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K11.45
+C;X6;Y10;K11.40
+C;X7;Y10;K11.76
+C;X8;Y10;K11.46
+C;X9;Y10;K11.36
+C;X10;Y10;K11.39
+C;X11;Y10;K11.67
+C;X12;Y10;K11.40
+C;X13;Y10;K11.67
+C;X14;Y10;K11.59
+C;X15;Y10;K11.59
+C;X16;Y10;K11.75
+C;X1;Y11;K"Détail"
+C;X2;Y11;K"Légumes France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y11;K"SHII-TAKE France biologique"
+C;X4;Y11;K"euro TTC le kg"
+C;X5;Y11;K19.28
+C;X6;Y11;K19.24
+C;X7;Y11;K19.23
+C;X8;Y11;K18.89
+C;X9;Y11;K18.83
+C;X10;Y11;K19.27
+C;X11;Y11;K19.96
+C;X12;Y11;K20.10
+C;X13;Y11;K19.84
+C;X14;Y11;K19.77
+C;X15;Y11;K19.61
+C;X16;Y11;K19.70
+F;SM6;X1;Y14
+C;K"Source : RNM.FranceAgriMer.fr"
+E

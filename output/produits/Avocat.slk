@@ -1,0 +1,1158 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Avocat - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Import"
+C;X2;Y5;K"France : fruits et légumes bio - import"
+C;X3;Y5;K"AVOCAT Bacon Espagne biologique cat.I colis 4kg"
+C;X4;Y5;K"euro HT les 4kg"
+C;X5;Y5;K""
+C;X6;Y5;K""
+C;X7;Y5;K""
+C;X8;Y5;K""
+C;X9;Y5;K""
+C;X10;Y5;K""
+C;X11;Y5;K13.32
+C;X12;Y5;K8.95
+C;X13;Y5;K""
+C;X14;Y5;K""
+C;X15;Y5;K""
+C;X16;Y5;K""
+C;X1;Y6;K"Import"
+C;X2;Y6;K"France : fruits et légumes bio - import"
+C;X3;Y6;K"AVOCAT Hass Espagne biologique cat.I"
+C;X4;Y6;K"euro HT les 4kg"
+C;X5;Y6;K18.77
+C;X6;Y6;K""
+C;X7;Y6;K""
+C;X8;Y6;K""
+C;X9;Y6;K""
+C;X10;Y6;K""
+C;X11;Y6;K""
+C;X12;Y6;K17.60
+C;X13;Y6;K15.49
+C;X14;Y6;K17.86
+C;X15;Y6;K18.43
+C;X16;Y6;K17.82
+C;X1;Y7;K"Import"
+C;X2;Y7;K"France : fruits et légumes bio - import"
+C;X3;Y7;K"AVOCAT Hass Espagne biologique colis 6kg"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K""
+C;X6;Y7;K""
+C;X7;Y7;K""
+C;X8;Y7;K""
+C;X9;Y7;K""
+C;X10;Y7;K""
+C;X11;Y7;K""
+C;X12;Y7;K3.02
+C;X13;Y7;K2.62
+C;X14;Y7;K3.23
+C;X15;Y7;K3.39
+C;X16;Y7;K3.30
+C;X1;Y8;K"Import"
+C;X2;Y8;K"France : fruits et légumes bio - import"
+C;X3;Y8;K"AVOCAT Hass Pérou biologique cat.I"
+C;X4;Y8;K"euro HT les 4kg"
+C;X5;Y8;K""
+C;X6;Y8;K17.15
+C;X7;Y8;K14.75
+C;X8;Y8;K14.75
+C;X9;Y8;K15.73
+C;X10;Y8;K17.50
+C;X11;Y8;K""
+C;X12;Y8;K""
+C;X13;Y8;K""
+C;X14;Y8;K""
+C;X15;Y8;K""
+C;X16;Y8;K""
+C;X1;Y9;K"Import"
+C;X2;Y9;K"France : fruits et légumes bio - import"
+C;X3;Y9;K"AVOCAT Hass Pérou biologique colis 6kg"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K""
+C;X6;Y9;K3.08
+C;X7;Y9;K2.58
+C;X8;Y9;K2.71
+C;X9;Y9;K3.04
+C;X10;Y9;K3.05
+C;X11;Y9;K""
+C;X12;Y9;K""
+C;X13;Y9;K""
+C;X14;Y9;K""
+C;X15;Y9;K""
+C;X16;Y9;K""
+C;X1;Y10;K"Grossistes"
+C;X2;Y10;K"France : fruits et légumes bio - grossistes"
+C;X3;Y10;K"AVOCAT Bacon U.E. biologique colis 4kg"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K""
+C;X6;Y10;K""
+C;X7;Y10;K""
+C;X8;Y10;K""
+C;X9;Y10;K""
+C;X10;Y10;K""
+C;X11;Y10;K4.65
+C;X12;Y10;K3.84
+C;X13;Y10;K""
+C;X14;Y10;K""
+C;X15;Y10;K""
+C;X16;Y10;K""
+C;X1;Y11;K"Grossistes"
+C;X2;Y11;K"France : fruits et légumes bio - grossistes"
+C;X3;Y11;K"AVOCAT Hass France biologique colis 4kg"
+C;X4;Y11;K"euro HT le kg"
+C;X5;Y11;K""
+C;X6;Y11;K""
+C;X7;Y11;K""
+C;X8;Y11;K""
+C;X9;Y11;K""
+C;X10;Y11;K""
+C;X11;Y11;K""
+C;X12;Y11;K""
+C;X13;Y11;K""
+C;X14;Y11;K8.35
+C;X15;Y11;K""
+C;X16;Y11;K""
+C;X1;Y12;K"Grossistes"
+C;X2;Y12;K"France : fruits et légumes bio - grossistes"
+C;X3;Y12;K"AVOCAT Hass Import biologique colis 4kg"
+C;X4;Y12;K"euro HT le kg"
+C;X5;Y12;K5.62
+C;X6;Y12;K5.63
+C;X7;Y12;K5.04
+C;X8;Y12;K4.89
+C;X9;Y12;K5.00
+C;X10;Y12;K5.46
+C;X11;Y12;K5.58
+C;X12;Y12;K5.23
+C;X13;Y12;K""
+C;X14;Y12;K""
+C;X15;Y12;K""
+C;X16;Y12;K""
+C;X1;Y13;K"Grossistes"
+C;X2;Y13;K"France : fruits et légumes bio - grossistes"
+C;X3;Y13;K"AVOCAT Hass U.E. biologique colis 4kg"
+C;X4;Y13;K"euro HT le kg"
+C;X5;Y13;K5.93
+C;X6;Y13;K6.04
+C;X7;Y13;K""
+C;X8;Y13;K""
+C;X9;Y13;K""
+C;X10;Y13;K""
+C;X11;Y13;K""
+C;X12;Y13;K5.75
+C;X13;Y13;K5.06
+C;X14;Y13;K5.40
+C;X15;Y13;K5.66
+C;X16;Y13;K5.66
+C;X1;Y14;K"Grossistes"
+C;X2;Y14;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y14;K"AVOCAT Hass Espagne colis de 18-20"
+C;X4;Y14;K"euro HT les 18-20 pièces"
+C;X5;Y14;K20.50
+C;X6;Y14;K21.70
+C;X7;Y14;K""
+C;X8;Y14;K""
+C;X9;Y14;K""
+C;X10;Y14;K""
+C;X11;Y14;K""
+C;X12;Y14;K18.25
+C;X13;Y14;K18.46
+C;X14;Y14;K20.12
+C;X15;Y14;K20.75
+C;X16;Y14;K21.90
+C;X1;Y15;K"Grossistes"
+C;X2;Y15;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y15;K"AVOCAT Hass Import cat.I colis de 18-20"
+C;X4;Y15;K"euro HT les 18-20 pièces"
+C;X5;Y15;K21.00
+C;X6;Y15;K19.61
+C;X7;Y15;K18.00
+C;X8;Y15;K16.20
+C;X9;Y15;K15.38
+C;X10;Y15;K17.98
+C;X11;Y15;K20.00
+C;X12;Y15;K18.56
+C;X13;Y15;K18.98
+C;X14;Y15;K""
+C;X15;Y15;K""
+C;X16;Y15;K""
+C;X1;Y16;K"Grossistes"
+C;X2;Y16;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y16;K"AVOCAT Hass Chili colis de 18"
+C;X4;Y16;K"euro HT les 18 pièces"
+C;X5;Y16;K""
+C;X6;Y16;K""
+C;X7;Y16;K""
+C;X8;Y16;K""
+C;X9;Y16;K""
+C;X10;Y16;K""
+C;X11;Y16;K19.00
+C;X12;Y16;K17.79
+C;X13;Y16;K""
+C;X14;Y16;K""
+C;X15;Y16;K""
+C;X16;Y16;K""
+C;X1;Y17;K"Grossistes"
+C;X2;Y17;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y17;K"AVOCAT Hass Chili colis de 20"
+C;X4;Y17;K"euro HT les 20 pièces"
+C;X5;Y17;K""
+C;X6;Y17;K""
+C;X7;Y17;K""
+C;X8;Y17;K""
+C;X9;Y17;K""
+C;X10;Y17;K""
+C;X11;Y17;K17.00
+C;X12;Y17;K16.82
+C;X13;Y17;K""
+C;X14;Y17;K""
+C;X15;Y17;K""
+C;X16;Y17;K""
+C;X1;Y18;K"Grossistes"
+C;X2;Y18;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y18;K"AVOCAT Hass Chili colis de 22"
+C;X4;Y18;K"euro HT les 22 pièces"
+C;X5;Y18;K""
+C;X6;Y18;K""
+C;X7;Y18;K""
+C;X8;Y18;K""
+C;X9;Y18;K""
+C;X10;Y18;K""
+C;X11;Y18;K19.00
+C;X12;Y18;K15.96
+C;X13;Y18;K""
+C;X14;Y18;K""
+C;X15;Y18;K""
+C;X16;Y18;K""
+C;X1;Y19;K"Grossistes"
+C;X2;Y19;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y19;K"AVOCAT Hass Espagne colis de 18"
+C;X4;Y19;K"euro HT les 18 pièces"
+C;X5;Y19;K19.55
+C;X6;Y19;K19.50
+C;X7;Y19;K""
+C;X8;Y19;K""
+C;X9;Y19;K""
+C;X10;Y19;K""
+C;X11;Y19;K""
+C;X12;Y19;K16.00
+C;X13;Y19;K16.45
+C;X14;Y19;K17.62
+C;X15;Y19;K18.00
+C;X16;Y19;K19.45
+C;X1;Y20;K"Grossistes"
+C;X2;Y20;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y20;K"AVOCAT Hass Espagne colis de 20"
+C;X4;Y20;K"euro HT les 20 pièces"
+C;X5;Y20;K18.83
+C;X6;Y20;K19.00
+C;X7;Y20;K""
+C;X8;Y20;K""
+C;X9;Y20;K""
+C;X10;Y20;K""
+C;X11;Y20;K""
+C;X12;Y20;K15.00
+C;X13;Y20;K15.45
+C;X14;Y20;K16.98
+C;X15;Y20;K17.50
+C;X16;Y20;K18.48
+C;X1;Y21;K"Grossistes"
+C;X2;Y21;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y21;K"AVOCAT Hass Espagne colis de 22"
+C;X4;Y21;K"euro HT les 22 pièces"
+C;X5;Y21;K17.76
+C;X6;Y21;K18.00
+C;X7;Y21;K""
+C;X8;Y21;K""
+C;X9;Y21;K""
+C;X10;Y21;K""
+C;X11;Y21;K""
+C;X12;Y21;K14.00
+C;X13;Y21;K13.98
+C;X14;Y21;K15.57
+C;X15;Y21;K16.40
+C;X16;Y21;K17.48
+C;X1;Y22;K"Grossistes"
+C;X2;Y22;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y22;K"AVOCAT Hass Maroc colis de 20"
+C;X4;Y22;K"euro HT les 20 pièces"
+C;X5;Y22;K17.34
+C;X6;Y22;K""
+C;X7;Y22;K""
+C;X8;Y22;K""
+C;X9;Y22;K""
+C;X10;Y22;K""
+C;X11;Y22;K""
+C;X12;Y22;K""
+C;X13;Y22;K""
+C;X14;Y22;K""
+C;X15;Y22;K""
+C;X16;Y22;K""
+C;X1;Y23;K"Grossistes"
+C;X2;Y23;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y23;K"AVOCAT Hass Maroc colis de 22"
+C;X4;Y23;K"euro HT les 22 pièces"
+C;X5;Y23;K17.00
+C;X6;Y23;K""
+C;X7;Y23;K""
+C;X8;Y23;K""
+C;X9;Y23;K""
+C;X10;Y23;K""
+C;X11;Y23;K""
+C;X12;Y23;K""
+C;X13;Y23;K""
+C;X14;Y23;K""
+C;X15;Y23;K""
+C;X16;Y23;K""
+C;X1;Y24;K"Grossistes"
+C;X2;Y24;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y24;K"AVOCAT Hass Pérou colis de 18"
+C;X4;Y24;K"euro HT les 18 pièces"
+C;X5;Y24;K""
+C;X6;Y24;K17.00
+C;X7;Y24;K15.12
+C;X8;Y24;K14.25
+C;X9;Y24;K12.62
+C;X10;Y24;K15.66
+C;X11;Y24;K17.98
+C;X12;Y24;K15.40
+C;X13;Y24;K""
+C;X14;Y24;K""
+C;X15;Y24;K""
+C;X16;Y24;K""
+C;X1;Y25;K"Grossistes"
+C;X2;Y25;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y25;K"AVOCAT Hass Pérou colis de 20"
+C;X4;Y25;K"euro HT les 20 pièces"
+C;X5;Y25;K16.00
+C;X6;Y25;K16.00
+C;X7;Y25;K14.43
+C;X8;Y25;K13.02
+C;X9;Y25;K11.62
+C;X10;Y25;K15.16
+C;X11;Y25;K17.15
+C;X12;Y25;K15.31
+C;X13;Y25;K""
+C;X14;Y25;K""
+C;X15;Y25;K""
+C;X16;Y25;K""
+C;X1;Y26;K"Grossistes"
+C;X2;Y26;K"Marché de Lyon-Corbas : légumes"
+C;X3;Y26;K"AVOCAT Hass Pérou colis de 22"
+C;X4;Y26;K"euro HT les 22 pièces"
+C;X5;Y26;K""
+C;X6;Y26;K14.41
+C;X7;Y26;K11.97
+C;X8;Y26;K11.11
+C;X9;Y26;K10.07
+C;X10;Y26;K14.68
+C;X11;Y26;K15.95
+C;X12;Y26;K""
+C;X13;Y26;K""
+C;X14;Y26;K""
+C;X15;Y26;K""
+C;X16;Y26;K""
+C;X1;Y27;K"Grossistes"
+C;X2;Y27;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y27;K"AVOCAT Hass Import colis de 20"
+C;X4;Y27;K"euro HT les 20 pièces"
+C;X5;Y27;K21.73
+C;X6;Y27;K21.93
+C;X7;Y27;K19.81
+C;X8;Y27;K18.91
+C;X9;Y27;K19.91
+C;X10;Y27;K20.20
+C;X11;Y27;K20.31
+C;X12;Y27;K21.21
+C;X13;Y27;K19.95
+C;X14;Y27;K21.12
+C;X15;Y27;K21.24
+C;X16;Y27;K21.80
+C;X1;Y28;K"Grossistes"
+C;X2;Y28;K"MIN d'Avignon-Cavaillon : fruits et légumes"
+C;X3;Y28;K"AVOCAT tropical Import cat.I colis 4kg"
+C;X4;Y28;K"euro HT le kg"
+C;X5;Y28;K""
+C;X6;Y28;K""
+C;X7;Y28;K""
+C;X8;Y28;K""
+C;X9;Y28;K""
+C;X10;Y28;K""
+C;X11;Y28;K""
+C;X12;Y28;K""
+C;X13;Y28;K""
+C;X14;Y28;K6.08
+C;X15;Y28;K6.00
+C;X16;Y28;K6.00
+C;X1;Y29;K"Grossistes"
+C;X2;Y29;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y29;K"AVOCAT Hass Espagne colis de 16"
+C;X4;Y29;K"euro HT les 16 pièces"
+C;X5;Y29;K20.40
+C;X6;Y29;K21.00
+C;X7;Y29;K""
+C;X8;Y29;K""
+C;X9;Y29;K""
+C;X10;Y29;K""
+C;X11;Y29;K""
+C;X12;Y29;K18.00
+C;X13;Y29;K18.43
+C;X14;Y29;K19.94
+C;X15;Y29;K19.40
+C;X16;Y29;K20.89
+C;X1;Y30;K"Grossistes"
+C;X2;Y30;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y30;K"AVOCAT Hass Espagne colis de 20"
+C;X4;Y30;K"euro HT les 20 pièces"
+C;X5;Y30;K19.68
+C;X6;Y30;K20.50
+C;X7;Y30;K""
+C;X8;Y30;K""
+C;X9;Y30;K""
+C;X10;Y30;K""
+C;X11;Y30;K""
+C;X12;Y30;K""
+C;X13;Y30;K17.55
+C;X14;Y30;K18.94
+C;X15;Y30;K19.10
+C;X16;Y30;K19.94
+C;X1;Y31;K"Grossistes"
+C;X2;Y31;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y31;K"AVOCAT Hass Import cat.I colis de 16"
+C;X4;Y31;K"euro HT les 16 pièces"
+C;X5;Y31;K20.50
+C;X6;Y31;K19.00
+C;X7;Y31;K17.38
+C;X8;Y31;K16.00
+C;X9;Y31;K14.94
+C;X10;Y31;K17.23
+C;X11;Y31;K18.13
+C;X12;Y31;K18.00
+C;X13;Y31;K18.50
+C;X14;Y31;K""
+C;X15;Y31;K""
+C;X16;Y31;K""
+C;X1;Y32;K"Grossistes"
+C;X2;Y32;K"MIN de Bordeaux-Brienne : fruits et légumes"
+C;X3;Y32;K"AVOCAT Hass Import cat.I colis de 20"
+C;X4;Y32;K"euro HT les 20 pièces"
+C;X5;Y32;K19.00
+C;X6;Y32;K19.00
+C;X7;Y32;K17.38
+C;X8;Y32;K15.67
+C;X9;Y32;K14.31
+C;X10;Y32;K17.00
+C;X11;Y32;K18.42
+C;X12;Y32;K18.53
+C;X13;Y32;K18.75
+C;X14;Y32;K""
+C;X15;Y32;K""
+C;X16;Y32;K""
+C;X1;Y33;K"Grossistes"
+C;X2;Y33;K"MIN de Marseille : fruits et légumes"
+C;X3;Y33;K"AVOCAT Hass Amérique du sud colis de 18"
+C;X4;Y33;K"euro HT les 18 pièces"
+C;X5;Y33;K""
+C;X6;Y33;K21.00
+C;X7;Y33;K19.94
+C;X8;Y33;K18.80
+C;X9;Y33;K18.75
+C;X10;Y33;K17.89
+C;X11;Y33;K19.33
+C;X12;Y33;K19.43
+C;X13;Y33;K19.00
+C;X14;Y33;K""
+C;X15;Y33;K""
+C;X16;Y33;K""
+C;X1;Y34;K"Grossistes"
+C;X2;Y34;K"MIN de Marseille : fruits et légumes"
+C;X3;Y34;K"AVOCAT Hass Espagne colis de 18"
+C;X4;Y34;K"euro HT les 18 pièces"
+C;X5;Y34;K20.89
+C;X6;Y34;K21.50
+C;X7;Y34;K""
+C;X8;Y34;K""
+C;X9;Y34;K""
+C;X10;Y34;K""
+C;X11;Y34;K""
+C;X12;Y34;K""
+C;X13;Y34;K18.71
+C;X14;Y34;K19.19
+C;X15;Y34;K19.44
+C;X16;Y34;K20.56
+C;X1;Y35;K"Grossistes"
+C;X2;Y35;K"MIN de Nantes : fruits et légumes"
+C;X3;Y35;K"AVOCAT Hass Amérique du sud colis de 16"
+C;X4;Y35;K"euro HT les 16 pièces"
+C;X5;Y35;K19.00
+C;X6;Y35;K21.00
+C;X7;Y35;K20.55
+C;X8;Y35;K16.23
+C;X9;Y35;K13.00
+C;X10;Y35;K17.09
+C;X11;Y35;K18.86
+C;X12;Y35;K17.42
+C;X13;Y35;K19.00
+C;X14;Y35;K""
+C;X15;Y35;K""
+C;X16;Y35;K""
+C;X1;Y36;K"Grossistes"
+C;X2;Y36;K"MIN de Nantes : fruits et légumes"
+C;X3;Y36;K"AVOCAT Hass Amérique du sud colis de 18"
+C;X4;Y36;K"euro HT les 18 pièces"
+C;X5;Y36;K19.08
+C;X6;Y36;K19.61
+C;X7;Y36;K19.25
+C;X8;Y36;K15.80
+C;X9;Y36;K12.00
+C;X10;Y36;K17.00
+C;X11;Y36;K18.45
+C;X12;Y36;K17.21
+C;X13;Y36;K18.00
+C;X14;Y36;K""
+C;X15;Y36;K""
+C;X16;Y36;K""
+C;X1;Y37;K"Grossistes"
+C;X2;Y37;K"MIN de Nantes : fruits et légumes"
+C;X3;Y37;K"AVOCAT Hass Amérique du sud colis de 20"
+C;X4;Y37;K"euro HT les 20 pièces"
+C;X5;Y37;K""
+C;X6;Y37;K19.73
+C;X7;Y37;K18.57
+C;X8;Y37;K15.39
+C;X9;Y37;K11.00
+C;X10;Y37;K13.43
+C;X11;Y37;K18.24
+C;X12;Y37;K17.00
+C;X13;Y37;K17.00
+C;X14;Y37;K""
+C;X15;Y37;K""
+C;X16;Y37;K""
+C;X1;Y38;K"Grossistes"
+C;X2;Y38;K"MIN de Nantes : fruits et légumes"
+C;X3;Y38;K"AVOCAT Hass Amérique du sud colis de 22"
+C;X4;Y38;K"euro HT les 22 pièces"
+C;X5;Y38;K19.00
+C;X6;Y38;K17.69
+C;X7;Y38;K17.45
+C;X8;Y38;K14.61
+C;X9;Y38;K11.00
+C;X10;Y38;K17.24
+C;X11;Y38;K18.61
+C;X12;Y38;K16.00
+C;X13;Y38;K16.50
+C;X14;Y38;K""
+C;X15;Y38;K""
+C;X16;Y38;K""
+C;X1;Y39;K"Grossistes"
+C;X2;Y39;K"MIN de Nantes : fruits et légumes"
+C;X3;Y39;K"AVOCAT Hass Espagne colis de 16"
+C;X4;Y39;K"euro HT les 16 pièces"
+C;X5;Y39;K22.00
+C;X6;Y39;K23.00
+C;X7;Y39;K""
+C;X8;Y39;K""
+C;X9;Y39;K""
+C;X10;Y39;K""
+C;X11;Y39;K""
+C;X12;Y39;K""
+C;X13;Y39;K19.11
+C;X14;Y39;K20.70
+C;X15;Y39;K21.31
+C;X16;Y39;K22.52
+C;X1;Y40;K"Grossistes"
+C;X2;Y40;K"MIN de Nantes : fruits et légumes"
+C;X3;Y40;K"AVOCAT Hass Espagne colis de 18"
+C;X4;Y40;K"euro HT les 18 pièces"
+C;X5;Y40;K21.33
+C;X6;Y40;K22.00
+C;X7;Y40;K""
+C;X8;Y40;K""
+C;X9;Y40;K""
+C;X10;Y40;K""
+C;X11;Y40;K""
+C;X12;Y40;K""
+C;X13;Y40;K18.68
+C;X14;Y40;K19.40
+C;X15;Y40;K20.00
+C;X16;Y40;K21.27
+C;X1;Y41;K"Grossistes"
+C;X2;Y41;K"MIN de Nantes : fruits et légumes"
+C;X3;Y41;K"AVOCAT Hass Espagne colis de 20"
+C;X4;Y41;K"euro HT les 20 pièces"
+C;X5;Y41;K20.12
+C;X6;Y41;K20.00
+C;X7;Y41;K""
+C;X8;Y41;K""
+C;X9;Y41;K""
+C;X10;Y41;K""
+C;X11;Y41;K""
+C;X12;Y41;K""
+C;X13;Y41;K17.00
+C;X14;Y41;K18.05
+C;X15;Y41;K19.00
+C;X16;Y41;K20.14
+C;X1;Y42;K"Grossistes"
+C;X2;Y42;K"MIN de Nantes : fruits et légumes"
+C;X3;Y42;K"AVOCAT Hass Espagne colis de 22"
+C;X4;Y42;K"euro HT les 22 pièces"
+C;X5;Y42;K19.00
+C;X6;Y42;K19.00
+C;X7;Y42;K""
+C;X8;Y42;K""
+C;X9;Y42;K""
+C;X10;Y42;K""
+C;X11;Y42;K""
+C;X12;Y42;K""
+C;X13;Y42;K17.00
+C;X14;Y42;K17.00
+C;X15;Y42;K17.44
+C;X16;Y42;K18.00
+C;X1;Y43;K"Grossistes"
+C;X2;Y43;K"MIN de Nantes : fruits et légumes"
+C;X3;Y43;K"AVOCAT Hass Maroc colis de 16"
+C;X4;Y43;K"euro HT le kg"
+C;X5;Y43;K18.36
+C;X6;Y43;K""
+C;X7;Y43;K""
+C;X8;Y43;K""
+C;X9;Y43;K""
+C;X10;Y43;K""
+C;X11;Y43;K""
+C;X12;Y43;K""
+C;X13;Y43;K15.50
+C;X14;Y43;K""
+C;X15;Y43;K""
+C;X16;Y43;K""
+C;X1;Y44;K"Grossistes"
+C;X2;Y44;K"MIN de Nantes : fruits et légumes"
+C;X3;Y44;K"AVOCAT Hass Maroc colis de 18"
+C;X4;Y44;K"euro HT le kg"
+C;X5;Y44;K""
+C;X6;Y44;K""
+C;X7;Y44;K""
+C;X8;Y44;K""
+C;X9;Y44;K""
+C;X10;Y44;K""
+C;X11;Y44;K""
+C;X12;Y44;K""
+C;X13;Y44;K15.14
+C;X14;Y44;K""
+C;X15;Y44;K""
+C;X16;Y44;K""
+C;X1;Y45;K"Grossistes"
+C;X2;Y45;K"MIN de Nantes : fruits et légumes"
+C;X3;Y45;K"AVOCAT tropical République Dominicaine"
+C;X4;Y45;K"euro HT le kg"
+C;X5;Y45;K""
+C;X6;Y45;K""
+C;X7;Y45;K""
+C;X8;Y45;K""
+C;X9;Y45;K""
+C;X10;Y45;K""
+C;X11;Y45;K""
+C;X12;Y45;K""
+C;X13;Y45;K4.33
+C;X14;Y45;K""
+C;X15;Y45;K""
+C;X16;Y45;K""
+C;X1;Y46;K"Grossistes"
+C;X2;Y46;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y46;K"AVOCAT Bacon U.E. biologique colis 4kg"
+C;X4;Y46;K"euro HT le kg"
+C;X5;Y46;K""
+C;X6;Y46;K""
+C;X7;Y46;K""
+C;X8;Y46;K""
+C;X9;Y46;K""
+C;X10;Y46;K""
+C;X11;Y46;K4.76
+C;X12;Y46;K3.93
+C;X13;Y46;K""
+C;X14;Y46;K""
+C;X15;Y46;K""
+C;X16;Y46;K""
+C;X1;Y47;K"Grossistes"
+C;X2;Y47;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y47;K"AVOCAT Hass France biologique colis 4kg"
+C;X4;Y47;K"euro HT le kg"
+C;X5;Y47;K""
+C;X6;Y47;K""
+C;X7;Y47;K""
+C;X8;Y47;K""
+C;X9;Y47;K""
+C;X10;Y47;K""
+C;X11;Y47;K""
+C;X12;Y47;K""
+C;X13;Y47;K""
+C;X14;Y47;K8.10
+C;X15;Y47;K""
+C;X16;Y47;K""
+C;X1;Y48;K"Grossistes"
+C;X2;Y48;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y48;K"AVOCAT Hass Import biologique colis 4kg"
+C;X4;Y48;K"euro HT le kg"
+C;X5;Y48;K""
+C;X6;Y48;K5.75
+C;X7;Y48;K5.21
+C;X8;Y48;K5.22
+C;X9;Y48;K5.33
+C;X10;Y48;K5.94
+C;X11;Y48;K6.05
+C;X12;Y48;K""
+C;X13;Y48;K""
+C;X14;Y48;K""
+C;X15;Y48;K""
+C;X16;Y48;K""
+C;X1;Y49;K"Grossistes"
+C;X2;Y49;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y49;K"AVOCAT Hass U.E. biologique colis 4kg"
+C;X4;Y49;K"euro HT le kg"
+C;X5;Y49;K5.86
+C;X6;Y49;K6.21
+C;X7;Y49;K""
+C;X8;Y49;K""
+C;X9;Y49;K""
+C;X10;Y49;K""
+C;X11;Y49;K""
+C;X12;Y49;K6.00
+C;X13;Y49;K5.01
+C;X14;Y49;K5.70
+C;X15;Y49;K6.00
+C;X16;Y49;K5.94
+C;X1;Y50;K"Grossistes"
+C;X2;Y50;K"MIN de Nice : fruits et légumes"
+C;X3;Y50;K"AVOCAT Hass Import cat.I colis de 18-20"
+C;X4;Y50;K"euro HT les 18-20 pièces"
+C;X5;Y50;K21.93
+C;X6;Y50;K21.88
+C;X7;Y50;K20.95
+C;X8;Y50;K20.27
+C;X9;Y50;K19.25
+C;X10;Y50;K19.62
+C;X11;Y50;K21.25
+C;X12;Y50;K20.77
+C;X13;Y50;K19.93
+C;X14;Y50;K21.40
+C;X15;Y50;K21.40
+C;X16;Y50;K21.75
+C;X1;Y51;K"Grossistes"
+C;X2;Y51;K"MIN de Rungis : fruits et légumes"
+C;X3;Y51;K"AVOCAT Hass Chili colis de 16"
+C;X4;Y51;K"euro HT les 16 pièces"
+C;X5;Y51;K""
+C;X6;Y51;K""
+C;X7;Y51;K""
+C;X8;Y51;K""
+C;X9;Y51;K""
+C;X10;Y51;K""
+C;X11;Y51;K17.73
+C;X12;Y51;K17.05
+C;X13;Y51;K17.60
+C;X14;Y51;K""
+C;X15;Y51;K""
+C;X16;Y51;K""
+C;X1;Y52;K"Grossistes"
+C;X2;Y52;K"MIN de Rungis : fruits et légumes"
+C;X3;Y52;K"AVOCAT Hass Chili colis de 20"
+C;X4;Y52;K"euro HT les 20 pièces"
+C;X5;Y52;K""
+C;X6;Y52;K""
+C;X7;Y52;K""
+C;X8;Y52;K""
+C;X9;Y52;K""
+C;X10;Y52;K""
+C;X11;Y52;K16.73
+C;X12;Y52;K16.05
+C;X13;Y52;K16.00
+C;X14;Y52;K""
+C;X15;Y52;K""
+C;X16;Y52;K""
+C;X1;Y53;K"Grossistes"
+C;X2;Y53;K"MIN de Rungis : fruits et légumes"
+C;X3;Y53;K"AVOCAT Hass Espagne colis de 16"
+C;X4;Y53;K"euro HT les 16 pièces"
+C;X5;Y53;K21.38
+C;X6;Y53;K22.00
+C;X7;Y53;K""
+C;X8;Y53;K""
+C;X9;Y53;K""
+C;X10;Y53;K""
+C;X11;Y53;K""
+C;X12;Y53;K16.69
+C;X13;Y53;K18.14
+C;X14;Y53;K19.60
+C;X15;Y53;K19.05
+C;X16;Y53;K19.95
+C;X1;Y54;K"Grossistes"
+C;X2;Y54;K"MIN de Rungis : fruits et légumes"
+C;X3;Y54;K"AVOCAT Hass Espagne colis de 20"
+C;X4;Y54;K"euro HT les 20 pièces"
+C;X5;Y54;K20.48
+C;X6;Y54;K21.00
+C;X7;Y54;K""
+C;X8;Y54;K""
+C;X9;Y54;K""
+C;X10;Y54;K""
+C;X11;Y54;K""
+C;X12;Y54;K14.77
+C;X13;Y54;K14.82
+C;X14;Y54;K17.31
+C;X15;Y54;K17.12
+C;X16;Y54;K18.41
+C;X1;Y55;K"Grossistes"
+C;X2;Y55;K"MIN de Rungis : fruits et légumes"
+C;X3;Y55;K"AVOCAT Hass Maroc colis de 16"
+C;X4;Y55;K"euro HT les 16 pièces"
+C;X5;Y55;K19.00
+C;X6;Y55;K""
+C;X7;Y55;K""
+C;X8;Y55;K""
+C;X9;Y55;K""
+C;X10;Y55;K""
+C;X11;Y55;K""
+C;X12;Y55;K13.42
+C;X13;Y55;K14.00
+C;X14;Y55;K17.52
+C;X15;Y55;K18.88
+C;X16;Y55;K19.82
+C;X1;Y56;K"Grossistes"
+C;X2;Y56;K"MIN de Rungis : fruits et légumes"
+C;X3;Y56;K"AVOCAT Hass Maroc colis de 20"
+C;X4;Y56;K"euro HT le kg"
+C;X5;Y56;K""
+C;X6;Y56;K""
+C;X7;Y56;K""
+C;X8;Y56;K""
+C;X9;Y56;K""
+C;X10;Y56;K""
+C;X11;Y56;K""
+C;X12;Y56;K13.00
+C;X13;Y56;K13.00
+C;X14;Y56;K16.52
+C;X15;Y56;K17.20
+C;X16;Y56;K17.91
+C;X1;Y57;K"Grossistes"
+C;X2;Y57;K"MIN de Rungis : fruits et légumes"
+C;X3;Y57;K"AVOCAT Hass Pérou colis de 16"
+C;X4;Y57;K"euro HT les 16 pièces"
+C;X5;Y57;K17.52
+C;X6;Y57;K17.89
+C;X7;Y57;K18.00
+C;X8;Y57;K15.36
+C;X9;Y57;K13.10
+C;X10;Y57;K16.14
+C;X11;Y57;K18.41
+C;X12;Y57;K18.21
+C;X13;Y57;K""
+C;X14;Y57;K""
+C;X15;Y57;K""
+C;X16;Y57;K17.36
+C;X1;Y58;K"Grossistes"
+C;X2;Y58;K"MIN de Rungis : fruits et légumes"
+C;X3;Y58;K"AVOCAT Hass Pérou colis de 20"
+C;X4;Y58;K"euro HT les 20 pièces"
+C;X5;Y58;K16.52
+C;X6;Y58;K16.11
+C;X7;Y58;K16.00
+C;X8;Y58;K13.36
+C;X9;Y58;K11.50
+C;X10;Y58;K15.14
+C;X11;Y58;K17.41
+C;X12;Y58;K17.21
+C;X13;Y58;K""
+C;X14;Y58;K""
+C;X15;Y58;K""
+C;X16;Y58;K16.00
+C;X1;Y59;K"Grossistes"
+C;X2;Y59;K"MIN de Rungis : fruits et légumes"
+C;X3;Y59;K"AVOCAT tropical Brésil"
+C;X4;Y59;K"euro HT le kg"
+C;X5;Y59;K4.29
+C;X6;Y59;K4.23
+C;X7;Y59;K4.20
+C;X8;Y59;K4.20
+C;X9;Y59;K3.94
+C;X10;Y59;K3.80
+C;X11;Y59;K3.80
+C;X12;Y59;K3.80
+C;X13;Y59;K3.86
+C;X14;Y59;K4.00
+C;X15;Y59;K4.00
+C;X16;Y59;K3.99
+C;X1;Y60;K"Grossistes"
+C;X2;Y60;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y60;K"AVOCAT Bacon U.E. biologique colis 4kg"
+C;X4;Y60;K"euro HT le kg"
+C;X5;Y60;K""
+C;X6;Y60;K""
+C;X7;Y60;K""
+C;X8;Y60;K""
+C;X9;Y60;K""
+C;X10;Y60;K""
+C;X11;Y60;K4.53
+C;X12;Y60;K3.67
+C;X13;Y60;K""
+C;X14;Y60;K""
+C;X15;Y60;K""
+C;X16;Y60;K""
+C;X1;Y61;K"Grossistes"
+C;X2;Y61;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y61;K"AVOCAT Hass Import biologique colis 4kg"
+C;X4;Y61;K"euro HT le kg"
+C;X5;Y61;K5.69
+C;X6;Y61;K5.87
+C;X7;Y61;K4.68
+C;X8;Y61;K4.53
+C;X9;Y61;K4.65
+C;X10;Y61;K5.13
+C;X11;Y61;K5.48
+C;X12;Y61;K5.50
+C;X13;Y61;K""
+C;X14;Y61;K""
+C;X15;Y61;K""
+C;X16;Y61;K""
+C;X1;Y62;K"Grossistes"
+C;X2;Y62;K"MIN de Rungis : fruits et légumes bio"
+C;X3;Y62;K"AVOCAT Hass U.E. biologique colis 4kg"
+C;X4;Y62;K"euro HT le kg"
+C;X5;Y62;K5.67
+C;X6;Y62;K5.85
+C;X7;Y62;K""
+C;X8;Y62;K""
+C;X9;Y62;K""
+C;X10;Y62;K""
+C;X11;Y62;K""
+C;X12;Y62;K5.04
+C;X13;Y62;K4.86
+C;X14;Y62;K4.97
+C;X15;Y62;K5.26
+C;X16;Y62;K5.09
+C;X1;Y63;K"Grossistes"
+C;X2;Y63;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y63;K"AVOCAT Amérique du sud cat.I"
+C;X4;Y63;K"euro HT la pièce"
+C;X5;Y63;K1.27
+C;X6;Y63;K1.23
+C;X7;Y63;K1.30
+C;X8;Y63;K1.24
+C;X9;Y63;K1.19
+C;X10;Y63;K1.13
+C;X11;Y63;K1.03
+C;X12;Y63;K1.11
+C;X13;Y63;K1.11
+C;X14;Y63;K1.12
+C;X15;Y63;K1.10
+C;X16;Y63;K1.23
+C;X1;Y64;K"Grossistes"
+C;X2;Y64;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y64;K"AVOCAT Hass Chili cat.I colis de 20"
+C;X4;Y64;K"euro HT les 20 pièces"
+C;X5;Y64;K""
+C;X6;Y64;K""
+C;X7;Y64;K""
+C;X8;Y64;K""
+C;X9;Y64;K""
+C;X10;Y64;K""
+C;X11;Y64;K""
+C;X12;Y64;K18.88
+C;X13;Y64;K16.66
+C;X14;Y64;K""
+C;X15;Y64;K""
+C;X16;Y64;K""
+C;X1;Y65;K"Grossistes"
+C;X2;Y65;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y65;K"AVOCAT Hass Espagne colis de 20"
+C;X4;Y65;K"euro HT les 20 pièces"
+C;X5;Y65;K18.79
+C;X6;Y65;K18.38
+C;X7;Y65;K""
+C;X8;Y65;K""
+C;X9;Y65;K""
+C;X10;Y65;K""
+C;X11;Y65;K""
+C;X12;Y65;K""
+C;X13;Y65;K17.00
+C;X14;Y65;K18.00
+C;X15;Y65;K18.25
+C;X16;Y65;K18.69
+C;X1;Y66;K"Grossistes"
+C;X2;Y66;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y66;K"AVOCAT Hass Maroc cat.I colis de 16"
+C;X4;Y66;K"euro HT les 16 pièces"
+C;X5;Y66;K""
+C;X6;Y66;K""
+C;X7;Y66;K""
+C;X8;Y66;K""
+C;X9;Y66;K""
+C;X10;Y66;K""
+C;X11;Y66;K""
+C;X12;Y66;K""
+C;X13;Y66;K""
+C;X14;Y66;K""
+C;X15;Y66;K16.75
+C;X16;Y66;K""
+C;X1;Y67;K"Grossistes"
+C;X2;Y67;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y67;K"AVOCAT Hass Pérou colis de 20"
+C;X4;Y67;K"euro HT les 20 pièces"
+C;X5;Y67;K16.00
+C;X6;Y67;K18.75
+C;X7;Y67;K15.44
+C;X8;Y67;K13.22
+C;X9;Y67;K10.94
+C;X10;Y67;K15.36
+C;X11;Y67;K19.14
+C;X12;Y67;K""
+C;X13;Y67;K""
+C;X14;Y67;K""
+C;X15;Y67;K""
+C;X16;Y67;K""
+C;X1;Y68;K"Détail"
+C;X2;Y68;K"Légumes France DETAIL GMS"
+C;X3;Y68;K"AVOCAT hors Fr. biologique"
+C;X4;Y68;K"euro TTC la pièce"
+C;X5;Y68;K1.60
+C;X6;Y68;K1.67
+C;X7;Y68;K1.59
+C;X8;Y68;K1.59
+C;X9;Y68;K1.55
+C;X10;Y68;K1.56
+C;X11;Y68;K1.52
+C;X12;Y68;K1.53
+C;X13;Y68;K1.55
+C;X14;Y68;K1.52
+C;X15;Y68;K1.51
+C;X16;Y68;K1.55
+C;X1;Y69;K"Détail"
+C;X2;Y69;K"Légumes France DETAIL GMS"
+C;X3;Y69;K"AVOCAT hors Fr. filet"
+C;X4;Y69;K"euro TTC la pièce"
+C;X5;Y69;K0.75
+C;X6;Y69;K0.76
+C;X7;Y69;K0.72
+C;X8;Y69;K0.71
+C;X9;Y69;K0.70
+C;X10;Y69;K0.72
+C;X11;Y69;K0.75
+C;X12;Y69;K0.75
+C;X13;Y69;K0.74
+C;X14;Y69;K0.77
+C;X15;Y69;K0.79
+C;X16;Y69;K0.79
+C;X1;Y70;K"Détail"
+C;X2;Y70;K"Légumes France DETAIL GMS"
+C;X3;Y70;K"AVOCAT hors Fr. vrac"
+C;X4;Y70;K"euro TTC la pièce"
+C;X5;Y70;K1.40
+C;X6;Y70;K1.37
+C;X7;Y70;K1.25
+C;X8;Y70;K1.11
+C;X9;Y70;K1.04
+C;X10;Y70;K1.20
+C;X11;Y70;K1.29
+C;X12;Y70;K1.27
+C;X13;Y70;K1.25
+C;X14;Y70;K1.34
+C;X15;Y70;K1.39
+C;X16;Y70;K1.43
+C;X1;Y71;K"Détail"
+C;X2;Y71;K"Légumes France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y71;K"AVOCAT Hass Import biologique vendu à la pièce"
+C;X4;Y71;K"euro TTC la pièce"
+C;X5;Y71;K1.91
+C;X6;Y71;K2.00
+C;X7;Y71;K1.76
+C;X8;Y71;K1.76
+C;X9;Y71;K1.77
+C;X10;Y71;K1.84
+C;X11;Y71;K1.88
+C;X12;Y71;K1.69
+C;X13;Y71;K""
+C;X14;Y71;K""
+C;X15;Y71;K""
+C;X16;Y71;K""
+C;X1;Y72;K"Détail"
+C;X2;Y72;K"Légumes France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y72;K"AVOCAT Hass U.E. biologique"
+C;X4;Y72;K"euro TTC le kg"
+C;X5;Y72;K7.75
+C;X6;Y72;K7.92
+C;X7;Y72;K""
+C;X8;Y72;K""
+C;X9;Y72;K""
+C;X10;Y72;K""
+C;X11;Y72;K""
+C;X12;Y72;K""
+C;X13;Y72;K""
+C;X14;Y72;K""
+C;X15;Y72;K6.35
+C;X16;Y72;K6.43
+C;X1;Y73;K"Détail"
+C;X2;Y73;K"Légumes France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y73;K"AVOCAT Hass U.E. biologique vendu à la pièce"
+C;X4;Y73;K"euro TTC la pièce"
+C;X5;Y73;K""
+C;X6;Y73;K""
+C;X7;Y73;K""
+C;X8;Y73;K""
+C;X9;Y73;K""
+C;X10;Y73;K""
+C;X11;Y73;K""
+C;X12;Y73;K1.93
+C;X13;Y73;K1.83
+C;X14;Y73;K1.93
+C;X15;Y73;K1.96
+C;X16;Y73;K1.95
+F;SM6;X1;Y76
+C;K"Source : RNM.FranceAgriMer.fr"
+E

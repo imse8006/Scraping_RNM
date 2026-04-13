@@ -1,0 +1,262 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Poulet - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Grossistes"
+C;X2;Y5;K"MIN de Rungis : volaille"
+C;X3;Y5;K"POULET (cuisse déjointée) France label"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K6.70
+C;X6;Y5;K6.70
+C;X7;Y5;K7.00
+C;X8;Y5;K7.10
+C;X9;Y5;K7.10
+C;X10;Y5;K7.10
+C;X11;Y5;K7.10
+C;X12;Y5;K7.10
+C;X13;Y5;K7.10
+C;X14;Y5;K7.10
+C;X15;Y5;K7.10
+C;X16;Y5;K7.10
+C;X1;Y6;K"Grossistes"
+C;X2;Y6;K"MIN de Rungis : volaille"
+C;X3;Y6;K"POULET (cuisse et portion dos) France standard"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K2.70
+C;X6;Y6;K2.70
+C;X7;Y6;K2.80
+C;X8;Y6;K2.80
+C;X9;Y6;K2.80
+C;X10;Y6;K2.90
+C;X11;Y6;K2.90
+C;X12;Y6;K2.90
+C;X13;Y6;K2.83
+C;X14;Y6;K2.80
+C;X15;Y6;K2.80
+C;X16;Y6;K2.80
+C;X1;Y7;K"Grossistes"
+C;X2;Y7;K"MIN de Rungis : volaille"
+C;X3;Y7;K"POULET (cuisse et portion dos) U.E. standard"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K2.30
+C;X6;Y7;K2.30
+C;X7;Y7;K2.60
+C;X8;Y7;K2.60
+C;X9;Y7;K2.60
+C;X10;Y7;K2.70
+C;X11;Y7;K2.70
+C;X12;Y7;K2.70
+C;X13;Y7;K2.70
+C;X14;Y7;K2.70
+C;X15;Y7;K2.70
+C;X16;Y7;K2.70
+C;X1;Y8;K"Grossistes"
+C;X2;Y8;K"MIN de Rungis : volaille"
+C;X3;Y8;K"POULET (entier) effilé France biologique"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K7.30
+C;X6;Y8;K7.42
+C;X7;Y8;K7.60
+C;X8;Y8;K7.70
+C;X9;Y8;K7.70
+C;X10;Y8;K7.78
+C;X11;Y8;K7.80
+C;X12;Y8;K7.80
+C;X13;Y8;K7.80
+C;X14;Y8;K7.80
+C;X15;Y8;K7.80
+C;X16;Y8;K7.95
+C;X1;Y9;K"Grossistes"
+C;X2;Y9;K"MIN de Rungis : volaille"
+C;X3;Y9;K"POULET (entier) prêt à cuire France label"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K5.40
+C;X6;Y9;K5.58
+C;X7;Y9;K5.70
+C;X8;Y9;K5.70
+C;X9;Y9;K5.70
+C;X10;Y9;K5.70
+C;X11;Y9;K5.70
+C;X12;Y9;K5.70
+C;X13;Y9;K5.70
+C;X14;Y9;K5.70
+C;X15;Y9;K5.70
+C;X16;Y9;K5.70
+C;X1;Y10;K"Grossistes"
+C;X2;Y10;K"MIN de Rungis : volaille"
+C;X3;Y10;K"POULET (entier) prêt à cuire France standard"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K3.30
+C;X6;Y10;K3.36
+C;X7;Y10;K3.65
+C;X8;Y10;K3.70
+C;X9;Y10;K3.70
+C;X10;Y10;K3.70
+C;X11;Y10;K3.70
+C;X12;Y10;K3.70
+C;X13;Y10;K3.70
+C;X14;Y10;K3.70
+C;X15;Y10;K3.70
+C;X16;Y10;K3.70
+C;X1;Y11;K"Grossistes"
+C;X2;Y11;K"MIN de Rungis : volaille"
+C;X3;Y11;K"POULET (filet) France label sous-vide"
+C;X4;Y11;K"euro HT le kg"
+C;X5;Y11;K11.60
+C;X6;Y11;K11.72
+C;X7;Y11;K13.95
+C;X8;Y11;K15.22
+C;X9;Y11;K15.30
+C;X10;Y11;K15.30
+C;X11;Y11;K15.30
+C;X12;Y11;K15.30
+C;X13;Y11;K15.30
+C;X14;Y11;K15.30
+C;X15;Y11;K15.05
+C;X16;Y11;K15.00
+C;X1;Y12;K"Grossistes"
+C;X2;Y12;K"MIN de Rungis : volaille"
+C;X3;Y12;K"POULET (filet) France standard sous-vide"
+C;X4;Y12;K"euro HT le kg"
+C;X5;Y12;K6.90
+C;X6;Y12;K6.90
+C;X7;Y12;K7.70
+C;X8;Y12;K8.12
+C;X9;Y12;K8.20
+C;X10;Y12;K8.40
+C;X11;Y12;K8.40
+C;X12;Y12;K8.40
+C;X13;Y12;K8.40
+C;X14;Y12;K8.40
+C;X15;Y12;K8.30
+C;X16;Y12;K8.12
+C;X1;Y13;K"Grossistes"
+C;X2;Y13;K"MIN de Rungis : volaille"
+C;X3;Y13;K"POULET (filet) U.E. standard"
+C;X4;Y13;K"euro HT le kg"
+C;X5;Y13;K5.90
+C;X6;Y13;K5.90
+C;X7;Y13;K6.85
+C;X8;Y13;K7.42
+C;X9;Y13;K7.50
+C;X10;Y13;K7.50
+C;X11;Y13;K7.50
+C;X12;Y13;K7.50
+C;X13;Y13;K7.50
+C;X14;Y13;K7.36
+C;X15;Y13;K6.90
+C;X16;Y13;K6.72
+C;X1;Y14;K"Grossistes"
+C;X2;Y14;K"MIN de Rungis : volaille"
+C;X3;Y14;K"POULET (suprême) France standard"
+C;X4;Y14;K"euro HT le kg"
+C;X5;Y14;K""
+C;X6;Y14;K""
+C;X7;Y14;K""
+C;X8;Y14;K""
+C;X9;Y14;K""
+C;X10;Y14;K""
+C;X11;Y14;K7.90
+C;X12;Y14;K7.90
+C;X13;Y14;K8.00
+C;X14;Y14;K8.00
+C;X15;Y14;K8.00
+C;X16;Y14;K8.07
+C;X1;Y15;K"Détail"
+C;X2;Y15;K"Viande France DETAIL GMS"
+C;X3;Y15;K"POULET prêt à cuire France biologique"
+C;X4;Y15;K"euro TTC le kg"
+C;X5;Y15;K11.43
+C;X6;Y15;K11.64
+C;X7;Y15;K12.21
+C;X8;Y15;K11.90
+C;X9;Y15;K11.54
+C;X10;Y15;K11.41
+C;X11;Y15;K12.29
+C;X12;Y15;K12.74
+C;X13;Y15;K11.96
+C;X14;Y15;K11.31
+C;X15;Y15;K12.20
+C;X16;Y15;K12.41
+C;X1;Y16;K"Détail"
+C;X2;Y16;K"Viande France DETAIL GMS"
+C;X3;Y16;K"POULET prêt à cuire France label rouge cdt 1"
+C;X4;Y16;K"euro TTC le kg"
+C;X5;Y16;K7.00
+C;X6;Y16;K6.96
+C;X7;Y16;K6.82
+C;X8;Y16;K7.05
+C;X9;Y16;K7.01
+C;X10;Y16;K7.12
+C;X11;Y16;K7.12
+C;X12;Y16;K7.02
+C;X13;Y16;K7.11
+C;X14;Y16;K7.03
+C;X15;Y16;K7.29
+C;X16;Y16;K7.26
+C;X1;Y17;K"Détail"
+C;X2;Y17;K"Viande France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y17;K"POULET prêt à cuire France biologique"
+C;X4;Y17;K"euro TTC le kg"
+C;X5;Y17;K14.53
+C;X6;Y17;K15.02
+C;X7;Y17;K14.61
+C;X8;Y17;K14.46
+C;X9;Y17;K14.39
+C;X10;Y17;K14.64
+C;X11;Y17;K14.52
+C;X12;Y17;K14.78
+C;X13;Y17;K14.53
+C;X14;Y17;K14.51
+C;X15;Y17;K14.42
+C;X16;Y17;K14.70
+F;SM6;X1;Y20
+C;K"Source : RNM.FranceAgriMer.fr"
+E

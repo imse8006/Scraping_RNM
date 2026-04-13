@@ -1,0 +1,78 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 50
+F;W2 2 20
+F;SM5;X1;Y1
+C;K"MIN de Rungis : œuf - RNM"
+F;SM5;X1;Y2
+C;K"mercuriale Oeuf - cours Grossistes en euro HT"
+F;SM5;X1;Y3
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y5
+C;K"libellé"
+F;FG0C;SM6;X2;Y5
+C;K"unité"
+F;FG0C;SM6;X3;Y5
+C;K"Avril 2025"
+F;FG0C;SM6;X4;Y5
+C;K"Mai 2025"
+F;FG0C;SM6;X5;Y5
+C;K"Juin 2025"
+F;FG0C;SM6;X6;Y5
+C;K"Juil. 2025"
+F;FG0C;SM6;X7;Y5
+C;K"Août 2025"
+F;FG0C;SM6;X8;Y5
+C;K"Septe. 2025"
+F;FG0C;SM6;X9;Y5
+C;K"Octo. 2025"
+F;FG0C;SM6;X10;Y5
+C;K"Nove. 2025"
+F;FG0C;SM6;X11;Y5
+C;K"Déce. 2025"
+F;FG0C;SM6;X12;Y5
+C;K"Janv. 2026"
+F;FG0C;SM6;X13;Y5
+C;K"Févr. 2026"
+F;FG0C;SM6;X14;Y5
+C;K"Mars 2026"
+C;X1;Y6;K"OEUF G(63-73g) cat.A France colis de 360"
+C;X2;Y6;K"les 100 pièces"
+C;X3;Y6;K19.64
+C;X4;Y6;K18.72
+C;X5;Y6;K17.91
+C;X6;Y6;K17.80
+C;X7;Y6;K17.80
+C;X8;Y6;K17.80
+C;X9;Y6;K18.18
+C;X10;Y6;K18.84
+C;X11;Y6;K19.12
+C;X12;Y6;K19.10
+C;X13;Y6;K19.29
+C;X14;Y6;K19.35
+C;X1;Y7;K"OEUF M(53-63g) cat.A France colis de 360"
+C;X2;Y7;K"les 100 pièces"
+C;X3;Y7;K19.23
+C;X4;Y7;K18.21
+C;X5;Y7;K17.50
+C;X6;Y7;K17.40
+C;X7;Y7;K17.30
+C;X8;Y7;K17.25
+C;X9;Y7;K17.44
+C;X10;Y7;K17.96
+C;X11;Y7;K18.37
+C;X12;Y7;K18.35
+C;X13;Y7;K18.56
+C;X14;Y7;K18.63
+F;SM6;X1;Y10
+C;K"Source : RNM.FranceAgriMer.fr"
+E

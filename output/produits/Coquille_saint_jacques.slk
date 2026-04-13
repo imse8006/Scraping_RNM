@@ -1,0 +1,182 @@
+ID;PWXL;N;E
+P;PGeneral
+P;Pdd/mm/yyyy
+P;Pdd/mm/yy
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M250;SB;L40
+P;EArial;M220;SBI;L50
+P;EArial;M210;SBI
+F;W1 1 25
+F;W2 2 25
+F;W3 3 40
+F;W4 4 20
+F;SM5;X1;Y1
+C;K"Coquille saint jacques - RNM"
+F;SM5;X1;Y2
+C;K"prix moyens mensuels du 01-04-2025 au 31-03-2026"
+F;FG0C;SM6;X1;Y4
+C;K"Stade"
+F;FG0C;SM6;X2;Y4
+C;K"Marché"
+F;FG0C;SM6;X3;Y4
+C;K"Libellé"
+F;FG0C;SM6;X4;Y4
+C;K"Unité"
+F;FG0C;SM6;X5;Y4
+C;K"Avril 2025"
+F;FG0C;SM6;X6;Y4
+C;K"Mai 2025"
+F;FG0C;SM6;X7;Y4
+C;K"Juin 2025"
+F;FG0C;SM6;X8;Y4
+C;K"Juil. 2025"
+F;FG0C;SM6;X9;Y4
+C;K"Août 2025"
+F;FG0C;SM6;X10;Y4
+C;K"Septe. 2025"
+F;FG0C;SM6;X11;Y4
+C;K"Octo. 2025"
+F;FG0C;SM6;X12;Y4
+C;K"Nove. 2025"
+F;FG0C;SM6;X13;Y4
+C;K"Déce. 2025"
+F;FG0C;SM6;X14;Y4
+C;K"Janv. 2026"
+F;FG0C;SM6;X15;Y4
+C;K"Févr. 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Mars 2026"
+C;X1;Y5;K"Grossistes"
+C;X2;Y5;K"MIN de Rungis : marée"
+C;X3;Y5;K"COQUILLE SAINT JACQUES fraîche décortiquée blanche France"
+C;X4;Y5;K"euro HT le kg"
+C;X5;Y5;K24.17
+C;X6;Y5;K22.30
+C;X7;Y5;K22.00
+C;X8;Y5;K22.00
+C;X9;Y5;K22.00
+C;X10;Y5;K22.00
+C;X11;Y5;K23.91
+C;X12;Y5;K26.50
+C;X13;Y5;K36.27
+C;X14;Y5;K32.81
+C;X15;Y5;K22.60
+C;X16;Y5;K23.05
+C;X1;Y6;K"Grossistes"
+C;X2;Y6;K"MIN de Rungis : marée"
+C;X3;Y6;K"COQUILLE SAINT JACQUES fraîche décortiquée blanche Import"
+C;X4;Y6;K"euro HT le kg"
+C;X5;Y6;K22.67
+C;X6;Y6;K21.65
+C;X7;Y6;K21.50
+C;X8;Y6;K21.50
+C;X9;Y6;K21.50
+C;X10;Y6;K21.50
+C;X11;Y6;K21.48
+C;X12;Y6;K22.95
+C;X13;Y6;K29.82
+C;X14;Y6;K29.24
+C;X15;Y6;K20.52
+C;X16;Y6;K20.55
+C;X1;Y7;K"Grossistes"
+C;X2;Y7;K"MIN de Rungis : marée"
+C;X3;Y7;K"COQUILLE SAINT JACQUES fraîche décortiquée coraillée France"
+C;X4;Y7;K"euro HT le kg"
+C;X5;Y7;K23.17
+C;X6;Y7;K22.15
+C;X7;Y7;K22.00
+C;X8;Y7;K22.00
+C;X9;Y7;K22.00
+C;X10;Y7;K22.00
+C;X11;Y7;K23.91
+C;X12;Y7;K27.73
+C;X13;Y7;K38.00
+C;X14;Y7;K32.62
+C;X15;Y7;K23.60
+C;X16;Y7;K24.07
+C;X1;Y8;K"Grossistes"
+C;X2;Y8;K"MIN de Rungis : marée"
+C;X3;Y8;K"COQUILLE SAINT JACQUES fraîche décortiquée coraillée Import"
+C;X4;Y8;K"euro HT le kg"
+C;X5;Y8;K22.17
+C;X6;Y8;K21.57
+C;X7;Y8;K21.50
+C;X8;Y8;K21.50
+C;X9;Y8;K21.50
+C;X10;Y8;K21.50
+C;X11;Y8;K21.48
+C;X12;Y8;K22.95
+C;X13;Y8;K31.23
+C;X14;Y8;K30.90
+C;X15;Y8;K20.52
+C;X16;Y8;K20.57
+C;X1;Y9;K"Grossistes"
+C;X2;Y9;K"MIN de Rungis : marée"
+C;X3;Y9;K"COQUILLE SAINT JACQUES fraîche entière blanche France"
+C;X4;Y9;K"euro HT le kg"
+C;X5;Y9;K3.33
+C;X6;Y9;K2.94
+C;X7;Y9;K""
+C;X8;Y9;K""
+C;X9;Y9;K""
+C;X10;Y9;K""
+C;X11;Y9;K4.08
+C;X12;Y9;K3.79
+C;X13;Y9;K5.23
+C;X14;Y9;K5.18
+C;X15;Y9;K3.96
+C;X16;Y9;K4.10
+C;X1;Y10;K"Grossistes"
+C;X2;Y10;K"MIN de Rungis : marée"
+C;X3;Y10;K"COQUILLE SAINT JACQUES fraîche entière coraillée France"
+C;X4;Y10;K"euro HT le kg"
+C;X5;Y10;K3.30
+C;X6;Y10;K2.94
+C;X7;Y10;K""
+C;X8;Y10;K""
+C;X9;Y10;K""
+C;X10;Y10;K""
+C;X11;Y10;K4.18
+C;X12;Y10;K4.28
+C;X13;Y10;K5.45
+C;X14;Y10;K5.21
+C;X15;Y10;K3.94
+C;X16;Y10;K4.06
+C;X1;Y11;K"Grossistes"
+C;X2;Y11;K"MIN de Rungis : marée congelée"
+C;X3;Y11;K"COQUILLE SAINT JACQUES congelée décortiquée blanche Import"
+C;X4;Y11;K"euro HT le kg"
+C;X5;Y11;K37.00
+C;X6;Y11;K36.40
+C;X7;Y11;K34.00
+C;X8;Y11;K34.00
+C;X9;Y11;K34.00
+C;X10;Y11;K34.00
+C;X11;Y11;K34.00
+C;X12;Y11;K34.00
+C;X13;Y11;K35.00
+C;X14;Y11;K32.70
+C;X15;Y11;K28.50
+C;X16;Y11;K28.50
+C;X1;Y12;K"Grossistes"
+C;X2;Y12;K"MIN de Rungis : marée congelée"
+C;X3;Y12;K"COQUILLE SAINT JACQUES congelée décortiquée coraillée Import"
+C;X4;Y12;K"euro HT le kg"
+C;X5;Y12;K38.00
+C;X6;Y12;K37.20
+C;X7;Y12;K34.00
+C;X8;Y12;K34.00
+C;X9;Y12;K34.00
+C;X10;Y12;K34.00
+C;X11;Y12;K34.00
+C;X12;Y12;K34.00
+C;X13;Y12;K35.00
+C;X14;Y12;K32.70
+C;X15;Y12;K28.50
+C;X16;Y12;K28.50
+F;SM6;X1;Y15
+C;K"Source : RNM.FranceAgriMer.fr"
+E
