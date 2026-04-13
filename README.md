@@ -1,0 +1,40 @@
+# RNM Scraper
+
+Scrapes monthly average price data from [RNM FranceAgriMer](https://rnm.franceagrimer.fr/) and saves it as `.slk` spreadsheet files (compatible with Excel, LibreOffice, etc.).
+
+## What it downloads
+
+| Part | Source | Products | Output folder |
+|------|--------|----------|---------------|
+| 1 | 4 category pages (Fruits & Légumes, Pêche & Aquaculture, Beurre Oeuf Fromage, Viande) | ~300 | `output/produits/` |
+| 2 | [Restauration collective page](https://rnm.franceagrimer.fr/rnm/panier_restau_co.shtml) — Rungis markets only | 15 | `output/rungis/` |
+
+For each product, the script fetches the **12-month history** then downloads the **monthly averages** spreadsheet.
+
+## Setup
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+```bash
+# Default output to ./output/
+python scrape_rnm.py
+
+# Custom output directory
+python scrape_rnm.py -o /path/to/data
+```
+
+The script takes approximately 5-10 minutes to complete (~320 files with a 0.5s delay between requests).
+
+## Automation
+
+This repository includes a GitHub Actions workflow that runs the scraper on the **1st of every month** and commits the updated files automatically.
+
+You can also trigger it manually from the Actions tab → `Monthly RNM Scrape` → `Run workflow`.
+
+## Output format
+
+Files are downloaded in `.slk` (SYLK) format, which can be opened directly in Excel or LibreOffice Calc.
