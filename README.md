@@ -25,13 +25,20 @@ python scrape_rnm.py
 
 # Custom output directory
 python scrape_rnm.py -o /path/to/data
+
+# Adjust parallelism (default: 8 threads)
+python scrape_rnm.py -w 4
 ```
 
-The script takes approximately 5-10 minutes to complete (~320 files with a 0.5s delay between requests).
+Downloads run in parallel (8 threads by default), so the script completes in under a minute.
+
+## Filenames
+
+Output filenames are ASCII-only: accented characters are stripped (e.g. `Crème_fraîche` → `Creme_fraiche`). Double-encoded UTF-8 names (Rungis source) are handled automatically.
 
 ## Automation
 
-This repository includes a GitHub Actions workflow that runs the scraper on the **1st of every month** and commits the updated files automatically.
+This repository includes a GitHub Actions workflow that runs the scraper on the **15th of every month** and commits the updated files automatically.
 
 You can also trigger it manually from the Actions tab → `Monthly RNM Scrape` → `Run workflow`.
 

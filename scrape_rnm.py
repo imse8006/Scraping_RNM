@@ -10,7 +10,9 @@ Part 2: Rungis market products from the collective catering page (15 products)
 import argparse
 import os
 import re
-import time
+import unicodedata
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from threading import Lock
 
 import requests
 from bs4 import BeautifulSoup
@@ -27,7 +29,7 @@ CATEGORY_PATHS = [
 
 RUNGIS_PAGE_URL = f"{BASE_URL}/rnm/panier_restau_co.shtml"
 
-REQUEST_DELAY = 0.5
+MAX_WORKERS = 8
 
 CATEGORY_CODES = {
     "LEGUMES",
@@ -81,6 +83,13 @@ EXCLUDE_PATTERNS = [
     "SURGELE",
 ]
 
+print_lock = Lock()
+
+
+def log(msg: str, end: str = "\n"):
+    with print_lock:
+        print(msg, end=end, flush=True)
+
 
 def build_session() -> requests.Session:
     s = requests.Session()
@@ -90,6 +99,12 @@ def build_session() -> requests.Session:
 
 def sanitize_filename(name: str) -> str:
     name = name.strip()
+    try:
+        name = name.encode("latin-1").decode("utf-8")
+    except (UnicodeDecodeError, UnicodeEncodeError):
+        pass
+    name = unicodedata.normalize("NFKD", name)
+    name = name.encode("ascii", "ignore").decode("ascii")
     name = re.sub(r'[<>:"/\\|?*]', "_", name)
     name = re.sub(r"\s+", "_", name)
     return name
@@ -120,12 +135,12 @@ def download_file(
         resp = session.post(PRIX_URL, data=params)
         resp.raise_for_status()
     except requests.RequestException as e:
-        print(f"    ERROR downloading {label}: {e}")
+        log(f"    ERROR downloading {label}: {e}")
         return False
 
     content_disp = resp.headers.get("content-disposition", "")
     if "attachment" not in content_disp:
-        print(f"    SKIP {label} (no file in response)")
+        log(f"    SKIP {label} (no file in response)")
         return False
 
     match = re.search(r"filename=(.+?)(?:$|;)", content_disp)
@@ -143,7 +158,7 @@ def download_file(
 
 def get_product_links(session: requests.Session, category_path: str) -> list[dict]:
     url = f"{BASE_URL}{category_path}"
-    print(f"  Fetching products from {category_path}...")
+    log(f"  Fetching products from {category_path}...")
     resp = session.get(url)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
@@ -163,7 +178,8 @@ def get_product_links(session: requests.Session, category_path: str) -> list[dic
     return products
 
 
-def download_product(session: requests.Session, product: dict, output_dir: str) -> bool:
+def download_product(product: dict, output_dir: str) -> tuple[str, bool]:
+    session = build_session()
     name = product["name"]
     href = product["href"]
 
@@ -171,18 +187,20 @@ def download_product(session: requests.Session, product: dict, output_dir: str) 
         resp = session.get(f"{BASE_URL}{href}&12MOIS")
         resp.raise_for_status()
     except requests.RequestException as e:
-        print(f"    ERROR fetching {name}: {e}")
-        return False
+        log(f"    ERROR fetching {name}: {e}")
+        return name, False
 
     params = extract_form_params(resp.text)
     if not params or ("ESPECE" not in params and "MARCHE" not in params):
-        print(f"    SKIP {name} (no download form)")
-        return False
+        log(f"    SKIP {name} (no download form)")
+        return name, False
 
-    return download_file(session, params, output_dir, name)
+    ok = download_file(session, params, output_dir, name)
+    return name, ok
 
 
-def scrape_products(session: requests.Session, output_dir: str) -> tuple[int, int]:
+def scrape_products(output_dir: str, workers: int = MAX_WORKERS) -> tuple[int, int]:
+    session = build_session()
     all_products = []
     seen_hrefs = set()
 
@@ -193,15 +211,22 @@ def scrape_products(session: requests.Session, output_dir: str) -> tuple[int, in
                 all_products.append(p)
 
     total = len(all_products)
-    print(f"\n  Total products to process: {total}\n")
+    log(f"\n  Total products to process: {total}\n")
 
     success = 0
-    for i, product in enumerate(all_products, 1):
-        print(f"  [{i}/{total}] {product['name']}...", end=" ", flush=True)
-        if download_product(session, product, output_dir):
-            success += 1
-            print("OK")
-        time.sleep(REQUEST_DELAY)
+    done = 0
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        futures = {
+            executor.submit(download_product, p, output_dir): p for p in all_products
+        }
+        for future in as_completed(futures):
+            name, ok = future.result()
+            done += 1
+            if ok:
+                success += 1
+                log(f"  [{done}/{total}] {name}... OK")
+            else:
+                log(f"  [{done}/{total}] {name}... FAILED")
 
     return success, total
 
@@ -209,8 +234,9 @@ def scrape_products(session: requests.Session, output_dir: str) -> tuple[int, in
 # ── Part 2: Rungis products ───────────────────────────────────
 
 
-def get_rungis_products(session: requests.Session) -> list[dict]:
-    print("  Fetching Rungis products...")
+def get_rungis_products() -> list[dict]:
+    session = build_session()
+    log("  Fetching Rungis products...")
     resp = session.get(RUNGIS_PAGE_URL)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
@@ -227,38 +253,46 @@ def get_rungis_products(session: requests.Session) -> list[dict]:
     return products
 
 
-def download_rungis_product(
-    session: requests.Session, name: str, code: int, output_dir: str
-) -> bool:
+def download_rungis_product(name: str, code: int, output_dir: str) -> tuple[str, bool]:
+    session = build_session()
     try:
         resp = session.post(PRIX_URL, data={"MENSUEL": "1", "MARCHE": str(code)})
         resp.raise_for_status()
     except requests.RequestException as e:
-        print(f"    ERROR fetching {name}: {e}")
-        return False
+        log(f"    ERROR fetching {name}: {e}")
+        return name, False
 
     params = extract_form_params(resp.text)
     if not params:
-        print(f"    SKIP {name} (no download form)")
-        return False
+        log(f"    SKIP {name} (no download form)")
+        return name, False
 
-    return download_file(session, params, output_dir, name)
+    ok = download_file(session, params, output_dir, name)
+    return name, ok
 
 
-def scrape_rungis(session: requests.Session, output_dir: str) -> tuple[int, int]:
-    products = get_rungis_products(session)
+def scrape_rungis(output_dir: str, workers: int = MAX_WORKERS) -> tuple[int, int]:
+    products = get_rungis_products()
     total = len(products)
-    print(f"\n  Total Rungis products: {total}\n")
+    log(f"\n  Total Rungis products: {total}\n")
 
     success = 0
-    for i, product in enumerate(products, 1):
-        print(f"  [{i}/{total}] {product['name']}...", end=" ", flush=True)
-        if download_rungis_product(
-            session, product["name"], product["code"], output_dir
-        ):
-            success += 1
-            print("OK")
-        time.sleep(REQUEST_DELAY)
+    done = 0
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        futures = {
+            executor.submit(
+                download_rungis_product, p["name"], p["code"], output_dir
+            ): p
+            for p in products
+        }
+        for future in as_completed(futures):
+            name, ok = future.result()
+            done += 1
+            if ok:
+                success += 1
+                log(f"  [{done}/{total}] {name}... OK")
+            else:
+                log(f"  [{done}/{total}] {name}... FAILED")
 
     return success, total
 
@@ -276,26 +310,33 @@ def main():
         default="output",
         help="Root output directory (default: output)",
     )
+    parser.add_argument(
+        "-w",
+        "--workers",
+        type=int,
+        default=MAX_WORKERS,
+        help=f"Number of parallel download threads (default: {MAX_WORKERS})",
+    )
     args = parser.parse_args()
+
+    workers = args.workers
 
     products_dir = os.path.join(args.output, "produits")
     rungis_dir = os.path.join(args.output, "rungis")
     os.makedirs(products_dir, exist_ok=True)
     os.makedirs(rungis_dir, exist_ok=True)
 
-    session = build_session()
-
     print("=" * 60)
     print("PART 1: Downloading products (4 categories)")
     print("=" * 60)
-    prod_ok, prod_total = scrape_products(session, products_dir)
+    prod_ok, prod_total = scrape_products(products_dir, workers)
     print(f"\n  Result: {prod_ok}/{prod_total} downloaded")
 
     print()
     print("=" * 60)
     print("PART 2: Downloading Rungis products")
     print("=" * 60)
-    rungis_ok, rungis_total = scrape_rungis(session, rungis_dir)
+    rungis_ok, rungis_total = scrape_rungis(rungis_dir, workers)
     print(f"\n  Result: {rungis_ok}/{rungis_total} downloaded")
 
     print()
