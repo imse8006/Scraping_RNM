@@ -16,7 +16,7 @@ F;W4 4 20
 F;SM5;X1;Y1
 C;K"Patisson - RNM"
 F;SM5;X1;Y2
-C;K"prix moyens mensuels du 01-06-2025 au 31-05-2026"
+C;K"prix moyens mensuels du 01-07-2025 au 30-06-2026"
 F;FG0C;SM6;X1;Y4
 C;K"Stade"
 F;FG0C;SM6;X2;Y4
@@ -26,37 +26,37 @@ C;K"Libellé"
 F;FG0C;SM6;X4;Y4
 C;K"Unité"
 F;FG0C;SM6;X5;Y4
-C;K"Juin 2025"
-F;FG0C;SM6;X6;Y4
 C;K"Juil. 2025"
-F;FG0C;SM6;X7;Y4
+F;FG0C;SM6;X6;Y4
 C;K"Août 2025"
-F;FG0C;SM6;X8;Y4
+F;FG0C;SM6;X7;Y4
 C;K"Septe. 2025"
-F;FG0C;SM6;X9;Y4
+F;FG0C;SM6;X8;Y4
 C;K"Octo. 2025"
-F;FG0C;SM6;X10;Y4
+F;FG0C;SM6;X9;Y4
 C;K"Nove. 2025"
-F;FG0C;SM6;X11;Y4
+F;FG0C;SM6;X10;Y4
 C;K"Déce. 2025"
-F;FG0C;SM6;X12;Y4
+F;FG0C;SM6;X11;Y4
 C;K"Janv. 2026"
-F;FG0C;SM6;X13;Y4
+F;FG0C;SM6;X12;Y4
 C;K"Févr. 2026"
-F;FG0C;SM6;X14;Y4
+F;FG0C;SM6;X13;Y4
 C;K"Mars 2026"
-F;FG0C;SM6;X15;Y4
+F;FG0C;SM6;X14;Y4
 C;K"Avril 2026"
-F;FG0C;SM6;X16;Y4
+F;FG0C;SM6;X15;Y4
 C;K"Mai 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Juin 2026"
 C;X1;Y5;K"Marché de producteurs"
 C;X2;Y5;K"MIN d'Agen carreau : fruits et légumes"
 C;X3;Y5;K"PATISSON"
 C;X4;Y5;K"euro HT le kg"
 C;X5;Y5;K""
 C;X6;Y5;K""
-C;X7;Y5;K""
-C;X8;Y5;K1.25
+C;X7;Y5;K1.25
+C;X8;Y5;K""
 C;X9;Y5;K""
 C;X10;Y5;K""
 C;X11;Y5;K""
@@ -69,13 +69,13 @@ C;X1;Y6;K"Expédition"
 C;X2;Y6;K"France : fruits et légumes bio - expédition"
 C;X3;Y6;K"PATISSON France biologique"
 C;X4;Y6;K"euro HT le kg"
-C;X5;Y6;K""
-C;X6;Y6;K2.00
+C;X5;Y6;K2.00
+C;X6;Y6;K1.78
 C;X7;Y6;K1.78
-C;X8;Y6;K1.78
-C;X9;Y6;K1.49
-C;X10;Y6;K1.53
-C;X11;Y6;K1.55
+C;X8;Y6;K1.49
+C;X9;Y6;K1.53
+C;X10;Y6;K1.55
+C;X11;Y6;K""
 C;X12;Y6;K""
 C;X13;Y6;K""
 C;X14;Y6;K""
@@ -86,12 +86,12 @@ C;X2;Y7;K"France : fruits et légumes bio - grossistes"
 C;X3;Y7;K"PATISSON France biologique"
 C;X4;Y7;K"euro HT le kg"
 C;X5;Y7;K""
-C;X6;Y7;K""
-C;X7;Y7;K2.41
-C;X8;Y7;K2.02
-C;X9;Y7;K1.98
-C;X10;Y7;K2.09
-C;X11;Y7;K2.12
+C;X6;Y7;K2.41
+C;X7;Y7;K2.02
+C;X8;Y7;K1.98
+C;X9;Y7;K2.09
+C;X10;Y7;K2.12
+C;X11;Y7;K""
 C;X12;Y7;K""
 C;X13;Y7;K""
 C;X14;Y7;K""
@@ -103,10 +103,10 @@ C;X3;Y8;K"PATISSON France biologique"
 C;X4;Y8;K"euro HT le kg"
 C;X5;Y8;K""
 C;X6;Y8;K""
-C;X7;Y8;K""
-C;X8;Y8;K2.12
-C;X9;Y8;K1.99
-C;X10;Y8;K1.65
+C;X7;Y8;K2.12
+C;X8;Y8;K1.99
+C;X9;Y8;K1.65
+C;X10;Y8;K""
 C;X11;Y8;K""
 C;X12;Y8;K""
 C;X13;Y8;K""
@@ -117,9 +117,9 @@ C;X1;Y9;K"Grossistes"
 C;X2;Y9;K"MIN de Strasbourg : fruits et légumes bio"
 C;X3;Y9;K"PATISSON France biologique"
 C;X4;Y9;K"euro HT le kg"
-C;X5;Y9;K""
-C;X6;Y9;K2.21
-C;X7;Y9;K2.09
+C;X5;Y9;K2.21
+C;X6;Y9;K2.09
+C;X7;Y9;K""
 C;X8;Y9;K""
 C;X9;Y9;K""
 C;X10;Y9;K""
@@ -134,14 +134,14 @@ C;X2;Y10;K"Légumes France DETAIL MAG. SPECIALISES BIO"
 C;X3;Y10;K"PATISSON France biologique"
 C;X4;Y10;K"euro TTC le kg"
 C;X5;Y10;K""
-C;X6;Y10;K""
-C;X7;Y10;K3.68
-C;X8;Y10;K3.55
-C;X9;Y10;K3.24
-C;X10;Y10;K3.34
-C;X11;Y10;K3.19
-C;X12;Y10;K3.25
-C;X13;Y10;K3.41
+C;X6;Y10;K3.68
+C;X7;Y10;K3.55
+C;X8;Y10;K3.24
+C;X9;Y10;K3.34
+C;X10;Y10;K3.19
+C;X11;Y10;K3.25
+C;X12;Y10;K3.41
+C;X13;Y10;K""
 C;X14;Y10;K""
 C;X15;Y10;K""
 C;X16;Y10;K""
