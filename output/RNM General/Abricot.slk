@@ -16,7 +16,7 @@ F;W4 4 20
 F;SM5;X1;Y1
 C;K"Abricot - RNM"
 F;SM5;X1;Y2
-C;K"prix moyens mensuels du 01-07-2025 au 30-06-2026"
+C;K"prix moyens mensuels du 01-08-2025 au 31-07-2026"
 F;FG0C;SM6;X1;Y4
 C;K"Stade"
 F;FG0C;SM6;X2;Y4
@@ -26,35 +26,35 @@ C;K"Libellé"
 F;FG0C;SM6;X4;Y4
 C;K"Unité"
 F;FG0C;SM6;X5;Y4
-C;K"Juil. 2025"
-F;FG0C;SM6;X6;Y4
 C;K"Août 2025"
-F;FG0C;SM6;X7;Y4
+F;FG0C;SM6;X6;Y4
 C;K"Septe. 2025"
-F;FG0C;SM6;X8;Y4
+F;FG0C;SM6;X7;Y4
 C;K"Octo. 2025"
-F;FG0C;SM6;X9;Y4
+F;FG0C;SM6;X8;Y4
 C;K"Nove. 2025"
-F;FG0C;SM6;X10;Y4
+F;FG0C;SM6;X9;Y4
 C;K"Déce. 2025"
-F;FG0C;SM6;X11;Y4
+F;FG0C;SM6;X10;Y4
 C;K"Janv. 2026"
-F;FG0C;SM6;X12;Y4
+F;FG0C;SM6;X11;Y4
 C;K"Févr. 2026"
-F;FG0C;SM6;X13;Y4
+F;FG0C;SM6;X12;Y4
 C;K"Mars 2026"
-F;FG0C;SM6;X14;Y4
+F;FG0C;SM6;X13;Y4
 C;K"Avril 2026"
-F;FG0C;SM6;X15;Y4
+F;FG0C;SM6;X14;Y4
 C;K"Mai 2026"
-F;FG0C;SM6;X16;Y4
+F;FG0C;SM6;X15;Y4
 C;K"Juin 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Juil. 2026"
 C;X1;Y5;K"Marché de producteurs"
 C;X2;Y5;K"Marché de Lyon-Corbas carreau : fruits et légumes"
 C;X3;Y5;K"ABRICOT Bergeron Rhône-Alpes cat.I 40-45mm"
 C;X4;Y5;K"euro HT le kg"
-C;X5;Y5;K1.90
-C;X6;Y5;K1.85
+C;X5;Y5;K1.85
+C;X6;Y5;K""
 C;X7;Y5;K""
 C;X8;Y5;K""
 C;X9;Y5;K""
@@ -64,13 +64,13 @@ C;X12;Y5;K""
 C;X13;Y5;K""
 C;X14;Y5;K""
 C;X15;Y5;K""
-C;X16;Y5;K""
+C;X16;Y5;K1.95
 C;X1;Y6;K"Marché de producteurs"
 C;X2;Y6;K"Marché de Lyon-Corbas carreau : fruits et légumes"
 C;X3;Y6;K"ABRICOT Bergeron Rhône-Alpes cat.I 45-50mm"
 C;X4;Y6;K"euro HT le kg"
-C;X5;Y6;K2.36
-C;X6;Y6;K2.30
+C;X5;Y6;K2.30
+C;X6;Y6;K""
 C;X7;Y6;K""
 C;X8;Y6;K""
 C;X9;Y6;K""
@@ -80,12 +80,12 @@ C;X12;Y6;K""
 C;X13;Y6;K""
 C;X14;Y6;K""
 C;X15;Y6;K""
-C;X16;Y6;K""
+C;X16;Y6;K2.28
 C;X1;Y7;K"Marché de producteurs"
 C;X2;Y7;K"Marché de Lyon-Corbas carreau : fruits et légumes"
 C;X3;Y7;K"ABRICOT Bergeron Rhône-Alpes cat.I 50-55mm"
 C;X4;Y7;K"euro HT le kg"
-C;X5;Y7;K2.64
+C;X5;Y7;K""
 C;X6;Y7;K""
 C;X7;Y7;K""
 C;X8;Y7;K""
@@ -96,7 +96,7 @@ C;X12;Y7;K""
 C;X13;Y7;K""
 C;X14;Y7;K""
 C;X15;Y7;K""
-C;X16;Y7;K""
+C;X16;Y7;K2.57
 C;X1;Y8;K"Marché de producteurs"
 C;X2;Y8;K"Marché de Lyon-Corbas carreau : fruits et légumes"
 C;X3;Y8;K"ABRICOT Orangered Rhône-Alpes 40-45mm"
@@ -111,8 +111,8 @@ C;X11;Y8;K""
 C;X12;Y8;K""
 C;X13;Y8;K""
 C;X14;Y8;K""
-C;X15;Y8;K""
-C;X16;Y8;K2.50
+C;X15;Y8;K2.50
+C;X16;Y8;K""
 C;X1;Y9;K"Marché de producteurs"
 C;X2;Y9;K"Marché de Lyon-Corbas carreau : fruits et légumes"
 C;X3;Y9;K"ABRICOT Orangered Rhône-Alpes 45-50mm"
@@ -127,8 +127,8 @@ C;X11;Y9;K""
 C;X12;Y9;K""
 C;X13;Y9;K""
 C;X14;Y9;K""
-C;X15;Y9;K""
-C;X16;Y9;K3.12
+C;X15;Y9;K3.12
+C;X16;Y9;K""
 C;X1;Y10;K"Marché de producteurs"
 C;X2;Y10;K"Marché de Lyon-Corbas carreau : fruits et légumes"
 C;X3;Y10;K"ABRICOT Orangered Rhône-Alpes 50-55mm"
@@ -143,13 +143,13 @@ C;X11;Y10;K""
 C;X12;Y10;K""
 C;X13;Y10;K""
 C;X14;Y10;K""
-C;X15;Y10;K""
-C;X16;Y10;K3.30
+C;X15;Y10;K3.30
+C;X16;Y10;K""
 C;X1;Y11;K"Marché de producteurs"
 C;X2;Y11;K"Marché de Lyon-Corbas carreau : fruits et légumes"
 C;X3;Y11;K"ABRICOT type orangé rouge Rhône-Alpes cat.I 40-45mm"
 C;X4;Y11;K"euro HT le kg"
-C;X5;Y11;K1.85
+C;X5;Y11;K""
 C;X6;Y11;K""
 C;X7;Y11;K""
 C;X8;Y11;K""
@@ -159,13 +159,13 @@ C;X11;Y11;K""
 C;X12;Y11;K""
 C;X13;Y11;K""
 C;X14;Y11;K""
-C;X15;Y11;K""
-C;X16;Y11;K2.14
+C;X15;Y11;K2.14
+C;X16;Y11;K1.77
 C;X1;Y12;K"Marché de producteurs"
 C;X2;Y12;K"Marché de Lyon-Corbas carreau : fruits et légumes"
 C;X3;Y12;K"ABRICOT type orangé rouge Rhône-Alpes cat.I 45-50mm"
 C;X4;Y12;K"euro HT le kg"
-C;X5;Y12;K2.08
+C;X5;Y12;K""
 C;X6;Y12;K""
 C;X7;Y12;K""
 C;X8;Y12;K""
@@ -175,13 +175,13 @@ C;X11;Y12;K""
 C;X12;Y12;K""
 C;X13;Y12;K""
 C;X14;Y12;K""
-C;X15;Y12;K""
-C;X16;Y12;K2.55
+C;X15;Y12;K2.55
+C;X16;Y12;K2.20
 C;X1;Y13;K"Marché de producteurs"
 C;X2;Y13;K"Marché de Lyon-Corbas carreau : fruits et légumes"
 C;X3;Y13;K"ABRICOT type orangé rouge Rhône-Alpes cat.I 50-55mm"
 C;X4;Y13;K"euro HT le kg"
-C;X5;Y13;K2.42
+C;X5;Y13;K""
 C;X6;Y13;K""
 C;X7;Y13;K""
 C;X8;Y13;K""
@@ -191,14 +191,14 @@ C;X11;Y13;K""
 C;X12;Y13;K""
 C;X13;Y13;K""
 C;X14;Y13;K""
-C;X15;Y13;K""
-C;X16;Y13;K3.04
+C;X15;Y13;K3.04
+C;X16;Y13;K2.63
 C;X1;Y14;K"Marché de producteurs"
 C;X2;Y14;K"Marché de Lyon-Corbas carreau : fruits et légumes"
 C;X3;Y14;K"ABRICOT variétés tardives Rhône-Alpes cat.I 45-50mm vrac"
 C;X4;Y14;K"euro HT le kg"
-C;X5;Y14;K""
-C;X6;Y14;K2.30
+C;X5;Y14;K2.30
+C;X6;Y14;K""
 C;X7;Y14;K""
 C;X8;Y14;K""
 C;X9;Y14;K""
@@ -213,8 +213,8 @@ C;X1;Y15;K"Marché de producteurs"
 C;X2;Y15;K"Marché de Lyon-Corbas carreau : fruits et légumes"
 C;X3;Y15;K"ABRICOT variétés tardives Rhône-Alpes cat.I 50-55mm vrac"
 C;X4;Y15;K"euro HT le kg"
-C;X5;Y15;K""
-C;X6;Y15;K2.60
+C;X5;Y15;K2.60
+C;X6;Y15;K""
 C;X7;Y15;K""
 C;X8;Y15;K""
 C;X9;Y15;K""
@@ -229,18 +229,18 @@ C;X1;Y16;K"Marché de producteurs"
 C;X2;Y16;K"Marché de Perpignan carreau : fruits et légumes"
 C;X3;Y16;K"ABRICOT précoce Roussillon 45-50mm"
 C;X4;Y16;K"euro HT le kg"
-C;X5;Y16;K2.31
+C;X5;Y16;K2.00
 C;X6;Y16;K2.00
-C;X7;Y16;K2.00
+C;X7;Y16;K""
 C;X8;Y16;K""
 C;X9;Y16;K""
 C;X10;Y16;K""
 C;X11;Y16;K""
 C;X12;Y16;K""
 C;X13;Y16;K""
-C;X14;Y16;K""
-C;X15;Y16;K4.25
-C;X16;Y16;K3.25
+C;X14;Y16;K4.25
+C;X15;Y16;K3.25
+C;X16;Y16;K""
 C;X1;Y17;K"Marché de producteurs"
 C;X2;Y17;K"Marché de Perpignan carreau : fruits et légumes"
 C;X3;Y17;K"ABRICOT précoce Roussillon 50-55mm"
@@ -254,25 +254,25 @@ C;X10;Y17;K""
 C;X11;Y17;K""
 C;X12;Y17;K""
 C;X13;Y17;K""
-C;X14;Y17;K""
-C;X15;Y17;K4.00
-C;X16;Y17;K3.75
+C;X14;Y17;K4.00
+C;X15;Y17;K3.75
+C;X16;Y17;K""
 C;X1;Y18;K"Marché de producteurs"
 C;X2;Y18;K"Marché de Perpignan carreau : fruits et légumes"
 C;X3;Y18;K"ABRICOT précoce Roussillon cat.I 40-45mm"
 C;X4;Y18;K"euro HT le kg"
-C;X5;Y18;K1.88
+C;X5;Y18;K2.00
 C;X6;Y18;K2.00
-C;X7;Y18;K2.00
+C;X7;Y18;K""
 C;X8;Y18;K""
 C;X9;Y18;K""
 C;X10;Y18;K""
 C;X11;Y18;K""
 C;X12;Y18;K""
 C;X13;Y18;K""
-C;X14;Y18;K""
-C;X15;Y18;K3.50
-C;X16;Y18;K2.75
+C;X14;Y18;K3.50
+C;X15;Y18;K2.75
+C;X16;Y18;K""
 C;X1;Y19;K"Marché de producteurs"
 C;X2;Y19;K"Marché de Perpignan carreau : fruits et légumes"
 C;X3;Y19;K"ABRICOT type orangé rouge Roussillon 40-45mm"
@@ -287,8 +287,8 @@ C;X11;Y19;K""
 C;X12;Y19;K""
 C;X13;Y19;K""
 C;X14;Y19;K""
-C;X15;Y19;K""
-C;X16;Y19;K2.80
+C;X15;Y19;K2.50
+C;X16;Y19;K2.50
 C;X1;Y20;K"Marché de producteurs"
 C;X2;Y20;K"Marché de Perpignan carreau : fruits et légumes"
 C;X3;Y20;K"ABRICOT type orangé rouge Roussillon 45-50mm"
@@ -303,7 +303,7 @@ C;X11;Y20;K""
 C;X12;Y20;K""
 C;X13;Y20;K""
 C;X14;Y20;K""
-C;X15;Y20;K""
+C;X15;Y20;K2.80
 C;X16;Y20;K2.80
 C;X1;Y21;K"Marché de producteurs"
 C;X2;Y21;K"Marché de Perpignan carreau : fruits et légumes"
@@ -319,13 +319,13 @@ C;X11;Y21;K""
 C;X12;Y21;K""
 C;X13;Y21;K""
 C;X14;Y21;K""
-C;X15;Y21;K""
-C;X16;Y21;K2.50
+C;X15;Y21;K2.80
+C;X16;Y21;K2.92
 C;X1;Y22;K"Marché de producteurs"
 C;X2;Y22;K"MIN d'Agen carreau : fruits et légumes"
 C;X3;Y22;K"ABRICOT Sud-Ouest cat.I 40-45mm"
 C;X4;Y22;K"euro HT le kg"
-C;X5;Y22;K2.42
+C;X5;Y22;K""
 C;X6;Y22;K""
 C;X7;Y22;K""
 C;X8;Y22;K""
@@ -335,14 +335,14 @@ C;X11;Y22;K""
 C;X12;Y22;K""
 C;X13;Y22;K""
 C;X14;Y22;K""
-C;X15;Y22;K""
-C;X16;Y22;K2.75
+C;X15;Y22;K2.75
+C;X16;Y22;K2.35
 C;X1;Y23;K"Marché de producteurs"
 C;X2;Y23;K"MIN d'Agen carreau : fruits et légumes"
 C;X3;Y23;K"ABRICOT Sud-Ouest cat.I 45-50mm"
 C;X4;Y23;K"euro HT le kg"
-C;X5;Y23;K2.88
-C;X6;Y23;K3.10
+C;X5;Y23;K3.10
+C;X6;Y23;K""
 C;X7;Y23;K""
 C;X8;Y23;K""
 C;X9;Y23;K""
@@ -350,15 +350,15 @@ C;X10;Y23;K""
 C;X11;Y23;K""
 C;X12;Y23;K""
 C;X13;Y23;K""
-C;X14;Y23;K""
-C;X15;Y23;K3.75
-C;X16;Y23;K3.28
-C;X1;Y24;K"Expédition"
-C;X2;Y24;K"Bassin Auvergne Rhône-Alpes : fruits d'été"
-C;X3;Y24;K"ABRICOT Bergeron Rhône-Alpes cat.I 40-45mm barq.1kg"
+C;X14;Y23;K3.75
+C;X15;Y23;K3.28
+C;X16;Y23;K""
+C;X1;Y24;K"Marché de producteurs"
+C;X2;Y24;K"MIN de Châteaurenard carreau : fruits et légumes"
+C;X3;Y24;K"ABRICOT type orangé rouge Sud-Est 40-45mm plateau"
 C;X4;Y24;K"euro HT le kg"
-C;X5;Y24;K2.03
-C;X6;Y24;K2.08
+C;X5;Y24;K""
+C;X6;Y24;K""
 C;X7;Y24;K""
 C;X8;Y24;K""
 C;X9;Y24;K""
@@ -368,12 +368,12 @@ C;X12;Y24;K""
 C;X13;Y24;K""
 C;X14;Y24;K""
 C;X15;Y24;K""
-C;X16;Y24;K""
-C;X1;Y25;K"Expédition"
-C;X2;Y25;K"Bassin Auvergne Rhône-Alpes : fruits d'été"
-C;X3;Y25;K"ABRICOT Bergeron Rhône-Alpes cat.I 40-45mm plateau"
+C;X16;Y24;K1.30
+C;X1;Y25;K"Marché de producteurs"
+C;X2;Y25;K"MIN de Châteaurenard carreau : fruits et légumes"
+C;X3;Y25;K"ABRICOT type orangé rouge Sud-Est 45-50mm plateau"
 C;X4;Y25;K"euro HT le kg"
-C;X5;Y25;K1.64
+C;X5;Y25;K""
 C;X6;Y25;K""
 C;X7;Y25;K""
 C;X8;Y25;K""
@@ -384,13 +384,13 @@ C;X12;Y25;K""
 C;X13;Y25;K""
 C;X14;Y25;K""
 C;X15;Y25;K""
-C;X16;Y25;K""
-C;X1;Y26;K"Expédition"
-C;X2;Y26;K"Bassin Auvergne Rhône-Alpes : fruits d'été"
-C;X3;Y26;K"ABRICOT Bergeron Rhône-Alpes cat.I 45-50mm plateau"
+C;X16;Y25;K1.70
+C;X1;Y26;K"Marché de producteurs"
+C;X2;Y26;K"MIN de Châteaurenard carreau : fruits et légumes"
+C;X3;Y26;K"ABRICOT type orangé rouge Sud-Est 50-55mm plateau"
 C;X4;Y26;K"euro HT le kg"
-C;X5;Y26;K1.96
-C;X6;Y26;K2.20
+C;X5;Y26;K""
+C;X6;Y26;K""
 C;X7;Y26;K""
 C;X8;Y26;K""
 C;X9;Y26;K""
@@ -400,13 +400,13 @@ C;X12;Y26;K""
 C;X13;Y26;K""
 C;X14;Y26;K""
 C;X15;Y26;K""
-C;X16;Y26;K""
+C;X16;Y26;K2.30
 C;X1;Y27;K"Expédition"
 C;X2;Y27;K"Bassin Auvergne Rhône-Alpes : fruits d'été"
-C;X3;Y27;K"ABRICOT Bergeron Rhône-Alpes cat.I 50-55mm plateau"
+C;X3;Y27;K"ABRICOT Bergeron Rhône-Alpes cat.I 40-45mm barq.1kg"
 C;X4;Y27;K"euro HT le kg"
-C;X5;Y27;K2.22
-C;X6;Y27;K2.30
+C;X5;Y27;K2.08
+C;X6;Y27;K""
 C;X7;Y27;K""
 C;X8;Y27;K""
 C;X9;Y27;K""
@@ -416,13 +416,13 @@ C;X12;Y27;K""
 C;X13;Y27;K""
 C;X14;Y27;K""
 C;X15;Y27;K""
-C;X16;Y27;K""
+C;X16;Y27;K2.10
 C;X1;Y28;K"Expédition"
 C;X2;Y28;K"Bassin Auvergne Rhône-Alpes : fruits d'été"
-C;X3;Y28;K"ABRICOT type orangé rouge Rhône-Alpes cat.I 40-45mm barq.1kg"
+C;X3;Y28;K"ABRICOT Bergeron Rhône-Alpes cat.I 40-45mm plateau"
 C;X4;Y28;K"euro HT le kg"
-C;X5;Y28;K2.02
-C;X6;Y28;K2.07
+C;X5;Y28;K""
+C;X6;Y28;K""
 C;X7;Y28;K""
 C;X8;Y28;K""
 C;X9;Y28;K""
@@ -432,13 +432,13 @@ C;X12;Y28;K""
 C;X13;Y28;K""
 C;X14;Y28;K""
 C;X15;Y28;K""
-C;X16;Y28;K2.06
+C;X16;Y28;K1.55
 C;X1;Y29;K"Expédition"
 C;X2;Y29;K"Bassin Auvergne Rhône-Alpes : fruits d'été"
-C;X3;Y29;K"ABRICOT type orangé rouge Rhône-Alpes cat.I 40-45mm plateau"
+C;X3;Y29;K"ABRICOT Bergeron Rhône-Alpes cat.I 45-50mm plateau"
 C;X4;Y29;K"euro HT le kg"
-C;X5;Y29;K1.62
-C;X6;Y29;K1.60
+C;X5;Y29;K2.20
+C;X6;Y29;K""
 C;X7;Y29;K""
 C;X8;Y29;K""
 C;X9;Y29;K""
@@ -448,13 +448,13 @@ C;X12;Y29;K""
 C;X13;Y29;K""
 C;X14;Y29;K""
 C;X15;Y29;K""
-C;X16;Y29;K1.94
+C;X16;Y29;K2.03
 C;X1;Y30;K"Expédition"
 C;X2;Y30;K"Bassin Auvergne Rhône-Alpes : fruits d'été"
-C;X3;Y30;K"ABRICOT type orangé rouge Rhône-Alpes cat.I 45-50mm plateau"
+C;X3;Y30;K"ABRICOT Bergeron Rhône-Alpes cat.I 50-55mm plateau"
 C;X4;Y30;K"euro HT le kg"
-C;X5;Y30;K1.94
-C;X6;Y30;K2.25
+C;X5;Y30;K2.30
+C;X6;Y30;K""
 C;X7;Y30;K""
 C;X8;Y30;K""
 C;X9;Y30;K""
@@ -464,13 +464,13 @@ C;X12;Y30;K""
 C;X13;Y30;K""
 C;X14;Y30;K""
 C;X15;Y30;K""
-C;X16;Y30;K2.39
+C;X16;Y30;K2.31
 C;X1;Y31;K"Expédition"
 C;X2;Y31;K"Bassin Auvergne Rhône-Alpes : fruits d'été"
-C;X3;Y31;K"ABRICOT type orangé rouge Rhône-Alpes cat.I 50-55mm plateau"
+C;X3;Y31;K"ABRICOT type orangé rouge Rhône-Alpes cat.I 40-45mm barq.1kg"
 C;X4;Y31;K"euro HT le kg"
-C;X5;Y31;K2.25
-C;X6;Y31;K2.48
+C;X5;Y31;K2.07
+C;X6;Y31;K""
 C;X7;Y31;K""
 C;X8;Y31;K""
 C;X9;Y31;K""
@@ -479,14 +479,14 @@ C;X11;Y31;K""
 C;X12;Y31;K""
 C;X13;Y31;K""
 C;X14;Y31;K""
-C;X15;Y31;K""
-C;X16;Y31;K2.67
+C;X15;Y31;K2.06
+C;X16;Y31;K1.93
 C;X1;Y32;K"Expédition"
 C;X2;Y32;K"Bassin Auvergne Rhône-Alpes : fruits d'été"
-C;X3;Y32;K"ABRICOT variétés tardives Rhône-Alpes cat.I 40-45mm barq.1kg"
+C;X3;Y32;K"ABRICOT type orangé rouge Rhône-Alpes cat.I 40-45mm plateau"
 C;X4;Y32;K"euro HT le kg"
-C;X5;Y32;K2.02
-C;X6;Y32;K2.16
+C;X5;Y32;K1.60
+C;X6;Y32;K""
 C;X7;Y32;K""
 C;X8;Y32;K""
 C;X9;Y32;K""
@@ -495,14 +495,14 @@ C;X11;Y32;K""
 C;X12;Y32;K""
 C;X13;Y32;K""
 C;X14;Y32;K""
-C;X15;Y32;K""
-C;X16;Y32;K""
+C;X15;Y32;K1.94
+C;X16;Y32;K1.52
 C;X1;Y33;K"Expédition"
 C;X2;Y33;K"Bassin Auvergne Rhône-Alpes : fruits d'été"
-C;X3;Y33;K"ABRICOT variétés tardives Rhône-Alpes cat.I 40-45mm plateau"
+C;X3;Y33;K"ABRICOT type orangé rouge Rhône-Alpes cat.I 45-50mm plateau"
 C;X4;Y33;K"euro HT le kg"
-C;X5;Y33;K1.71
-C;X6;Y33;K1.77
+C;X5;Y33;K2.25
+C;X6;Y33;K""
 C;X7;Y33;K""
 C;X8;Y33;K""
 C;X9;Y33;K""
@@ -511,14 +511,14 @@ C;X11;Y33;K""
 C;X12;Y33;K""
 C;X13;Y33;K""
 C;X14;Y33;K""
-C;X15;Y33;K""
-C;X16;Y33;K""
+C;X15;Y33;K2.39
+C;X16;Y33;K2.02
 C;X1;Y34;K"Expédition"
 C;X2;Y34;K"Bassin Auvergne Rhône-Alpes : fruits d'été"
-C;X3;Y34;K"ABRICOT variétés tardives Rhône-Alpes cat.I 45-50mm plateau"
+C;X3;Y34;K"ABRICOT type orangé rouge Rhône-Alpes cat.I 50-55mm plateau"
 C;X4;Y34;K"euro HT le kg"
-C;X5;Y34;K2.01
-C;X6;Y34;K2.33
+C;X5;Y34;K2.48
+C;X6;Y34;K""
 C;X7;Y34;K""
 C;X8;Y34;K""
 C;X9;Y34;K""
@@ -527,14 +527,14 @@ C;X11;Y34;K""
 C;X12;Y34;K""
 C;X13;Y34;K""
 C;X14;Y34;K""
-C;X15;Y34;K""
-C;X16;Y34;K""
+C;X15;Y34;K2.67
+C;X16;Y34;K2.31
 C;X1;Y35;K"Expédition"
 C;X2;Y35;K"Bassin Auvergne Rhône-Alpes : fruits d'été"
-C;X3;Y35;K"ABRICOT variétés tardives Rhône-Alpes cat.I 50-55mm plateau"
+C;X3;Y35;K"ABRICOT variétés tardives Rhône-Alpes cat.I 40-45mm barq.1kg"
 C;X4;Y35;K"euro HT le kg"
-C;X5;Y35;K2.31
-C;X6;Y35;K2.54
+C;X5;Y35;K2.16
+C;X6;Y35;K""
 C;X7;Y35;K""
 C;X8;Y35;K""
 C;X9;Y35;K""
@@ -546,10 +546,10 @@ C;X14;Y35;K""
 C;X15;Y35;K""
 C;X16;Y35;K""
 C;X1;Y36;K"Expédition"
-C;X2;Y36;K"Bassin Roussillon : fruits et légumes"
-C;X3;Y36;K"ABRICOT AOP Rouges du Roussillon cat.I 40-45mm"
+C;X2;Y36;K"Bassin Auvergne Rhône-Alpes : fruits d'été"
+C;X3;Y36;K"ABRICOT variétés tardives Rhône-Alpes cat.I 40-45mm plateau"
 C;X4;Y36;K"euro HT le kg"
-C;X5;Y36;K2.30
+C;X5;Y36;K1.77
 C;X6;Y36;K""
 C;X7;Y36;K""
 C;X8;Y36;K""
@@ -560,12 +560,12 @@ C;X12;Y36;K""
 C;X13;Y36;K""
 C;X14;Y36;K""
 C;X15;Y36;K""
-C;X16;Y36;K""
+C;X16;Y36;K1.77
 C;X1;Y37;K"Expédition"
-C;X2;Y37;K"Bassin Roussillon : fruits et légumes"
-C;X3;Y37;K"ABRICOT AOP Rouges du Roussillon cat.I 45-50mm"
+C;X2;Y37;K"Bassin Auvergne Rhône-Alpes : fruits d'été"
+C;X3;Y37;K"ABRICOT variétés tardives Rhône-Alpes cat.I 45-50mm plateau"
 C;X4;Y37;K"euro HT le kg"
-C;X5;Y37;K2.40
+C;X5;Y37;K2.33
 C;X6;Y37;K""
 C;X7;Y37;K""
 C;X8;Y37;K""
@@ -576,12 +576,12 @@ C;X12;Y37;K""
 C;X13;Y37;K""
 C;X14;Y37;K""
 C;X15;Y37;K""
-C;X16;Y37;K""
+C;X16;Y37;K2.18
 C;X1;Y38;K"Expédition"
-C;X2;Y38;K"Bassin Roussillon : fruits et légumes"
-C;X3;Y38;K"ABRICOT type orangé rouge Roussillon cat.I 35-40mm barq.1kg"
+C;X2;Y38;K"Bassin Auvergne Rhône-Alpes : fruits d'été"
+C;X3;Y38;K"ABRICOT variétés tardives Rhône-Alpes cat.I 50-55mm plateau"
 C;X4;Y38;K"euro HT le kg"
-C;X5;Y38;K""
+C;X5;Y38;K2.54
 C;X6;Y38;K""
 C;X7;Y38;K""
 C;X8;Y38;K""
@@ -592,13 +592,13 @@ C;X12;Y38;K""
 C;X13;Y38;K""
 C;X14;Y38;K""
 C;X15;Y38;K""
-C;X16;Y38;K2.10
+C;X16;Y38;K2.48
 C;X1;Y39;K"Expédition"
 C;X2;Y39;K"Bassin Roussillon : fruits et légumes"
-C;X3;Y39;K"ABRICOT type orangé rouge Roussillon cat.I 40-45mm barq.1kg"
+C;X3;Y39;K"ABRICOT type orangé rouge Roussillon cat.I 35-40mm barq.1kg"
 C;X4;Y39;K"euro HT le kg"
-C;X5;Y39;K1.84
-C;X6;Y39;K1.96
+C;X5;Y39;K""
+C;X6;Y39;K""
 C;X7;Y39;K""
 C;X8;Y39;K""
 C;X9;Y39;K""
@@ -607,14 +607,14 @@ C;X11;Y39;K""
 C;X12;Y39;K""
 C;X13;Y39;K""
 C;X14;Y39;K""
-C;X15;Y39;K""
-C;X16;Y39;K2.24
+C;X15;Y39;K2.10
+C;X16;Y39;K1.82
 C;X1;Y40;K"Expédition"
 C;X2;Y40;K"Bassin Roussillon : fruits et légumes"
-C;X3;Y40;K"ABRICOT type orangé rouge Roussillon cat.I 40-45mm plateau"
+C;X3;Y40;K"ABRICOT type orangé rouge Roussillon cat.I 40-45mm barq.1kg"
 C;X4;Y40;K"euro HT le kg"
-C;X5;Y40;K1.52
-C;X6;Y40;K1.60
+C;X5;Y40;K1.96
+C;X6;Y40;K""
 C;X7;Y40;K""
 C;X8;Y40;K""
 C;X9;Y40;K""
@@ -623,14 +623,14 @@ C;X11;Y40;K""
 C;X12;Y40;K""
 C;X13;Y40;K""
 C;X14;Y40;K""
-C;X15;Y40;K2.47
-C;X16;Y40;K2.24
+C;X15;Y40;K2.24
+C;X16;Y40;K1.98
 C;X1;Y41;K"Expédition"
 C;X2;Y41;K"Bassin Roussillon : fruits et légumes"
-C;X3;Y41;K"ABRICOT type orangé rouge Roussillon cat.I 45-50mm plateau"
+C;X3;Y41;K"ABRICOT type orangé rouge Roussillon cat.I 40-45mm plateau"
 C;X4;Y41;K"euro HT le kg"
-C;X5;Y41;K1.87
-C;X6;Y41;K2.23
+C;X5;Y41;K1.60
+C;X6;Y41;K""
 C;X7;Y41;K""
 C;X8;Y41;K""
 C;X9;Y41;K""
@@ -638,15 +638,15 @@ C;X10;Y41;K""
 C;X11;Y41;K""
 C;X12;Y41;K""
 C;X13;Y41;K""
-C;X14;Y41;K""
-C;X15;Y41;K3.03
-C;X16;Y41;K2.53
+C;X14;Y41;K2.47
+C;X15;Y41;K2.24
+C;X16;Y41;K1.90
 C;X1;Y42;K"Expédition"
 C;X2;Y42;K"Bassin Roussillon : fruits et légumes"
-C;X3;Y42;K"ABRICOT type orangé rouge Roussillon cat.I 50-55mm plateau"
+C;X3;Y42;K"ABRICOT type orangé rouge Roussillon cat.I 45-50mm plateau"
 C;X4;Y42;K"euro HT le kg"
-C;X5;Y42;K1.93
-C;X6;Y42;K2.00
+C;X5;Y42;K2.23
+C;X6;Y42;K""
 C;X7;Y42;K""
 C;X8;Y42;K""
 C;X9;Y42;K""
@@ -654,14 +654,14 @@ C;X10;Y42;K""
 C;X11;Y42;K""
 C;X12;Y42;K""
 C;X13;Y42;K""
-C;X14;Y42;K""
-C;X15;Y42;K3.32
-C;X16;Y42;K2.72
+C;X14;Y42;K3.03
+C;X15;Y42;K2.53
+C;X16;Y42;K2.14
 C;X1;Y43;K"Expédition"
-C;X2;Y43;K"Bassin Roussillon : fruits et légumes bio"
-C;X3;Y43;K"ABRICOT Roussillon biologique 35-40mm"
+C;X2;Y43;K"Bassin Roussillon : fruits et légumes"
+C;X3;Y43;K"ABRICOT type orangé rouge Roussillon cat.I 50-55mm plateau"
 C;X4;Y43;K"euro HT le kg"
-C;X5;Y43;K2.78
+C;X5;Y43;K2.00
 C;X6;Y43;K""
 C;X7;Y43;K""
 C;X8;Y43;K""
@@ -670,15 +670,15 @@ C;X10;Y43;K""
 C;X11;Y43;K""
 C;X12;Y43;K""
 C;X13;Y43;K""
-C;X14;Y43;K""
-C;X15;Y43;K4.08
-C;X16;Y43;K4.37
+C;X14;Y43;K3.32
+C;X15;Y43;K2.72
+C;X16;Y43;K2.30
 C;X1;Y44;K"Expédition"
 C;X2;Y44;K"Bassin Roussillon : fruits et légumes bio"
-C;X3;Y44;K"ABRICOT Roussillon biologique 40-45mm"
+C;X3;Y44;K"ABRICOT Roussillon biologique 35-40mm"
 C;X4;Y44;K"euro HT le kg"
-C;X5;Y44;K3.08
-C;X6;Y44;K3.27
+C;X5;Y44;K""
+C;X6;Y44;K""
 C;X7;Y44;K""
 C;X8;Y44;K""
 C;X9;Y44;K""
@@ -686,15 +686,15 @@ C;X10;Y44;K""
 C;X11;Y44;K""
 C;X12;Y44;K""
 C;X13;Y44;K""
-C;X14;Y44;K""
-C;X15;Y44;K5.00
-C;X16;Y44;K4.95
+C;X14;Y44;K4.08
+C;X15;Y44;K4.37
+C;X16;Y44;K4.45
 C;X1;Y45;K"Expédition"
 C;X2;Y45;K"Bassin Roussillon : fruits et légumes bio"
-C;X3;Y45;K"ABRICOT Roussillon biologique 45-50mm"
+C;X3;Y45;K"ABRICOT Roussillon biologique 40-45mm"
 C;X4;Y45;K"euro HT le kg"
-C;X5;Y45;K3.37
-C;X6;Y45;K4.14
+C;X5;Y45;K3.27
+C;X6;Y45;K""
 C;X7;Y45;K""
 C;X8;Y45;K""
 C;X9;Y45;K""
@@ -702,14 +702,14 @@ C;X10;Y45;K""
 C;X11;Y45;K""
 C;X12;Y45;K""
 C;X13;Y45;K""
-C;X14;Y45;K""
-C;X15;Y45;K5.07
-C;X16;Y45;K5.02
+C;X14;Y45;K5.00
+C;X15;Y45;K4.95
+C;X16;Y45;K5.22
 C;X1;Y46;K"Expédition"
 C;X2;Y46;K"Bassin Roussillon : fruits et légumes bio"
-C;X3;Y46;K"ABRICOT Roussillon biologique 50-55mm"
+C;X3;Y46;K"ABRICOT Roussillon biologique 45-50mm"
 C;X4;Y46;K"euro HT le kg"
-C;X5;Y46;K3.42
+C;X5;Y46;K4.14
 C;X6;Y46;K""
 C;X7;Y46;K""
 C;X8;Y46;K""
@@ -718,14 +718,14 @@ C;X10;Y46;K""
 C;X11;Y46;K""
 C;X12;Y46;K""
 C;X13;Y46;K""
-C;X14;Y46;K""
-C;X15;Y46;K4.96
-C;X16;Y46;K4.90
+C;X14;Y46;K5.07
+C;X15;Y46;K5.02
+C;X16;Y46;K5.32
 C;X1;Y47;K"Expédition"
-C;X2;Y47;K"Bassin Sud-Est : fruits et légumes 2"
-C;X3;Y47;K"ABRICOT Bergeron Sud-Est cat.I 45-50mm plateau"
+C;X2;Y47;K"Bassin Roussillon : fruits et légumes bio"
+C;X3;Y47;K"ABRICOT Roussillon biologique 50-55mm"
 C;X4;Y47;K"euro HT le kg"
-C;X5;Y47;K1.82
+C;X5;Y47;K""
 C;X6;Y47;K""
 C;X7;Y47;K""
 C;X8;Y47;K""
@@ -734,14 +734,14 @@ C;X10;Y47;K""
 C;X11;Y47;K""
 C;X12;Y47;K""
 C;X13;Y47;K""
-C;X14;Y47;K""
-C;X15;Y47;K""
-C;X16;Y47;K""
+C;X14;Y47;K4.96
+C;X15;Y47;K4.90
+C;X16;Y47;K5.02
 C;X1;Y48;K"Expédition"
 C;X2;Y48;K"Bassin Sud-Est : fruits et légumes 2"
-C;X3;Y48;K"ABRICOT Orangered Sud-Est cat.I 40-45mm plateau"
+C;X3;Y48;K"ABRICOT type orangé rouge Sud-Est 35-40mm plateau"
 C;X4;Y48;K"euro HT le kg"
-C;X5;Y48;K1.60
+C;X5;Y48;K""
 C;X6;Y48;K""
 C;X7;Y48;K""
 C;X8;Y48;K""
@@ -751,13 +751,13 @@ C;X11;Y48;K""
 C;X12;Y48;K""
 C;X13;Y48;K""
 C;X14;Y48;K""
-C;X15;Y48;K""
+C;X15;Y48;K1.83
 C;X16;Y48;K""
 C;X1;Y49;K"Expédition"
 C;X2;Y49;K"Bassin Sud-Est : fruits et légumes 2"
-C;X3;Y49;K"ABRICOT Orangered Sud-Est cat.I 45-50mm plateau"
+C;X3;Y49;K"ABRICOT type orangé rouge Sud-Est cat.I 35-40mm barq.1kg"
 C;X4;Y49;K"euro HT le kg"
-C;X5;Y49;K2.55
+C;X5;Y49;K""
 C;X6;Y49;K""
 C;X7;Y49;K""
 C;X8;Y49;K""
@@ -766,14 +766,14 @@ C;X10;Y49;K""
 C;X11;Y49;K""
 C;X12;Y49;K""
 C;X13;Y49;K""
-C;X14;Y49;K""
-C;X15;Y49;K""
+C;X14;Y49;K2.30
+C;X15;Y49;K2.30
 C;X16;Y49;K""
 C;X1;Y50;K"Expédition"
 C;X2;Y50;K"Bassin Sud-Est : fruits et légumes 2"
-C;X3;Y50;K"ABRICOT Orangered Sud-Est cat.I 50-55mm plateau"
+C;X3;Y50;K"ABRICOT type orangé rouge Sud-Est cat.I 40-45mm barq.1kg"
 C;X4;Y50;K"euro HT le kg"
-C;X5;Y50;K2.65
+C;X5;Y50;K""
 C;X6;Y50;K""
 C;X7;Y50;K""
 C;X8;Y50;K""
@@ -782,14 +782,14 @@ C;X10;Y50;K""
 C;X11;Y50;K""
 C;X12;Y50;K""
 C;X13;Y50;K""
-C;X14;Y50;K""
-C;X15;Y50;K""
-C;X16;Y50;K""
+C;X14;Y50;K2.70
+C;X15;Y50;K2.44
+C;X16;Y50;K2.01
 C;X1;Y51;K"Expédition"
 C;X2;Y51;K"Bassin Sud-Est : fruits et légumes 2"
-C;X3;Y51;K"ABRICOT type orangé rouge Sud-Est 35-40mm plateau"
+C;X3;Y51;K"ABRICOT type orangé rouge Sud-Est cat.I 40-45mm plateau"
 C;X4;Y51;K"euro HT le kg"
-C;X5;Y51;K""
+C;X5;Y51;K1.99
 C;X6;Y51;K""
 C;X7;Y51;K""
 C;X8;Y51;K""
@@ -798,14 +798,14 @@ C;X10;Y51;K""
 C;X11;Y51;K""
 C;X12;Y51;K""
 C;X13;Y51;K""
-C;X14;Y51;K""
-C;X15;Y51;K""
-C;X16;Y51;K1.83
+C;X14;Y51;K2.47
+C;X15;Y51;K2.25
+C;X16;Y51;K1.99
 C;X1;Y52;K"Expédition"
 C;X2;Y52;K"Bassin Sud-Est : fruits et légumes 2"
-C;X3;Y52;K"ABRICOT type orangé rouge Sud-Est cat.I 35-40mm barq.1kg"
+C;X3;Y52;K"ABRICOT type orangé rouge Sud-Est cat.I 45-50mm plateau"
 C;X4;Y52;K"euro HT le kg"
-C;X5;Y52;K""
+C;X5;Y52;K2.47
 C;X6;Y52;K""
 C;X7;Y52;K""
 C;X8;Y52;K""
@@ -814,14 +814,14 @@ C;X10;Y52;K""
 C;X11;Y52;K""
 C;X12;Y52;K""
 C;X13;Y52;K""
-C;X14;Y52;K""
-C;X15;Y52;K2.30
-C;X16;Y52;K2.30
+C;X14;Y52;K3.17
+C;X15;Y52;K2.62
+C;X16;Y52;K2.25
 C;X1;Y53;K"Expédition"
 C;X2;Y53;K"Bassin Sud-Est : fruits et légumes 2"
-C;X3;Y53;K"ABRICOT type orangé rouge Sud-Est cat.I 40-45mm barq.1kg"
+C;X3;Y53;K"ABRICOT type orangé rouge Sud-Est cat.I 50-55mm plateau"
 C;X4;Y53;K"euro HT le kg"
-C;X5;Y53;K2.07
+C;X5;Y53;K2.63
 C;X6;Y53;K""
 C;X7;Y53;K""
 C;X8;Y53;K""
@@ -830,15 +830,15 @@ C;X10;Y53;K""
 C;X11;Y53;K""
 C;X12;Y53;K""
 C;X13;Y53;K""
-C;X14;Y53;K""
-C;X15;Y53;K2.70
-C;X16;Y53;K2.44
+C;X14;Y53;K3.43
+C;X15;Y53;K2.84
+C;X16;Y53;K2.45
 C;X1;Y54;K"Expédition"
 C;X2;Y54;K"Bassin Sud-Est : fruits et légumes 2"
-C;X3;Y54;K"ABRICOT type orangé rouge Sud-Est cat.I 40-45mm plateau"
+C;X3;Y54;K"ABRICOT type orangé rouge Sud-Est cat.I 50-55mm plateau 1rg"
 C;X4;Y54;K"euro HT le kg"
-C;X5;Y54;K1.67
-C;X6;Y54;K1.99
+C;X5;Y54;K""
+C;X6;Y54;K""
 C;X7;Y54;K""
 C;X8;Y54;K""
 C;X9;Y54;K""
@@ -847,14 +847,14 @@ C;X11;Y54;K""
 C;X12;Y54;K""
 C;X13;Y54;K""
 C;X14;Y54;K""
-C;X15;Y54;K2.47
-C;X16;Y54;K2.25
+C;X15;Y54;K3.42
+C;X16;Y54;K3.11
 C;X1;Y55;K"Expédition"
 C;X2;Y55;K"Bassin Sud-Est : fruits et légumes 2"
-C;X3;Y55;K"ABRICOT type orangé rouge Sud-Est cat.I 45-50mm plateau"
+C;X3;Y55;K"ABRICOT type orangé rouge Sud-Est cat.I 55-60mm plateau 1rg"
 C;X4;Y55;K"euro HT le kg"
-C;X5;Y55;K2.17
-C;X6;Y55;K2.47
+C;X5;Y55;K""
+C;X6;Y55;K""
 C;X7;Y55;K""
 C;X8;Y55;K""
 C;X9;Y55;K""
@@ -863,14 +863,14 @@ C;X11;Y55;K""
 C;X12;Y55;K""
 C;X13;Y55;K""
 C;X14;Y55;K""
-C;X15;Y55;K3.17
-C;X16;Y55;K2.62
+C;X15;Y55;K3.63
+C;X16;Y55;K3.40
 C;X1;Y56;K"Expédition"
-C;X2;Y56;K"Bassin Sud-Est : fruits et légumes 2"
-C;X3;Y56;K"ABRICOT type orangé rouge Sud-Est cat.I 50-55mm plateau"
+C;X2;Y56;K"Bassin Sud-Est : fruits et légumes bio"
+C;X3;Y56;K"ABRICOT type orangé rouge Sud-Est biologique 35-40mm plateau"
 C;X4;Y56;K"euro HT le kg"
-C;X5;Y56;K2.34
-C;X6;Y56;K2.63
+C;X5;Y56;K""
+C;X6;Y56;K""
 C;X7;Y56;K""
 C;X8;Y56;K""
 C;X9;Y56;K""
@@ -878,12 +878,12 @@ C;X10;Y56;K""
 C;X11;Y56;K""
 C;X12;Y56;K""
 C;X13;Y56;K""
-C;X14;Y56;K""
-C;X15;Y56;K3.43
-C;X16;Y56;K2.84
+C;X14;Y56;K3.40
+C;X15;Y56;K3.23
+C;X16;Y56;K3.19
 C;X1;Y57;K"Expédition"
-C;X2;Y57;K"Bassin Sud-Est : fruits et légumes 2"
-C;X3;Y57;K"ABRICOT type orangé rouge Sud-Est cat.I 50-55mm plateau 1rg"
+C;X2;Y57;K"Bassin Sud-Est : fruits et légumes bio"
+C;X3;Y57;K"ABRICOT type orangé rouge Sud-Est biologique 40-45mm plateau"
 C;X4;Y57;K"euro HT le kg"
 C;X5;Y57;K""
 C;X6;Y57;K""
@@ -894,12 +894,12 @@ C;X10;Y57;K""
 C;X11;Y57;K""
 C;X12;Y57;K""
 C;X13;Y57;K""
-C;X14;Y57;K""
-C;X15;Y57;K""
-C;X16;Y57;K3.42
+C;X14;Y57;K4.68
+C;X15;Y57;K4.44
+C;X16;Y57;K4.29
 C;X1;Y58;K"Expédition"
-C;X2;Y58;K"Bassin Sud-Est : fruits et légumes 2"
-C;X3;Y58;K"ABRICOT type orangé rouge Sud-Est cat.I 55-60mm plateau 1rg"
+C;X2;Y58;K"Bassin Sud-Est : fruits et légumes bio"
+C;X3;Y58;K"ABRICOT type orangé rouge Sud-Est biologique 45-50mm plateau"
 C;X4;Y58;K"euro HT le kg"
 C;X5;Y58;K""
 C;X6;Y58;K""
@@ -910,14 +910,14 @@ C;X10;Y58;K""
 C;X11;Y58;K""
 C;X12;Y58;K""
 C;X13;Y58;K""
-C;X14;Y58;K""
-C;X15;Y58;K""
-C;X16;Y58;K3.63
+C;X14;Y58;K4.78
+C;X15;Y58;K4.58
+C;X16;Y58;K4.32
 C;X1;Y59;K"Expédition"
 C;X2;Y59;K"Bassin Sud-Est : fruits et légumes bio"
-C;X3;Y59;K"ABRICOT type orangé rouge Sud-Est biologique 35-40mm plateau"
+C;X3;Y59;K"ABRICOT type orangé rouge Sud-Est biologique 50-55mm plateau"
 C;X4;Y59;K"euro HT le kg"
-C;X5;Y59;K2.42
+C;X5;Y59;K""
 C;X6;Y59;K""
 C;X7;Y59;K""
 C;X8;Y59;K""
@@ -927,14 +927,14 @@ C;X11;Y59;K""
 C;X12;Y59;K""
 C;X13;Y59;K""
 C;X14;Y59;K""
-C;X15;Y59;K3.40
-C;X16;Y59;K3.23
+C;X15;Y59;K""
+C;X16;Y59;K4.28
 C;X1;Y60;K"Expédition"
-C;X2;Y60;K"Bassin Sud-Est : fruits et légumes bio"
-C;X3;Y60;K"ABRICOT type orangé rouge Sud-Est biologique 40-45mm plateau"
+C;X2;Y60;K"France : fruits et légumes bio - expédition"
+C;X3;Y60;K"ABRICOT France biologique"
 C;X4;Y60;K"euro HT le kg"
-C;X5;Y60;K3.01
-C;X6;Y60;K""
+C;X5;Y60;K4.24
+C;X6;Y60;K4.82
 C;X7;Y60;K""
 C;X8;Y60;K""
 C;X9;Y60;K""
@@ -943,13 +943,13 @@ C;X11;Y60;K""
 C;X12;Y60;K""
 C;X13;Y60;K""
 C;X14;Y60;K""
-C;X15;Y60;K4.68
-C;X16;Y60;K4.44
-C;X1;Y61;K"Expédition"
-C;X2;Y61;K"Bassin Sud-Est : fruits et légumes bio"
-C;X3;Y61;K"ABRICOT type orangé rouge Sud-Est biologique 45-50mm plateau"
+C;X15;Y60;K4.49
+C;X16;Y60;K4.46
+C;X1;Y61;K"Import"
+C;X2;Y61;K"France : fruits et légumes bio - import"
+C;X3;Y61;K"ABRICOT Espagne biologique cat.I"
 C;X4;Y61;K"euro HT le kg"
-C;X5;Y61;K3.25
+C;X5;Y61;K""
 C;X6;Y61;K""
 C;X7;Y61;K""
 C;X8;Y61;K""
@@ -957,15 +957,15 @@ C;X9;Y61;K""
 C;X10;Y61;K""
 C;X11;Y61;K""
 C;X12;Y61;K""
-C;X13;Y61;K""
-C;X14;Y61;K""
-C;X15;Y61;K4.78
-C;X16;Y61;K4.58
-C;X1;Y62;K"Expédition"
-C;X2;Y62;K"Bassin Sud-Est : fruits et légumes bio"
-C;X3;Y62;K"ABRICOT type orangé rouge Sud-Est biologique 50-55mm plateau"
+C;X13;Y61;K5.03
+C;X14;Y61;K3.83
+C;X15;Y61;K3.40
+C;X16;Y61;K""
+C;X1;Y62;K"Import"
+C;X2;Y62;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y62;K"ABRICOT Espagne cat.I 40-45mm"
 C;X4;Y62;K"euro HT le kg"
-C;X5;Y62;K3.29
+C;X5;Y62;K""
 C;X6;Y62;K""
 C;X7;Y62;K""
 C;X8;Y62;K""
@@ -973,29 +973,29 @@ C;X9;Y62;K""
 C;X10;Y62;K""
 C;X11;Y62;K""
 C;X12;Y62;K""
-C;X13;Y62;K""
-C;X14;Y62;K""
-C;X15;Y62;K""
+C;X13;Y62;K2.90
+C;X14;Y62;K1.96
+C;X15;Y62;K1.71
 C;X16;Y62;K""
-C;X1;Y63;K"Expédition"
-C;X2;Y63;K"France : fruits et légumes bio - expédition"
-C;X3;Y63;K"ABRICOT France biologique"
+C;X1;Y63;K"Import"
+C;X2;Y63;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y63;K"ABRICOT Espagne cat.I 45-50mm"
 C;X4;Y63;K"euro HT le kg"
-C;X5;Y63;K3.10
-C;X6;Y63;K4.24
-C;X7;Y63;K4.82
+C;X5;Y63;K""
+C;X6;Y63;K""
+C;X7;Y63;K""
 C;X8;Y63;K""
 C;X9;Y63;K""
 C;X10;Y63;K""
 C;X11;Y63;K""
 C;X12;Y63;K""
-C;X13;Y63;K""
-C;X14;Y63;K""
-C;X15;Y63;K""
-C;X16;Y63;K4.49
+C;X13;Y63;K3.30
+C;X14;Y63;K2.36
+C;X15;Y63;K1.85
+C;X16;Y63;K""
 C;X1;Y64;K"Import"
-C;X2;Y64;K"France : fruits et légumes bio - import"
-C;X3;Y64;K"ABRICOT Espagne biologique cat.I"
+C;X2;Y64;K"Marché de St-Charles : fruits et légumes - import"
+C;X3;Y64;K"ABRICOT Espagne cat.I 50-55mm"
 C;X4;Y64;K"euro HT le kg"
 C;X5;Y64;K""
 C;X6;Y64;K""
@@ -1005,16 +1005,16 @@ C;X9;Y64;K""
 C;X10;Y64;K""
 C;X11;Y64;K""
 C;X12;Y64;K""
-C;X13;Y64;K""
-C;X14;Y64;K5.03
-C;X15;Y64;K3.83
-C;X16;Y64;K3.40
-C;X1;Y65;K"Import"
-C;X2;Y65;K"Marché de St-Charles : fruits et légumes - import"
-C;X3;Y65;K"ABRICOT Espagne cat.I 40-45mm"
+C;X13;Y64;K3.50
+C;X14;Y64;K2.68
+C;X15;Y64;K1.99
+C;X16;Y64;K""
+C;X1;Y65;K"Grossistes"
+C;X2;Y65;K"France : fruits et légumes bio - grossistes"
+C;X3;Y65;K"ABRICOT France biologique"
 C;X4;Y65;K"euro HT le kg"
-C;X5;Y65;K""
-C;X6;Y65;K""
+C;X5;Y65;K4.96
+C;X6;Y65;K5.33
 C;X7;Y65;K""
 C;X8;Y65;K""
 C;X9;Y65;K""
@@ -1022,14 +1022,14 @@ C;X10;Y65;K""
 C;X11;Y65;K""
 C;X12;Y65;K""
 C;X13;Y65;K""
-C;X14;Y65;K2.90
-C;X15;Y65;K1.96
-C;X16;Y65;K1.71
-C;X1;Y66;K"Import"
-C;X2;Y66;K"Marché de St-Charles : fruits et légumes - import"
-C;X3;Y66;K"ABRICOT Espagne cat.I 45-50mm"
+C;X14;Y65;K6.14
+C;X15;Y65;K5.58
+C;X16;Y65;K5.53
+C;X1;Y66;K"Grossistes"
+C;X2;Y66;K"France : fruits et légumes bio - grossistes"
+C;X3;Y66;K"ABRICOT U.E. biologique"
 C;X4;Y66;K"euro HT le kg"
-C;X5;Y66;K1.27
+C;X5;Y66;K""
 C;X6;Y66;K""
 C;X7;Y66;K""
 C;X8;Y66;K""
@@ -1037,15 +1037,15 @@ C;X9;Y66;K""
 C;X10;Y66;K""
 C;X11;Y66;K""
 C;X12;Y66;K""
-C;X13;Y66;K""
-C;X14;Y66;K3.30
-C;X15;Y66;K2.36
-C;X16;Y66;K1.85
-C;X1;Y67;K"Import"
-C;X2;Y67;K"Marché de St-Charles : fruits et légumes - import"
-C;X3;Y67;K"ABRICOT Espagne cat.I 50-55mm"
+C;X13;Y66;K5.90
+C;X14;Y66;K5.55
+C;X15;Y66;K4.56
+C;X16;Y66;K""
+C;X1;Y67;K"Grossistes"
+C;X2;Y67;K"Marché de Berlin : fruits et légumes"
+C;X3;Y67;K"ABRICOT Espagne cat.I 40-45mm plateau"
 C;X4;Y67;K"euro HT le kg"
-C;X5;Y67;K""
+C;X5;Y67;K2.40
 C;X6;Y67;K""
 C;X7;Y67;K""
 C;X8;Y67;K""
@@ -1053,32 +1053,32 @@ C;X9;Y67;K""
 C;X10;Y67;K""
 C;X11;Y67;K""
 C;X12;Y67;K""
-C;X13;Y67;K""
-C;X14;Y67;K3.50
-C;X15;Y67;K2.68
-C;X16;Y67;K1.99
+C;X13;Y67;K6.50
+C;X14;Y67;K3.88
+C;X15;Y67;K2.99
+C;X16;Y67;K2.90
 C;X1;Y68;K"Grossistes"
-C;X2;Y68;K"France : fruits et légumes bio - grossistes"
-C;X3;Y68;K"ABRICOT France biologique"
+C;X2;Y68;K"Marché de Berlin : fruits et légumes"
+C;X3;Y68;K"ABRICOT France cat.I 40-45mm plateau"
 C;X4;Y68;K"euro HT le kg"
-C;X5;Y68;K4.11
-C;X6;Y68;K4.96
-C;X7;Y68;K5.33
+C;X5;Y68;K""
+C;X6;Y68;K""
+C;X7;Y68;K""
 C;X8;Y68;K""
 C;X9;Y68;K""
 C;X10;Y68;K""
 C;X11;Y68;K""
 C;X12;Y68;K""
 C;X13;Y68;K""
-C;X14;Y68;K""
-C;X15;Y68;K6.14
-C;X16;Y68;K5.58
+C;X14;Y68;K3.75
+C;X15;Y68;K2.88
+C;X16;Y68;K2.65
 C;X1;Y69;K"Grossistes"
-C;X2;Y69;K"France : fruits et légumes bio - grossistes"
-C;X3;Y69;K"ABRICOT U.E. biologique"
+C;X2;Y69;K"Marché de Berlin : fruits et légumes"
+C;X3;Y69;K"ABRICOT France cat.I 45-50mm plateau"
 C;X4;Y69;K"euro HT le kg"
-C;X5;Y69;K""
-C;X6;Y69;K""
+C;X5;Y69;K2.81
+C;X6;Y69;K3.00
 C;X7;Y69;K""
 C;X8;Y69;K""
 C;X9;Y69;K""
@@ -1086,15 +1086,15 @@ C;X10;Y69;K""
 C;X11;Y69;K""
 C;X12;Y69;K""
 C;X13;Y69;K""
-C;X14;Y69;K5.90
-C;X15;Y69;K5.55
-C;X16;Y69;K4.56
+C;X14;Y69;K4.50
+C;X15;Y69;K3.38
+C;X16;Y69;K3.05
 C;X1;Y70;K"Grossistes"
 C;X2;Y70;K"Marché de Berlin : fruits et légumes"
-C;X3;Y70;K"ABRICOT Espagne cat.I 40-45mm plateau"
+C;X3;Y70;K"ABRICOT France cat.I 50-60mm plateau"
 C;X4;Y70;K"euro HT le kg"
-C;X5;Y70;K2.46
-C;X6;Y70;K2.40
+C;X5;Y70;K3.31
+C;X6;Y70;K3.50
 C;X7;Y70;K""
 C;X8;Y70;K""
 C;X9;Y70;K""
@@ -1102,12 +1102,12 @@ C;X10;Y70;K""
 C;X11;Y70;K""
 C;X12;Y70;K""
 C;X13;Y70;K""
-C;X14;Y70;K6.50
+C;X14;Y70;K""
 C;X15;Y70;K3.88
-C;X16;Y70;K2.99
+C;X16;Y70;K3.75
 C;X1;Y71;K"Grossistes"
 C;X2;Y71;K"Marché de Berlin : fruits et légumes"
-C;X3;Y71;K"ABRICOT France cat.I 40-45mm plateau"
+C;X3;Y71;K"ABRICOT Italie cat.I"
 C;X4;Y71;K"euro HT le kg"
 C;X5;Y71;K""
 C;X6;Y71;K""
@@ -1118,46 +1118,46 @@ C;X10;Y71;K""
 C;X11;Y71;K""
 C;X12;Y71;K""
 C;X13;Y71;K""
-C;X14;Y71;K""
-C;X15;Y71;K3.75
-C;X16;Y71;K2.88
+C;X14;Y71;K2.75
+C;X15;Y71;K2.56
+C;X16;Y71;K2.50
 C;X1;Y72;K"Grossistes"
-C;X2;Y72;K"Marché de Berlin : fruits et légumes"
-C;X3;Y72;K"ABRICOT France cat.I 45-50mm plateau"
+C;X2;Y72;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y72;K"ABRICOT Espagne cat.I 45-50mm"
 C;X4;Y72;K"euro HT le kg"
-C;X5;Y72;K2.85
-C;X6;Y72;K2.81
-C;X7;Y72;K3.00
+C;X5;Y72;K""
+C;X6;Y72;K""
+C;X7;Y72;K""
 C;X8;Y72;K""
 C;X9;Y72;K""
 C;X10;Y72;K""
 C;X11;Y72;K""
 C;X12;Y72;K""
 C;X13;Y72;K""
-C;X14;Y72;K""
-C;X15;Y72;K4.50
-C;X16;Y72;K3.38
+C;X14;Y72;K2.70
+C;X15;Y72;K""
+C;X16;Y72;K""
 C;X1;Y73;K"Grossistes"
-C;X2;Y73;K"Marché de Berlin : fruits et légumes"
-C;X3;Y73;K"ABRICOT France cat.I 50-60mm plateau"
+C;X2;Y73;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
+C;X3;Y73;K"ABRICOT France cat.I 45-50mm"
 C;X4;Y73;K"euro HT le kg"
-C;X5;Y73;K3.35
-C;X6;Y73;K3.31
-C;X7;Y73;K3.50
+C;X5;Y73;K3.43
+C;X6;Y73;K""
+C;X7;Y73;K""
 C;X8;Y73;K""
 C;X9;Y73;K""
 C;X10;Y73;K""
 C;X11;Y73;K""
 C;X12;Y73;K""
 C;X13;Y73;K""
-C;X14;Y73;K""
-C;X15;Y73;K""
-C;X16;Y73;K3.88
+C;X14;Y73;K3.30
+C;X15;Y73;K3.29
+C;X16;Y73;K2.78
 C;X1;Y74;K"Grossistes"
-C;X2;Y74;K"Marché de Berlin : fruits et légumes"
-C;X3;Y74;K"ABRICOT Italie cat.I"
+C;X2;Y74;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y74;K"ABRICOT Bergarouge France cat.I 40-45mm"
 C;X4;Y74;K"euro HT le kg"
-C;X5;Y74;K2.30
+C;X5;Y74;K""
 C;X6;Y74;K""
 C;X7;Y74;K""
 C;X8;Y74;K""
@@ -1167,13 +1167,13 @@ C;X11;Y74;K""
 C;X12;Y74;K""
 C;X13;Y74;K""
 C;X14;Y74;K""
-C;X15;Y74;K2.75
-C;X16;Y74;K2.56
+C;X15;Y74;K""
+C;X16;Y74;K1.67
 C;X1;Y75;K"Grossistes"
-C;X2;Y75;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
-C;X3;Y75;K"ABRICOT Espagne cat.I 45-50mm"
+C;X2;Y75;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y75;K"ABRICOT Bergarouge France cat.I 45-50mm"
 C;X4;Y75;K"euro HT le kg"
-C;X5;Y75;K2.25
+C;X5;Y75;K""
 C;X6;Y75;K""
 C;X7;Y75;K""
 C;X8;Y75;K""
@@ -1183,14 +1183,14 @@ C;X11;Y75;K""
 C;X12;Y75;K""
 C;X13;Y75;K""
 C;X14;Y75;K""
-C;X15;Y75;K2.70
-C;X16;Y75;K""
+C;X15;Y75;K""
+C;X16;Y75;K2.40
 C;X1;Y76;K"Grossistes"
-C;X2;Y76;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
-C;X3;Y76;K"ABRICOT France cat.I 45-50mm"
+C;X2;Y76;K"Marché de Lyon-Corbas : fruits"
+C;X3;Y76;K"ABRICOT Bergarouge France cat.I 50-55mm"
 C;X4;Y76;K"euro HT le kg"
-C;X5;Y76;K2.92
-C;X6;Y76;K3.43
+C;X5;Y76;K""
+C;X6;Y76;K""
 C;X7;Y76;K""
 C;X8;Y76;K""
 C;X9;Y76;K""
@@ -1199,14 +1199,14 @@ C;X11;Y76;K""
 C;X12;Y76;K""
 C;X13;Y76;K""
 C;X14;Y76;K""
-C;X15;Y76;K3.30
-C;X16;Y76;K3.29
+C;X15;Y76;K""
+C;X16;Y76;K2.56
 C;X1;Y77;K"Grossistes"
 C;X2;Y77;K"Marché de Lyon-Corbas : fruits"
 C;X3;Y77;K"ABRICOT Bergeron France cat.I 40-45mm"
 C;X4;Y77;K"euro HT le kg"
-C;X5;Y77;K1.57
-C;X6;Y77;K1.62
+C;X5;Y77;K1.62
+C;X6;Y77;K""
 C;X7;Y77;K""
 C;X8;Y77;K""
 C;X9;Y77;K""
@@ -1216,13 +1216,13 @@ C;X12;Y77;K""
 C;X13;Y77;K""
 C;X14;Y77;K""
 C;X15;Y77;K""
-C;X16;Y77;K""
+C;X16;Y77;K1.52
 C;X1;Y78;K"Grossistes"
 C;X2;Y78;K"Marché de Lyon-Corbas : fruits"
 C;X3;Y78;K"ABRICOT Bergeron France cat.I 45-50mm"
 C;X4;Y78;K"euro HT le kg"
-C;X5;Y78;K2.02
-C;X6;Y78;K1.77
+C;X5;Y78;K1.77
+C;X6;Y78;K""
 C;X7;Y78;K""
 C;X8;Y78;K""
 C;X9;Y78;K""
@@ -1232,13 +1232,13 @@ C;X12;Y78;K""
 C;X13;Y78;K""
 C;X14;Y78;K""
 C;X15;Y78;K""
-C;X16;Y78;K""
+C;X16;Y78;K1.94
 C;X1;Y79;K"Grossistes"
 C;X2;Y79;K"Marché de Lyon-Corbas : fruits"
 C;X3;Y79;K"ABRICOT Bergeron France cat.I 50-55mm"
 C;X4;Y79;K"euro HT le kg"
-C;X5;Y79;K2.28
-C;X6;Y79;K2.26
+C;X5;Y79;K2.26
+C;X6;Y79;K""
 C;X7;Y79;K""
 C;X8;Y79;K""
 C;X9;Y79;K""
@@ -1248,7 +1248,7 @@ C;X12;Y79;K""
 C;X13;Y79;K""
 C;X14;Y79;K""
 C;X15;Y79;K""
-C;X16;Y79;K""
+C;X16;Y79;K2.29
 C;X1;Y80;K"Grossistes"
 C;X2;Y80;K"Marché de Lyon-Corbas : fruits"
 C;X3;Y80;K"ABRICOT Bergeval France cat.I 40-45mm"
@@ -1263,7 +1263,7 @@ C;X11;Y80;K""
 C;X12;Y80;K""
 C;X13;Y80;K""
 C;X14;Y80;K""
-C;X15;Y80;K""
+C;X15;Y80;K2.00
 C;X16;Y80;K2.00
 C;X1;Y81;K"Grossistes"
 C;X2;Y81;K"Marché de Lyon-Corbas : fruits"
@@ -1279,8 +1279,8 @@ C;X11;Y81;K""
 C;X12;Y81;K""
 C;X13;Y81;K""
 C;X14;Y81;K""
-C;X15;Y81;K""
-C;X16;Y81;K2.44
+C;X15;Y81;K2.44
+C;X16;Y81;K2.06
 C;X1;Y82;K"Grossistes"
 C;X2;Y82;K"Marché de Lyon-Corbas : fruits"
 C;X3;Y82;K"ABRICOT Bergeval France cat.I 50-55mm"
@@ -1295,13 +1295,13 @@ C;X11;Y82;K""
 C;X12;Y82;K""
 C;X13;Y82;K""
 C;X14;Y82;K""
-C;X15;Y82;K""
-C;X16;Y82;K2.71
+C;X15;Y82;K2.71
+C;X16;Y82;K2.67
 C;X1;Y83;K"Grossistes"
 C;X2;Y83;K"Marché de Lyon-Corbas : fruits"
 C;X3;Y83;K"ABRICOT Espagne cat.I 40-45mm"
 C;X4;Y83;K"euro HT le kg"
-C;X5;Y83;K1.25
+C;X5;Y83;K""
 C;X6;Y83;K""
 C;X7;Y83;K""
 C;X8;Y83;K""
@@ -1309,9 +1309,9 @@ C;X9;Y83;K""
 C;X10;Y83;K""
 C;X11;Y83;K""
 C;X12;Y83;K""
-C;X13;Y83;K""
-C;X14;Y83;K4.55
-C;X15;Y83;K2.63
+C;X13;Y83;K4.55
+C;X14;Y83;K2.63
+C;X15;Y83;K""
 C;X16;Y83;K""
 C;X1;Y84;K"Grossistes"
 C;X2;Y84;K"Marché de Lyon-Corbas : fruits"
@@ -1325,9 +1325,9 @@ C;X9;Y84;K""
 C;X10;Y84;K""
 C;X11;Y84;K""
 C;X12;Y84;K""
-C;X13;Y84;K""
-C;X14;Y84;K5.25
-C;X15;Y84;K3.00
+C;X13;Y84;K5.25
+C;X14;Y84;K3.00
+C;X15;Y84;K""
 C;X16;Y84;K""
 C;X1;Y85;K"Grossistes"
 C;X2;Y85;K"Marché de Lyon-Corbas : fruits"
@@ -1342,8 +1342,8 @@ C;X10;Y85;K""
 C;X11;Y85;K""
 C;X12;Y85;K""
 C;X13;Y85;K""
-C;X14;Y85;K""
-C;X15;Y85;K2.94
+C;X14;Y85;K2.94
+C;X15;Y85;K""
 C;X16;Y85;K""
 C;X1;Y86;K"Grossistes"
 C;X2;Y86;K"Marché de Lyon-Corbas : fruits"
@@ -1359,8 +1359,8 @@ C;X11;Y86;K""
 C;X12;Y86;K""
 C;X13;Y86;K""
 C;X14;Y86;K""
-C;X15;Y86;K""
-C;X16;Y86;K2.99
+C;X15;Y86;K2.99
+C;X16;Y86;K""
 C;X1;Y87;K"Grossistes"
 C;X2;Y87;K"Marché de Lyon-Corbas : fruits"
 C;X3;Y87;K"ABRICOT Orangered France cat.I 45-50mm"
@@ -1375,8 +1375,8 @@ C;X11;Y87;K""
 C;X12;Y87;K""
 C;X13;Y87;K""
 C;X14;Y87;K""
-C;X15;Y87;K""
-C;X16;Y87;K3.35
+C;X15;Y87;K3.35
+C;X16;Y87;K""
 C;X1;Y88;K"Grossistes"
 C;X2;Y88;K"Marché de Lyon-Corbas : fruits"
 C;X3;Y88;K"ABRICOT Orangered France cat.I 50-55mm"
@@ -1391,13 +1391,13 @@ C;X11;Y88;K""
 C;X12;Y88;K""
 C;X13;Y88;K""
 C;X14;Y88;K""
-C;X15;Y88;K""
-C;X16;Y88;K3.80
+C;X15;Y88;K3.80
+C;X16;Y88;K""
 C;X1;Y89;K"Grossistes"
 C;X2;Y89;K"Marché de Lyon-Corbas : fruits"
 C;X3;Y89;K"ABRICOT type orangé rouge France cat.I 40-45mm"
 C;X4;Y89;K"euro HT le kg"
-C;X5;Y89;K1.48
+C;X5;Y89;K""
 C;X6;Y89;K""
 C;X7;Y89;K""
 C;X8;Y89;K""
@@ -1406,15 +1406,15 @@ C;X10;Y89;K""
 C;X11;Y89;K""
 C;X12;Y89;K""
 C;X13;Y89;K""
-C;X14;Y89;K""
-C;X15;Y89;K3.22
-C;X16;Y89;K2.20
+C;X14;Y89;K3.22
+C;X15;Y89;K2.20
+C;X16;Y89;K1.51
 C;X1;Y90;K"Grossistes"
 C;X2;Y90;K"Marché de Lyon-Corbas : fruits"
 C;X3;Y90;K"ABRICOT type orangé rouge France cat.I 45-50mm"
 C;X4;Y90;K"euro HT le kg"
-C;X5;Y90;K1.88
-C;X6;Y90;K2.30
+C;X5;Y90;K2.30
+C;X6;Y90;K""
 C;X7;Y90;K""
 C;X8;Y90;K""
 C;X9;Y90;K""
@@ -1422,15 +1422,15 @@ C;X10;Y90;K""
 C;X11;Y90;K""
 C;X12;Y90;K""
 C;X13;Y90;K""
-C;X14;Y90;K""
-C;X15;Y90;K3.43
-C;X16;Y90;K2.72
+C;X14;Y90;K3.43
+C;X15;Y90;K2.72
+C;X16;Y90;K1.93
 C;X1;Y91;K"Grossistes"
 C;X2;Y91;K"Marché de Lyon-Corbas : fruits"
 C;X3;Y91;K"ABRICOT type orangé rouge France cat.I 50-55mm"
 C;X4;Y91;K"euro HT le kg"
-C;X5;Y91;K2.16
-C;X6;Y91;K2.50
+C;X5;Y91;K2.50
+C;X6;Y91;K""
 C;X7;Y91;K""
 C;X8;Y91;K""
 C;X9;Y91;K""
@@ -1438,25 +1438,25 @@ C;X10;Y91;K""
 C;X11;Y91;K""
 C;X12;Y91;K""
 C;X13;Y91;K""
-C;X14;Y91;K""
-C;X15;Y91;K3.83
-C;X16;Y91;K3.17
+C;X14;Y91;K3.83
+C;X15;Y91;K3.17
+C;X16;Y91;K2.30
 C;X1;Y92;K"Grossistes"
 C;X2;Y92;K"Marché de Munich : fruits et légumes"
 C;X3;Y92;K"ABRICOT Espagne cat.I 40-45mm plateau"
 C;X4;Y92;K"euro HT le kg"
-C;X5;Y92;K2.49
-C;X6;Y92;K2.83
+C;X5;Y92;K2.83
+C;X6;Y92;K""
 C;X7;Y92;K""
 C;X8;Y92;K""
 C;X9;Y92;K""
 C;X10;Y92;K""
 C;X11;Y92;K""
 C;X12;Y92;K""
-C;X13;Y92;K""
-C;X14;Y92;K7.75
-C;X15;Y92;K3.94
-C;X16;Y92;K3.06
+C;X13;Y92;K7.75
+C;X14;Y92;K3.94
+C;X15;Y92;K3.06
+C;X16;Y92;K3.62
 C;X1;Y93;K"Grossistes"
 C;X2;Y93;K"Marché de Munich : fruits et légumes"
 C;X3;Y93;K"ABRICOT France cat.I 40-45mm plateau"
@@ -1470,32 +1470,32 @@ C;X10;Y93;K""
 C;X11;Y93;K""
 C;X12;Y93;K""
 C;X13;Y93;K""
-C;X14;Y93;K""
-C;X15;Y93;K4.25
+C;X14;Y93;K4.25
+C;X15;Y93;K""
 C;X16;Y93;K""
 C;X1;Y94;K"Grossistes"
 C;X2;Y94;K"Marché de Munich : fruits et légumes"
 C;X3;Y94;K"ABRICOT France cat.I 45-50mm plateau"
 C;X4;Y94;K"euro HT le kg"
-C;X5;Y94;K3.28
-C;X6;Y94;K""
-C;X7;Y94;K3.10
+C;X5;Y94;K""
+C;X6;Y94;K3.10
+C;X7;Y94;K""
 C;X8;Y94;K""
 C;X9;Y94;K""
 C;X10;Y94;K""
 C;X11;Y94;K""
 C;X12;Y94;K""
 C;X13;Y94;K""
-C;X14;Y94;K""
-C;X15;Y94;K4.73
-C;X16;Y94;K3.95
+C;X14;Y94;K4.73
+C;X15;Y94;K3.95
+C;X16;Y94;K""
 C;X1;Y95;K"Grossistes"
 C;X2;Y95;K"Marché de Munich : fruits et légumes"
 C;X3;Y95;K"ABRICOT France cat.I 50-55mm plateau"
 C;X4;Y95;K"euro HT le kg"
-C;X5;Y95;K3.61
-C;X6;Y95;K3.75
-C;X7;Y95;K3.67
+C;X5;Y95;K3.75
+C;X6;Y95;K3.67
+C;X7;Y95;K""
 C;X8;Y95;K""
 C;X9;Y95;K""
 C;X10;Y95;K""
@@ -1503,8 +1503,8 @@ C;X11;Y95;K""
 C;X12;Y95;K""
 C;X13;Y95;K""
 C;X14;Y95;K""
-C;X15;Y95;K""
-C;X16;Y95;K4.35
+C;X15;Y95;K4.35
+C;X16;Y95;K4.15
 C;X1;Y96;K"Grossistes"
 C;X2;Y96;K"Marché de Munich : fruits et légumes"
 C;X3;Y96;K"ABRICOT Grèce cat.I 45-50mm plateau"
@@ -1518,25 +1518,25 @@ C;X10;Y96;K""
 C;X11;Y96;K""
 C;X12;Y96;K""
 C;X13;Y96;K""
-C;X14;Y96;K""
-C;X15;Y96;K3.75
-C;X16;Y96;K3.31
+C;X14;Y96;K3.75
+C;X15;Y96;K3.31
+C;X16;Y96;K3.12
 C;X1;Y97;K"Grossistes"
 C;X2;Y97;K"Marché de Munich : fruits et légumes"
 C;X3;Y97;K"ABRICOT Italie cat.I 40-45mm plateau"
 C;X4;Y97;K"euro HT le kg"
-C;X5;Y97;K2.87
-C;X6;Y97;K3.05
+C;X5;Y97;K3.05
+C;X6;Y97;K""
 C;X7;Y97;K""
 C;X8;Y97;K""
 C;X9;Y97;K""
 C;X10;Y97;K""
 C;X11;Y97;K""
 C;X12;Y97;K""
-C;X13;Y97;K""
-C;X14;Y97;K5.50
-C;X15;Y97;K3.94
-C;X16;Y97;K3.48
+C;X13;Y97;K5.50
+C;X14;Y97;K3.94
+C;X15;Y97;K3.48
+C;X16;Y97;K3.47
 C;X1;Y98;K"Grossistes"
 C;X2;Y98;K"MIN d'Avignon-Cavaillon : fruits et légumes"
 C;X3;Y98;K"ABRICOT Espagne cat.I 45-50mm"
@@ -1549,9 +1549,9 @@ C;X9;Y98;K""
 C;X10;Y98;K""
 C;X11;Y98;K""
 C;X12;Y98;K""
-C;X13;Y98;K""
-C;X14;Y98;K7.10
-C;X15;Y98;K6.20
+C;X13;Y98;K7.10
+C;X14;Y98;K6.20
+C;X15;Y98;K""
 C;X16;Y98;K""
 C;X1;Y99;K"Grossistes"
 C;X2;Y99;K"MIN d'Avignon-Cavaillon : fruits et légumes"
@@ -1566,15 +1566,15 @@ C;X10;Y99;K""
 C;X11;Y99;K""
 C;X12;Y99;K""
 C;X13;Y99;K""
-C;X14;Y99;K""
-C;X15;Y99;K3.50
-C;X16;Y99;K3.30
+C;X14;Y99;K3.50
+C;X15;Y99;K3.30
+C;X16;Y99;K""
 C;X1;Y100;K"Grossistes"
 C;X2;Y100;K"MIN d'Avignon-Cavaillon : fruits et légumes"
 C;X3;Y100;K"ABRICOT France cat.I 45-50mm"
 C;X4;Y100;K"euro HT le kg"
-C;X5;Y100;K""
-C;X6;Y100;K3.10
+C;X5;Y100;K3.10
+C;X6;Y100;K""
 C;X7;Y100;K""
 C;X8;Y100;K""
 C;X9;Y100;K""
@@ -1582,9 +1582,9 @@ C;X10;Y100;K""
 C;X11;Y100;K""
 C;X12;Y100;K""
 C;X13;Y100;K""
-C;X14;Y100;K""
-C;X15;Y100;K4.03
-C;X16;Y100;K3.65
+C;X14;Y100;K4.03
+C;X15;Y100;K3.65
+C;X16;Y100;K2.68
 C;X1;Y101;K"Grossistes"
 C;X2;Y101;K"MIN d'Avignon-Cavaillon : fruits et légumes"
 C;X3;Y101;K"ABRICOT France cat.I 50-55mm plateau"
@@ -1599,14 +1599,14 @@ C;X11;Y101;K""
 C;X12;Y101;K""
 C;X13;Y101;K""
 C;X14;Y101;K""
-C;X15;Y101;K""
-C;X16;Y101;K3.97
+C;X15;Y101;K3.97
+C;X16;Y101;K3.15
 C;X1;Y102;K"Grossistes"
 C;X2;Y102;K"MIN d'Avignon-Cavaillon : fruits et légumes"
 C;X3;Y102;K"ABRICOT type orangé rouge France cat.I 45-50mm plateau"
 C;X4;Y102;K"euro HT le kg"
-C;X5;Y102;K2.69
-C;X6;Y102;K2.85
+C;X5;Y102;K2.85
+C;X6;Y102;K""
 C;X7;Y102;K""
 C;X8;Y102;K""
 C;X9;Y102;K""
@@ -1621,9 +1621,9 @@ C;X1;Y103;K"Grossistes"
 C;X2;Y103;K"MIN d'Avignon-Cavaillon : fruits et légumes"
 C;X3;Y103;K"ABRICOT type orangé rouge France cat.I 50-55mm plateau"
 C;X4;Y103;K"euro HT le kg"
-C;X5;Y103;K3.19
-C;X6;Y103;K3.45
-C;X7;Y103;K3.75
+C;X5;Y103;K3.45
+C;X6;Y103;K3.75
+C;X7;Y103;K""
 C;X8;Y103;K""
 C;X9;Y103;K""
 C;X10;Y103;K""
@@ -1631,8 +1631,8 @@ C;X11;Y103;K""
 C;X12;Y103;K""
 C;X13;Y103;K""
 C;X14;Y103;K""
-C;X15;Y103;K""
-C;X16;Y103;K3.80
+C;X15;Y103;K3.80
+C;X16;Y103;K""
 C;X1;Y104;K"Grossistes"
 C;X2;Y104;K"MIN de Bordeaux-Brienne : fruits et légumes"
 C;X3;Y104;K"ABRICOT Espagne cat.I 40-45mm"
@@ -1646,8 +1646,8 @@ C;X10;Y104;K""
 C;X11;Y104;K""
 C;X12;Y104;K""
 C;X13;Y104;K""
-C;X14;Y104;K""
-C;X15;Y104;K3.55
+C;X14;Y104;K3.55
+C;X15;Y104;K""
 C;X16;Y104;K""
 C;X1;Y105;K"Grossistes"
 C;X2;Y105;K"MIN de Bordeaux-Brienne : fruits et légumes"
@@ -1662,8 +1662,8 @@ C;X10;Y105;K""
 C;X11;Y105;K""
 C;X12;Y105;K""
 C;X13;Y105;K""
-C;X14;Y105;K""
-C;X15;Y105;K4.20
+C;X14;Y105;K4.20
+C;X15;Y105;K""
 C;X16;Y105;K""
 C;X1;Y106;K"Grossistes"
 C;X2;Y106;K"MIN de Bordeaux-Brienne : fruits et légumes"
@@ -1678,8 +1678,8 @@ C;X10;Y106;K""
 C;X11;Y106;K""
 C;X12;Y106;K""
 C;X13;Y106;K""
-C;X14;Y106;K""
-C;X15;Y106;K4.50
+C;X14;Y106;K4.50
+C;X15;Y106;K""
 C;X16;Y106;K""
 C;X1;Y107;K"Grossistes"
 C;X2;Y107;K"MIN de Bordeaux-Brienne : fruits et légumes"
@@ -1694,15 +1694,15 @@ C;X10;Y107;K""
 C;X11;Y107;K""
 C;X12;Y107;K""
 C;X13;Y107;K""
-C;X14;Y107;K""
-C;X15;Y107;K2.50
+C;X14;Y107;K2.50
+C;X15;Y107;K""
 C;X16;Y107;K""
 C;X1;Y108;K"Grossistes"
 C;X2;Y108;K"MIN de Bordeaux-Brienne : fruits et légumes"
 C;X3;Y108;K"ABRICOT type orangé rouge France cat.I 40-45mm plateau"
 C;X4;Y108;K"euro HT le kg"
-C;X5;Y108;K2.42
-C;X6;Y108;K2.00
+C;X5;Y108;K2.00
+C;X6;Y108;K""
 C;X7;Y108;K""
 C;X8;Y108;K""
 C;X9;Y108;K""
@@ -1710,15 +1710,15 @@ C;X10;Y108;K""
 C;X11;Y108;K""
 C;X12;Y108;K""
 C;X13;Y108;K""
-C;X14;Y108;K""
-C;X15;Y108;K3.17
-C;X16;Y108;K2.72
+C;X14;Y108;K3.17
+C;X15;Y108;K2.72
+C;X16;Y108;K2.42
 C;X1;Y109;K"Grossistes"
 C;X2;Y109;K"MIN de Bordeaux-Brienne : fruits et légumes"
 C;X3;Y109;K"ABRICOT type orangé rouge France cat.I 45-50mm plateau"
 C;X4;Y109;K"euro HT le kg"
-C;X5;Y109;K2.89
-C;X6;Y109;K3.21
+C;X5;Y109;K3.21
+C;X6;Y109;K""
 C;X7;Y109;K""
 C;X8;Y109;K""
 C;X9;Y109;K""
@@ -1726,15 +1726,15 @@ C;X10;Y109;K""
 C;X11;Y109;K""
 C;X12;Y109;K""
 C;X13;Y109;K""
-C;X14;Y109;K""
-C;X15;Y109;K4.14
-C;X16;Y109;K3.46
+C;X14;Y109;K4.14
+C;X15;Y109;K3.46
+C;X16;Y109;K2.99
 C;X1;Y110;K"Grossistes"
 C;X2;Y110;K"MIN de Bordeaux-Brienne : fruits et légumes"
 C;X3;Y110;K"ABRICOT type orangé rouge France cat.I 50-55mm plateau"
 C;X4;Y110;K"euro HT le kg"
-C;X5;Y110;K3.21
-C;X6;Y110;K3.44
+C;X5;Y110;K3.44
+C;X6;Y110;K""
 C;X7;Y110;K""
 C;X8;Y110;K""
 C;X9;Y110;K""
@@ -1742,14 +1742,14 @@ C;X10;Y110;K""
 C;X11;Y110;K""
 C;X12;Y110;K""
 C;X13;Y110;K""
-C;X14;Y110;K""
-C;X15;Y110;K4.50
-C;X16;Y110;K3.78
+C;X14;Y110;K4.50
+C;X15;Y110;K3.78
+C;X16;Y110;K3.30
 C;X1;Y111;K"Grossistes"
 C;X2;Y111;K"MIN de Bordeaux-Brienne : fruits et légumes"
 C;X3;Y111;K"ABRICOT type orangé rouge France cat.I 55-60mm plateau"
 C;X4;Y111;K"euro HT le kg"
-C;X5;Y111;K3.80
+C;X5;Y111;K""
 C;X6;Y111;K""
 C;X7;Y111;K""
 C;X8;Y111;K""
@@ -1759,8 +1759,8 @@ C;X11;Y111;K""
 C;X12;Y111;K""
 C;X13;Y111;K""
 C;X14;Y111;K""
-C;X15;Y111;K""
-C;X16;Y111;K4.54
+C;X15;Y111;K4.54
+C;X16;Y111;K3.62
 C;X1;Y112;K"Grossistes"
 C;X2;Y112;K"MIN de Marseille : fruits et légumes"
 C;X3;Y112;K"ABRICOT Espagne cat.I 40-45mm plateau"
@@ -1775,8 +1775,8 @@ C;X11;Y112;K""
 C;X12;Y112;K""
 C;X13;Y112;K""
 C;X14;Y112;K""
-C;X15;Y112;K""
-C;X16;Y112;K1.57
+C;X15;Y112;K1.57
+C;X16;Y112;K1.70
 C;X1;Y113;K"Grossistes"
 C;X2;Y113;K"MIN de Marseille : fruits et légumes"
 C;X3;Y113;K"ABRICOT Espagne cat.I 45-50mm"
@@ -1789,15 +1789,15 @@ C;X9;Y113;K""
 C;X10;Y113;K""
 C;X11;Y113;K""
 C;X12;Y113;K""
-C;X13;Y113;K""
-C;X14;Y113;K5.43
-C;X15;Y113;K2.90
-C;X16;Y113;K2.17
+C;X13;Y113;K5.43
+C;X14;Y113;K2.90
+C;X15;Y113;K2.17
+C;X16;Y113;K""
 C;X1;Y114;K"Grossistes"
 C;X2;Y114;K"MIN de Marseille : fruits et légumes"
-C;X3;Y114;K"ABRICOT Espagne cat.I 50-55mm"
+C;X3;Y114;K"ABRICOT Espagne cat.I 50-55mm plateau"
 C;X4;Y114;K"euro HT le kg"
-C;X5;Y114;K2.50
+C;X5;Y114;K""
 C;X6;Y114;K""
 C;X7;Y114;K""
 C;X8;Y114;K""
@@ -1805,15 +1805,15 @@ C;X9;Y114;K""
 C;X10;Y114;K""
 C;X11;Y114;K""
 C;X12;Y114;K""
-C;X13;Y114;K""
-C;X14;Y114;K""
-C;X15;Y114;K""
-C;X16;Y114;K""
+C;X13;Y114;K6.10
+C;X14;Y114;K3.45
+C;X15;Y114;K2.60
+C;X16;Y114;K2.02
 C;X1;Y115;K"Grossistes"
 C;X2;Y115;K"MIN de Marseille : fruits et légumes"
-C;X3;Y115;K"ABRICOT Espagne cat.I 50-55mm plateau"
+C;X3;Y115;K"ABRICOT type orangé rouge France cat.I 45-50mm"
 C;X4;Y115;K"euro HT le kg"
-C;X5;Y115;K""
+C;X5;Y115;K2.77
 C;X6;Y115;K""
 C;X7;Y115;K""
 C;X8;Y115;K""
@@ -1822,15 +1822,15 @@ C;X10;Y115;K""
 C;X11;Y115;K""
 C;X12;Y115;K""
 C;X13;Y115;K""
-C;X14;Y115;K6.10
-C;X15;Y115;K3.45
-C;X16;Y115;K2.60
+C;X14;Y115;K3.78
+C;X15;Y115;K2.62
+C;X16;Y115;K2.50
 C;X1;Y116;K"Grossistes"
 C;X2;Y116;K"MIN de Marseille : fruits et légumes"
-C;X3;Y116;K"ABRICOT type orangé rouge France cat.I 45-50mm"
+C;X3;Y116;K"ABRICOT type orangé rouge France cat.I 50-55mm"
 C;X4;Y116;K"euro HT le kg"
-C;X5;Y116;K""
-C;X6;Y116;K2.77
+C;X5;Y116;K3.21
+C;X6;Y116;K""
 C;X7;Y116;K""
 C;X8;Y116;K""
 C;X9;Y116;K""
@@ -1838,14 +1838,14 @@ C;X10;Y116;K""
 C;X11;Y116;K""
 C;X12;Y116;K""
 C;X13;Y116;K""
-C;X14;Y116;K""
-C;X15;Y116;K3.78
-C;X16;Y116;K2.62
+C;X14;Y116;K3.40
+C;X15;Y116;K3.19
+C;X16;Y116;K2.65
 C;X1;Y117;K"Grossistes"
 C;X2;Y117;K"MIN de Marseille : fruits et légumes"
-C;X3;Y117;K"ABRICOT type orangé rouge France cat.I 45-50mm plateau 1rg"
+C;X3;Y117;K"ABRICOT type orangé rouge France cat.I 50-55mm plateau 1rg"
 C;X4;Y117;K"euro HT le kg"
-C;X5;Y117;K2.12
+C;X5;Y117;K3.20
 C;X6;Y117;K""
 C;X7;Y117;K""
 C;X8;Y117;K""
@@ -1858,40 +1858,40 @@ C;X14;Y117;K""
 C;X15;Y117;K""
 C;X16;Y117;K""
 C;X1;Y118;K"Grossistes"
-C;X2;Y118;K"MIN de Marseille : fruits et légumes"
-C;X3;Y118;K"ABRICOT type orangé rouge France cat.I 50-55mm"
+C;X2;Y118;K"MIN de Nantes : fruits et légumes"
+C;X3;Y118;K"ABRICOT Espagne cat.I 35-40mm"
 C;X4;Y118;K"euro HT le kg"
 C;X5;Y118;K""
-C;X6;Y118;K3.21
+C;X6;Y118;K""
 C;X7;Y118;K""
 C;X8;Y118;K""
 C;X9;Y118;K""
 C;X10;Y118;K""
 C;X11;Y118;K""
 C;X12;Y118;K""
-C;X13;Y118;K""
-C;X14;Y118;K""
-C;X15;Y118;K3.40
-C;X16;Y118;K3.19
+C;X13;Y118;K6.50
+C;X14;Y118;K2.58
+C;X15;Y118;K""
+C;X16;Y118;K""
 C;X1;Y119;K"Grossistes"
-C;X2;Y119;K"MIN de Marseille : fruits et légumes"
-C;X3;Y119;K"ABRICOT type orangé rouge France cat.I 50-55mm plateau 1rg"
+C;X2;Y119;K"MIN de Nantes : fruits et légumes"
+C;X3;Y119;K"ABRICOT Espagne cat.I 40-43mm"
 C;X4;Y119;K"euro HT le kg"
-C;X5;Y119;K2.77
-C;X6;Y119;K3.20
+C;X5;Y119;K""
+C;X6;Y119;K""
 C;X7;Y119;K""
 C;X8;Y119;K""
 C;X9;Y119;K""
 C;X10;Y119;K""
 C;X11;Y119;K""
 C;X12;Y119;K""
-C;X13;Y119;K""
-C;X14;Y119;K""
+C;X13;Y119;K6.34
+C;X14;Y119;K3.59
 C;X15;Y119;K""
 C;X16;Y119;K""
 C;X1;Y120;K"Grossistes"
 C;X2;Y120;K"MIN de Nantes : fruits et légumes"
-C;X3;Y120;K"ABRICOT Espagne cat.I 35-40mm"
+C;X3;Y120;K"ABRICOT Espagne cat.I 43-46mm"
 C;X4;Y120;K"euro HT le kg"
 C;X5;Y120;K""
 C;X6;Y120;K""
@@ -1901,13 +1901,13 @@ C;X9;Y120;K""
 C;X10;Y120;K""
 C;X11;Y120;K""
 C;X12;Y120;K""
-C;X13;Y120;K""
-C;X14;Y120;K6.50
-C;X15;Y120;K2.58
+C;X13;Y120;K6.50
+C;X14;Y120;K3.88
+C;X15;Y120;K""
 C;X16;Y120;K""
 C;X1;Y121;K"Grossistes"
 C;X2;Y121;K"MIN de Nantes : fruits et légumes"
-C;X3;Y121;K"ABRICOT Espagne cat.I 40-43mm"
+C;X3;Y121;K"ABRICOT Espagne cat.I 46-49mm"
 C;X4;Y121;K"euro HT le kg"
 C;X5;Y121;K""
 C;X6;Y121;K""
@@ -1917,13 +1917,13 @@ C;X9;Y121;K""
 C;X10;Y121;K""
 C;X11;Y121;K""
 C;X12;Y121;K""
-C;X13;Y121;K""
-C;X14;Y121;K6.34
-C;X15;Y121;K3.59
+C;X13;Y121;K6.83
+C;X14;Y121;K5.12
+C;X15;Y121;K""
 C;X16;Y121;K""
 C;X1;Y122;K"Grossistes"
 C;X2;Y122;K"MIN de Nantes : fruits et légumes"
-C;X3;Y122;K"ABRICOT Espagne cat.I 43-46mm"
+C;X3;Y122;K"ABRICOT Espagne cat.I 49-54mm"
 C;X4;Y122;K"euro HT le kg"
 C;X5;Y122;K""
 C;X6;Y122;K""
@@ -1934,14 +1934,14 @@ C;X10;Y122;K""
 C;X11;Y122;K""
 C;X12;Y122;K""
 C;X13;Y122;K""
-C;X14;Y122;K6.50
-C;X15;Y122;K3.88
+C;X14;Y122;K5.00
+C;X15;Y122;K""
 C;X16;Y122;K""
 C;X1;Y123;K"Grossistes"
 C;X2;Y123;K"MIN de Nantes : fruits et légumes"
-C;X3;Y123;K"ABRICOT Espagne cat.I 46-49mm"
+C;X3;Y123;K"ABRICOT France cat.I 35-40mm"
 C;X4;Y123;K"euro HT le kg"
-C;X5;Y123;K""
+C;X5;Y123;K1.50
 C;X6;Y123;K""
 C;X7;Y123;K""
 C;X8;Y123;K""
@@ -1950,14 +1950,14 @@ C;X10;Y123;K""
 C;X11;Y123;K""
 C;X12;Y123;K""
 C;X13;Y123;K""
-C;X14;Y123;K6.83
-C;X15;Y123;K5.12
-C;X16;Y123;K""
+C;X14;Y123;K""
+C;X15;Y123;K1.67
+C;X16;Y123;K1.60
 C;X1;Y124;K"Grossistes"
 C;X2;Y124;K"MIN de Nantes : fruits et légumes"
-C;X3;Y124;K"ABRICOT Espagne cat.I 49-54mm"
+C;X3;Y124;K"ABRICOT France cat.I 40-45mm"
 C;X4;Y124;K"euro HT le kg"
-C;X5;Y124;K""
+C;X5;Y124;K2.27
 C;X6;Y124;K""
 C;X7;Y124;K""
 C;X8;Y124;K""
@@ -1966,15 +1966,15 @@ C;X10;Y124;K""
 C;X11;Y124;K""
 C;X12;Y124;K""
 C;X13;Y124;K""
-C;X14;Y124;K""
-C;X15;Y124;K5.00
-C;X16;Y124;K""
+C;X14;Y124;K3.06
+C;X15;Y124;K2.91
+C;X16;Y124;K2.20
 C;X1;Y125;K"Grossistes"
 C;X2;Y125;K"MIN de Nantes : fruits et légumes"
-C;X3;Y125;K"ABRICOT France cat.I 35-40mm"
+C;X3;Y125;K"ABRICOT France cat.I 45-50mm"
 C;X4;Y125;K"euro HT le kg"
-C;X5;Y125;K1.67
-C;X6;Y125;K1.50
+C;X5;Y125;K2.71
+C;X6;Y125;K""
 C;X7;Y125;K""
 C;X8;Y125;K""
 C;X9;Y125;K""
@@ -1982,15 +1982,15 @@ C;X10;Y125;K""
 C;X11;Y125;K""
 C;X12;Y125;K""
 C;X13;Y125;K""
-C;X14;Y125;K""
-C;X15;Y125;K""
-C;X16;Y125;K1.67
+C;X14;Y125;K3.75
+C;X15;Y125;K3.49
+C;X16;Y125;K2.76
 C;X1;Y126;K"Grossistes"
 C;X2;Y126;K"MIN de Nantes : fruits et légumes"
-C;X3;Y126;K"ABRICOT France cat.I 40-45mm"
+C;X3;Y126;K"ABRICOT France cat.I 50-55mm"
 C;X4;Y126;K"euro HT le kg"
-C;X5;Y126;K2.22
-C;X6;Y126;K2.27
+C;X5;Y126;K3.12
+C;X6;Y126;K3.30
 C;X7;Y126;K""
 C;X8;Y126;K""
 C;X9;Y126;K""
@@ -1998,15 +1998,15 @@ C;X10;Y126;K""
 C;X11;Y126;K""
 C;X12;Y126;K""
 C;X13;Y126;K""
-C;X14;Y126;K""
-C;X15;Y126;K3.06
-C;X16;Y126;K2.91
+C;X14;Y126;K4.85
+C;X15;Y126;K3.99
+C;X16;Y126;K3.10
 C;X1;Y127;K"Grossistes"
 C;X2;Y127;K"MIN de Nantes : fruits et légumes"
-C;X3;Y127;K"ABRICOT France cat.I 45-50mm"
+C;X3;Y127;K"ABRICOT France cat.I 55-60mm plateau 1rg"
 C;X4;Y127;K"euro HT le kg"
-C;X5;Y127;K2.70
-C;X6;Y127;K2.71
+C;X5;Y127;K""
+C;X6;Y127;K""
 C;X7;Y127;K""
 C;X8;Y127;K""
 C;X9;Y127;K""
@@ -2014,30 +2014,30 @@ C;X10;Y127;K""
 C;X11;Y127;K""
 C;X12;Y127;K""
 C;X13;Y127;K""
-C;X14;Y127;K""
-C;X15;Y127;K3.75
-C;X16;Y127;K3.49
+C;X14;Y127;K5.17
+C;X15;Y127;K4.61
+C;X16;Y127;K3.31
 C;X1;Y128;K"Grossistes"
-C;X2;Y128;K"MIN de Nantes : fruits et légumes"
-C;X3;Y128;K"ABRICOT France cat.I 50-55mm"
+C;X2;Y128;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y128;K"ABRICOT France biologique"
 C;X4;Y128;K"euro HT le kg"
-C;X5;Y128;K2.93
-C;X6;Y128;K3.12
-C;X7;Y128;K3.30
+C;X5;Y128;K4.95
+C;X6;Y128;K5.22
+C;X7;Y128;K""
 C;X8;Y128;K""
 C;X9;Y128;K""
 C;X10;Y128;K""
 C;X11;Y128;K""
 C;X12;Y128;K""
 C;X13;Y128;K""
-C;X14;Y128;K""
-C;X15;Y128;K4.85
-C;X16;Y128;K3.99
+C;X14;Y128;K6.30
+C;X15;Y128;K6.05
+C;X16;Y128;K5.96
 C;X1;Y129;K"Grossistes"
-C;X2;Y129;K"MIN de Nantes : fruits et légumes"
-C;X3;Y129;K"ABRICOT France cat.I 55-60mm plateau 1rg"
+C;X2;Y129;K"MIN de Nantes : fruits et légumes bio"
+C;X3;Y129;K"ABRICOT U.E. biologique"
 C;X4;Y129;K"euro HT le kg"
-C;X5;Y129;K3.55
+C;X5;Y129;K""
 C;X6;Y129;K""
 C;X7;Y129;K""
 C;X8;Y129;K""
@@ -2045,29 +2045,29 @@ C;X9;Y129;K""
 C;X10;Y129;K""
 C;X11;Y129;K""
 C;X12;Y129;K""
-C;X13;Y129;K""
-C;X14;Y129;K""
-C;X15;Y129;K5.17
-C;X16;Y129;K4.61
+C;X13;Y129;K6.02
+C;X14;Y129;K5.62
+C;X15;Y129;K""
+C;X16;Y129;K""
 C;X1;Y130;K"Grossistes"
-C;X2;Y130;K"MIN de Nantes : fruits et légumes bio"
-C;X3;Y130;K"ABRICOT France biologique"
+C;X2;Y130;K"MIN de Nice : fruits et légumes"
+C;X3;Y130;K"ABRICOT Espagne cat.I 40-45mm colis 5kg"
 C;X4;Y130;K"euro HT le kg"
-C;X5;Y130;K4.33
-C;X6;Y130;K4.95
-C;X7;Y130;K5.22
+C;X5;Y130;K""
+C;X6;Y130;K""
+C;X7;Y130;K""
 C;X8;Y130;K""
 C;X9;Y130;K""
 C;X10;Y130;K""
 C;X11;Y130;K""
 C;X12;Y130;K""
 C;X13;Y130;K""
-C;X14;Y130;K""
-C;X15;Y130;K6.30
-C;X16;Y130;K6.05
+C;X14;Y130;K4.17
+C;X15;Y130;K""
+C;X16;Y130;K""
 C;X1;Y131;K"Grossistes"
-C;X2;Y131;K"MIN de Nantes : fruits et légumes bio"
-C;X3;Y131;K"ABRICOT U.E. biologique"
+C;X2;Y131;K"MIN de Nice : fruits et légumes"
+C;X3;Y131;K"ABRICOT Espagne cat.I 45-50mm colis 5kg"
 C;X4;Y131;K"euro HT le kg"
 C;X5;Y131;K""
 C;X6;Y131;K""
@@ -2078,12 +2078,12 @@ C;X10;Y131;K""
 C;X11;Y131;K""
 C;X12;Y131;K""
 C;X13;Y131;K""
-C;X14;Y131;K6.02
-C;X15;Y131;K5.62
+C;X14;Y131;K4.58
+C;X15;Y131;K""
 C;X16;Y131;K""
 C;X1;Y132;K"Grossistes"
 C;X2;Y132;K"MIN de Nice : fruits et légumes"
-C;X3;Y132;K"ABRICOT Espagne cat.I 40-45mm colis 5kg"
+C;X3;Y132;K"ABRICOT Espagne cat.I 50-55mm colis 5kg"
 C;X4;Y132;K"euro HT le kg"
 C;X5;Y132;K""
 C;X6;Y132;K""
@@ -2094,12 +2094,12 @@ C;X10;Y132;K""
 C;X11;Y132;K""
 C;X12;Y132;K""
 C;X13;Y132;K""
-C;X14;Y132;K""
-C;X15;Y132;K4.17
+C;X14;Y132;K5.27
+C;X15;Y132;K""
 C;X16;Y132;K""
 C;X1;Y133;K"Grossistes"
 C;X2;Y133;K"MIN de Nice : fruits et légumes"
-C;X3;Y133;K"ABRICOT Espagne cat.I 45-50mm colis 5kg"
+C;X3;Y133;K"ABRICOT Espagne cat.I 55-60mm colis 5kg"
 C;X4;Y133;K"euro HT le kg"
 C;X5;Y133;K""
 C;X6;Y133;K""
@@ -2110,12 +2110,12 @@ C;X10;Y133;K""
 C;X11;Y133;K""
 C;X12;Y133;K""
 C;X13;Y133;K""
-C;X14;Y133;K""
-C;X15;Y133;K4.58
+C;X14;Y133;K6.83
+C;X15;Y133;K""
 C;X16;Y133;K""
 C;X1;Y134;K"Grossistes"
 C;X2;Y134;K"MIN de Nice : fruits et légumes"
-C;X3;Y134;K"ABRICOT Espagne cat.I 50-55mm colis 5kg"
+C;X3;Y134;K"ABRICOT France cat.I 40-45mm colis 5kg"
 C;X4;Y134;K"euro HT le kg"
 C;X5;Y134;K""
 C;X6;Y134;K""
@@ -2126,15 +2126,15 @@ C;X10;Y134;K""
 C;X11;Y134;K""
 C;X12;Y134;K""
 C;X13;Y134;K""
-C;X14;Y134;K""
-C;X15;Y134;K5.27
-C;X16;Y134;K""
+C;X14;Y134;K3.95
+C;X15;Y134;K3.59
+C;X16;Y134;K2.83
 C;X1;Y135;K"Grossistes"
 C;X2;Y135;K"MIN de Nice : fruits et légumes"
-C;X3;Y135;K"ABRICOT Espagne cat.I 55-60mm colis 5kg"
+C;X3;Y135;K"ABRICOT France cat.I 45-50mm colis 5kg"
 C;X4;Y135;K"euro HT le kg"
-C;X5;Y135;K""
-C;X6;Y135;K""
+C;X5;Y135;K3.40
+C;X6;Y135;K3.40
 C;X7;Y135;K""
 C;X8;Y135;K""
 C;X9;Y135;K""
@@ -2142,15 +2142,15 @@ C;X10;Y135;K""
 C;X11;Y135;K""
 C;X12;Y135;K""
 C;X13;Y135;K""
-C;X14;Y135;K""
-C;X15;Y135;K6.83
-C;X16;Y135;K""
+C;X14;Y135;K4.78
+C;X15;Y135;K4.41
+C;X16;Y135;K3.44
 C;X1;Y136;K"Grossistes"
 C;X2;Y136;K"MIN de Nice : fruits et légumes"
-C;X3;Y136;K"ABRICOT France cat.I 40-45mm colis 5kg"
+C;X3;Y136;K"ABRICOT France cat.I 50-55mm colis 5kg"
 C;X4;Y136;K"euro HT le kg"
-C;X5;Y136;K2.62
-C;X6;Y136;K""
+C;X5;Y136;K3.95
+C;X6;Y136;K3.70
 C;X7;Y136;K""
 C;X8;Y136;K""
 C;X9;Y136;K""
@@ -2158,16 +2158,16 @@ C;X10;Y136;K""
 C;X11;Y136;K""
 C;X12;Y136;K""
 C;X13;Y136;K""
-C;X14;Y136;K""
-C;X15;Y136;K3.95
-C;X16;Y136;K3.59
+C;X14;Y136;K6.25
+C;X15;Y136;K4.83
+C;X16;Y136;K3.89
 C;X1;Y137;K"Grossistes"
 C;X2;Y137;K"MIN de Nice : fruits et légumes"
-C;X3;Y137;K"ABRICOT France cat.I 45-50mm colis 5kg"
+C;X3;Y137;K"ABRICOT France cat.I 55-60mm colis 5kg"
 C;X4;Y137;K"euro HT le kg"
-C;X5;Y137;K3.27
-C;X6;Y137;K3.40
-C;X7;Y137;K3.40
+C;X5;Y137;K""
+C;X6;Y137;K""
+C;X7;Y137;K""
 C;X8;Y137;K""
 C;X9;Y137;K""
 C;X10;Y137;K""
@@ -2175,15 +2175,15 @@ C;X11;Y137;K""
 C;X12;Y137;K""
 C;X13;Y137;K""
 C;X14;Y137;K""
-C;X15;Y137;K4.78
-C;X16;Y137;K4.41
+C;X15;Y137;K5.50
+C;X16;Y137;K4.96
 C;X1;Y138;K"Grossistes"
-C;X2;Y138;K"MIN de Nice : fruits et légumes"
-C;X3;Y138;K"ABRICOT France cat.I 50-55mm colis 5kg"
+C;X2;Y138;K"MIN de Rungis : fruits et légumes"
+C;X3;Y138;K"ABRICOT Bergarouge France cat.I 45-50mm"
 C;X4;Y138;K"euro HT le kg"
-C;X5;Y138;K4.05
-C;X6;Y138;K3.95
-C;X7;Y138;K3.70
+C;X5;Y138;K""
+C;X6;Y138;K""
+C;X7;Y138;K""
 C;X8;Y138;K""
 C;X9;Y138;K""
 C;X10;Y138;K""
@@ -2191,11 +2191,11 @@ C;X11;Y138;K""
 C;X12;Y138;K""
 C;X13;Y138;K""
 C;X14;Y138;K""
-C;X15;Y138;K6.25
-C;X16;Y138;K4.83
+C;X15;Y138;K4.00
+C;X16;Y138;K3.14
 C;X1;Y139;K"Grossistes"
-C;X2;Y139;K"MIN de Nice : fruits et légumes"
-C;X3;Y139;K"ABRICOT France cat.I 55-60mm colis 5kg"
+C;X2;Y139;K"MIN de Rungis : fruits et légumes"
+C;X3;Y139;K"ABRICOT Bergarouge France cat.I 50-55mm"
 C;X4;Y139;K"euro HT le kg"
 C;X5;Y139;K""
 C;X6;Y139;K""
@@ -2207,11 +2207,11 @@ C;X11;Y139;K""
 C;X12;Y139;K""
 C;X13;Y139;K""
 C;X14;Y139;K""
-C;X15;Y139;K""
-C;X16;Y139;K5.50
+C;X15;Y139;K4.50
+C;X16;Y139;K3.30
 C;X1;Y140;K"Grossistes"
 C;X2;Y140;K"MIN de Rungis : fruits et légumes"
-C;X3;Y140;K"ABRICOT Bergarouge France cat.I 45-50mm"
+C;X3;Y140;K"ABRICOT Bergeron France cat.I 45-50mm"
 C;X4;Y140;K"euro HT le kg"
 C;X5;Y140;K""
 C;X6;Y140;K""
@@ -2224,10 +2224,10 @@ C;X12;Y140;K""
 C;X13;Y140;K""
 C;X14;Y140;K""
 C;X15;Y140;K""
-C;X16;Y140;K4.00
+C;X16;Y140;K3.00
 C;X1;Y141;K"Grossistes"
 C;X2;Y141;K"MIN de Rungis : fruits et légumes"
-C;X3;Y141;K"ABRICOT Bergarouge France cat.I 50-55mm"
+C;X3;Y141;K"ABRICOT Bergeron France cat.I 50-55mm"
 C;X4;Y141;K"euro HT le kg"
 C;X5;Y141;K""
 C;X6;Y141;K""
@@ -2240,12 +2240,12 @@ C;X12;Y141;K""
 C;X13;Y141;K""
 C;X14;Y141;K""
 C;X15;Y141;K""
-C;X16;Y141;K4.50
+C;X16;Y141;K3.50
 C;X1;Y142;K"Grossistes"
 C;X2;Y142;K"MIN de Rungis : fruits et légumes"
 C;X3;Y142;K"ABRICOT Espagne cat.I 40-45mm"
 C;X4;Y142;K"euro HT le kg"
-C;X5;Y142;K1.28
+C;X5;Y142;K""
 C;X6;Y142;K""
 C;X7;Y142;K""
 C;X8;Y142;K""
@@ -2253,15 +2253,15 @@ C;X9;Y142;K""
 C;X10;Y142;K""
 C;X11;Y142;K""
 C;X12;Y142;K""
-C;X13;Y142;K""
-C;X14;Y142;K5.75
-C;X15;Y142;K3.15
-C;X16;Y142;K2.00
+C;X13;Y142;K5.75
+C;X14;Y142;K3.15
+C;X15;Y142;K2.00
+C;X16;Y142;K""
 C;X1;Y143;K"Grossistes"
 C;X2;Y143;K"MIN de Rungis : fruits et légumes"
 C;X3;Y143;K"ABRICOT Espagne cat.I 45-50mm"
 C;X4;Y143;K"euro HT le kg"
-C;X5;Y143;K1.38
+C;X5;Y143;K""
 C;X6;Y143;K""
 C;X7;Y143;K""
 C;X8;Y143;K""
@@ -2270,9 +2270,9 @@ C;X10;Y143;K""
 C;X11;Y143;K""
 C;X12;Y143;K""
 C;X13;Y143;K""
-C;X14;Y143;K""
-C;X15;Y143;K3.14
-C;X16;Y143;K2.30
+C;X14;Y143;K3.14
+C;X15;Y143;K2.30
+C;X16;Y143;K""
 C;X1;Y144;K"Grossistes"
 C;X2;Y144;K"MIN de Rungis : fruits et légumes"
 C;X3;Y144;K"ABRICOT Espagne cat.I 50-55mm plateau"
@@ -2285,9 +2285,9 @@ C;X9;Y144;K""
 C;X10;Y144;K""
 C;X11;Y144;K""
 C;X12;Y144;K""
-C;X13;Y144;K""
-C;X14;Y144;K6.65
-C;X15;Y144;K4.15
+C;X13;Y144;K6.65
+C;X14;Y144;K4.15
+C;X15;Y144;K""
 C;X16;Y144;K""
 C;X1;Y145;K"Grossistes"
 C;X2;Y145;K"MIN de Rungis : fruits et légumes"
@@ -2303,8 +2303,8 @@ C;X11;Y145;K""
 C;X12;Y145;K""
 C;X13;Y145;K""
 C;X14;Y145;K""
-C;X15;Y145;K""
-C;X16;Y145;K3.27
+C;X15;Y145;K3.27
+C;X16;Y145;K""
 C;X1;Y146;K"Grossistes"
 C;X2;Y146;K"MIN de Rungis : fruits et légumes"
 C;X3;Y146;K"ABRICOT Orangered France cat.I 45-50mm"
@@ -2319,8 +2319,8 @@ C;X11;Y146;K""
 C;X12;Y146;K""
 C;X13;Y146;K""
 C;X14;Y146;K""
-C;X15;Y146;K""
-C;X16;Y146;K3.47
+C;X15;Y146;K3.47
+C;X16;Y146;K""
 C;X1;Y147;K"Grossistes"
 C;X2;Y147;K"MIN de Rungis : fruits et légumes"
 C;X3;Y147;K"ABRICOT Orangered France cat.I 50-55mm"
@@ -2335,14 +2335,14 @@ C;X11;Y147;K""
 C;X12;Y147;K""
 C;X13;Y147;K""
 C;X14;Y147;K""
-C;X15;Y147;K""
-C;X16;Y147;K3.89
+C;X15;Y147;K3.89
+C;X16;Y147;K""
 C;X1;Y148;K"Grossistes"
 C;X2;Y148;K"MIN de Rungis : fruits et légumes"
 C;X3;Y148;K"ABRICOT type orange France cat.I 40-45mm"
 C;X4;Y148;K"euro HT le kg"
-C;X5;Y148;K1.58
-C;X6;Y148;K2.24
+C;X5;Y148;K2.24
+C;X6;Y148;K""
 C;X7;Y148;K""
 C;X8;Y148;K""
 C;X9;Y148;K""
@@ -2350,15 +2350,15 @@ C;X10;Y148;K""
 C;X11;Y148;K""
 C;X12;Y148;K""
 C;X13;Y148;K""
-C;X14;Y148;K""
-C;X15;Y148;K3.33
-C;X16;Y148;K2.45
+C;X14;Y148;K3.33
+C;X15;Y148;K2.45
+C;X16;Y148;K2.02
 C;X1;Y149;K"Grossistes"
 C;X2;Y149;K"MIN de Rungis : fruits et légumes"
 C;X3;Y149;K"ABRICOT type orange France cat.I 45-50mm"
 C;X4;Y149;K"euro HT le kg"
-C;X5;Y149;K2.54
-C;X6;Y149;K2.55
+C;X5;Y149;K2.55
+C;X6;Y149;K""
 C;X7;Y149;K""
 C;X8;Y149;K""
 C;X9;Y149;K""
@@ -2366,9 +2366,9 @@ C;X10;Y149;K""
 C;X11;Y149;K""
 C;X12;Y149;K""
 C;X13;Y149;K""
-C;X14;Y149;K""
-C;X15;Y149;K4.69
-C;X16;Y149;K3.02
+C;X14;Y149;K4.69
+C;X15;Y149;K3.02
+C;X16;Y149;K2.41
 C;X1;Y150;K"Grossistes"
 C;X2;Y150;K"MIN de Rungis : fruits et légumes"
 C;X3;Y150;K"ABRICOT type orange France cat.I 50-55mm"
@@ -2382,15 +2382,15 @@ C;X10;Y150;K""
 C;X11;Y150;K""
 C;X12;Y150;K""
 C;X13;Y150;K""
-C;X14;Y150;K""
-C;X15;Y150;K4.64
-C;X16;Y150;K3.61
+C;X14;Y150;K4.64
+C;X15;Y150;K3.61
+C;X16;Y150;K2.98
 C;X1;Y151;K"Grossistes"
 C;X2;Y151;K"MIN de Rungis : fruits et légumes"
 C;X3;Y151;K"ABRICOT type orangé rouge France cat.I 50-55mm"
 C;X4;Y151;K"euro HT le kg"
-C;X5;Y151;K3.05
-C;X6;Y151;K2.79
+C;X5;Y151;K2.79
+C;X6;Y151;K""
 C;X7;Y151;K""
 C;X8;Y151;K""
 C;X9;Y151;K""
@@ -2405,8 +2405,8 @@ C;X1;Y152;K"Grossistes"
 C;X2;Y152;K"MIN de Rungis : fruits et légumes"
 C;X3;Y152;K"ABRICOT type orangé rouge France cat.I 55-60mm plateau"
 C;X4;Y152;K"euro HT le kg"
-C;X5;Y152;K3.39
-C;X6;Y152;K3.20
+C;X5;Y152;K3.20
+C;X6;Y152;K""
 C;X7;Y152;K""
 C;X8;Y152;K""
 C;X9;Y152;K""
@@ -2421,18 +2421,18 @@ C;X1;Y153;K"Grossistes"
 C;X2;Y153;K"MIN de Rungis : fruits et légumes bio"
 C;X3;Y153;K"ABRICOT France biologique"
 C;X4;Y153;K"euro HT le kg"
-C;X5;Y153;K3.95
-C;X6;Y153;K4.93
-C;X7;Y153;K5.54
+C;X5;Y153;K4.93
+C;X6;Y153;K5.54
+C;X7;Y153;K""
 C;X8;Y153;K""
 C;X9;Y153;K""
 C;X10;Y153;K""
 C;X11;Y153;K""
 C;X12;Y153;K""
 C;X13;Y153;K""
-C;X14;Y153;K""
-C;X15;Y153;K6.08
-C;X16;Y153;K5.50
+C;X14;Y153;K6.08
+C;X15;Y153;K5.50
+C;X16;Y153;K5.36
 C;X1;Y154;K"Grossistes"
 C;X2;Y154;K"MIN de Rungis : fruits et légumes bio"
 C;X3;Y154;K"ABRICOT U.E. biologique"
@@ -2445,15 +2445,15 @@ C;X9;Y154;K""
 C;X10;Y154;K""
 C;X11;Y154;K""
 C;X12;Y154;K""
-C;X13;Y154;K""
-C;X14;Y154;K5.96
-C;X15;Y154;K5.36
+C;X13;Y154;K5.96
+C;X14;Y154;K5.36
+C;X15;Y154;K""
 C;X16;Y154;K""
 C;X1;Y155;K"Grossistes"
 C;X2;Y155;K"MIN de Strasbourg : fruits et légumes"
 C;X3;Y155;K"ABRICOT Espagne cat.I 40-45mm"
 C;X4;Y155;K"euro HT le kg"
-C;X5;Y155;K1.73
+C;X5;Y155;K""
 C;X6;Y155;K""
 C;X7;Y155;K""
 C;X8;Y155;K""
@@ -2462,31 +2462,31 @@ C;X10;Y155;K""
 C;X11;Y155;K""
 C;X12;Y155;K""
 C;X13;Y155;K""
-C;X14;Y155;K""
-C;X15;Y155;K2.54
-C;X16;Y155;K2.85
+C;X14;Y155;K2.54
+C;X15;Y155;K2.85
+C;X16;Y155;K""
 C;X1;Y156;K"Grossistes"
 C;X2;Y156;K"MIN de Strasbourg : fruits et légumes"
 C;X3;Y156;K"ABRICOT Espagne cat.I 45-50mm"
 C;X4;Y156;K"euro HT le kg"
-C;X5;Y156;K1.82
-C;X6;Y156;K1.75
+C;X5;Y156;K1.75
+C;X6;Y156;K""
 C;X7;Y156;K""
 C;X8;Y156;K""
 C;X9;Y156;K""
 C;X10;Y156;K""
 C;X11;Y156;K""
 C;X12;Y156;K""
-C;X13;Y156;K""
-C;X14;Y156;K5.30
-C;X15;Y156;K3.29
-C;X16;Y156;K2.58
+C;X13;Y156;K5.30
+C;X14;Y156;K3.29
+C;X15;Y156;K2.58
+C;X16;Y156;K1.80
 C;X1;Y157;K"Grossistes"
 C;X2;Y157;K"MIN de Strasbourg : fruits et légumes"
-C;X3;Y157;K"ABRICOT France cat.I 40-45mm"
+C;X3;Y157;K"ABRICOT Espagne cat.I 50-55mm"
 C;X4;Y157;K"euro HT le kg"
-C;X5;Y157;K2.24
-C;X6;Y157;K2.59
+C;X5;Y157;K""
+C;X6;Y157;K""
 C;X7;Y157;K""
 C;X8;Y157;K""
 C;X9;Y157;K""
@@ -2496,13 +2496,13 @@ C;X12;Y157;K""
 C;X13;Y157;K""
 C;X14;Y157;K""
 C;X15;Y157;K""
-C;X16;Y157;K2.40
+C;X16;Y157;K1.87
 C;X1;Y158;K"Grossistes"
 C;X2;Y158;K"MIN de Strasbourg : fruits et légumes"
-C;X3;Y158;K"ABRICOT France cat.I 45-50mm"
+C;X3;Y158;K"ABRICOT France cat.I 40-45mm"
 C;X4;Y158;K"euro HT le kg"
-C;X5;Y158;K2.87
-C;X6;Y158;K3.24
+C;X5;Y158;K2.59
+C;X6;Y158;K""
 C;X7;Y158;K""
 C;X8;Y158;K""
 C;X9;Y158;K""
@@ -2511,13 +2511,13 @@ C;X11;Y158;K""
 C;X12;Y158;K""
 C;X13;Y158;K""
 C;X14;Y158;K""
-C;X15;Y158;K4.40
-C;X16;Y158;K3.71
+C;X15;Y158;K2.40
+C;X16;Y158;K2.48
 C;X1;Y159;K"Grossistes"
 C;X2;Y159;K"MIN de Strasbourg : fruits et légumes"
-C;X3;Y159;K"ABRICOT France cat.I 50-55mm"
+C;X3;Y159;K"ABRICOT France cat.I 45-50mm"
 C;X4;Y159;K"euro HT le kg"
-C;X5;Y159;K3.68
+C;X5;Y159;K3.24
 C;X6;Y159;K""
 C;X7;Y159;K""
 C;X8;Y159;K""
@@ -2526,14 +2526,14 @@ C;X10;Y159;K""
 C;X11;Y159;K""
 C;X12;Y159;K""
 C;X13;Y159;K""
-C;X14;Y159;K""
-C;X15;Y159;K""
-C;X16;Y159;K""
+C;X14;Y159;K4.40
+C;X15;Y159;K3.71
+C;X16;Y159;K3.21
 C;X1;Y160;K"Grossistes"
-C;X2;Y160;K"MIN de Strasbourg : fruits et légumes bio"
-C;X3;Y160;K"ABRICOT France biologique colis"
+C;X2;Y160;K"MIN de Strasbourg : fruits et légumes"
+C;X3;Y160;K"ABRICOT France cat.I 50-55mm"
 C;X4;Y160;K"euro HT le kg"
-C;X5;Y160;K4.05
+C;X5;Y160;K""
 C;X6;Y160;K""
 C;X7;Y160;K""
 C;X8;Y160;K""
@@ -2544,12 +2544,12 @@ C;X12;Y160;K""
 C;X13;Y160;K""
 C;X14;Y160;K""
 C;X15;Y160;K""
-C;X16;Y160;K5.25
+C;X16;Y160;K3.70
 C;X1;Y161;K"Grossistes"
-C;X2;Y161;K"MIN de Toulouse : fruits et légumes"
-C;X3;Y161;K"ABRICOT France cat.I 40-45mm"
+C;X2;Y161;K"MIN de Strasbourg : fruits et légumes bio"
+C;X3;Y161;K"ABRICOT France biologique colis"
 C;X4;Y161;K"euro HT le kg"
-C;X5;Y161;K1.63
+C;X5;Y161;K""
 C;X6;Y161;K""
 C;X7;Y161;K""
 C;X8;Y161;K""
@@ -2559,14 +2559,14 @@ C;X11;Y161;K""
 C;X12;Y161;K""
 C;X13;Y161;K""
 C;X14;Y161;K""
-C;X15;Y161;K""
-C;X16;Y161;K2.67
+C;X15;Y161;K5.25
+C;X16;Y161;K5.14
 C;X1;Y162;K"Grossistes"
 C;X2;Y162;K"MIN de Toulouse : fruits et légumes"
-C;X3;Y162;K"ABRICOT France cat.I 45-50mm"
+C;X3;Y162;K"ABRICOT France cat.I 40-45mm"
 C;X4;Y162;K"euro HT le kg"
-C;X5;Y162;K2.16
-C;X6;Y162;K2.62
+C;X5;Y162;K""
+C;X6;Y162;K""
 C;X7;Y162;K""
 C;X8;Y162;K""
 C;X9;Y162;K""
@@ -2575,14 +2575,14 @@ C;X11;Y162;K""
 C;X12;Y162;K""
 C;X13;Y162;K""
 C;X14;Y162;K""
-C;X15;Y162;K3.60
-C;X16;Y162;K3.14
+C;X15;Y162;K2.67
+C;X16;Y162;K2.00
 C;X1;Y163;K"Grossistes"
 C;X2;Y163;K"MIN de Toulouse : fruits et légumes"
-C;X3;Y163;K"ABRICOT France cat.I 50-55mm"
+C;X3;Y163;K"ABRICOT France cat.I 45-50mm"
 C;X4;Y163;K"euro HT le kg"
-C;X5;Y163;K2.73
-C;X6;Y163;K2.60
+C;X5;Y163;K2.62
+C;X6;Y163;K""
 C;X7;Y163;K""
 C;X8;Y163;K""
 C;X9;Y163;K""
@@ -2590,15 +2590,15 @@ C;X10;Y163;K""
 C;X11;Y163;K""
 C;X12;Y163;K""
 C;X13;Y163;K""
-C;X14;Y163;K""
-C;X15;Y163;K4.02
-C;X16;Y163;K3.51
-C;X1;Y164;K"Détail"
-C;X2;Y164;K"Fruits France DETAIL GMS"
-C;X3;Y164;K"ABRICOT France 40-45mm vrac"
-C;X4;Y164;K"euro TTC le kg"
-C;X5;Y164;K3.79
-C;X6;Y164;K4.00
+C;X14;Y163;K3.60
+C;X15;Y163;K3.14
+C;X16;Y163;K2.46
+C;X1;Y164;K"Grossistes"
+C;X2;Y164;K"MIN de Toulouse : fruits et légumes"
+C;X3;Y164;K"ABRICOT France cat.I 50-55mm"
+C;X4;Y164;K"euro HT le kg"
+C;X5;Y164;K2.60
+C;X6;Y164;K""
 C;X7;Y164;K""
 C;X8;Y164;K""
 C;X9;Y164;K""
@@ -2606,48 +2606,48 @@ C;X10;Y164;K""
 C;X11;Y164;K""
 C;X12;Y164;K""
 C;X13;Y164;K""
-C;X14;Y164;K""
-C;X15;Y164;K4.16
-C;X16;Y164;K4.00
+C;X14;Y164;K4.02
+C;X15;Y164;K3.51
+C;X16;Y164;K2.84
 C;X1;Y165;K"Détail"
 C;X2;Y165;K"Fruits France DETAIL GMS"
-C;X3;Y165;K"ABRICOT France 45-50mm vrac"
+C;X3;Y165;K"ABRICOT France 40-45mm vrac"
 C;X4;Y165;K"euro TTC le kg"
-C;X5;Y165;K3.58
-C;X6;Y165;K3.96
-C;X7;Y165;K4.26
+C;X5;Y165;K4.00
+C;X6;Y165;K""
+C;X7;Y165;K""
 C;X8;Y165;K""
 C;X9;Y165;K""
 C;X10;Y165;K""
 C;X11;Y165;K""
 C;X12;Y165;K""
 C;X13;Y165;K""
-C;X14;Y165;K""
-C;X15;Y165;K5.16
-C;X16;Y165;K4.14
+C;X14;Y165;K4.16
+C;X15;Y165;K4.00
+C;X16;Y165;K3.65
 C;X1;Y166;K"Détail"
 C;X2;Y166;K"Fruits France DETAIL GMS"
-C;X3;Y166;K"ABRICOT France barq.1kg"
+C;X3;Y166;K"ABRICOT France 45-50mm vrac"
 C;X4;Y166;K"euro TTC le kg"
-C;X5;Y166;K3.30
-C;X6;Y166;K3.32
-C;X7;Y166;K3.50
+C;X5;Y166;K3.96
+C;X6;Y166;K4.26
+C;X7;Y166;K""
 C;X8;Y166;K""
 C;X9;Y166;K""
 C;X10;Y166;K""
 C;X11;Y166;K""
 C;X12;Y166;K""
 C;X13;Y166;K""
-C;X14;Y166;K""
-C;X15;Y166;K5.15
-C;X16;Y166;K3.89
+C;X14;Y166;K5.16
+C;X15;Y166;K4.14
+C;X16;Y166;K3.52
 C;X1;Y167;K"Détail"
 C;X2;Y167;K"Fruits France DETAIL GMS"
-C;X3;Y167;K"ABRICOT France biologique"
+C;X3;Y167;K"ABRICOT France 50 + vrac"
 C;X4;Y167;K"euro TTC le kg"
-C;X5;Y167;K7.90
-C;X6;Y167;K8.57
-C;X7;Y167;K8.81
+C;X5;Y167;K""
+C;X6;Y167;K""
+C;X7;Y167;K""
 C;X8;Y167;K""
 C;X9;Y167;K""
 C;X10;Y167;K""
@@ -2656,29 +2656,29 @@ C;X12;Y167;K""
 C;X13;Y167;K""
 C;X14;Y167;K""
 C;X15;Y167;K""
-C;X16;Y167;K9.61
+C;X16;Y167;K3.91
 C;X1;Y168;K"Détail"
 C;X2;Y168;K"Fruits France DETAIL GMS"
-C;X3;Y168;K"ABRICOT France cal. autre ou inconnu vrac"
+C;X3;Y168;K"ABRICOT France barq.1kg"
 C;X4;Y168;K"euro TTC le kg"
-C;X5;Y168;K3.90
-C;X6;Y168;K3.94
-C;X7;Y168;K3.96
+C;X5;Y168;K3.32
+C;X6;Y168;K3.50
+C;X7;Y168;K""
 C;X8;Y168;K""
 C;X9;Y168;K""
 C;X10;Y168;K""
 C;X11;Y168;K""
 C;X12;Y168;K""
 C;X13;Y168;K""
-C;X14;Y168;K""
-C;X15;Y168;K""
-C;X16;Y168;K""
+C;X14;Y168;K5.15
+C;X15;Y168;K3.89
+C;X16;Y168;K3.42
 C;X1;Y169;K"Détail"
 C;X2;Y169;K"Fruits France DETAIL GMS"
-C;X3;Y169;K"ABRICOT hors Fr. 45-50mm vrac"
+C;X3;Y169;K"ABRICOT France biologique"
 C;X4;Y169;K"euro TTC le kg"
-C;X5;Y169;K""
-C;X6;Y169;K""
+C;X5;Y169;K8.57
+C;X6;Y169;K8.81
 C;X7;Y169;K""
 C;X8;Y169;K""
 C;X9;Y169;K""
@@ -2687,14 +2687,14 @@ C;X11;Y169;K""
 C;X12;Y169;K""
 C;X13;Y169;K""
 C;X14;Y169;K""
-C;X15;Y169;K4.78
-C;X16;Y169;K4.92
+C;X15;Y169;K9.61
+C;X16;Y169;K10.17
 C;X1;Y170;K"Détail"
 C;X2;Y170;K"Fruits France DETAIL GMS"
-C;X3;Y170;K"ABRICOT hors Fr. barq.1kg"
+C;X3;Y170;K"ABRICOT France cal. autre ou inconnu vrac"
 C;X4;Y170;K"euro TTC le kg"
-C;X5;Y170;K""
-C;X6;Y170;K""
+C;X5;Y170;K3.94
+C;X6;Y170;K3.96
 C;X7;Y170;K""
 C;X8;Y170;K""
 C;X9;Y170;K""
@@ -2703,14 +2703,14 @@ C;X11;Y170;K""
 C;X12;Y170;K""
 C;X13;Y170;K""
 C;X14;Y170;K""
-C;X15;Y170;K4.39
-C;X16;Y170;K""
+C;X15;Y170;K""
+C;X16;Y170;K3.43
 C;X1;Y171;K"Détail"
-C;X2;Y171;K"Fruits France DETAIL MAG. SPECIALISES BIO"
-C;X3;Y171;K"ABRICOT France biologique"
+C;X2;Y171;K"Fruits France DETAIL GMS"
+C;X3;Y171;K"ABRICOT hors Fr. 45-50mm vrac"
 C;X4;Y171;K"euro TTC le kg"
-C;X5;Y171;K5.87
-C;X6;Y171;K6.62
+C;X5;Y171;K""
+C;X6;Y171;K""
 C;X7;Y171;K""
 C;X8;Y171;K""
 C;X9;Y171;K""
@@ -2718,9 +2718,41 @@ C;X10;Y171;K""
 C;X11;Y171;K""
 C;X12;Y171;K""
 C;X13;Y171;K""
-C;X14;Y171;K""
-C;X15;Y171;K8.43
-C;X16;Y171;K8.15
-F;SM6;X1;Y174
+C;X14;Y171;K4.78
+C;X15;Y171;K4.92
+C;X16;Y171;K""
+C;X1;Y172;K"Détail"
+C;X2;Y172;K"Fruits France DETAIL GMS"
+C;X3;Y172;K"ABRICOT hors Fr. barq.1kg"
+C;X4;Y172;K"euro TTC le kg"
+C;X5;Y172;K""
+C;X6;Y172;K""
+C;X7;Y172;K""
+C;X8;Y172;K""
+C;X9;Y172;K""
+C;X10;Y172;K""
+C;X11;Y172;K""
+C;X12;Y172;K""
+C;X13;Y172;K""
+C;X14;Y172;K4.39
+C;X15;Y172;K""
+C;X16;Y172;K""
+C;X1;Y173;K"Détail"
+C;X2;Y173;K"Fruits France DETAIL MAG. SPECIALISES BIO"
+C;X3;Y173;K"ABRICOT France biologique"
+C;X4;Y173;K"euro TTC le kg"
+C;X5;Y173;K6.62
+C;X6;Y173;K""
+C;X7;Y173;K""
+C;X8;Y173;K""
+C;X9;Y173;K""
+C;X10;Y173;K""
+C;X11;Y173;K""
+C;X12;Y173;K""
+C;X13;Y173;K""
+C;X14;Y173;K8.43
+C;X15;Y173;K8.15
+C;X16;Y173;K8.05
+F;SM6;X1;Y176
 C;K"Source : RNM.FranceAgriMer.fr"
 E

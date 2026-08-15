@@ -16,7 +16,7 @@ F;W4 4 20
 F;SM5;X1;Y1
 C;K"Asperge - RNM"
 F;SM5;X1;Y2
-C;K"prix moyens mensuels du 01-07-2025 au 30-06-2026"
+C;K"prix moyens mensuels du 01-08-2025 au 31-07-2026"
 F;FG0C;SM6;X1;Y4
 C;K"Stade"
 F;FG0C;SM6;X2;Y4
@@ -26,29 +26,29 @@ C;K"Libellé"
 F;FG0C;SM6;X4;Y4
 C;K"Unité"
 F;FG0C;SM6;X5;Y4
-C;K"Juil. 2025"
-F;FG0C;SM6;X6;Y4
 C;K"Août 2025"
-F;FG0C;SM6;X7;Y4
+F;FG0C;SM6;X6;Y4
 C;K"Septe. 2025"
-F;FG0C;SM6;X8;Y4
+F;FG0C;SM6;X7;Y4
 C;K"Octo. 2025"
-F;FG0C;SM6;X9;Y4
+F;FG0C;SM6;X8;Y4
 C;K"Nove. 2025"
-F;FG0C;SM6;X10;Y4
+F;FG0C;SM6;X9;Y4
 C;K"Déce. 2025"
-F;FG0C;SM6;X11;Y4
+F;FG0C;SM6;X10;Y4
 C;K"Janv. 2026"
-F;FG0C;SM6;X12;Y4
+F;FG0C;SM6;X11;Y4
 C;K"Févr. 2026"
-F;FG0C;SM6;X13;Y4
+F;FG0C;SM6;X12;Y4
 C;K"Mars 2026"
-F;FG0C;SM6;X14;Y4
+F;FG0C;SM6;X13;Y4
 C;K"Avril 2026"
-F;FG0C;SM6;X15;Y4
+F;FG0C;SM6;X14;Y4
 C;K"Mai 2026"
-F;FG0C;SM6;X16;Y4
+F;FG0C;SM6;X15;Y4
 C;K"Juin 2026"
+F;FG0C;SM6;X16;Y4
+C;K"Juil. 2026"
 C;X1;Y5;K"Marché de producteurs"
 C;X2;Y5;K"Marché de Lyon-Corbas carreau : fruits et légumes"
 C;X3;Y5;K"ASPERGE blanche violette Rhône-Alpes 16-22mm plateau"
@@ -61,9 +61,9 @@ C;X9;Y5;K""
 C;X10;Y5;K""
 C;X11;Y5;K""
 C;X12;Y5;K""
-C;X13;Y5;K""
-C;X14;Y5;K5.80
-C;X15;Y5;K4.94
+C;X13;Y5;K5.80
+C;X14;Y5;K4.94
+C;X15;Y5;K""
 C;X16;Y5;K""
 C;X1;Y6;K"Marché de producteurs"
 C;X2;Y6;K"Marché de Lyon-Corbas carreau : fruits et légumes"
@@ -77,9 +77,9 @@ C;X9;Y6;K""
 C;X10;Y6;K""
 C;X11;Y6;K""
 C;X12;Y6;K""
-C;X13;Y6;K""
-C;X14;Y6;K6.67
-C;X15;Y6;K5.55
+C;X13;Y6;K6.67
+C;X14;Y6;K5.55
+C;X15;Y6;K""
 C;X16;Y6;K""
 C;X1;Y7;K"Marché de producteurs"
 C;X2;Y7;K"Marché de Lyon-Corbas carreau : fruits et légumes"
@@ -93,9 +93,9 @@ C;X9;Y7;K""
 C;X10;Y7;K""
 C;X11;Y7;K""
 C;X12;Y7;K""
-C;X13;Y7;K""
-C;X14;Y7;K9.29
-C;X15;Y7;K7.83
+C;X13;Y7;K9.29
+C;X14;Y7;K7.83
+C;X15;Y7;K""
 C;X16;Y7;K""
 C;X1;Y8;K"Marché de producteurs"
 C;X2;Y8;K"Marché de Perpignan carreau : fruits et légumes"
@@ -107,11 +107,11 @@ C;X7;Y8;K""
 C;X8;Y8;K""
 C;X9;Y8;K""
 C;X10;Y8;K""
-C;X11;Y8;K""
-C;X12;Y8;K11.00
-C;X13;Y8;K11.11
-C;X14;Y8;K10.67
-C;X15;Y8;K10.00
+C;X11;Y8;K11.00
+C;X12;Y8;K11.11
+C;X13;Y8;K10.67
+C;X14;Y8;K10.00
+C;X15;Y8;K""
 C;X16;Y8;K""
 C;X1;Y9;K"Marché de producteurs"
 C;X2;Y9;K"Marché de Perpignan carreau : fruits et légumes"
@@ -124,10 +124,10 @@ C;X8;Y9;K""
 C;X9;Y9;K""
 C;X10;Y9;K""
 C;X11;Y9;K""
-C;X12;Y9;K""
-C;X13;Y9;K13.00
-C;X14;Y9;K12.67
-C;X15;Y9;K12.00
+C;X12;Y9;K13.00
+C;X13;Y9;K12.67
+C;X14;Y9;K12.00
+C;X15;Y9;K""
 C;X16;Y9;K""
 C;X1;Y10;K"Marché de producteurs"
 C;X2;Y10;K"Marché de Perpignan carreau : fruits et légumes"
@@ -139,11 +139,11 @@ C;X7;Y10;K""
 C;X8;Y10;K""
 C;X9;Y10;K""
 C;X10;Y10;K""
-C;X11;Y10;K""
-C;X12;Y10;K12.00
-C;X13;Y10;K11.78
+C;X11;Y10;K12.00
+C;X12;Y10;K11.78
+C;X13;Y10;K11.00
 C;X14;Y10;K11.00
-C;X15;Y10;K11.00
+C;X15;Y10;K""
 C;X16;Y10;K""
 C;X1;Y11;K"Marché de producteurs"
 C;X2;Y11;K"Marché de Perpignan carreau : fruits et légumes"
@@ -156,10 +156,10 @@ C;X8;Y11;K""
 C;X9;Y11;K""
 C;X10;Y11;K""
 C;X11;Y11;K""
-C;X12;Y11;K""
+C;X12;Y11;K12.00
 C;X13;Y11;K12.00
 C;X14;Y11;K12.00
-C;X15;Y11;K12.00
+C;X15;Y11;K""
 C;X16;Y11;K""
 C;X1;Y12;K"Marché de producteurs"
 C;X2;Y12;K"Marché de Perpignan carreau : fruits et légumes"
@@ -171,11 +171,11 @@ C;X7;Y12;K""
 C;X8;Y12;K""
 C;X9;Y12;K""
 C;X10;Y12;K""
-C;X11;Y12;K""
-C;X12;Y12;K13.00
-C;X13;Y12;K12.89
+C;X11;Y12;K13.00
+C;X12;Y12;K12.89
+C;X13;Y12;K12.00
 C;X14;Y12;K12.00
-C;X15;Y12;K12.00
+C;X15;Y12;K""
 C;X16;Y12;K""
 C;X1;Y13;K"Marché de producteurs"
 C;X2;Y13;K"Marché de producteurs de Vivy : fruits et légumes"
@@ -188,10 +188,10 @@ C;X8;Y13;K""
 C;X9;Y13;K""
 C;X10;Y13;K""
 C;X11;Y13;K""
-C;X12;Y13;K""
-C;X13;Y13;K8.00
-C;X14;Y13;K4.39
-C;X15;Y13;K3.50
+C;X12;Y13;K8.00
+C;X13;Y13;K4.39
+C;X14;Y13;K3.50
+C;X15;Y13;K""
 C;X16;Y13;K""
 C;X1;Y14;K"Marché de producteurs"
 C;X2;Y14;K"Marché de producteurs de Vivy : fruits et légumes"
@@ -206,8 +206,8 @@ C;X10;Y14;K""
 C;X11;Y14;K""
 C;X12;Y14;K""
 C;X13;Y14;K""
-C;X14;Y14;K""
-C;X15;Y14;K3.90
+C;X14;Y14;K3.90
+C;X15;Y14;K""
 C;X16;Y14;K""
 C;X1;Y15;K"Marché de producteurs"
 C;X2;Y15;K"MIN d'Agen carreau : fruits et légumes"
@@ -220,9 +220,9 @@ C;X8;Y15;K""
 C;X9;Y15;K""
 C;X10;Y15;K""
 C;X11;Y15;K""
-C;X12;Y15;K""
-C;X13;Y15;K14.00
-C;X14;Y15;K9.50
+C;X12;Y15;K14.00
+C;X13;Y15;K9.50
+C;X14;Y15;K""
 C;X15;Y15;K""
 C;X16;Y15;K""
 C;X1;Y16;K"Expédition"
@@ -237,9 +237,9 @@ C;X9;Y16;K""
 C;X10;Y16;K""
 C;X11;Y16;K""
 C;X12;Y16;K""
-C;X13;Y16;K""
-C;X14;Y16;K6.38
-C;X15;Y16;K5.88
+C;X13;Y16;K6.38
+C;X14;Y16;K5.88
+C;X15;Y16;K""
 C;X16;Y16;K""
 C;X1;Y17;K"Expédition"
 C;X2;Y17;K"Bassin Centre-Ouest : fruits et légumes"
@@ -253,10 +253,10 @@ C;X9;Y17;K""
 C;X10;Y17;K""
 C;X11;Y17;K""
 C;X12;Y17;K""
-C;X13;Y17;K""
-C;X14;Y17;K5.49
-C;X15;Y17;K5.56
-C;X16;Y17;K6.10
+C;X13;Y17;K5.49
+C;X14;Y17;K5.56
+C;X15;Y17;K6.10
+C;X16;Y17;K""
 C;X1;Y18;K"Expédition"
 C;X2;Y18;K"Bassin Centre-Ouest : fruits et légumes"
 C;X3;Y18;K"ASPERGE blanche Centre-Ouest cat.I +22mm plateau"
@@ -269,10 +269,10 @@ C;X9;Y18;K""
 C;X10;Y18;K""
 C;X11;Y18;K""
 C;X12;Y18;K""
-C;X13;Y18;K""
-C;X14;Y18;K5.73
-C;X15;Y18;K5.90
-C;X16;Y18;K6.50
+C;X13;Y18;K5.73
+C;X14;Y18;K5.90
+C;X15;Y18;K6.50
+C;X16;Y18;K""
 C;X1;Y19;K"Expédition"
 C;X2;Y19;K"Bassin Centre-Ouest : fruits et légumes"
 C;X3;Y19;K"ASPERGE violette Centre-Ouest cat.I 16-22mm plateau"
@@ -285,10 +285,10 @@ C;X9;Y19;K""
 C;X10;Y19;K""
 C;X11;Y19;K""
 C;X12;Y19;K""
-C;X13;Y19;K""
-C;X14;Y19;K5.03
-C;X15;Y19;K5.19
-C;X16;Y19;K5.70
+C;X13;Y19;K5.03
+C;X14;Y19;K5.19
+C;X15;Y19;K5.70
+C;X16;Y19;K""
 C;X1;Y20;K"Expédition"
 C;X2;Y20;K"Bassin Centre-Ouest : fruits et légumes"
 C;X3;Y20;K"ASPERGE violette Centre-Ouest cat.I +22mm plateau"
@@ -301,10 +301,10 @@ C;X9;Y20;K""
 C;X10;Y20;K""
 C;X11;Y20;K""
 C;X12;Y20;K""
-C;X13;Y20;K""
-C;X14;Y20;K5.18
-C;X15;Y20;K5.49
-C;X16;Y20;K6.00
+C;X13;Y20;K5.18
+C;X14;Y20;K5.49
+C;X15;Y20;K6.00
+C;X16;Y20;K""
 C;X1;Y21;K"Expédition"
 C;X2;Y21;K"Bassin Centre-Ouest : fruits et légumes bio"
 C;X3;Y21;K"ASPERGE verte Centre-Ouest biologique 16-22mm"
@@ -318,8 +318,8 @@ C;X10;Y21;K""
 C;X11;Y21;K""
 C;X12;Y21;K""
 C;X13;Y21;K""
-C;X14;Y21;K""
-C;X15;Y21;K9.05
+C;X14;Y21;K9.05
+C;X15;Y21;K""
 C;X16;Y21;K""
 C;X1;Y22;K"Expédition"
 C;X2;Y22;K"Bassin Centre-Ouest : fruits et légumes bio"
@@ -333,10 +333,10 @@ C;X9;Y22;K""
 C;X10;Y22;K""
 C;X11;Y22;K""
 C;X12;Y22;K""
-C;X13;Y22;K""
-C;X14;Y22;K7.66
-C;X15;Y22;K7.03
-C;X16;Y22;K7.83
+C;X13;Y22;K7.66
+C;X14;Y22;K7.03
+C;X15;Y22;K7.83
+C;X16;Y22;K""
 C;X1;Y23;K"Expédition"
 C;X2;Y23;K"Bassin Grand Est : fruits et légumes"
 C;X3;Y23;K"ASPERGE blanche Alsace cat.I 16-22mm botte 1kg"
@@ -349,10 +349,10 @@ C;X9;Y23;K""
 C;X10;Y23;K""
 C;X11;Y23;K""
 C;X12;Y23;K""
-C;X13;Y23;K""
-C;X14;Y23;K10.10
-C;X15;Y23;K7.85
-C;X16;Y23;K7.50
+C;X13;Y23;K10.10
+C;X14;Y23;K7.85
+C;X15;Y23;K7.50
+C;X16;Y23;K""
 C;X1;Y24;K"Expédition"
 C;X2;Y24;K"Bassin Grand Est : fruits et légumes"
 C;X3;Y24;K"ASPERGE blanche Alsace cat.I +22mm plateau"
@@ -365,10 +365,10 @@ C;X9;Y24;K""
 C;X10;Y24;K""
 C;X11;Y24;K""
 C;X12;Y24;K""
-C;X13;Y24;K""
-C;X14;Y24;K7.79
-C;X15;Y24;K7.04
-C;X16;Y24;K7.30
+C;X13;Y24;K7.79
+C;X14;Y24;K7.04
+C;X15;Y24;K7.30
+C;X16;Y24;K""
 C;X1;Y25;K"Expédition"
 C;X2;Y25;K"Bassin Sud-Est : fruits et légumes 2"
 C;X3;Y25;K"ASPERGE blanche Sud-Est cat.I 16-22mm plateau"
@@ -380,9 +380,9 @@ C;X8;Y25;K""
 C;X9;Y25;K""
 C;X10;Y25;K""
 C;X11;Y25;K""
-C;X12;Y25;K""
-C;X13;Y25;K8.21
-C;X14;Y25;K6.63
+C;X12;Y25;K8.21
+C;X13;Y25;K6.63
+C;X14;Y25;K""
 C;X15;Y25;K""
 C;X16;Y25;K""
 C;X1;Y26;K"Expédition"
@@ -396,9 +396,9 @@ C;X8;Y26;K""
 C;X9;Y26;K""
 C;X10;Y26;K""
 C;X11;Y26;K""
-C;X12;Y26;K""
-C;X13;Y26;K9.07
-C;X14;Y26;K7.17
+C;X12;Y26;K9.07
+C;X13;Y26;K7.17
+C;X14;Y26;K""
 C;X15;Y26;K""
 C;X16;Y26;K""
 C;X1;Y27;K"Expédition"
@@ -412,10 +412,10 @@ C;X8;Y27;K""
 C;X9;Y27;K""
 C;X10;Y27;K""
 C;X11;Y27;K""
-C;X12;Y27;K""
-C;X13;Y27;K10.00
-C;X14;Y27;K8.94
-C;X15;Y27;K8.50
+C;X12;Y27;K10.00
+C;X13;Y27;K8.94
+C;X14;Y27;K8.50
+C;X15;Y27;K""
 C;X16;Y27;K""
 C;X1;Y28;K"Expédition"
 C;X2;Y28;K"Bassin Sud-Est : fruits et légumes 2"
@@ -429,9 +429,9 @@ C;X9;Y28;K""
 C;X10;Y28;K""
 C;X11;Y28;K""
 C;X12;Y28;K""
-C;X13;Y28;K""
-C;X14;Y28;K6.35
-C;X15;Y28;K6.50
+C;X13;Y28;K6.35
+C;X14;Y28;K6.50
+C;X15;Y28;K""
 C;X16;Y28;K""
 C;X1;Y29;K"Expédition"
 C;X2;Y29;K"Bassin Sud-Est : fruits et légumes 2"
@@ -445,9 +445,9 @@ C;X9;Y29;K""
 C;X10;Y29;K""
 C;X11;Y29;K""
 C;X12;Y29;K""
-C;X13;Y29;K""
-C;X14;Y29;K9.21
-C;X15;Y29;K9.03
+C;X13;Y29;K9.21
+C;X14;Y29;K9.03
+C;X15;Y29;K""
 C;X16;Y29;K""
 C;X1;Y30;K"Expédition"
 C;X2;Y30;K"Bassin Sud-Est : fruits et légumes 2"
@@ -460,10 +460,10 @@ C;X8;Y30;K""
 C;X9;Y30;K""
 C;X10;Y30;K""
 C;X11;Y30;K""
-C;X12;Y30;K""
-C;X13;Y30;K13.21
-C;X14;Y30;K9.09
-C;X15;Y30;K6.57
+C;X12;Y30;K13.21
+C;X13;Y30;K9.09
+C;X14;Y30;K6.57
+C;X15;Y30;K""
 C;X16;Y30;K""
 C;X1;Y31;K"Expédition"
 C;X2;Y31;K"Bassin Sud-Est : fruits et légumes 2"
@@ -476,10 +476,10 @@ C;X8;Y31;K""
 C;X9;Y31;K""
 C;X10;Y31;K""
 C;X11;Y31;K""
-C;X12;Y31;K""
-C;X13;Y31;K14.00
-C;X14;Y31;K9.79
-C;X15;Y31;K7.21
+C;X12;Y31;K14.00
+C;X13;Y31;K9.79
+C;X14;Y31;K7.21
+C;X15;Y31;K""
 C;X16;Y31;K""
 C;X1;Y32;K"Expédition"
 C;X2;Y32;K"Bassin Sud-Est : fruits et légumes 2"
@@ -492,9 +492,9 @@ C;X8;Y32;K""
 C;X9;Y32;K""
 C;X10;Y32;K""
 C;X11;Y32;K""
-C;X12;Y32;K""
-C;X13;Y32;K9.00
-C;X14;Y32;K7.75
+C;X12;Y32;K9.00
+C;X13;Y32;K7.75
+C;X14;Y32;K""
 C;X15;Y32;K""
 C;X16;Y32;K""
 C;X1;Y33;K"Expédition"
@@ -509,9 +509,9 @@ C;X9;Y33;K""
 C;X10;Y33;K""
 C;X11;Y33;K""
 C;X12;Y33;K""
-C;X13;Y33;K""
+C;X13;Y33;K7.00
 C;X14;Y33;K7.00
-C;X15;Y33;K7.00
+C;X15;Y33;K""
 C;X16;Y33;K""
 C;X1;Y34;K"Expédition"
 C;X2;Y34;K"Bassin Sud-Est : fruits et légumes 2"
@@ -524,10 +524,10 @@ C;X8;Y34;K""
 C;X9;Y34;K""
 C;X10;Y34;K""
 C;X11;Y34;K""
-C;X12;Y34;K""
-C;X13;Y34;K9.00
-C;X14;Y34;K6.80
-C;X15;Y34;K5.71
+C;X12;Y34;K9.00
+C;X13;Y34;K6.80
+C;X14;Y34;K5.71
+C;X15;Y34;K""
 C;X16;Y34;K""
 C;X1;Y35;K"Expédition"
 C;X2;Y35;K"Bassin Sud-Est : fruits et légumes 2"
@@ -540,10 +540,10 @@ C;X8;Y35;K""
 C;X9;Y35;K""
 C;X10;Y35;K""
 C;X11;Y35;K""
-C;X12;Y35;K""
-C;X13;Y35;K10.11
-C;X14;Y35;K7.29
-C;X15;Y35;K6.21
+C;X12;Y35;K10.11
+C;X13;Y35;K7.29
+C;X14;Y35;K6.21
+C;X15;Y35;K""
 C;X16;Y35;K""
 C;X1;Y36;K"Expédition"
 C;X2;Y36;K"Bassin Sud-Est : fruits et légumes bio"
@@ -556,10 +556,10 @@ C;X8;Y36;K""
 C;X9;Y36;K""
 C;X10;Y36;K""
 C;X11;Y36;K""
-C;X12;Y36;K""
-C;X13;Y36;K16.13
-C;X14;Y36;K12.31
-C;X15;Y36;K10.00
+C;X12;Y36;K16.13
+C;X13;Y36;K12.31
+C;X14;Y36;K10.00
+C;X15;Y36;K""
 C;X16;Y36;K""
 C;X1;Y37;K"Expédition"
 C;X2;Y37;K"Bassin Sud-Ouest : asperge"
@@ -572,10 +572,10 @@ C;X8;Y37;K""
 C;X9;Y37;K""
 C;X10;Y37;K""
 C;X11;Y37;K""
-C;X12;Y37;K""
-C;X13;Y37;K9.55
-C;X14;Y37;K6.18
-C;X15;Y37;K5.55
+C;X12;Y37;K9.55
+C;X13;Y37;K6.18
+C;X14;Y37;K5.55
+C;X15;Y37;K""
 C;X16;Y37;K""
 C;X1;Y38;K"Expédition"
 C;X2;Y38;K"Bassin Sud-Ouest : asperge"
@@ -588,10 +588,10 @@ C;X8;Y38;K""
 C;X9;Y38;K""
 C;X10;Y38;K""
 C;X11;Y38;K""
-C;X12;Y38;K""
-C;X13;Y38;K10.59
-C;X14;Y38;K6.64
-C;X15;Y38;K5.98
+C;X12;Y38;K10.59
+C;X13;Y38;K6.64
+C;X14;Y38;K5.98
+C;X15;Y38;K""
 C;X16;Y38;K""
 C;X1;Y39;K"Expédition"
 C;X2;Y39;K"Bassin Sud-Ouest : asperge"
@@ -604,10 +604,10 @@ C;X8;Y39;K""
 C;X9;Y39;K""
 C;X10;Y39;K""
 C;X11;Y39;K""
-C;X12;Y39;K""
-C;X13;Y39;K8.38
-C;X14;Y39;K5.61
-C;X15;Y39;K5.11
+C;X12;Y39;K8.38
+C;X13;Y39;K5.61
+C;X14;Y39;K5.11
+C;X15;Y39;K""
 C;X16;Y39;K""
 C;X1;Y40;K"Expédition"
 C;X2;Y40;K"Bassin Sud-Ouest : asperge"
@@ -620,10 +620,10 @@ C;X8;Y40;K""
 C;X9;Y40;K""
 C;X10;Y40;K""
 C;X11;Y40;K""
-C;X12;Y40;K""
-C;X13;Y40;K10.36
-C;X14;Y40;K7.62
-C;X15;Y40;K7.09
+C;X12;Y40;K10.36
+C;X13;Y40;K7.62
+C;X14;Y40;K7.09
+C;X15;Y40;K""
 C;X16;Y40;K""
 C;X1;Y41;K"Expédition"
 C;X2;Y41;K"Bassin Sud-Ouest : asperge"
@@ -636,10 +636,10 @@ C;X8;Y41;K""
 C;X9;Y41;K""
 C;X10;Y41;K""
 C;X11;Y41;K""
-C;X12;Y41;K""
-C;X13;Y41;K9.29
-C;X14;Y41;K6.11
-C;X15;Y41;K5.51
+C;X12;Y41;K9.29
+C;X13;Y41;K6.11
+C;X14;Y41;K5.51
+C;X15;Y41;K""
 C;X16;Y41;K""
 C;X1;Y42;K"Expédition"
 C;X2;Y42;K"Bassin Sud-Ouest : asperge"
@@ -652,10 +652,10 @@ C;X8;Y42;K""
 C;X9;Y42;K""
 C;X10;Y42;K""
 C;X11;Y42;K""
-C;X12;Y42;K""
-C;X13;Y42;K10.42
-C;X14;Y42;K6.64
-C;X15;Y42;K5.95
+C;X12;Y42;K10.42
+C;X13;Y42;K6.64
+C;X14;Y42;K5.95
+C;X15;Y42;K""
 C;X16;Y42;K""
 C;X1;Y43;K"Expédition"
 C;X2;Y43;K"Bassin Sud-Ouest : asperge bio"
@@ -668,10 +668,10 @@ C;X8;Y43;K""
 C;X9;Y43;K""
 C;X10;Y43;K""
 C;X11;Y43;K""
-C;X12;Y43;K""
-C;X13;Y43;K11.70
-C;X14;Y43;K9.14
-C;X15;Y43;K7.60
+C;X12;Y43;K11.70
+C;X13;Y43;K9.14
+C;X14;Y43;K7.60
+C;X15;Y43;K""
 C;X16;Y43;K""
 C;X1;Y44;K"Expédition"
 C;X2;Y44;K"Bassin Sud-Ouest : asperge bio"
@@ -684,10 +684,10 @@ C;X8;Y44;K""
 C;X9;Y44;K""
 C;X10;Y44;K""
 C;X11;Y44;K""
-C;X12;Y44;K""
-C;X13;Y44;K9.25
-C;X14;Y44;K5.64
-C;X15;Y44;K4.50
+C;X12;Y44;K9.25
+C;X13;Y44;K5.64
+C;X14;Y44;K4.50
+C;X15;Y44;K""
 C;X16;Y44;K""
 C;X1;Y45;K"Expédition"
 C;X2;Y45;K"Bassin Sud-Ouest : asperge bio"
@@ -700,10 +700,10 @@ C;X8;Y45;K""
 C;X9;Y45;K""
 C;X10;Y45;K""
 C;X11;Y45;K""
-C;X12;Y45;K""
-C;X13;Y45;K12.25
-C;X14;Y45;K8.06
-C;X15;Y45;K6.50
+C;X12;Y45;K12.25
+C;X13;Y45;K8.06
+C;X14;Y45;K6.50
+C;X15;Y45;K""
 C;X16;Y45;K""
 C;X1;Y46;K"Expédition"
 C;X2;Y46;K"France : fruits et légumes bio - expédition"
@@ -716,10 +716,10 @@ C;X8;Y46;K""
 C;X9;Y46;K""
 C;X10;Y46;K""
 C;X11;Y46;K""
-C;X12;Y46;K""
-C;X13;Y46;K12.42
-C;X14;Y46;K8.43
-C;X15;Y46;K7.05
+C;X12;Y46;K12.42
+C;X13;Y46;K8.43
+C;X14;Y46;K7.05
+C;X15;Y46;K""
 C;X16;Y46;K""
 C;X1;Y47;K"Expédition"
 C;X2;Y47;K"France : fruits et légumes bio - expédition"
@@ -732,9 +732,9 @@ C;X8;Y47;K""
 C;X9;Y47;K""
 C;X10;Y47;K""
 C;X11;Y47;K""
-C;X12;Y47;K""
-C;X13;Y47;K11.70
-C;X14;Y47;K9.60
+C;X12;Y47;K11.70
+C;X13;Y47;K9.60
+C;X14;Y47;K""
 C;X15;Y47;K""
 C;X16;Y47;K""
 C;X1;Y48;K"Expédition"
@@ -748,10 +748,10 @@ C;X8;Y48;K""
 C;X9;Y48;K""
 C;X10;Y48;K""
 C;X11;Y48;K""
-C;X12;Y48;K""
-C;X13;Y48;K16.13
-C;X14;Y48;K12.88
-C;X15;Y48;K10.25
+C;X12;Y48;K16.13
+C;X13;Y48;K12.88
+C;X14;Y48;K10.25
+C;X15;Y48;K""
 C;X16;Y48;K""
 C;X1;Y49;K"Expédition"
 C;X2;Y49;K"France : fruits et légumes bio - expédition"
@@ -765,8 +765,8 @@ C;X9;Y49;K""
 C;X10;Y49;K""
 C;X11;Y49;K""
 C;X12;Y49;K""
-C;X13;Y49;K""
-C;X14;Y49;K11.32
+C;X13;Y49;K11.32
+C;X14;Y49;K""
 C;X15;Y49;K""
 C;X16;Y49;K""
 C;X1;Y50;K"Import"
@@ -779,10 +779,10 @@ C;X7;Y50;K""
 C;X8;Y50;K""
 C;X9;Y50;K""
 C;X10;Y50;K""
-C;X11;Y50;K""
-C;X12;Y50;K16.70
-C;X13;Y50;K16.02
-C;X14;Y50;K10.64
+C;X11;Y50;K16.70
+C;X12;Y50;K16.02
+C;X13;Y50;K10.64
+C;X14;Y50;K""
 C;X15;Y50;K""
 C;X16;Y50;K""
 C;X1;Y51;K"Import"
@@ -796,11 +796,11 @@ C;X8;Y51;K""
 C;X9;Y51;K""
 C;X10;Y51;K""
 C;X11;Y51;K""
-C;X12;Y51;K""
-C;X13;Y51;K7.35
-C;X14;Y51;K6.09
-C;X15;Y51;K6.06
-C;X16;Y51;K5.99
+C;X12;Y51;K7.35
+C;X13;Y51;K6.09
+C;X14;Y51;K6.06
+C;X15;Y51;K5.99
+C;X16;Y51;K""
 C;X1;Y52;K"Import"
 C;X2;Y52;K"Marché de St-Charles : fruits et légumes - import"
 C;X3;Y52;K"ASPERGE verte Espagne cat.I 16-22mm botte 500g"
@@ -812,11 +812,11 @@ C;X8;Y52;K""
 C;X9;Y52;K""
 C;X10;Y52;K""
 C;X11;Y52;K""
-C;X12;Y52;K""
-C;X13;Y52;K7.84
-C;X14;Y52;K6.65
-C;X15;Y52;K6.70
-C;X16;Y52;K6.47
+C;X12;Y52;K7.84
+C;X13;Y52;K6.65
+C;X14;Y52;K6.70
+C;X15;Y52;K6.47
+C;X16;Y52;K""
 C;X1;Y53;K"Import"
 C;X2;Y53;K"Marché de St-Charles : fruits et légumes - import"
 C;X3;Y53;K"ASPERGE verte Espagne cat.I +22mm botte 500g"
@@ -829,9 +829,9 @@ C;X9;Y53;K""
 C;X10;Y53;K""
 C;X11;Y53;K""
 C;X12;Y53;K""
-C;X13;Y53;K""
-C;X14;Y53;K5.29
-C;X15;Y53;K6.35
+C;X13;Y53;K5.29
+C;X14;Y53;K6.35
+C;X15;Y53;K""
 C;X16;Y53;K""
 C;X1;Y54;K"Grossistes"
 C;X2;Y54;K"France : fruits et légumes bio - grossistes"
@@ -844,11 +844,11 @@ C;X8;Y54;K""
 C;X9;Y54;K""
 C;X10;Y54;K""
 C;X11;Y54;K""
-C;X12;Y54;K""
-C;X13;Y54;K15.01
-C;X14;Y54;K10.63
-C;X15;Y54;K9.21
-C;X16;Y54;K10.24
+C;X12;Y54;K15.01
+C;X13;Y54;K10.63
+C;X14;Y54;K9.21
+C;X15;Y54;K10.24
+C;X16;Y54;K""
 C;X1;Y55;K"Grossistes"
 C;X2;Y55;K"France : fruits et légumes bio - grossistes"
 C;X3;Y55;K"ASPERGE blanche violette France biologique botte"
@@ -861,9 +861,9 @@ C;X9;Y55;K""
 C;X10;Y55;K""
 C;X11;Y55;K""
 C;X12;Y55;K""
-C;X13;Y55;K""
-C;X14;Y55;K11.94
-C;X15;Y55;K10.15
+C;X13;Y55;K11.94
+C;X14;Y55;K10.15
+C;X15;Y55;K""
 C;X16;Y55;K""
 C;X1;Y56;K"Grossistes"
 C;X2;Y56;K"France : fruits et légumes bio - grossistes"
@@ -876,10 +876,10 @@ C;X8;Y56;K""
 C;X9;Y56;K""
 C;X10;Y56;K""
 C;X11;Y56;K""
-C;X12;Y56;K""
-C;X13;Y56;K14.96
-C;X14;Y56;K15.80
-C;X15;Y56;K12.56
+C;X12;Y56;K14.96
+C;X13;Y56;K15.80
+C;X14;Y56;K12.56
+C;X15;Y56;K""
 C;X16;Y56;K""
 C;X1;Y57;K"Grossistes"
 C;X2;Y57;K"France : fruits et légumes bio - grossistes"
@@ -893,9 +893,9 @@ C;X9;Y57;K""
 C;X10;Y57;K""
 C;X11;Y57;K""
 C;X12;Y57;K""
-C;X13;Y57;K""
-C;X14;Y57;K15.34
-C;X15;Y57;K12.82
+C;X13;Y57;K15.34
+C;X14;Y57;K12.82
+C;X15;Y57;K""
 C;X16;Y57;K""
 C;X1;Y58;K"Grossistes"
 C;X2;Y58;K"Marché de Berlin : fruits et légumes"
@@ -909,9 +909,9 @@ C;X9;Y58;K""
 C;X10;Y58;K""
 C;X11;Y58;K""
 C;X12;Y58;K""
-C;X13;Y58;K""
-C;X14;Y58;K5.12
-C;X15;Y58;K3.25
+C;X13;Y58;K5.12
+C;X14;Y58;K3.25
+C;X15;Y58;K""
 C;X16;Y58;K""
 C;X1;Y59;K"Grossistes"
 C;X2;Y59;K"Marché de Berlin : fruits et légumes"
@@ -924,11 +924,11 @@ C;X8;Y59;K""
 C;X9;Y59;K""
 C;X10;Y59;K""
 C;X11;Y59;K""
-C;X12;Y59;K""
-C;X13;Y59;K16.00
-C;X14;Y59;K10.85
-C;X15;Y59;K6.25
-C;X16;Y59;K7.12
+C;X12;Y59;K16.00
+C;X13;Y59;K10.85
+C;X14;Y59;K6.25
+C;X15;Y59;K7.12
+C;X16;Y59;K""
 C;X1;Y60;K"Grossistes"
 C;X2;Y60;K"Marché de Berlin : fruits et légumes"
 C;X3;Y60;K"ASPERGE blanche Allemagne cat.I +22mm"
@@ -942,9 +942,9 @@ C;X10;Y60;K""
 C;X11;Y60;K""
 C;X12;Y60;K""
 C;X13;Y60;K""
-C;X14;Y60;K""
-C;X15;Y60;K7.75
-C;X16;Y60;K8.00
+C;X14;Y60;K7.75
+C;X15;Y60;K8.00
+C;X16;Y60;K""
 C;X1;Y61;K"Grossistes"
 C;X2;Y61;K"Marché de Berlin : fruits et légumes"
 C;X3;Y61;K"ASPERGE blanche Allemagne cat.I +22mm plateau"
@@ -956,10 +956,10 @@ C;X8;Y61;K""
 C;X9;Y61;K""
 C;X10;Y61;K""
 C;X11;Y61;K""
-C;X12;Y61;K""
-C;X13;Y61;K17.00
-C;X14;Y61;K11.60
-C;X15;Y61;K5.25
+C;X12;Y61;K17.00
+C;X13;Y61;K11.60
+C;X14;Y61;K5.25
+C;X15;Y61;K""
 C;X16;Y61;K""
 C;X1;Y62;K"Grossistes"
 C;X2;Y62;K"Marché de Berlin : fruits et légumes"
@@ -972,11 +972,11 @@ C;X8;Y62;K""
 C;X9;Y62;K""
 C;X10;Y62;K""
 C;X11;Y62;K""
-C;X12;Y62;K""
-C;X13;Y62;K13.50
-C;X14;Y62;K8.00
-C;X15;Y62;K4.88
-C;X16;Y62;K5.50
+C;X12;Y62;K13.50
+C;X13;Y62;K8.00
+C;X14;Y62;K4.88
+C;X15;Y62;K5.50
+C;X16;Y62;K""
 C;X1;Y63;K"Grossistes"
 C;X2;Y63;K"Marché de Berlin : fruits et légumes"
 C;X3;Y63;K"ASPERGE blanche Grèce cat.I 16-22mm"
@@ -988,9 +988,9 @@ C;X8;Y63;K""
 C;X9;Y63;K""
 C;X10;Y63;K""
 C;X11;Y63;K""
-C;X12;Y63;K""
-C;X13;Y63;K10.81
-C;X14;Y63;K8.62
+C;X12;Y63;K10.81
+C;X13;Y63;K8.62
+C;X14;Y63;K""
 C;X15;Y63;K""
 C;X16;Y63;K""
 C;X1;Y64;K"Grossistes"
@@ -1004,9 +1004,9 @@ C;X8;Y64;K""
 C;X9;Y64;K""
 C;X10;Y64;K""
 C;X11;Y64;K""
-C;X12;Y64;K""
-C;X13;Y64;K11.50
-C;X14;Y64;K2.05
+C;X12;Y64;K11.50
+C;X13;Y64;K2.05
+C;X14;Y64;K""
 C;X15;Y64;K""
 C;X16;Y64;K""
 C;X1;Y65;K"Grossistes"
@@ -1020,9 +1020,9 @@ C;X8;Y65;K""
 C;X9;Y65;K""
 C;X10;Y65;K""
 C;X11;Y65;K""
-C;X12;Y65;K""
-C;X13;Y65;K12.83
-C;X14;Y65;K15.00
+C;X12;Y65;K12.83
+C;X13;Y65;K15.00
+C;X14;Y65;K""
 C;X15;Y65;K""
 C;X16;Y65;K""
 C;X1;Y66;K"Grossistes"
@@ -1036,9 +1036,9 @@ C;X8;Y66;K""
 C;X9;Y66;K""
 C;X10;Y66;K""
 C;X11;Y66;K""
-C;X12;Y66;K""
-C;X13;Y66;K14.50
-C;X14;Y66;K10.92
+C;X12;Y66;K14.50
+C;X13;Y66;K10.92
+C;X14;Y66;K""
 C;X15;Y66;K""
 C;X16;Y66;K""
 C;X1;Y67;K"Grossistes"
@@ -1052,11 +1052,11 @@ C;X8;Y67;K""
 C;X9;Y67;K""
 C;X10;Y67;K""
 C;X11;Y67;K""
-C;X12;Y67;K""
-C;X13;Y67;K18.50
-C;X14;Y67;K8.25
-C;X15;Y67;K4.75
-C;X16;Y67;K4.62
+C;X12;Y67;K18.50
+C;X13;Y67;K8.25
+C;X14;Y67;K4.75
+C;X15;Y67;K4.62
+C;X16;Y67;K""
 C;X1;Y68;K"Grossistes"
 C;X2;Y68;K"Marché de Berlin : fruits et légumes"
 C;X3;Y68;K"ASPERGE blanche violette Allemagne cat.II 16-22mm"
@@ -1068,11 +1068,11 @@ C;X8;Y68;K""
 C;X9;Y68;K""
 C;X10;Y68;K""
 C;X11;Y68;K""
-C;X12;Y68;K""
-C;X13;Y68;K9.50
-C;X14;Y68;K7.60
-C;X15;Y68;K5.00
-C;X16;Y68;K5.50
+C;X12;Y68;K9.50
+C;X13;Y68;K7.60
+C;X14;Y68;K5.00
+C;X15;Y68;K5.50
+C;X16;Y68;K""
 C;X1;Y69;K"Grossistes"
 C;X2;Y69;K"Marché de Berlin : fruits et légumes"
 C;X3;Y69;K"ASPERGE verte Allemagne cat.I 12-16mm"
@@ -1085,10 +1085,10 @@ C;X9;Y69;K""
 C;X10;Y69;K""
 C;X11;Y69;K""
 C;X12;Y69;K""
-C;X13;Y69;K""
-C;X14;Y69;K8.83
-C;X15;Y69;K6.88
-C;X16;Y69;K7.50
+C;X13;Y69;K8.83
+C;X14;Y69;K6.88
+C;X15;Y69;K7.50
+C;X16;Y69;K""
 C;X1;Y70;K"Grossistes"
 C;X2;Y70;K"Marché de Berlin : fruits et légumes"
 C;X3;Y70;K"ASPERGE verte Allemagne cat.I 16-22mm"
@@ -1101,10 +1101,10 @@ C;X9;Y70;K""
 C;X10;Y70;K""
 C;X11;Y70;K""
 C;X12;Y70;K""
-C;X13;Y70;K""
-C;X14;Y70;K10.00
-C;X15;Y70;K7.62
-C;X16;Y70;K9.38
+C;X13;Y70;K10.00
+C;X14;Y70;K7.62
+C;X15;Y70;K9.38
+C;X16;Y70;K""
 C;X1;Y71;K"Grossistes"
 C;X2;Y71;K"Marché de Berlin : fruits et légumes"
 C;X3;Y71;K"ASPERGE verte Espagne cat.I 12-16mm"
@@ -1116,10 +1116,10 @@ C;X8;Y71;K""
 C;X9;Y71;K""
 C;X10;Y71;K""
 C;X11;Y71;K""
-C;X12;Y71;K""
-C;X13;Y71;K9.00
-C;X14;Y71;K8.35
-C;X15;Y71;K5.50
+C;X12;Y71;K9.00
+C;X13;Y71;K8.35
+C;X14;Y71;K5.50
+C;X15;Y71;K""
 C;X16;Y71;K""
 C;X1;Y72;K"Grossistes"
 C;X2;Y72;K"Marché de Berlin : fruits et légumes"
@@ -1132,9 +1132,9 @@ C;X8;Y72;K""
 C;X9;Y72;K""
 C;X10;Y72;K""
 C;X11;Y72;K""
-C;X12;Y72;K""
-C;X13;Y72;K9.00
-C;X14;Y72;K10.50
+C;X12;Y72;K9.00
+C;X13;Y72;K10.50
+C;X14;Y72;K""
 C;X15;Y72;K""
 C;X16;Y72;K""
 C;X1;Y73;K"Grossistes"
@@ -1149,10 +1149,10 @@ C;X9;Y73;K""
 C;X10;Y73;K""
 C;X11;Y73;K""
 C;X12;Y73;K""
-C;X13;Y73;K""
-C;X14;Y73;K6.67
-C;X15;Y73;K6.25
-C;X16;Y73;K6.00
+C;X13;Y73;K6.67
+C;X14;Y73;K6.25
+C;X15;Y73;K6.00
+C;X16;Y73;K""
 C;X1;Y74;K"Grossistes"
 C;X2;Y74;K"Marché de Berlin : fruits et légumes"
 C;X3;Y74;K"ASPERGE violette Grèce cat.I 16-22mm"
@@ -1165,8 +1165,8 @@ C;X9;Y74;K""
 C;X10;Y74;K""
 C;X11;Y74;K""
 C;X12;Y74;K""
-C;X13;Y74;K""
-C;X14;Y74;K6.50
+C;X13;Y74;K6.50
+C;X14;Y74;K""
 C;X15;Y74;K""
 C;X16;Y74;K""
 C;X1;Y75;K"Grossistes"
@@ -1180,9 +1180,9 @@ C;X8;Y75;K""
 C;X9;Y75;K""
 C;X10;Y75;K""
 C;X11;Y75;K""
-C;X12;Y75;K""
-C;X13;Y75;K8.88
-C;X14;Y75;K12.00
+C;X12;Y75;K8.88
+C;X13;Y75;K12.00
+C;X14;Y75;K""
 C;X15;Y75;K""
 C;X16;Y75;K""
 C;X1;Y76;K"Grossistes"
@@ -1196,10 +1196,10 @@ C;X8;Y76;K""
 C;X9;Y76;K""
 C;X10;Y76;K""
 C;X11;Y76;K""
-C;X12;Y76;K""
-C;X13;Y76;K11.05
-C;X14;Y76;K7.61
-C;X15;Y76;K7.15
+C;X12;Y76;K11.05
+C;X13;Y76;K7.61
+C;X14;Y76;K7.15
+C;X15;Y76;K""
 C;X16;Y76;K""
 C;X1;Y77;K"Grossistes"
 C;X2;Y77;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
@@ -1212,10 +1212,10 @@ C;X8;Y77;K""
 C;X9;Y77;K""
 C;X10;Y77;K""
 C;X11;Y77;K""
-C;X12;Y77;K""
-C;X13;Y77;K13.25
-C;X14;Y77;K8.95
-C;X15;Y77;K7.80
+C;X12;Y77;K13.25
+C;X13;Y77;K8.95
+C;X14;Y77;K7.80
+C;X15;Y77;K""
 C;X16;Y77;K""
 C;X1;Y78;K"Grossistes"
 C;X2;Y78;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
@@ -1226,10 +1226,10 @@ C;X6;Y78;K""
 C;X7;Y78;K""
 C;X8;Y78;K""
 C;X9;Y78;K""
-C;X10;Y78;K""
-C;X11;Y78;K25.00
-C;X12;Y78;K19.25
-C;X13;Y78;K12.75
+C;X10;Y78;K25.00
+C;X11;Y78;K19.25
+C;X12;Y78;K12.75
+C;X13;Y78;K""
 C;X14;Y78;K""
 C;X15;Y78;K""
 C;X16;Y78;K""
@@ -1242,10 +1242,10 @@ C;X6;Y79;K""
 C;X7;Y79;K""
 C;X8;Y79;K""
 C;X9;Y79;K""
-C;X10;Y79;K""
-C;X11;Y79;K29.00
-C;X12;Y79;K""
-C;X13;Y79;K14.88
+C;X10;Y79;K29.00
+C;X11;Y79;K""
+C;X12;Y79;K14.88
+C;X13;Y79;K""
 C;X14;Y79;K""
 C;X15;Y79;K""
 C;X16;Y79;K""
@@ -1260,11 +1260,11 @@ C;X8;Y80;K""
 C;X9;Y80;K""
 C;X10;Y80;K""
 C;X11;Y80;K""
-C;X12;Y80;K""
-C;X13;Y80;K15.83
-C;X14;Y80;K12.33
-C;X15;Y80;K9.70
-C;X16;Y80;K10.00
+C;X12;Y80;K15.83
+C;X13;Y80;K12.33
+C;X14;Y80;K9.70
+C;X15;Y80;K10.00
+C;X16;Y80;K""
 C;X1;Y81;K"Grossistes"
 C;X2;Y81;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
 C;X3;Y81;K"ASPERGE verte France cat.I +22mm plateau"
@@ -1275,10 +1275,10 @@ C;X7;Y81;K""
 C;X8;Y81;K""
 C;X9;Y81;K""
 C;X10;Y81;K""
-C;X11;Y81;K""
-C;X12;Y81;K21.00
-C;X13;Y81;K17.00
-C;X14;Y81;K11.71
+C;X11;Y81;K21.00
+C;X12;Y81;K17.00
+C;X13;Y81;K11.71
+C;X14;Y81;K""
 C;X15;Y81;K""
 C;X16;Y81;K""
 C;X1;Y82;K"Grossistes"
@@ -1292,11 +1292,11 @@ C;X8;Y82;K""
 C;X9;Y82;K""
 C;X10;Y82;K""
 C;X11;Y82;K""
-C;X12;Y82;K""
-C;X13;Y82;K11.45
-C;X14;Y82;K7.78
-C;X15;Y82;K7.90
-C;X16;Y82;K8.82
+C;X12;Y82;K11.45
+C;X13;Y82;K7.78
+C;X14;Y82;K7.90
+C;X15;Y82;K8.82
+C;X16;Y82;K""
 C;X1;Y83;K"Grossistes"
 C;X2;Y83;K"Marché de gros Lille-Euralimentaire : fruits et légumes"
 C;X3;Y83;K"ASPERGE violette France cat.I +22mm plateau"
@@ -1308,11 +1308,11 @@ C;X8;Y83;K""
 C;X9;Y83;K""
 C;X10;Y83;K""
 C;X11;Y83;K""
-C;X12;Y83;K""
-C;X13;Y83;K12.70
-C;X14;Y83;K8.87
-C;X15;Y83;K8.25
-C;X16;Y83;K9.50
+C;X12;Y83;K12.70
+C;X13;Y83;K8.87
+C;X14;Y83;K8.25
+C;X15;Y83;K9.50
+C;X16;Y83;K""
 C;X1;Y84;K"Grossistes"
 C;X2;Y84;K"Marché de Lyon-Corbas : légumes"
 C;X3;Y84;K"ASPERGE blanche Belgique cat.I +22mm plateau"
@@ -1327,8 +1327,8 @@ C;X11;Y84;K""
 C;X12;Y84;K""
 C;X13;Y84;K""
 C;X14;Y84;K""
-C;X15;Y84;K""
-C;X16;Y84;K3.58
+C;X15;Y84;K3.58
+C;X16;Y84;K""
 C;X1;Y85;K"Grossistes"
 C;X2;Y85;K"Marché de Lyon-Corbas : légumes"
 C;X3;Y85;K"ASPERGE verte Espagne cat.I 12-16mm botte 500g"
@@ -1340,11 +1340,11 @@ C;X8;Y85;K""
 C;X9;Y85;K""
 C;X10;Y85;K""
 C;X11;Y85;K""
-C;X12;Y85;K""
-C;X13;Y85;K7.60
-C;X14;Y85;K6.63
-C;X15;Y85;K6.90
-C;X16;Y85;K7.13
+C;X12;Y85;K7.60
+C;X13;Y85;K6.63
+C;X14;Y85;K6.90
+C;X15;Y85;K7.13
+C;X16;Y85;K""
 C;X1;Y86;K"Grossistes"
 C;X2;Y86;K"Marché de Lyon-Corbas : légumes"
 C;X3;Y86;K"ASPERGE verte Espagne cat.I 16-22mm botte 500g"
@@ -1356,11 +1356,11 @@ C;X8;Y86;K""
 C;X9;Y86;K""
 C;X10;Y86;K""
 C;X11;Y86;K""
-C;X12;Y86;K""
-C;X13;Y86;K9.36
-C;X14;Y86;K7.65
-C;X15;Y86;K7.66
-C;X16;Y86;K8.00
+C;X12;Y86;K9.36
+C;X13;Y86;K7.65
+C;X14;Y86;K7.66
+C;X15;Y86;K8.00
+C;X16;Y86;K""
 C;X1;Y87;K"Grossistes"
 C;X2;Y87;K"Marché de Lyon-Corbas : légumes"
 C;X3;Y87;K"ASPERGE verte Espagne cat.I +22mm botte 500g"
@@ -1372,11 +1372,11 @@ C;X8;Y87;K""
 C;X9;Y87;K""
 C;X10;Y87;K""
 C;X11;Y87;K""
-C;X12;Y87;K""
-C;X13;Y87;K9.52
-C;X14;Y87;K8.09
-C;X15;Y87;K8.06
-C;X16;Y87;K9.53
+C;X12;Y87;K9.52
+C;X13;Y87;K8.09
+C;X14;Y87;K8.06
+C;X15;Y87;K9.53
+C;X16;Y87;K""
 C;X1;Y88;K"Grossistes"
 C;X2;Y88;K"Marché de Lyon-Corbas : légumes"
 C;X3;Y88;K"ASPERGE verte Espagne cat.I +22mm plateau"
@@ -1389,10 +1389,10 @@ C;X9;Y88;K""
 C;X10;Y88;K""
 C;X11;Y88;K""
 C;X12;Y88;K""
-C;X13;Y88;K""
-C;X14;Y88;K8.10
-C;X15;Y88;K8.12
-C;X16;Y88;K9.13
+C;X13;Y88;K8.10
+C;X14;Y88;K8.12
+C;X15;Y88;K9.13
+C;X16;Y88;K""
 C;X1;Y89;K"Grossistes"
 C;X2;Y89;K"Marché de Lyon-Corbas : légumes"
 C;X3;Y89;K"ASPERGE verte France cat.I 16-22mm plateau"
@@ -1404,11 +1404,11 @@ C;X8;Y89;K""
 C;X9;Y89;K""
 C;X10;Y89;K""
 C;X11;Y89;K""
-C;X12;Y89;K""
-C;X13;Y89;K14.81
-C;X14;Y89;K9.10
-C;X15;Y89;K8.26
-C;X16;Y89;K11.00
+C;X12;Y89;K14.81
+C;X13;Y89;K9.10
+C;X14;Y89;K8.26
+C;X15;Y89;K11.00
+C;X16;Y89;K""
 C;X1;Y90;K"Grossistes"
 C;X2;Y90;K"Marché de Lyon-Corbas : légumes"
 C;X3;Y90;K"ASPERGE verte France cat.I +22mm plateau"
@@ -1420,11 +1420,11 @@ C;X8;Y90;K""
 C;X9;Y90;K""
 C;X10;Y90;K""
 C;X11;Y90;K""
-C;X12;Y90;K""
-C;X13;Y90;K16.08
-C;X14;Y90;K10.42
-C;X15;Y90;K9.36
-C;X16;Y90;K12.00
+C;X12;Y90;K16.08
+C;X13;Y90;K10.42
+C;X14;Y90;K9.36
+C;X15;Y90;K12.00
+C;X16;Y90;K""
 C;X1;Y91;K"Grossistes"
 C;X2;Y91;K"Marché de Lyon-Corbas : légumes"
 C;X3;Y91;K"ASPERGE violette France cat.I 16-22mm plateau"
@@ -1436,11 +1436,11 @@ C;X8;Y91;K""
 C;X9;Y91;K""
 C;X10;Y91;K""
 C;X11;Y91;K""
-C;X12;Y91;K""
-C;X13;Y91;K10.67
-C;X14;Y91;K5.82
-C;X15;Y91;K5.77
-C;X16;Y91;K6.62
+C;X12;Y91;K10.67
+C;X13;Y91;K5.82
+C;X14;Y91;K5.77
+C;X15;Y91;K6.62
+C;X16;Y91;K""
 C;X1;Y92;K"Grossistes"
 C;X2;Y92;K"Marché de Lyon-Corbas : légumes"
 C;X3;Y92;K"ASPERGE violette France cat.I +22mm plateau"
@@ -1452,11 +1452,11 @@ C;X8;Y92;K""
 C;X9;Y92;K""
 C;X10;Y92;K""
 C;X11;Y92;K""
-C;X12;Y92;K""
-C;X13;Y92;K12.00
-C;X14;Y92;K6.62
-C;X15;Y92;K6.73
-C;X16;Y92;K7.66
+C;X12;Y92;K12.00
+C;X13;Y92;K6.62
+C;X14;Y92;K6.73
+C;X15;Y92;K7.66
+C;X16;Y92;K""
 C;X1;Y93;K"Grossistes"
 C;X2;Y93;K"Marché de Munich : fruits et légumes"
 C;X3;Y93;K"ASPERGE blanche Allemagne cat.I 16-22mm"
@@ -1468,11 +1468,11 @@ C;X8;Y93;K""
 C;X9;Y93;K""
 C;X10;Y93;K""
 C;X11;Y93;K""
-C;X12;Y93;K""
-C;X13;Y93;K18.25
-C;X14;Y93;K9.05
-C;X15;Y93;K6.41
-C;X16;Y93;K7.62
+C;X12;Y93;K18.25
+C;X13;Y93;K9.05
+C;X14;Y93;K6.41
+C;X15;Y93;K7.62
+C;X16;Y93;K""
 C;X1;Y94;K"Grossistes"
 C;X2;Y94;K"Marché de Munich : fruits et légumes"
 C;X3;Y94;K"ASPERGE blanche Allemagne cat.I +22mm"
@@ -1484,11 +1484,11 @@ C;X8;Y94;K""
 C;X9;Y94;K""
 C;X10;Y94;K""
 C;X11;Y94;K""
-C;X12;Y94;K""
-C;X13;Y94;K19.25
-C;X14;Y94;K10.25
-C;X15;Y94;K7.06
-C;X16;Y94;K7.67
+C;X12;Y94;K19.25
+C;X13;Y94;K10.25
+C;X14;Y94;K7.06
+C;X15;Y94;K7.67
+C;X16;Y94;K""
 C;X1;Y95;K"Grossistes"
 C;X2;Y95;K"Marché de Munich : fruits et légumes"
 C;X3;Y95;K"ASPERGE blanche Allemagne cat.II 16-22mm"
@@ -1500,11 +1500,11 @@ C;X8;Y95;K""
 C;X9;Y95;K""
 C;X10;Y95;K""
 C;X11;Y95;K""
-C;X12;Y95;K""
-C;X13;Y95;K15.00
-C;X14;Y95;K7.25
-C;X15;Y95;K4.69
-C;X16;Y95;K5.94
+C;X12;Y95;K15.00
+C;X13;Y95;K7.25
+C;X14;Y95;K4.69
+C;X15;Y95;K5.94
+C;X16;Y95;K""
 C;X1;Y96;K"Grossistes"
 C;X2;Y96;K"Marché de Munich : fruits et légumes"
 C;X3;Y96;K"ASPERGE blanche Grèce cat.I 16-22mm"
@@ -1516,9 +1516,9 @@ C;X8;Y96;K""
 C;X9;Y96;K""
 C;X10;Y96;K""
 C;X11;Y96;K""
-C;X12;Y96;K""
-C;X13;Y96;K11.50
-C;X14;Y96;K6.81
+C;X12;Y96;K11.50
+C;X13;Y96;K6.81
+C;X14;Y96;K""
 C;X15;Y96;K""
 C;X16;Y96;K""
 C;X1;Y97;K"Grossistes"
@@ -1532,8 +1532,8 @@ C;X8;Y97;K""
 C;X9;Y97;K""
 C;X10;Y97;K""
 C;X11;Y97;K""
-C;X12;Y97;K""
-C;X13;Y97;K10.75
+C;X12;Y97;K10.75
+C;X13;Y97;K""
 C;X14;Y97;K""
 C;X15;Y97;K""
 C;X16;Y97;K""
@@ -1548,11 +1548,11 @@ C;X8;Y98;K""
 C;X9;Y98;K""
 C;X10;Y98;K""
 C;X11;Y98;K""
-C;X12;Y98;K""
-C;X13;Y98;K13.94
-C;X14;Y98;K8.83
-C;X15;Y98;K""
-C;X16;Y98;K9.00
+C;X12;Y98;K13.94
+C;X13;Y98;K8.83
+C;X14;Y98;K""
+C;X15;Y98;K9.00
+C;X16;Y98;K""
 C;X1;Y99;K"Grossistes"
 C;X2;Y99;K"Marché de Munich : fruits et légumes"
 C;X3;Y99;K"ASPERGE blanche violette Allemagne cat.II 16-22mm"
@@ -1564,11 +1564,11 @@ C;X8;Y99;K""
 C;X9;Y99;K""
 C;X10;Y99;K""
 C;X11;Y99;K""
-C;X12;Y99;K""
-C;X13;Y99;K14.00
-C;X14;Y99;K7.10
-C;X15;Y99;K4.44
-C;X16;Y99;K4.81
+C;X12;Y99;K14.00
+C;X13;Y99;K7.10
+C;X14;Y99;K4.44
+C;X15;Y99;K4.81
+C;X16;Y99;K""
 C;X1;Y100;K"Grossistes"
 C;X2;Y100;K"Marché de Munich : fruits et légumes"
 C;X3;Y100;K"ASPERGE verte Allemagne cat.I 12-16mm"
@@ -1581,10 +1581,10 @@ C;X9;Y100;K""
 C;X10;Y100;K""
 C;X11;Y100;K""
 C;X12;Y100;K""
-C;X13;Y100;K""
-C;X14;Y100;K8.17
-C;X15;Y100;K7.06
-C;X16;Y100;K9.00
+C;X13;Y100;K8.17
+C;X14;Y100;K7.06
+C;X15;Y100;K9.00
+C;X16;Y100;K11.50
 C;X1;Y101;K"Grossistes"
 C;X2;Y101;K"Marché de Munich : fruits et légumes"
 C;X3;Y101;K"ASPERGE verte Allemagne cat.I 16-22mm"
@@ -1596,11 +1596,11 @@ C;X8;Y101;K""
 C;X9;Y101;K""
 C;X10;Y101;K""
 C;X11;Y101;K""
-C;X12;Y101;K""
-C;X13;Y101;K17.50
-C;X14;Y101;K10.80
-C;X15;Y101;K8.38
-C;X16;Y101;K11.38
+C;X12;Y101;K17.50
+C;X13;Y101;K10.80
+C;X14;Y101;K8.38
+C;X15;Y101;K11.38
+C;X16;Y101;K""
 C;X1;Y102;K"Grossistes"
 C;X2;Y102;K"Marché de Munich : fruits et légumes"
 C;X3;Y102;K"ASPERGE verte Espagne cat.I 12-16mm"
@@ -1612,11 +1612,11 @@ C;X8;Y102;K""
 C;X9;Y102;K""
 C;X10;Y102;K""
 C;X11;Y102;K""
-C;X12;Y102;K""
-C;X13;Y102;K9.77
-C;X14;Y102;K8.21
-C;X15;Y102;K6.40
-C;X16;Y102;K6.75
+C;X12;Y102;K9.77
+C;X13;Y102;K8.21
+C;X14;Y102;K6.40
+C;X15;Y102;K6.75
+C;X16;Y102;K""
 C;X1;Y103;K"Grossistes"
 C;X2;Y103;K"Marché de Munich : fruits et légumes"
 C;X3;Y103;K"ASPERGE verte Italie cat.I 12-16mm"
@@ -1628,9 +1628,9 @@ C;X8;Y103;K""
 C;X9;Y103;K""
 C;X10;Y103;K""
 C;X11;Y103;K""
-C;X12;Y103;K""
-C;X13;Y103;K11.06
-C;X14;Y103;K8.81
+C;X12;Y103;K11.06
+C;X13;Y103;K8.81
+C;X14;Y103;K""
 C;X15;Y103;K""
 C;X16;Y103;K""
 C;X1;Y104;K"Grossistes"
@@ -1644,11 +1644,11 @@ C;X8;Y104;K""
 C;X9;Y104;K""
 C;X10;Y104;K""
 C;X11;Y104;K""
-C;X12;Y104;K""
-C;X13;Y104;K15.00
-C;X14;Y104;K8.00
-C;X15;Y104;K5.75
-C;X16;Y104;K6.06
+C;X12;Y104;K15.00
+C;X13;Y104;K8.00
+C;X14;Y104;K5.75
+C;X15;Y104;K6.06
+C;X16;Y104;K""
 C;X1;Y105;K"Grossistes"
 C;X2;Y105;K"Marché de Munich : fruits et légumes"
 C;X3;Y105;K"ASPERGE violette Grèce cat.I 16-22mm botte 1kg"
@@ -1660,9 +1660,9 @@ C;X8;Y105;K""
 C;X9;Y105;K""
 C;X10;Y105;K""
 C;X11;Y105;K""
-C;X12;Y105;K""
-C;X13;Y105;K9.97
-C;X14;Y105;K7.38
+C;X12;Y105;K9.97
+C;X13;Y105;K7.38
+C;X14;Y105;K""
 C;X15;Y105;K""
 C;X16;Y105;K""
 C;X1;Y106;K"Grossistes"
@@ -1676,10 +1676,10 @@ C;X8;Y106;K""
 C;X9;Y106;K""
 C;X10;Y106;K""
 C;X11;Y106;K""
-C;X12;Y106;K""
-C;X13;Y106;K12.70
-C;X14;Y106;K8.87
-C;X15;Y106;K6.97
+C;X12;Y106;K12.70
+C;X13;Y106;K8.87
+C;X14;Y106;K6.97
+C;X15;Y106;K""
 C;X16;Y106;K""
 C;X1;Y107;K"Grossistes"
 C;X2;Y107;K"MIN d'Avignon-Cavaillon : fruits et légumes"
@@ -1692,10 +1692,10 @@ C;X8;Y107;K""
 C;X9;Y107;K""
 C;X10;Y107;K""
 C;X11;Y107;K""
-C;X12;Y107;K""
-C;X13;Y107;K14.50
-C;X14;Y107;K9.22
-C;X15;Y107;K6.85
+C;X12;Y107;K14.50
+C;X13;Y107;K9.22
+C;X14;Y107;K6.85
+C;X15;Y107;K""
 C;X16;Y107;K""
 C;X1;Y108;K"Grossistes"
 C;X2;Y108;K"MIN d'Avignon-Cavaillon : fruits et légumes"
@@ -1709,8 +1709,8 @@ C;X9;Y108;K""
 C;X10;Y108;K""
 C;X11;Y108;K""
 C;X12;Y108;K""
-C;X13;Y108;K""
-C;X14;Y108;K9.90
+C;X13;Y108;K9.90
+C;X14;Y108;K""
 C;X15;Y108;K""
 C;X16;Y108;K""
 C;X1;Y109;K"Grossistes"
@@ -1725,8 +1725,8 @@ C;X9;Y109;K""
 C;X10;Y109;K""
 C;X11;Y109;K""
 C;X12;Y109;K""
-C;X13;Y109;K""
-C;X14;Y109;K9.18
+C;X13;Y109;K9.18
+C;X14;Y109;K""
 C;X15;Y109;K""
 C;X16;Y109;K""
 C;X1;Y110;K"Grossistes"
@@ -1741,8 +1741,8 @@ C;X9;Y110;K""
 C;X10;Y110;K""
 C;X11;Y110;K""
 C;X12;Y110;K""
-C;X13;Y110;K""
-C;X14;Y110;K17.54
+C;X13;Y110;K17.54
+C;X14;Y110;K""
 C;X15;Y110;K""
 C;X16;Y110;K""
 C;X1;Y111;K"Grossistes"
@@ -1757,9 +1757,9 @@ C;X9;Y111;K""
 C;X10;Y111;K""
 C;X11;Y111;K""
 C;X12;Y111;K""
-C;X13;Y111;K""
-C;X14;Y111;K9.57
-C;X15;Y111;K8.25
+C;X13;Y111;K9.57
+C;X14;Y111;K8.25
+C;X15;Y111;K""
 C;X16;Y111;K""
 C;X1;Y112;K"Grossistes"
 C;X2;Y112;K"MIN d'Avignon-Cavaillon : fruits et légumes"
@@ -1772,10 +1772,10 @@ C;X8;Y112;K""
 C;X9;Y112;K""
 C;X10;Y112;K""
 C;X11;Y112;K""
-C;X12;Y112;K""
-C;X13;Y112;K15.97
-C;X14;Y112;K11.64
-C;X15;Y112;K9.15
+C;X12;Y112;K15.97
+C;X13;Y112;K11.64
+C;X14;Y112;K9.15
+C;X15;Y112;K""
 C;X16;Y112;K""
 C;X1;Y113;K"Grossistes"
 C;X2;Y113;K"MIN de Bordeaux-Brienne : fruits et légumes"
@@ -1788,10 +1788,10 @@ C;X8;Y113;K""
 C;X9;Y113;K""
 C;X10;Y113;K""
 C;X11;Y113;K""
-C;X12;Y113;K""
-C;X13;Y113;K13.62
-C;X14;Y113;K6.97
-C;X15;Y113;K6.35
+C;X12;Y113;K13.62
+C;X13;Y113;K6.97
+C;X14;Y113;K6.35
+C;X15;Y113;K""
 C;X16;Y113;K""
 C;X1;Y114;K"Grossistes"
 C;X2;Y114;K"MIN de Bordeaux-Brienne : fruits et légumes"
@@ -1804,10 +1804,10 @@ C;X8;Y114;K""
 C;X9;Y114;K""
 C;X10;Y114;K""
 C;X11;Y114;K""
-C;X12;Y114;K""
-C;X13;Y114;K13.14
-C;X14;Y114;K7.60
-C;X15;Y114;K7.87
+C;X12;Y114;K13.14
+C;X13;Y114;K7.60
+C;X14;Y114;K7.87
+C;X15;Y114;K""
 C;X16;Y114;K""
 C;X1;Y115;K"Grossistes"
 C;X2;Y115;K"MIN de Bordeaux-Brienne : fruits et légumes"
@@ -1820,9 +1820,9 @@ C;X8;Y115;K""
 C;X9;Y115;K""
 C;X10;Y115;K""
 C;X11;Y115;K""
-C;X12;Y115;K""
-C;X13;Y115;K12.10
-C;X14;Y115;K8.67
+C;X12;Y115;K12.10
+C;X13;Y115;K8.67
+C;X14;Y115;K""
 C;X15;Y115;K""
 C;X16;Y115;K""
 C;X1;Y116;K"Grossistes"
@@ -1836,10 +1836,10 @@ C;X8;Y116;K""
 C;X9;Y116;K""
 C;X10;Y116;K""
 C;X11;Y116;K""
-C;X12;Y116;K""
-C;X13;Y116;K10.27
-C;X14;Y116;K10.70
-C;X15;Y116;K8.71
+C;X12;Y116;K10.27
+C;X13;Y116;K10.70
+C;X14;Y116;K8.71
+C;X15;Y116;K""
 C;X16;Y116;K""
 C;X1;Y117;K"Grossistes"
 C;X2;Y117;K"MIN de Bordeaux-Brienne : fruits et légumes"
@@ -1852,8 +1852,8 @@ C;X8;Y117;K""
 C;X9;Y117;K""
 C;X10;Y117;K""
 C;X11;Y117;K""
-C;X12;Y117;K""
-C;X13;Y117;K12.83
+C;X12;Y117;K12.83
+C;X13;Y117;K""
 C;X14;Y117;K""
 C;X15;Y117;K""
 C;X16;Y117;K""
@@ -1868,9 +1868,9 @@ C;X8;Y118;K""
 C;X9;Y118;K""
 C;X10;Y118;K""
 C;X11;Y118;K""
-C;X12;Y118;K""
-C;X13;Y118;K14.97
-C;X14;Y118;K10.93
+C;X12;Y118;K14.97
+C;X13;Y118;K10.93
+C;X14;Y118;K""
 C;X15;Y118;K""
 C;X16;Y118;K""
 C;X1;Y119;K"Grossistes"
@@ -1885,8 +1885,8 @@ C;X9;Y119;K""
 C;X10;Y119;K""
 C;X11;Y119;K""
 C;X12;Y119;K""
-C;X13;Y119;K""
-C;X14;Y119;K7.40
+C;X13;Y119;K7.40
+C;X14;Y119;K""
 C;X15;Y119;K""
 C;X16;Y119;K""
 C;X1;Y120;K"Grossistes"
@@ -1900,8 +1900,8 @@ C;X8;Y120;K""
 C;X9;Y120;K""
 C;X10;Y120;K""
 C;X11;Y120;K""
-C;X12;Y120;K""
-C;X13;Y120;K8.60
+C;X12;Y120;K8.60
+C;X13;Y120;K""
 C;X14;Y120;K""
 C;X15;Y120;K""
 C;X16;Y120;K""
@@ -1915,10 +1915,10 @@ C;X7;Y121;K""
 C;X8;Y121;K""
 C;X9;Y121;K""
 C;X10;Y121;K""
-C;X11;Y121;K""
-C;X12;Y121;K17.75
-C;X13;Y121;K13.75
-C;X14;Y121;K6.30
+C;X11;Y121;K17.75
+C;X12;Y121;K13.75
+C;X13;Y121;K6.30
+C;X14;Y121;K""
 C;X15;Y121;K""
 C;X16;Y121;K""
 C;X1;Y122;K"Grossistes"
@@ -1932,9 +1932,9 @@ C;X8;Y122;K""
 C;X9;Y122;K""
 C;X10;Y122;K""
 C;X11;Y122;K""
-C;X12;Y122;K""
-C;X13;Y122;K9.50
-C;X14;Y122;K6.85
+C;X12;Y122;K9.50
+C;X13;Y122;K6.85
+C;X14;Y122;K""
 C;X15;Y122;K""
 C;X16;Y122;K""
 C;X1;Y123;K"Grossistes"
@@ -1948,10 +1948,10 @@ C;X8;Y123;K""
 C;X9;Y123;K""
 C;X10;Y123;K""
 C;X11;Y123;K""
-C;X12;Y123;K""
-C;X13;Y123;K9.67
-C;X14;Y123;K5.59
-C;X15;Y123;K4.60
+C;X12;Y123;K9.67
+C;X13;Y123;K5.59
+C;X14;Y123;K4.60
+C;X15;Y123;K""
 C;X16;Y123;K""
 C;X1;Y124;K"Grossistes"
 C;X2;Y124;K"MIN de Marseille : fruits et légumes"
@@ -1965,9 +1965,9 @@ C;X9;Y124;K""
 C;X10;Y124;K""
 C;X11;Y124;K""
 C;X12;Y124;K""
-C;X13;Y124;K""
-C;X14;Y124;K7.12
-C;X15;Y124;K6.81
+C;X13;Y124;K7.12
+C;X14;Y124;K6.81
+C;X15;Y124;K""
 C;X16;Y124;K""
 C;X1;Y125;K"Grossistes"
 C;X2;Y125;K"MIN de Marseille : fruits et légumes"
@@ -1980,10 +1980,10 @@ C;X8;Y125;K""
 C;X9;Y125;K""
 C;X10;Y125;K""
 C;X11;Y125;K""
-C;X12;Y125;K""
-C;X13;Y125;K8.46
-C;X14;Y125;K6.67
-C;X15;Y125;K6.50
+C;X12;Y125;K8.46
+C;X13;Y125;K6.67
+C;X14;Y125;K6.50
+C;X15;Y125;K""
 C;X16;Y125;K""
 C;X1;Y126;K"Grossistes"
 C;X2;Y126;K"MIN de Marseille : fruits et légumes"
@@ -1996,11 +1996,11 @@ C;X8;Y126;K""
 C;X9;Y126;K""
 C;X10;Y126;K""
 C;X11;Y126;K""
-C;X12;Y126;K""
-C;X13;Y126;K9.43
-C;X14;Y126;K7.60
-C;X15;Y126;K7.16
-C;X16;Y126;K8.80
+C;X12;Y126;K9.43
+C;X13;Y126;K7.60
+C;X14;Y126;K7.16
+C;X15;Y126;K8.80
+C;X16;Y126;K""
 C;X1;Y127;K"Grossistes"
 C;X2;Y127;K"MIN de Marseille : fruits et légumes"
 C;X3;Y127;K"ASPERGE verte Espagne cat.I +22mm plateau"
@@ -2013,9 +2013,9 @@ C;X9;Y127;K""
 C;X10;Y127;K""
 C;X11;Y127;K""
 C;X12;Y127;K""
-C;X13;Y127;K""
-C;X14;Y127;K6.33
-C;X15;Y127;K6.35
+C;X13;Y127;K6.33
+C;X14;Y127;K6.35
+C;X15;Y127;K""
 C;X16;Y127;K""
 C;X1;Y128;K"Grossistes"
 C;X2;Y128;K"MIN de Marseille : fruits et légumes"
@@ -2029,10 +2029,10 @@ C;X9;Y128;K""
 C;X10;Y128;K""
 C;X11;Y128;K""
 C;X12;Y128;K""
-C;X13;Y128;K""
-C;X14;Y128;K8.94
-C;X15;Y128;K8.33
-C;X16;Y128;K9.50
+C;X13;Y128;K8.94
+C;X14;Y128;K8.33
+C;X15;Y128;K9.50
+C;X16;Y128;K""
 C;X1;Y129;K"Grossistes"
 C;X2;Y129;K"MIN de Nantes : fruits et légumes"
 C;X3;Y129;K"ASPERGE blanche France cat.I 16-22mm plateau"
@@ -2044,11 +2044,11 @@ C;X8;Y129;K""
 C;X9;Y129;K""
 C;X10;Y129;K""
 C;X11;Y129;K""
-C;X12;Y129;K""
-C;X13;Y129;K12.57
-C;X14;Y129;K8.17
-C;X15;Y129;K6.69
-C;X16;Y129;K7.19
+C;X12;Y129;K12.57
+C;X13;Y129;K8.17
+C;X14;Y129;K6.69
+C;X15;Y129;K7.19
+C;X16;Y129;K""
 C;X1;Y130;K"Grossistes"
 C;X2;Y130;K"MIN de Nantes : fruits et légumes"
 C;X3;Y130;K"ASPERGE blanche France cat.I +22mm plateau"
@@ -2060,11 +2060,11 @@ C;X8;Y130;K""
 C;X9;Y130;K""
 C;X10;Y130;K""
 C;X11;Y130;K""
-C;X12;Y130;K""
-C;X13;Y130;K14.47
-C;X14;Y130;K8.66
-C;X15;Y130;K7.17
-C;X16;Y130;K7.50
+C;X12;Y130;K14.47
+C;X13;Y130;K8.66
+C;X14;Y130;K7.17
+C;X15;Y130;K7.50
+C;X16;Y130;K""
 C;X1;Y131;K"Grossistes"
 C;X2;Y131;K"MIN de Nantes : fruits et légumes"
 C;X3;Y131;K"ASPERGE verte France cat.I 16-22mm plateau"
@@ -2076,11 +2076,11 @@ C;X8;Y131;K""
 C;X9;Y131;K""
 C;X10;Y131;K""
 C;X11;Y131;K""
-C;X12;Y131;K""
-C;X13;Y131;K17.10
-C;X14;Y131;K11.10
-C;X15;Y131;K10.66
-C;X16;Y131;K12.45
+C;X12;Y131;K17.10
+C;X13;Y131;K11.10
+C;X14;Y131;K10.66
+C;X15;Y131;K12.45
+C;X16;Y131;K""
 C;X1;Y132;K"Grossistes"
 C;X2;Y132;K"MIN de Nantes : fruits et légumes bio"
 C;X3;Y132;K"ASPERGE blanche violette France biologique"
@@ -2092,11 +2092,11 @@ C;X8;Y132;K""
 C;X9;Y132;K""
 C;X10;Y132;K""
 C;X11;Y132;K""
-C;X12;Y132;K""
-C;X13;Y132;K13.56
-C;X14;Y132;K9.53
-C;X15;Y132;K8.90
-C;X16;Y132;K9.55
+C;X12;Y132;K13.56
+C;X13;Y132;K9.53
+C;X14;Y132;K8.90
+C;X15;Y132;K9.55
+C;X16;Y132;K""
 C;X1;Y133;K"Grossistes"
 C;X2;Y133;K"MIN de Nantes : fruits et légumes bio"
 C;X3;Y133;K"ASPERGE blanche violette France biologique botte"
@@ -2109,9 +2109,9 @@ C;X9;Y133;K""
 C;X10;Y133;K""
 C;X11;Y133;K""
 C;X12;Y133;K""
-C;X13;Y133;K""
-C;X14;Y133;K11.01
-C;X15;Y133;K9.34
+C;X13;Y133;K11.01
+C;X14;Y133;K9.34
+C;X15;Y133;K""
 C;X16;Y133;K""
 C;X1;Y134;K"Grossistes"
 C;X2;Y134;K"MIN de Nantes : fruits et légumes bio"
@@ -2125,9 +2125,9 @@ C;X9;Y134;K""
 C;X10;Y134;K""
 C;X11;Y134;K""
 C;X12;Y134;K""
-C;X13;Y134;K""
-C;X14;Y134;K14.59
-C;X15;Y134;K10.92
+C;X13;Y134;K14.59
+C;X14;Y134;K10.92
+C;X15;Y134;K""
 C;X16;Y134;K""
 C;X1;Y135;K"Grossistes"
 C;X2;Y135;K"MIN de Nantes : fruits et légumes bio"
@@ -2141,9 +2141,9 @@ C;X9;Y135;K""
 C;X10;Y135;K""
 C;X11;Y135;K""
 C;X12;Y135;K""
-C;X13;Y135;K""
-C;X14;Y135;K17.52
-C;X15;Y135;K16.00
+C;X13;Y135;K17.52
+C;X14;Y135;K16.00
+C;X15;Y135;K""
 C;X16;Y135;K""
 C;X1;Y136;K"Grossistes"
 C;X2;Y136;K"MIN de Nice : fruits et légumes"
@@ -2157,8 +2157,8 @@ C;X9;Y136;K""
 C;X10;Y136;K""
 C;X11;Y136;K""
 C;X12;Y136;K""
-C;X13;Y136;K""
-C;X14;Y136;K11.15
+C;X13;Y136;K11.15
+C;X14;Y136;K""
 C;X15;Y136;K""
 C;X16;Y136;K""
 C;X1;Y137;K"Grossistes"
@@ -2173,9 +2173,9 @@ C;X9;Y137;K""
 C;X10;Y137;K""
 C;X11;Y137;K""
 C;X12;Y137;K""
-C;X13;Y137;K""
-C;X14;Y137;K10.20
-C;X15;Y137;K8.47
+C;X13;Y137;K10.20
+C;X14;Y137;K8.47
+C;X15;Y137;K""
 C;X16;Y137;K""
 C;X1;Y138;K"Grossistes"
 C;X2;Y138;K"MIN de Nice : fruits et légumes"
@@ -2189,9 +2189,9 @@ C;X9;Y138;K""
 C;X10;Y138;K""
 C;X11;Y138;K""
 C;X12;Y138;K""
-C;X13;Y138;K""
-C;X14;Y138;K10.28
-C;X15;Y138;K7.80
+C;X13;Y138;K10.28
+C;X14;Y138;K7.80
+C;X15;Y138;K""
 C;X16;Y138;K""
 C;X1;Y139;K"Grossistes"
 C;X2;Y139;K"MIN de Nice : fruits et légumes"
@@ -2204,10 +2204,10 @@ C;X8;Y139;K""
 C;X9;Y139;K""
 C;X10;Y139;K""
 C;X11;Y139;K""
-C;X12;Y139;K""
-C;X13;Y139;K15.43
-C;X14;Y139;K12.51
-C;X15;Y139;K9.65
+C;X12;Y139;K15.43
+C;X13;Y139;K12.51
+C;X14;Y139;K9.65
+C;X15;Y139;K""
 C;X16;Y139;K""
 C;X1;Y140;K"Grossistes"
 C;X2;Y140;K"MIN de Nice : fruits et légumes"
@@ -2220,10 +2220,10 @@ C;X8;Y140;K""
 C;X9;Y140;K""
 C;X10;Y140;K""
 C;X11;Y140;K""
-C;X12;Y140;K""
-C;X13;Y140;K19.03
-C;X14;Y140;K13.93
-C;X15;Y140;K9.97
+C;X12;Y140;K19.03
+C;X13;Y140;K13.93
+C;X14;Y140;K9.97
+C;X15;Y140;K""
 C;X16;Y140;K""
 C;X1;Y141;K"Grossistes"
 C;X2;Y141;K"MIN de Rungis : fruits et légumes"
@@ -2234,13 +2234,13 @@ C;X6;Y141;K""
 C;X7;Y141;K""
 C;X8;Y141;K""
 C;X9;Y141;K""
-C;X10;Y141;K""
-C;X11;Y141;K23.00
-C;X12;Y141;K19.80
-C;X13;Y141;K13.18
-C;X14;Y141;K6.38
-C;X15;Y141;K6.15
-C;X16;Y141;K8.00
+C;X10;Y141;K23.00
+C;X11;Y141;K19.80
+C;X12;Y141;K13.18
+C;X13;Y141;K6.38
+C;X14;Y141;K6.15
+C;X15;Y141;K8.00
+C;X16;Y141;K""
 C;X1;Y142;K"Grossistes"
 C;X2;Y142;K"MIN de Rungis : fruits et légumes"
 C;X3;Y142;K"ASPERGE blanche France cat.I +22mm plateau"
@@ -2250,13 +2250,13 @@ C;X6;Y142;K""
 C;X7;Y142;K""
 C;X8;Y142;K""
 C;X9;Y142;K""
-C;X10;Y142;K""
-C;X11;Y142;K27.00
-C;X12;Y142;K23.15
-C;X13;Y142;K14.27
-C;X14;Y142;K7.74
-C;X15;Y142;K7.41
-C;X16;Y142;K9.00
+C;X10;Y142;K27.00
+C;X11;Y142;K23.15
+C;X12;Y142;K14.27
+C;X13;Y142;K7.74
+C;X14;Y142;K7.41
+C;X15;Y142;K9.00
+C;X16;Y142;K""
 C;X1;Y143;K"Grossistes"
 C;X2;Y143;K"MIN de Rungis : fruits et légumes"
 C;X3;Y143;K"ASPERGE Sauvage France cat.I 6-12mm plateau"
@@ -2269,24 +2269,24 @@ C;X9;Y143;K""
 C;X10;Y143;K""
 C;X11;Y143;K""
 C;X12;Y143;K""
-C;X13;Y143;K""
-C;X14;Y143;K6.31
-C;X15;Y143;K3.00
-C;X16;Y143;K2.74
+C;X13;Y143;K6.31
+C;X14;Y143;K3.00
+C;X15;Y143;K2.74
+C;X16;Y143;K3.00
 C;X1;Y144;K"Grossistes"
 C;X2;Y144;K"MIN de Rungis : fruits et légumes"
 C;X3;Y144;K"ASPERGE verte Amérique du sud cat.I 16-22mm botte 420g"
 C;X4;Y144;K"euro HT les 420g"
 C;X5;Y144;K""
-C;X6;Y144;K""
-C;X7;Y144;K4.50
-C;X8;Y144;K4.94
-C;X9;Y144;K4.53
-C;X10;Y144;K4.70
-C;X11;Y144;K5.03
-C;X12;Y144;K4.55
+C;X6;Y144;K4.50
+C;X7;Y144;K4.94
+C;X8;Y144;K4.53
+C;X9;Y144;K4.70
+C;X10;Y144;K5.03
+C;X11;Y144;K4.55
+C;X12;Y144;K4.50
 C;X13;Y144;K4.50
-C;X14;Y144;K4.50
+C;X14;Y144;K""
 C;X15;Y144;K""
 C;X16;Y144;K""
 C;X1;Y145;K"Grossistes"
@@ -2300,10 +2300,10 @@ C;X8;Y145;K""
 C;X9;Y145;K""
 C;X10;Y145;K""
 C;X11;Y145;K""
-C;X12;Y145;K""
-C;X13;Y145;K5.04
-C;X14;Y145;K4.31
-C;X15;Y145;K3.89
+C;X12;Y145;K5.04
+C;X13;Y145;K4.31
+C;X14;Y145;K3.89
+C;X15;Y145;K""
 C;X16;Y145;K""
 C;X1;Y146;K"Grossistes"
 C;X2;Y146;K"MIN de Rungis : fruits et légumes"
@@ -2316,8 +2316,8 @@ C;X8;Y146;K""
 C;X9;Y146;K""
 C;X10;Y146;K""
 C;X11;Y146;K""
-C;X12;Y146;K""
-C;X13;Y146;K4.80
+C;X12;Y146;K4.80
+C;X13;Y146;K""
 C;X14;Y146;K""
 C;X15;Y146;K""
 C;X16;Y146;K""
@@ -2331,11 +2331,11 @@ C;X7;Y147;K""
 C;X8;Y147;K""
 C;X9;Y147;K""
 C;X10;Y147;K""
-C;X11;Y147;K""
-C;X12;Y147;K20.67
-C;X13;Y147;K16.09
-C;X14;Y147;K11.43
-C;X15;Y147;K10.41
+C;X11;Y147;K20.67
+C;X12;Y147;K16.09
+C;X13;Y147;K11.43
+C;X14;Y147;K10.41
+C;X15;Y147;K""
 C;X16;Y147;K""
 C;X1;Y148;K"Grossistes"
 C;X2;Y148;K"MIN de Rungis : fruits et légumes"
@@ -2348,10 +2348,10 @@ C;X8;Y148;K""
 C;X9;Y148;K""
 C;X10;Y148;K""
 C;X11;Y148;K""
-C;X12;Y148;K""
-C;X13;Y148;K17.79
-C;X14;Y148;K12.64
-C;X15;Y148;K12.88
+C;X12;Y148;K17.79
+C;X13;Y148;K12.64
+C;X14;Y148;K12.88
+C;X15;Y148;K""
 C;X16;Y148;K""
 C;X1;Y149;K"Grossistes"
 C;X2;Y149;K"MIN de Rungis : fruits et légumes"
@@ -2363,12 +2363,12 @@ C;X7;Y149;K""
 C;X8;Y149;K""
 C;X9;Y149;K""
 C;X10;Y149;K""
-C;X11;Y149;K""
-C;X12;Y149;K16.33
-C;X13;Y149;K11.64
-C;X14;Y149;K6.48
-C;X15;Y149;K5.36
-C;X16;Y149;K7.50
+C;X11;Y149;K16.33
+C;X12;Y149;K11.64
+C;X13;Y149;K6.48
+C;X14;Y149;K5.36
+C;X15;Y149;K7.50
+C;X16;Y149;K""
 C;X1;Y150;K"Grossistes"
 C;X2;Y150;K"MIN de Rungis : fruits et légumes"
 C;X3;Y150;K"ASPERGE violette France cat.I +22mm"
@@ -2380,11 +2380,11 @@ C;X8;Y150;K""
 C;X9;Y150;K""
 C;X10;Y150;K""
 C;X11;Y150;K""
-C;X12;Y150;K""
-C;X13;Y150;K12.40
-C;X14;Y150;K7.81
-C;X15;Y150;K7.00
-C;X16;Y150;K8.50
+C;X12;Y150;K12.40
+C;X13;Y150;K7.81
+C;X14;Y150;K7.00
+C;X15;Y150;K8.50
+C;X16;Y150;K""
 C;X1;Y151;K"Grossistes"
 C;X2;Y151;K"MIN de Rungis : fruits et légumes bio"
 C;X3;Y151;K"ASPERGE blanche violette France biologique"
@@ -2396,11 +2396,11 @@ C;X8;Y151;K""
 C;X9;Y151;K""
 C;X10;Y151;K""
 C;X11;Y151;K""
-C;X12;Y151;K""
-C;X13;Y151;K15.27
-C;X14;Y151;K10.75
-C;X15;Y151;K9.07
-C;X16;Y151;K10.50
+C;X12;Y151;K15.27
+C;X13;Y151;K10.75
+C;X14;Y151;K9.07
+C;X15;Y151;K10.50
+C;X16;Y151;K""
 C;X1;Y152;K"Grossistes"
 C;X2;Y152;K"MIN de Rungis : fruits et légumes bio"
 C;X3;Y152;K"ASPERGE blanche violette France biologique botte"
@@ -2413,9 +2413,9 @@ C;X9;Y152;K""
 C;X10;Y152;K""
 C;X11;Y152;K""
 C;X12;Y152;K""
-C;X13;Y152;K""
-C;X14;Y152;K13.00
-C;X15;Y152;K10.13
+C;X13;Y152;K13.00
+C;X14;Y152;K10.13
+C;X15;Y152;K""
 C;X16;Y152;K""
 C;X1;Y153;K"Grossistes"
 C;X2;Y153;K"MIN de Rungis : fruits et légumes bio"
@@ -2429,9 +2429,9 @@ C;X9;Y153;K""
 C;X10;Y153;K""
 C;X11;Y153;K""
 C;X12;Y153;K""
-C;X13;Y153;K""
-C;X14;Y153;K15.83
-C;X15;Y153;K12.73
+C;X13;Y153;K15.83
+C;X14;Y153;K12.73
+C;X15;Y153;K""
 C;X16;Y153;K""
 C;X1;Y154;K"Grossistes"
 C;X2;Y154;K"MIN de Rungis : fruits et légumes bio"
@@ -2445,8 +2445,8 @@ C;X9;Y154;K""
 C;X10;Y154;K""
 C;X11;Y154;K""
 C;X12;Y154;K""
-C;X13;Y154;K""
-C;X14;Y154;K11.58
+C;X13;Y154;K11.58
+C;X14;Y154;K""
 C;X15;Y154;K""
 C;X16;Y154;K""
 C;X1;Y155;K"Grossistes"
@@ -2461,8 +2461,8 @@ C;X9;Y155;K""
 C;X10;Y155;K""
 C;X11;Y155;K""
 C;X12;Y155;K""
-C;X13;Y155;K""
-C;X14;Y155;K13.69
+C;X13;Y155;K13.69
+C;X14;Y155;K""
 C;X15;Y155;K""
 C;X16;Y155;K""
 C;X1;Y156;K"Grossistes"
@@ -2477,10 +2477,10 @@ C;X9;Y156;K""
 C;X10;Y156;K""
 C;X11;Y156;K""
 C;X12;Y156;K""
-C;X13;Y156;K""
-C;X14;Y156;K9.10
-C;X15;Y156;K9.31
-C;X16;Y156;K9.95
+C;X13;Y156;K9.10
+C;X14;Y156;K9.31
+C;X15;Y156;K9.95
+C;X16;Y156;K""
 C;X1;Y157;K"Grossistes"
 C;X2;Y157;K"MIN de Strasbourg : fruits et légumes"
 C;X3;Y157;K"ASPERGE blanche France cat.I 16-22mm plateau"
@@ -2492,8 +2492,8 @@ C;X8;Y157;K""
 C;X9;Y157;K""
 C;X10;Y157;K""
 C;X11;Y157;K""
-C;X12;Y157;K""
-C;X13;Y157;K14.30
+C;X12;Y157;K14.30
+C;X13;Y157;K""
 C;X14;Y157;K""
 C;X15;Y157;K""
 C;X16;Y157;K""
@@ -2509,8 +2509,8 @@ C;X9;Y158;K""
 C;X10;Y158;K""
 C;X11;Y158;K""
 C;X12;Y158;K""
-C;X13;Y158;K""
-C;X14;Y158;K10.61
+C;X13;Y158;K10.61
+C;X14;Y158;K""
 C;X15;Y158;K""
 C;X16;Y158;K""
 C;X1;Y159;K"Grossistes"
@@ -2524,10 +2524,10 @@ C;X8;Y159;K""
 C;X9;Y159;K""
 C;X10;Y159;K""
 C;X11;Y159;K""
-C;X12;Y159;K""
-C;X13;Y159;K19.55
-C;X14;Y159;K14.42
-C;X15;Y159;K11.83
+C;X12;Y159;K19.55
+C;X13;Y159;K14.42
+C;X14;Y159;K11.83
+C;X15;Y159;K""
 C;X16;Y159;K""
 C;X1;Y160;K"Grossistes"
 C;X2;Y160;K"MIN de Strasbourg : fruits et légumes bio"
@@ -2541,10 +2541,10 @@ C;X9;Y160;K""
 C;X10;Y160;K""
 C;X11;Y160;K""
 C;X12;Y160;K""
-C;X13;Y160;K""
-C;X14;Y160;K11.63
-C;X15;Y160;K11.18
-C;X16;Y160;K10.56
+C;X13;Y160;K11.63
+C;X14;Y160;K11.18
+C;X15;Y160;K10.56
+C;X16;Y160;K""
 C;X1;Y161;K"Grossistes"
 C;X2;Y161;K"MIN de Strasbourg : fruits et légumes bio"
 C;X3;Y161;K"ASPERGE verte France biologique 16-22mm"
@@ -2557,9 +2557,9 @@ C;X9;Y161;K""
 C;X10;Y161;K""
 C;X11;Y161;K""
 C;X12;Y161;K""
-C;X13;Y161;K""
-C;X14;Y161;K14.62
-C;X15;Y161;K14.24
+C;X13;Y161;K14.62
+C;X14;Y161;K14.24
+C;X15;Y161;K""
 C;X16;Y161;K""
 C;X1;Y162;K"Grossistes"
 C;X2;Y162;K"MIN de Toulouse : fruits et légumes"
@@ -2572,10 +2572,10 @@ C;X8;Y162;K""
 C;X9;Y162;K""
 C;X10;Y162;K""
 C;X11;Y162;K""
-C;X12;Y162;K""
-C;X13;Y162;K12.88
-C;X14;Y162;K7.19
-C;X15;Y162;K5.50
+C;X12;Y162;K12.88
+C;X13;Y162;K7.19
+C;X14;Y162;K5.50
+C;X15;Y162;K""
 C;X16;Y162;K""
 C;X1;Y163;K"Grossistes"
 C;X2;Y163;K"MIN de Toulouse : fruits et légumes"
@@ -2588,10 +2588,10 @@ C;X8;Y163;K""
 C;X9;Y163;K""
 C;X10;Y163;K""
 C;X11;Y163;K""
-C;X12;Y163;K""
-C;X13;Y163;K13.38
-C;X14;Y163;K7.43
-C;X15;Y163;K7.00
+C;X12;Y163;K13.38
+C;X13;Y163;K7.43
+C;X14;Y163;K7.00
+C;X15;Y163;K""
 C;X16;Y163;K""
 C;X1;Y164;K"Grossistes"
 C;X2;Y164;K"MIN de Toulouse : fruits et légumes"
@@ -2604,9 +2604,9 @@ C;X8;Y164;K""
 C;X9;Y164;K""
 C;X10;Y164;K""
 C;X11;Y164;K""
-C;X12;Y164;K""
-C;X13;Y164;K8.60
-C;X14;Y164;K5.50
+C;X12;Y164;K8.60
+C;X13;Y164;K5.50
+C;X14;Y164;K""
 C;X15;Y164;K""
 C;X16;Y164;K""
 C;X1;Y165;K"Grossistes"
@@ -2620,10 +2620,10 @@ C;X8;Y165;K""
 C;X9;Y165;K""
 C;X10;Y165;K""
 C;X11;Y165;K""
-C;X12;Y165;K""
-C;X13;Y165;K9.23
-C;X14;Y165;K8.41
-C;X15;Y165;K5.60
+C;X12;Y165;K9.23
+C;X13;Y165;K8.41
+C;X14;Y165;K5.60
+C;X15;Y165;K""
 C;X16;Y165;K""
 C;X1;Y166;K"Grossistes"
 C;X2;Y166;K"MIN de Toulouse : fruits et légumes"
@@ -2636,10 +2636,10 @@ C;X8;Y166;K""
 C;X9;Y166;K""
 C;X10;Y166;K""
 C;X11;Y166;K""
-C;X12;Y166;K""
-C;X13;Y166;K13.62
-C;X14;Y166;K8.81
-C;X15;Y166;K7.25
+C;X12;Y166;K13.62
+C;X13;Y166;K8.81
+C;X14;Y166;K7.25
+C;X15;Y166;K""
 C;X16;Y166;K""
 C;X1;Y167;K"Grossistes"
 C;X2;Y167;K"MIN de Toulouse : fruits et légumes"
@@ -2652,10 +2652,10 @@ C;X8;Y167;K""
 C;X9;Y167;K""
 C;X10;Y167;K""
 C;X11;Y167;K""
-C;X12;Y167;K""
-C;X13;Y167;K16.00
-C;X14;Y167;K8.43
-C;X15;Y167;K7.00
+C;X12;Y167;K16.00
+C;X13;Y167;K8.43
+C;X14;Y167;K7.00
+C;X15;Y167;K""
 C;X16;Y167;K""
 C;X1;Y168;K"Grossistes"
 C;X2;Y168;K"MIN de Toulouse : fruits et légumes"
@@ -2667,9 +2667,9 @@ C;X7;Y168;K""
 C;X8;Y168;K""
 C;X9;Y168;K""
 C;X10;Y168;K""
-C;X11;Y168;K""
+C;X11;Y168;K9.00
 C;X12;Y168;K9.00
-C;X13;Y168;K9.00
+C;X13;Y168;K""
 C;X14;Y168;K""
 C;X15;Y168;K""
 C;X16;Y168;K""
@@ -2685,9 +2685,9 @@ C;X9;Y169;K""
 C;X10;Y169;K""
 C;X11;Y169;K""
 C;X12;Y169;K""
-C;X13;Y169;K""
-C;X14;Y169;K9.11
-C;X15;Y169;K8.25
+C;X13;Y169;K9.11
+C;X14;Y169;K8.25
+C;X15;Y169;K""
 C;X16;Y169;K""
 C;X1;Y170;K"Détail"
 C;X2;Y170;K"Légumes France DETAIL GMS"
@@ -2701,9 +2701,9 @@ C;X9;Y170;K""
 C;X10;Y170;K""
 C;X11;Y170;K""
 C;X12;Y170;K""
-C;X13;Y170;K""
-C;X14;Y170;K9.64
-C;X15;Y170;K8.58
+C;X13;Y170;K9.64
+C;X14;Y170;K8.58
+C;X15;Y170;K""
 C;X16;Y170;K""
 C;X1;Y171;K"Détail"
 C;X2;Y171;K"Légumes France DETAIL GMS"
@@ -2716,11 +2716,11 @@ C;X8;Y171;K""
 C;X9;Y171;K""
 C;X10;Y171;K""
 C;X11;Y171;K""
-C;X12;Y171;K""
-C;X13;Y171;K16.05
-C;X14;Y171;K11.87
-C;X15;Y171;K11.32
-C;X16;Y171;K12.49
+C;X12;Y171;K16.05
+C;X13;Y171;K11.87
+C;X14;Y171;K11.32
+C;X15;Y171;K12.49
+C;X16;Y171;K""
 C;X1;Y172;K"Détail"
 C;X2;Y172;K"Légumes France DETAIL GMS"
 C;X3;Y172;K"ASPERGE "autre que verte" France +16 mm vrac"
@@ -2732,11 +2732,11 @@ C;X8;Y172;K""
 C;X9;Y172;K""
 C;X10;Y172;K""
 C;X11;Y172;K""
-C;X12;Y172;K""
-C;X13;Y172;K16.21
-C;X14;Y172;K11.89
-C;X15;Y172;K9.38
-C;X16;Y172;K9.58
+C;X12;Y172;K16.21
+C;X13;Y172;K11.89
+C;X14;Y172;K9.38
+C;X15;Y172;K9.58
+C;X16;Y172;K""
 C;X1;Y173;K"Détail"
 C;X2;Y173;K"Légumes France DETAIL GMS"
 C;X3;Y173;K"ASPERGE France biologique"
@@ -2749,9 +2749,9 @@ C;X9;Y173;K""
 C;X10;Y173;K""
 C;X11;Y173;K""
 C;X12;Y173;K""
-C;X13;Y173;K""
-C;X14;Y173;K16.42
-C;X15;Y173;K16.58
+C;X13;Y173;K16.42
+C;X14;Y173;K16.58
+C;X15;Y173;K""
 C;X16;Y173;K""
 C;X1;Y174;K"Détail"
 C;X2;Y174;K"Légumes France DETAIL GMS"
@@ -2765,9 +2765,9 @@ C;X9;Y174;K""
 C;X10;Y174;K""
 C;X11;Y174;K""
 C;X12;Y174;K""
-C;X13;Y174;K""
-C;X14;Y174;K17.00
-C;X15;Y174;K15.38
+C;X13;Y174;K17.00
+C;X14;Y174;K15.38
+C;X15;Y174;K""
 C;X16;Y174;K""
 C;X1;Y175;K"Détail"
 C;X2;Y175;K"Légumes France DETAIL GMS"
@@ -2780,27 +2780,27 @@ C;X8;Y175;K""
 C;X9;Y175;K""
 C;X10;Y175;K""
 C;X11;Y175;K""
-C;X12;Y175;K""
-C;X13;Y175;K12.60
-C;X14;Y175;K11.37
-C;X15;Y175;K9.20
-C;X16;Y175;K10.99
+C;X12;Y175;K12.60
+C;X13;Y175;K11.37
+C;X14;Y175;K9.20
+C;X15;Y175;K10.99
+C;X16;Y175;K""
 C;X1;Y176;K"Détail"
 C;X2;Y176;K"Légumes France DETAIL MAG. SPECIALISES BIO"
 C;X3;Y176;K"ASPERGE blanche violette France biologique"
 C;X4;Y176;K"euro TTC le kg"
-C;X5;Y176;K15.30
+C;X5;Y176;K""
 C;X6;Y176;K""
 C;X7;Y176;K""
 C;X8;Y176;K""
 C;X9;Y176;K""
 C;X10;Y176;K""
 C;X11;Y176;K""
-C;X12;Y176;K""
-C;X13;Y176;K23.60
-C;X14;Y176;K17.91
-C;X15;Y176;K14.40
-C;X16;Y176;K14.70
+C;X12;Y176;K23.60
+C;X13;Y176;K17.91
+C;X14;Y176;K14.40
+C;X15;Y176;K14.70
+C;X16;Y176;K""
 C;X1;Y177;K"Détail"
 C;X2;Y177;K"Légumes France DETAIL MAG. SPECIALISES BIO"
 C;X3;Y177;K"ASPERGE verte France biologique"
@@ -2812,11 +2812,11 @@ C;X8;Y177;K""
 C;X9;Y177;K""
 C;X10;Y177;K""
 C;X11;Y177;K""
-C;X12;Y177;K""
-C;X13;Y177;K22.47
-C;X14;Y177;K21.93
-C;X15;Y177;K19.86
-C;X16;Y177;K21.60
+C;X12;Y177;K22.47
+C;X13;Y177;K21.93
+C;X14;Y177;K19.86
+C;X15;Y177;K21.60
+C;X16;Y177;K""
 F;SM6;X1;Y180
 C;K"Source : RNM.FranceAgriMer.fr"
 E
